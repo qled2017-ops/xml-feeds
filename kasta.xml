@@ -20315,40 +20315,6 @@ _x000D_
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Білий</param>
 </offer>
-<offer id="AC002688" available="true">
-<price>379</price>
-<currencyId>UAH</currencyId>
-<categoryId>1156</categoryId>
-<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i135579134-35ab7ff717e0328ff8cb8f0f90fe1749-1779712515502.jpg</picture>
-<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i135579134-048aaf62b31740b845c0215d3ff54bf1-1779712515635.jpg</picture>
-<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i135579134-9f6dfb6973c3589ce7c74dd9d88b0809-1779712515723.jpg</picture>
-<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i135579134-031f2b8faf7e313f4c7bd3ba1075320e-1779712515806.jpg</picture>
-<vendor>Без бренду</vendor>
-<vendorCode>AC002688</vendorCode>
-<name_ua>Туфлі жіночі, розмір 39 чорний (395648)</name_ua>
-<name_ru>Туфли женские, размер 39 черный (395648)</name_ru>
-<description_ua>Головна фішка моделі - трендовий невисокий каблук-чарочка (kitten heel), який дозволяє виглядати витончено і при цьому не втомлюватись протягом усього дня. Акуратний загострений мис візуально подовжує силует, а м'який глибокий виріз витончено відкриває стопу. Ідеальна пара, яка додасть паризького шику як у діловий костюм.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Вага в упаковці, кг">0,2</param>
-<param name="Вид">Із закритим носком;З відкритою п'ятою</param>
-<param name="Висота в упаковці (см)">5</param>
-<param name="Гарантія">14 днів</param>
-<param name="Глибина в упаковці (см)">10</param>
-<param name="Застібка">Без застібки</param>
-<param name="Кількість вантажних місць">1</param>
-<param name="Матеріал">Екошкіра;Гума</param>
-<param name="Матеріал верху">Екошкіра</param>
-<param name="Матеріал підошви">Гума</param>
-<param name="Розмір">39</param>
-<param name="Сarryover">N/D</param>
-<param name="Сезон">Демісезонний</param>
-<param name="Тип">Туфлі</param>
-<param name="null">Чарочка</param>
-<param name="Тип підошви">Каблук</param>
-<param name="Форма носка">Гостра</param>
-<param name="Колір">Чорний</param>
-<param name="Ширина в упаковці (см)">10</param>
-</offer>
 <offer id="Mtacslao43" available="true">
 <price>2249</price>
 <currencyId>UAH</currencyId>
