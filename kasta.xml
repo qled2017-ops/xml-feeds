@@ -485,7 +485,7 @@
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Біло-червоний</param>
 </offer>
-<offer id="RE14295" available="true">
+<offer id="RE14295" available="false">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -1774,7 +1774,7 @@ _x000D_
 <param name="Сезон">Демісезонний</param>
 <param name="Колір">Бордовий</param>
 </offer>
-<offer id="380-445blu" available="true">
+<offer id="380-445blu" available="false">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -1804,7 +1804,7 @@ _x000D_
 <param name="Тип поставки">Один предмет</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="380-445rte" available="true">
+<offer id="380-445rte" available="false">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -1834,7 +1834,7 @@ _x000D_
 <param name="Тип поставки">Один предмет</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="380-445gr" available="true">
+<offer id="380-445gr" available="false">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -2457,7 +2457,7 @@ _x000D_
 <param name="Температурний режим">Для середніх температур</param>
 <param name="Колір">чорний</param>
 </offer>
-<offer id="OK05646" available="true">
+<offer id="OK05646" available="false">
 <price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1047</categoryId>
@@ -2682,7 +2682,7 @@ _x000D_
 <param name="Колір">Блакитний</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="EA02855" available="true">
+<offer id="EA02855" available="false">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1028</categoryId>
@@ -7944,7 +7944,7 @@ LED-підсвічування</param>
 <param name="Тип поставки">Один предмет</param>
 <param name="Форма">Прямокутна</param>
 </offer>
-<offer id="DE00079" available="true">
+<offer id="DE00079" available="false">
 <price>218</price>
 <currencyId>UAH</currencyId>
 <categoryId>1117</categoryId>
@@ -8008,7 +8008,7 @@ LED-підсвічування</param>
 <param name="Тип">Миски</param>
 <param name="Колір">Сріблястий</param>
 </offer>
-<offer id="KitchenMasterWhite" available="true">
+<offer id="KitchenMasterWhite" available="false">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>1002</categoryId>
@@ -8969,7 +8969,7 @@ LED-підсвічування</param>
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Синій</param>
 </offer>
-<offer id="DE06047" available="true">
+<offer id="DE06047" available="false">
 <price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
@@ -12895,7 +12895,7 @@ LED-підсвічування</param>
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
-<offer id="bc893xsblue1" available="true">
+<offer id="bc893xsblue1" available="false">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1146</categoryId>
@@ -13462,7 +13462,7 @@ LED-підсвічування</param>
 <param name="Колір">Сірий з чорним</param>
 <param name="Ширина в упаковці (см)">32</param>
 </offer>
-<offer id="AO/yy593-6" available="true">
+<offer id="AO/yy593-6" available="false">
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -14475,7 +14475,7 @@ LED-підсвічування</param>
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">30</param>
 </offer>
-<offer id="AO/StudyHard/obay" available="true">
+<offer id="AO/StudyHard/obay" available="false">
 <price>1199</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -20220,7 +20220,7 @@ _x000D_
 <param name="Колір">Койот</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="AE001005" available="true">
+<offer id="AE001005" available="false">
 <price>749.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1163</categoryId>
@@ -22046,7 +22046,7 @@ _x000D_
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Білий</param>
 </offer>
-<offer id="380-445" available="true">
+<offer id="380-445" available="false">
 <price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -22903,7 +22903,7 @@ _x000D_
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Синій</param>
 </offer>
-<offer id="IT04434" available="true">
+<offer id="IT04434" available="false">
 <price>246</price>
 <currencyId>UAH</currencyId>
 <categoryId>1172</categoryId>
@@ -23297,7 +23297,7 @@ _x000D_
 <param name="Колір">червоний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="IT00782" available="true">
+<offer id="IT00782" available="false">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -23796,7 +23796,7 @@ _x000D_
 <param name="Колір">сріблястий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="VK01927" available="true">
+<offer id="VK01927" available="false">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -26174,7 +26174,7 @@ _x000D_
 <param name="Тип">Набори</param>
 <param name="Колір">Оранжевый с желтым</param>
 </offer>
-<offer id="AE001046" available="true">
+<offer id="AE001046" available="false">
 <price>399.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1044</categoryId>
@@ -27001,7 +27001,7 @@ _x000D_
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">25</param>
 </offer>
-<offer id="MN000001803" available="true">
+<offer id="MN000001803" available="false">
 <price>550</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -28248,7 +28248,7 @@ _x000D_
 <param name="Колір">Черный: Черный с синим</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="OK08169" available="true">
+<offer id="OK08169" available="false">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -29564,7 +29564,7 @@ _x000D_
 <param name="Колір">Рожевий</param>
 <param name="Ширина в упаковці (см)">30</param>
 </offer>
-<offer id="AO/obay/turquois/rabbit" available="true">
+<offer id="AO/obay/turquois/rabbit" available="false">
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -29986,7 +29986,7 @@ _x000D_
 <param name="Тип">Колеса</param>
 <param name="Колір">Чорний з білим</param>
 </offer>
-<offer id="NN000131" available="true">
+<offer id="NN000131" available="false">
 <price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>

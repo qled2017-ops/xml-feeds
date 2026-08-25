@@ -181,7 +181,7 @@
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Біло-червоний</param>
 </offer>
-<offer id="RE14295" available="true">
+<offer id="RE14295" available="false">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -350,7 +350,7 @@
 <param name="Колір">Білий</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="380-445blu" available="true">
+<offer id="380-445blu" available="false">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -379,7 +379,7 @@
 <param name="Тип поставки">Один предмет</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="380-445rte" available="true">
+<offer id="380-445rte" available="false">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -408,7 +408,7 @@
 <param name="Тип поставки">Один предмет</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="380-445gr" available="true">
+<offer id="380-445gr" available="false">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -3080,7 +3080,7 @@
 <param name="Тип">Миски</param>
 <param name="Колір">Сріблястий</param>
 </offer>
-<offer id="KitchenMasterWhite" available="true">
+<offer id="KitchenMasterWhite" available="false">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>105454.0</categoryId>
@@ -3729,7 +3729,7 @@
 <param name="Колір">Теплий білий</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="bc893xsblue1" available="true">
+<offer id="bc893xsblue1" available="false">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>115703.0</categoryId>
@@ -4044,7 +4044,7 @@
 <param name="Колір">Прозорий</param>
 <param name="Ширина в упаковці (см)">32 см</param>
 </offer>
-<offer id="AE001005" available="true">
+<offer id="AE001005" available="false">
 <price>749.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>104207.0</categoryId>
@@ -4087,7 +4087,7 @@
 <param name="Тематика">Детективні</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="380-445" available="true">
+<offer id="380-445" available="false">
 <price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -4428,7 +4428,7 @@
 <param name="Колір">Красный,Коричневый</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="IT00782" available="true">
+<offer id="IT00782" available="false">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>101149.0</categoryId>
@@ -4865,7 +4865,7 @@
 <param name="Колір">Серебристый,Синий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="VK01927" available="true">
+<offer id="VK01927" available="false">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>100942.0</categoryId>
@@ -6900,7 +6900,7 @@
 <param name="Колір">Сірий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="MN000001803" available="true">
+<offer id="MN000001803" available="false">
 <price>550</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
