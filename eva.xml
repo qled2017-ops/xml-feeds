@@ -3080,7 +3080,7 @@
 <param name="Тип">Миски</param>
 <param name="Колір">Сріблястий</param>
 </offer>
-<offer id="KitchenMasterWhite" available="false">
+<offer id="KitchenMasterWhite" available="true">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>105454.0</categoryId>
@@ -4087,7 +4087,7 @@
 <param name="Тематика">Детективні</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="380-445" available="false">
+<offer id="380-445" available="true">
 <price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>

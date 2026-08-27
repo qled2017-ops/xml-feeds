@@ -2459,7 +2459,7 @@ _x000D_
 <param name="Температурний режим">Для середніх температур</param>
 <param name="Колір">чорний</param>
 </offer>
-<offer id="OK05646" available="false">
+<offer id="OK05646" available="true">
 <price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1047</categoryId>
@@ -8014,7 +8014,7 @@ LED-підсвічування</param>
 <param name="Тип">Миски</param>
 <param name="Колір">Сріблястий</param>
 </offer>
-<offer id="KitchenMasterWhite" available="false">
+<offer id="KitchenMasterWhite" available="true">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>1002</categoryId>
@@ -22036,7 +22036,7 @@ _x000D_
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Білий</param>
 </offer>
-<offer id="380-445" available="false">
+<offer id="380-445" available="true">
 <price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -29977,7 +29977,7 @@ _x000D_
 <param name="Тип">Колеса</param>
 <param name="Колір">Чорний</param>
 </offer>
-<offer id="NN000131" available="false">
+<offer id="NN000131" available="true">
 <price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
