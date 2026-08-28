@@ -59322,7 +59322,7 @@ _x000D_
 <param name="Колір">Бежевий</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="1051-4" available="true">
+<offer id="1051-4" available="false">
 <price>1680</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -62099,7 +62099,7 @@ _x000D_
 <param name="Колір">Білий</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="yy659-5" available="true">
+<offer id="yy659-5" available="false">
 <price>1230</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -103207,7 +103207,7 @@ _x000D_
 <param name="Колір">Койот</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="30405002-36" available="false">
+<offer id="30405002-36" available="true">
 <price>6152</price>
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -104071,7 +104071,7 @@ _x000D_
 <param name="Колір">оливковий</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="30203911-43" available="false">
+<offer id="30203911-43" available="true">
 <price>4998</price>
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -116032,7 +116032,7 @@ _x000D_
 <param name="Колір">Койот</param>
 <param name="Ширина в упаковці (см)">22</param>
 </offer>
-<offer id="2J0158MTPLV-008-46" available="false">
+<offer id="2J0158MTPLV-008-46" available="true">
 <price>8112</price>
 <currencyId>UAH</currencyId>
 <categoryId>1205</categoryId>
@@ -116062,7 +116062,7 @@ _x000D_
 <param name="Колір">Койот</param>
 <param name="Ширина в упаковці (см)">22</param>
 </offer>
-<offer id="2J0158MTPLV-009-36" available="false">
+<offer id="2J0158MTPLV-009-36" available="true">
 <price>8112</price>
 <currencyId>UAH</currencyId>
 <categoryId>1205</categoryId>
@@ -117952,7 +117952,7 @@ _x000D_
 <param name="Колір">Койот</param>
 <param name="Ширина в упаковці (см)">22</param>
 </offer>
-<offer id="30003817-44" available="false">
+<offer id="30003817-44" available="true">
 <price>3718</price>
 <currencyId>UAH</currencyId>
 <categoryId>1205</categoryId>
