@@ -2282,7 +2282,7 @@ _x000D_
 <param name="Матеріал рами">Алюміній,Поліуретан,Поліестер</param>
 <param name="Підшипники">ABEC 7</param>
 <param name="Стать дитини">Мальчик,Девочка</param>
-<param name="Розмір">31</param>
+<param name="Розмір">31-34</param>
 <param name="Стиль катання">Фітнес (Fitness)</param>
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">чорний</param>
@@ -2750,7 +2750,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Нейлон;Спандекс</param>
 <param name="Дизайн">Квіти</param>
-<param name="Розмір">42</param>
+<param name="Розмір">42-48</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Літній;Осінній;Весняний;Демісезонний</param>
 <param name="Склад;RU">85% нейлон, 15% спандекс</param>
@@ -7773,7 +7773,7 @@ LED-підсвічування</param>
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -10685,7 +10685,7 @@ LED-підсвічування</param>
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки;Дорослі</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі;Жіночі</param>
-<param name="Розмір">32</param>
+<param name="Розмір">32-30</param>
 <param name="Сезон">Весняний;Демісезонний;Осінній</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Колір">Чорний</param>
@@ -10737,7 +10737,7 @@ LED-підсвічування</param>
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки;Дорослі</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Жіночі</param>
-<param name="Розмір">28</param>
+<param name="Розмір">28-34</param>
 <param name="Сезон">Весняний;Демісезонний;Осінній;Літній</param>
 <param name="Країна-виробник товару">Україна</param>
 <param name="Колір">Чорний</param>
@@ -12917,7 +12917,7 @@ LED-підсвічування</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для туризму;Для трекінгу;Для полювання;Для рибалки;Для повсякденного носіння;Для сноуборда</param>
 <param name="Особливості">З підігрівом</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Стиль">Спортивний</param>
@@ -13957,7 +13957,7 @@ LED-підсвічування</param>
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал (склад);RU">Полиэстер</param>
 <param name="Матеріал (склад);UA">Поліестер</param>
-<param name="Розмір">Універсальний</param>
+<param name="Розмір">Универсальный</param>
 <param name="Країна реєстрації бренду">Китай</param>
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">оливковий</param>
@@ -17494,7 +17494,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі</param>
-<param name="Розмір">28</param>
+<param name="Розмір">28-30</param>
 <param name="Сезон">Демісезонний</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Колір">Чорний</param>
@@ -17904,7 +17904,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для рибалки</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-Regular</param>
 <param name="Сезон">Демісезонний</param>
 <param name="Країна-виробник товару">Україна</param>
 <param name="Колір">комбінований</param>
@@ -17952,7 +17952,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі</param>
-<param name="Розмір">40</param>
+<param name="Розмір">40-34</param>
 <param name="Сезон">Демісезонний</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Колір">Чорний</param>
@@ -18880,7 +18880,7 @@ _x000D_
 <param name="Обрешітка">N/D</param>
 <param name="Особливості">Отвори для вентиляції;Застібка-липучка</param>
 <param name="Стать">Чоловічі;Жіночі</param>
-<param name="Розмір">28</param>
+<param name="Розмір">28-32</param>
 <param name="Сезон">Весняний;Демісезонний;Осінній;Літній</param>
 <param name="Колір">оливковий</param>
 <param name="Ширина в упаковці (см)">25</param>
@@ -19528,7 +19528,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі</param>
-<param name="Розмір">26</param>
+<param name="Розмір">26-30</param>
 <param name="Сезон">Демісезонний</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Колір">комбінований</param>
@@ -19574,7 +19574,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі;Жіночі</param>
-<param name="Розмір">40</param>
+<param name="Розмір">40-32</param>
 <param name="Сезон">Весняний;Демісезонний;Осінній</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Країна-виробник товару">Україна</param>
@@ -19626,7 +19626,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі</param>
-<param name="Розмір">32</param>
+<param name="Розмір">32-30</param>
 <param name="Сезон">Демісезонний</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Колір">комбінований</param>
@@ -19717,7 +19717,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки;Дорослі</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі;Жіночі</param>
-<param name="Розмір">28</param>
+<param name="Розмір">28-32</param>
 <param name="Сезон">Весняний;Демісезонний;Осінній</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Колір">оливковий</param>
@@ -21722,7 +21722,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для рибалки;Дорослі</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі</param>
-<param name="Розмір">XL</param>
+<param name="Розмір">XL-Long</param>
 <param name="Сезон">Зимовий</param>
 <param name="Країна-виробник товару">Україна</param>
 <param name="Колір">оливковий</param>
@@ -21826,7 +21826,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для рибалки;Дорослі</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Жіночі</param>
-<param name="Розмір">32</param>
+<param name="Розмір">32-34</param>
 <param name="Сезон">Демісезонний</param>
 <param name="Країна-виробник товару">Україна</param>
 <param name="Колір">Чорний</param>
@@ -21880,7 +21880,7 @@ _x000D_
 <param name="Призначення">Загальновійськові;ЗСУ;Для ДСНС;Для полювання;Для охорони;Для поліції;Для рибалки</param>
 <param name="Обрешітка">N/D</param>
 <param name="Стать">Чоловічі</param>
-<param name="Розмір">28</param>
+<param name="Розмір">28-30</param>
 <param name="Сезон">Демісезонний</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Колір">оливковий</param>
@@ -22804,7 +22804,7 @@ _x000D_
 <param name="Обрешітка">N/D</param>
 <param name="Особливості">Отвори для вентиляції</param>
 <param name="Стать">Чоловічі;Жіночі</param>
-<param name="Розмір">30</param>
+<param name="Розмір">30-34</param>
 <param name="Сезон">Весняний;Демісезонний;Осінній;Літній</param>
 <param name="Країна реєстрації бренду">Україна</param>
 <param name="Колір">комбінований</param>
@@ -25986,7 +25986,7 @@ _x000D_
  Країна виробник Китай</description_ua>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Матеріал">Поліестер</param>
-<param name="Розмір">39</param>
+<param name="Розмір">39-32</param>
 <param name="Стиль">Спортивний</param>
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">синій</param>
@@ -65357,7 +65357,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Фліс;Поліестер</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сезон">Зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Червоний</param>
@@ -66210,7 +66210,7 @@ _x000D_
 <param name="Матеріал">Фліс</param>
 <param name="Особливості">Довгі</param>
 <param name="Дизайн">Однотонний</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сезон">Зимовий</param>
 <param name="Склад;RU">Материал перчаток: флис, полиэстер (PES).</param>
 <param name="Склад;UA">Матеріал рукавичок: фліс, поліестер (PES).</param>
@@ -66244,7 +66244,7 @@ _x000D_
 <param name="Матеріал">Фліс</param>
 <param name="Особливості">Довгі</param>
 <param name="Дизайн">Однотонний</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сезон">Зимовий</param>
 <param name="Склад;RU">Материал перчаток: флис, полиэстер (PES).</param>
 <param name="Склад;UA">Матеріал рукавичок: фліс, поліестер (PES).</param>
@@ -66281,7 +66281,7 @@ _x000D_
 <param name="Матеріал">Фліс</param>
 <param name="Особливості">Довгі</param>
 <param name="Дизайн">Однотонний</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сезон">Зимовий</param>
 <param name="Склад;RU">Материал перчаток: флис, полиэстер (PES).</param>
 <param name="Склад;UA">Матеріал рукавичок: фліс, поліестер (PES).</param>
@@ -66314,7 +66314,7 @@ _x000D_
 <param name="Матеріал">Фліс</param>
 <param name="Особливості">Довгі</param>
 <param name="Дизайн">Однотонний</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сезон">Зимовий</param>
 <param name="Склад;RU">Материал перчаток: флис, полиэстер (PES).</param>
 <param name="Склад;UA">Матеріал рукавичок: фліс, поліестер (PES).</param>
@@ -66373,7 +66373,7 @@ _x000D_
 <param name="Матеріал">Поліестер</param>
 <param name="Особливості">Довгі</param>
 <param name="Особливості моделі">На підкладці</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сезон">Зимовий</param>
 <param name="Подія">Повсякденні</param>
 <param name="Склад;RU">Полиэстер</param>
@@ -66403,7 +66403,7 @@ _x000D_
 <param name="Матеріал">Фліс</param>
 <param name="Особливості">Довгі</param>
 <param name="Особливості моделі">На підкладці</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сезон">Зимовий</param>
 <param name="Подія">Повсякденні</param>
 <param name="Склад;RU">Полиэстер</param>
@@ -66434,7 +66434,7 @@ _x000D_
 <param name="Матеріал">Фліс</param>
 <param name="Особливості">Довгі</param>
 <param name="Особливості моделі">На підкладці</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сезон">Зимовий</param>
 <param name="Подія">Повсякденні</param>
 <param name="Склад;RU">Полиэстер</param>
@@ -75428,7 +75428,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75449,7 +75449,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75470,7 +75470,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75491,7 +75491,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75512,7 +75512,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75533,7 +75533,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75554,7 +75554,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75576,7 +75576,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75598,7 +75598,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75620,7 +75620,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75642,7 +75642,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75664,7 +75664,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75686,7 +75686,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75708,7 +75708,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75730,7 +75730,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75752,7 +75752,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75774,7 +75774,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75796,7 +75796,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75818,7 +75818,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75840,7 +75840,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75862,7 +75862,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75884,7 +75884,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75906,7 +75906,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75928,7 +75928,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75950,7 +75950,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75972,7 +75972,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -75999,7 +75999,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для повсякденного носіння;Для сноуборда;Універсально</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Стиль">Спортивний</param>
@@ -76022,7 +76022,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76044,7 +76044,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76066,7 +76066,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76088,7 +76088,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76110,7 +76110,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76132,7 +76132,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76154,7 +76154,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76176,7 +76176,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76197,7 +76197,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76218,7 +76218,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76240,7 +76240,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76262,7 +76262,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76284,7 +76284,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76306,7 +76306,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76328,7 +76328,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76350,7 +76350,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76372,7 +76372,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76394,7 +76394,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76416,7 +76416,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76438,7 +76438,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76460,7 +76460,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76487,7 +76487,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Стиль">Спортивний</param>
@@ -76515,7 +76515,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76538,7 +76538,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76560,7 +76560,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76582,7 +76582,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76733,7 +76733,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76755,7 +76755,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76777,7 +76777,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76799,7 +76799,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76821,7 +76821,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76843,7 +76843,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76865,7 +76865,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76886,7 +76886,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76908,7 +76908,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76929,7 +76929,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -76957,7 +76957,7 @@ _x000D_
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для тренувань;Для сноуборда</param>
 <param name="Особливості">Довгі</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Подія">Новий рік</param>
@@ -76980,7 +76980,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77001,7 +77001,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77022,7 +77022,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77043,7 +77043,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77064,7 +77064,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77085,7 +77085,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77106,7 +77106,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77127,7 +77127,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77148,7 +77148,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77169,7 +77169,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77191,7 +77191,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77213,7 +77213,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77235,7 +77235,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77257,7 +77257,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77279,7 +77279,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77301,7 +77301,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77323,7 +77323,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77345,7 +77345,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77367,7 +77367,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77389,7 +77389,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77411,7 +77411,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77433,7 +77433,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77454,7 +77454,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77481,7 +77481,7 @@ _x000D_
 <param name="Кількість в упаковці">2</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77503,7 +77503,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77524,7 +77524,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77545,7 +77545,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77567,7 +77567,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77589,7 +77589,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77611,7 +77611,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77639,7 +77639,7 @@ _x000D_
 <param name="Кількість в упаковці">2</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для трекінгу;Для сноуборда;Універсально</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Стиль">Спортивний</param>
@@ -77662,7 +77662,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77684,7 +77684,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77706,7 +77706,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77728,7 +77728,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77750,7 +77750,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77772,7 +77772,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77794,7 +77794,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77816,7 +77816,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77838,7 +77838,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77860,7 +77860,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77887,7 +77887,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77910,7 +77910,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77932,7 +77932,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77954,7 +77954,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77976,7 +77976,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -77998,7 +77998,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78020,7 +78020,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78043,7 +78043,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78066,7 +78066,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78088,7 +78088,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78110,7 +78110,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78132,7 +78132,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78154,7 +78154,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78176,7 +78176,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78198,7 +78198,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78220,7 +78220,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78242,7 +78242,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78264,7 +78264,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78286,7 +78286,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78308,7 +78308,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78330,7 +78330,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78352,7 +78352,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78374,7 +78374,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78396,7 +78396,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78418,7 +78418,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78440,7 +78440,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78462,7 +78462,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78484,7 +78484,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78505,7 +78505,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78526,7 +78526,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78547,7 +78547,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78568,7 +78568,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78589,7 +78589,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78610,7 +78610,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78631,7 +78631,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78652,7 +78652,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78673,7 +78673,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78694,7 +78694,7 @@ _x000D_
 <param name="Для кого">Для чоловіків</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78716,7 +78716,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78738,7 +78738,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78760,7 +78760,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78782,7 +78782,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78803,7 +78803,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78825,7 +78825,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78847,7 +78847,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78868,7 +78868,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78889,7 +78889,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78911,7 +78911,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78933,7 +78933,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78954,7 +78954,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78975,7 +78975,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -78997,7 +78997,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79019,7 +79019,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79041,7 +79041,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79063,7 +79063,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79085,7 +79085,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79107,7 +79107,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79129,7 +79129,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79151,7 +79151,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79173,7 +79173,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79195,7 +79195,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79217,7 +79217,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79239,7 +79239,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79261,7 +79261,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79283,7 +79283,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79305,7 +79305,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79327,7 +79327,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79349,7 +79349,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79370,7 +79370,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79392,7 +79392,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79414,7 +79414,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79436,7 +79436,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79458,7 +79458,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">S</param>
+<param name="Розмір">S-M</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79480,7 +79480,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79502,7 +79502,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79524,7 +79524,7 @@ _x000D_
 <param name="Для кого">Для дітей</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79546,7 +79546,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79568,7 +79568,7 @@ _x000D_
 <param name="Для кого">Для жінок</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79590,7 +79590,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79612,7 +79612,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79634,7 +79634,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79656,7 +79656,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79678,7 +79678,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79700,7 +79700,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79722,7 +79722,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79744,7 +79744,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79766,7 +79766,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79788,7 +79788,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79810,7 +79810,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79832,7 +79832,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79854,7 +79854,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79876,7 +79876,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79898,7 +79898,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79920,7 +79920,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79942,7 +79942,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79964,7 +79964,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -79986,7 +79986,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80008,7 +80008,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80029,7 +80029,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80050,7 +80050,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80071,7 +80071,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80092,7 +80092,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80113,7 +80113,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80134,7 +80134,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80155,7 +80155,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80176,7 +80176,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80197,7 +80197,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80218,7 +80218,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80240,7 +80240,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80269,7 +80269,7 @@ _x000D_
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для сноуборда;Універсально</param>
 <param name="Особливості">Непромокальні</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Стиль">Спортивний</param>
@@ -80292,7 +80292,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80314,7 +80314,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80336,7 +80336,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80358,7 +80358,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80380,7 +80380,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80402,7 +80402,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80424,7 +80424,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80446,7 +80446,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80468,7 +80468,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80490,7 +80490,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80512,7 +80512,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80534,7 +80534,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80556,7 +80556,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80578,7 +80578,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80600,7 +80600,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80622,7 +80622,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80644,7 +80644,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80666,7 +80666,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80688,7 +80688,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80710,7 +80710,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80732,7 +80732,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80754,7 +80754,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80776,7 +80776,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80798,7 +80798,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80819,7 +80819,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80840,7 +80840,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80861,7 +80861,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80882,7 +80882,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80908,7 +80908,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80930,7 +80930,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80951,7 +80951,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80972,7 +80972,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -80993,7 +80993,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81014,7 +81014,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81040,7 +81040,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81063,7 +81063,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81090,7 +81090,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81113,7 +81113,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81141,7 +81141,7 @@ _x000D_
 <param name="Кількість в упаковці">2</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Стиль">Спортивний</param>
@@ -81169,7 +81169,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81192,7 +81192,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81214,7 +81214,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81236,7 +81236,7 @@ _x000D_
 <param name="Для кого">Для хлопчиків;Для дівчаток</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81265,7 +81265,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для туризму;Для альпінізму;Для полювання;Для рибалки;Для сноуборда</param>
-<param name="Розмір">L</param>
+<param name="Розмір">L-XL</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Країна-виробник товару">Китай</param>
@@ -81341,7 +81341,7 @@ _x000D_
 <param name="Кількість в упаковці">2</param>
 <param name="Матеріал">Поліестер</param>
 <param name="Призначення">Для гірськолижного спорту;Для повсякденного носіння;Для сноуборда</param>
-<param name="Розмір">M</param>
+<param name="Розмір">M-L</param>
 <param name="Сarryover">N/D</param>
 <param name="Сезон">Осінньо-зимовий</param>
 <param name="Стиль">Спортивний</param>
