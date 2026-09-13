@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-12 19:00">
+<yml_catalog date="2026-09-13 09:00">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -7506,7 +7506,7 @@
 <param name="Колір">Сірий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="MN000001803" available="false">
+<offer id="MN000001803" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
