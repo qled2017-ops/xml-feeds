@@ -5638,7 +5638,7 @@ LED-підсвічування</param>
 <param name="Країна-виробник товару">Польща</param>
 <param name="Колір">Сірий</param>
 </offer>
-<offer id="II00798" available="false">
+<offer id="II00798" available="true">
 <price>150</price>
 <currencyId>UAH</currencyId>
 <categoryId>1079</categoryId>
