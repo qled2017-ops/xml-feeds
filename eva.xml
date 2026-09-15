@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-15 14:04">
+<yml_catalog date="2026-09-15 19:00">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -50213,7 +50213,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RE01949" available="true">
+<offer id="RE01949" available="false">
 <price>368</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -50223,7 +50223,7 @@ _x000D_
 <name_ua>Фігурка-підвіска Ангел (707-278)</name_ua>
 <description>Подаруйте особливість вашому святу із цією прекрасною декоративною підвісною фігуркою. Унікальний дизайн та уважно опрацьовані деталі роблять цю фігурку ідеальним вибором для створення атмосфери чарівництва та тепла у будь-якому будинку.</description>
 <description_ua>Подаруйте особливість вашому святу із цією прекрасною декоративною підвісною фігуркою. Унікальний дизайн та уважно опрацьовані деталі роблять цю фігурку ідеальним вибором для створення атмосфери чарівництва та тепла у будь-якому будинку.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -52505,7 +52505,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006681" available="true">
+<offer id="RI006681" available="false">
 <price>1588</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -52515,7 +52515,7 @@ _x000D_
 <name_ua>Декоративна підвіска Ведмедик Тедді 7.5*8 см 6 шт.  персиково-рожевий K07-428</name_ua>
 <description>Декоративна підвіска Ведмедик Тедді 7.5*8 см 6 шт. персиково-рожевий</description>
 <description_ua>Декоративна підвіска Ведмедик Тедді 7.5*8 см 6 шт. персиково-рожевий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -64853,7 +64853,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI005994" available="true">
+<offer id="RI005994" available="false">
 <price>550</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -64863,7 +64863,7 @@ _x000D_
 <name_ua>Декоративна водяна куля Санта зі сніговиком 7.6 см 913-318</name_ua>
 <description>Декоративна водяна куля Санта зі сніговиком 7.6 см</description>
 <description_ua>Декоративна водяна куля Санта зі сніговиком 7.6 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -67667,7 +67667,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006328" available="true">
+<offer id="RI006328" available="false">
 <price>2052</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -67677,7 +67677,7 @@ _x000D_
 <name_ua>Набір м'яких новорічних іграшкок  Янголята з сердцями 26 см 3  шт.  бордовий, фіолетовий, рожевий 910-202</name_ua>
 <description>Набір м'яких новорічних іграшкок Янголята з сердцями 26 см 3 шт. бордовий, фіолетовий, рожевий</description>
 <description_ua>Набір м'яких новорічних іграшкок Янголята з сердцями 26 см 3 шт. бордовий, фіолетовий, рожевий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -89709,7 +89709,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000002294" available="true">
+<offer id="MN000002294" available="false">
 <price>342</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
@@ -89719,7 +89719,7 @@ _x000D_
 <name_ua>Гілка бугенвілії 3D H94см рожева (137-052)</name_ua>
 <description>Стильна декоративна гілка стане чудовим доповненням до інтер’єру дому, офісу, фотозони або вітрини магазину. Виготовлена з якісної тканини та пластику, вона має натуральний вигляд і акуратне опрацювання деталей. Реалістична форма листя та стебла створює ефект живої рослини, при цьому виріб не потребує поливу чи особливого догляду. Легка вага дозволяє використовувати гілку для оформлення букетів, композицій, вінків або святкового декору.</description>
 <description_ua>Стильна декоративна гілка стане чудовим доповненням до інтер’єру дому, офісу, фотозони або вітрини магазину. Виготовлена з якісної тканини та пластику, вона має натуральний вигляд і акуратне опрацювання деталей. Реалістична форма листя та стебла створює ефект живої рослини, при цьому виріб не потребує поливу чи особливого догляду. Легка вага дозволяє використовувати гілку для оформлення букетів, композицій, вінків або святкового декору.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
