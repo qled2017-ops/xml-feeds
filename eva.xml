@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-15 09:00">
+<yml_catalog date="2026-09-15 14:04">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -3501,7 +3501,7 @@
 <param name="Тип">Миски</param>
 <param name="Колір">Сріблястий</param>
 </offer>
-<offer id="KitchenMasterWhite" available="false">
+<offer id="KitchenMasterWhite" available="true">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>105454.0</categoryId>
@@ -4526,7 +4526,7 @@
 <param name="Колір">Прозорий</param>
 <param name="Ширина в упаковці (см)">32 см</param>
 </offer>
-<offer id="AE001005" available="true">
+<offer id="AE001005" available="false">
 <price>749.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>104207.0</categoryId>
@@ -7027,7 +7027,7 @@
 <param name="Розмір (ДхШхВ), см">48-26-10см</param>
 <param name="Колір">Синій</param>
 </offer>
-<offer id="holderipadblack" available="false">
+<offer id="holderipadblack" available="true">
 <price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>117906.0</categoryId>
@@ -94051,7 +94051,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007628" available="true">
+<offer id="RI007628" available="false">
 <price>880</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -94061,7 +94061,7 @@ _x000D_
 <name_ua>Набір кухлів  порцелянових  Cats 350 мл 4 шт.  311-105</name_ua>
 <description>Набір кухлів порцелянових Cats 350 мл 4 шт.</description>
 <description_ua>Набір кухлів порцелянових Cats 350 мл 4 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
