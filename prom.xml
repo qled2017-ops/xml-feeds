@@ -786,10 +786,8 @@
 <offer id="OK02094" available="true">
 <price>119</price>
 <currencyId>UAH</currencyId>
-<categoryId>1013</categoryId>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/18989/opora-dlya-rasteniy-zherd-120-sm-34904-1-660x660.jpg</picture>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/18989/opora-dlya-rasteniy-zherd-120-sm-34904-2-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/18989/opora-dlya-rasteniy-zherd-120-sm-34904-3-660x660.jpg</picture>
+<categoryId>1013</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>OK02094</vendorCode>
 <name>Опора для рослин жердина коричнева 150 см 17127</name>
@@ -7603,9 +7601,8 @@ LED-підсвічування</param>
 <offer id="OK03437" available="true">
 <price>140</price>
 <currencyId>UAH</currencyId>
-<categoryId>1059</categoryId>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/41344/gorshok-plastmassovyy-s-podstavkoy-tubo-p-akvamarinovyy-11sm-1-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/41344/gorshok-plastmassovyy-s-podstavkoy-tubo-p-akvamarinovyy-11sm-2-660x660.jpg</picture>
+<categoryId>1059</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>OK03437</vendorCode>
 <name>Горщик пластмасовий з підставкою TUBO P світло-сірий 11 см 93307</name>
@@ -12127,10 +12124,8 @@ LED-підсвічування</param>
 <offer id="OK02096" available="true">
 <price>108</price>
 <currencyId>UAH</currencyId>
-<categoryId>1013</categoryId>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/30637/opora-dlya-rasteniy-zherd-120-sm-34907-2-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/30638/opora-dlya-rasteniy-zherd-90-sm-1-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/30638/opora-dlya-rasteniy-zherd-90-sm-2-660x660.jpg</picture>
+<categoryId>1013</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>OK02096</vendorCode>
 <name>Опора для рослин жердина 120 см 17122</name>
@@ -12190,10 +12185,8 @@ LED-підсвічування</param>
 <offer id="OK02098" available="true">
 <price>116</price>
 <currencyId>UAH</currencyId>
-<categoryId>1013</categoryId>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/30637/opora-dlya-rasteniy-zherd-120-sm-34907-2-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/30638/opora-dlya-rasteniy-zherd-90-sm-1-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/30638/opora-dlya-rasteniy-zherd-90-sm-2-660x660.jpg</picture>
+<categoryId>1013</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>OK02098</vendorCode>
 <name>Опора для рослин жердина 180 см 17133</name>
@@ -12221,10 +12214,8 @@ LED-підсвічування</param>
 <offer id="OK02088" available="true">
 <price>200</price>
 <currencyId>UAH</currencyId>
-<categoryId>1013</categoryId>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/18994/opora-dlya-rasteniy-zherd-180-sm-34909-1-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/18994/opora-dlya-rasteniy-zherd-180-sm-34909-2-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/18994/opora-dlya-rasteniy-zherd-180-sm-34909-3-660x660.jpg</picture>
+<categoryId>1013</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>OK02088</vendorCode>
 <name>Опора для рослин жердина зелена 210 см 17138</name>
@@ -12247,9 +12238,8 @@ LED-підсвічування</param>
 <offer id="OK02112" available="true">
 <price>177</price>
 <currencyId>UAH</currencyId>
-<categoryId>1013</categoryId>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/31097/opora-dlya-rasteniy-koltseobraznaya-45-sm-34913-1-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/31097/opora-dlya-rasteniy-koltseobraznaya-45-sm-34913-2-660x660.jpg</picture>
+<categoryId>1013</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>OK02112</vendorCode>
 <name>Опора для рослин кільцеподібна 45 см 17100</name>
@@ -12272,9 +12262,8 @@ LED-підсвічування</param>
 <offer id="OK02110" available="true">
 <price>243</price>
 <currencyId>UAH</currencyId>
-<categoryId>1013</categoryId>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/31099/opora-dlya-rasteniy-koltseobraznaya-60-sm-34963-1-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/31099/opora-dlya-rasteniy-koltseobraznaya-60-sm-34963-2-660x660.jpg</picture>
+<categoryId>1013</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>OK02110</vendorCode>
 <name>Опора для рослин кільцеподібна 75 см 17102</name>
@@ -12633,10 +12622,9 @@ LED-підсвічування</param>
 <offer id="VK00079" available="true">
 <price>704</price>
 <currencyId>UAH</currencyId>
-<categoryId>1142</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i82973571-6f061f53910e8872dee103defe3c9541-1715818108709.jpg</picture>
 <picture>https://images.prom.ua/3672397177_w640_h640_3672397177.jpg</picture>
-<picture>https://images.prom.ua/5028363767_w640_h640_5028363767.jpg</picture>
+<categoryId>1142</categoryId>
 <vendor>GIFF</vendor>
 <vendorCode>VK00079</vendorCode>
 <name>Сушарка у шафу для посуду, дворівнева 70 см</name>
@@ -16320,7 +16308,6 @@ LED-підсвічування</param>
 <offer id="OK06700" available="true">
 <price>599</price>
 <currencyId>UAH</currencyId>
-<categoryId>1091</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89685345-ac5fe54f41031568eddd79303c84a6d8-1729423306738.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89685345-b7188c79f785fadf30b2b25b7a1508df-1729423306931.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89685345-1242b0182814e72c8ad90fbb7848e9cf-1729423307127.jpg</picture>
@@ -16330,7 +16317,7 @@ LED-підсвічування</param>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89685345-52591303b1acdd7362c1b54b4f2b16f3-1729423307902.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89685345-81cacc15133d36597c039b1db1a64e44-1729423308094.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89685345-014ac342c51e70bb08d194245a76fca8-1729423308291.jpg</picture>
-<picture>https://images.prom.ua/4847330278_w640_h640_4847330278.jpg</picture>
+<categoryId>1091</categoryId>
 <vendor>Без бренду</vendor>
 <vendorCode>OK06700</vendorCode>
 <name>Рукавички жіночі штучної шкіри зимові L (8) Чорні з підкладкою з махри утеплені (R-105)</name>
@@ -17286,10 +17273,9 @@ LED-підсвічування</param>
 <offer id="N179-black" available="true">
 <price>349</price>
 <currencyId>UAH</currencyId>
-<categoryId>1091</categoryId>
-<picture>https://images.prom.ua/5007547147_w640_h640_5007547147.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92395389-e976657e33d0e16442ff13a2b820b892-1759155082239.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92395389-a77f4ff4874de2df9ceac6727f5a84de-1759155087444.jpg</picture>
+<categoryId>1091</categoryId>
 <vendor>Без бренду</vendor>
 <vendorCode>N179-black</vendorCode>
 <name>Жіночі теплі рукавички з німецького оксамиту N179 Чорні</name>
@@ -17367,11 +17353,8 @@ LED-підсвічування</param>
 <offer id="OK04556" available="true">
 <price>899</price>
 <currencyId>UAH</currencyId>
-<categoryId>1147</categoryId>
-<picture>https://images.prom.ua/5917673533_w640_h640_5917673533.jpg</picture>
-<picture>https://images.prom.ua/5917673534_w640_h640_5917673534.jpg</picture>
-<picture>https://images.prom.ua/5917673537_w640_h640_5917673537.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i85393220-e2e547d6420511e8bd04d426002ee362-1735049294497.jpg</picture>
+<categoryId>1147</categoryId>
 <vendor>Без бренду</vendor>
 <vendorCode>OK04556</vendorCode>
 <name>Жіноча сумка клатч через плече SME0128-2 Чорна</name>
@@ -18222,12 +18205,9 @@ LED-підсвічування</param>
 <offer id="RI000800" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
-<categoryId>1160</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/8655d4bd-1571-11ec-9d7a-d45d64415ba4-00000000300.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/8655d4bd-1571-11ec-9d7a-d45d64415ba4-00000002115.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/8655d4bd-1571-11ec-9d7a-d45d64415ba4-00000002116.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/8655d4bd-1571-11ec-9d7a-d45d64415ba4-00000002117.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i81233971-5ff7d721404db3072f67692960a1c2f7-1712639094170.jpg</picture>
+<categoryId>1160</categoryId>
 <vendor>MADBIKE</vendor>
 <vendorCode>RI000800</vendorCode>
 <name>Рукавички велосипедні MADBIKE SK-16 L Зелений</name>
@@ -18334,15 +18314,9 @@ LED-підсвічування</param>
 <offer id="RI000990" available="true">
 <price>549</price>
 <currencyId>UAH</currencyId>
-<categoryId>1155</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/bf74a966-80f0-11eb-9cf6-d45d64415ba4-00000146200.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/bf74a966-80f0-11eb-9cf6-d45d64415ba4-00000146202.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/bf74a966-80f0-11eb-9cf6-d45d64415ba4-00000146203.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/bf74a966-80f0-11eb-9cf6-d45d64415ba4-00000146204.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/bf74a966-80f0-11eb-9cf6-d45d64415ba4-00000146205.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/bf74a966-80f0-11eb-9cf6-d45d64415ba4-00000146206.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/bf74a966-80f0-11eb-9cf6-d45d64415ba4-00000146207.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i81233971-5ff7d721404db3072f67692960a1c2f7-1712639094170.jpg</picture>
+<categoryId>1155</categoryId>
 <vendor>Zelart</vendor>
 <vendorCode>RI000990</vendorCode>
 <name>Рукавички для фітнесу та тренувань жіночі Zelart SB-161731 S Чорний/Жовтий</name>
@@ -21606,12 +21580,8 @@ LED-підсвічування</param>
 <offer id="RI000717" available="true">
 <price>279</price>
 <currencyId>UAH</currencyId>
-<categoryId>1136</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/fd15d41c-55b5-11e7-af8d-363766626438-00000014900.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/fd15d41c-55b5-11e7-af8d-363766626438-00000014905.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/fd15d41c-55b5-11e7-af8d-363766626438-00000014906.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/fd15d41c-55b5-11e7-af8d-363766626438-00000014907.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/fd15d41c-55b5-11e7-af8d-363766626438-00000014908.jpg</picture>
+<categoryId>1136</categoryId>
 <vendor>SP-Sport</vendor>
 <vendorCode>RI000717</vendorCode>
 <name>Окуляри спортивні сонцезахисні SP-Sport MC5265 Помаранчевий</name>
@@ -27471,11 +27441,10 @@ LED-підсвічування</param>
 <offer id="OAN/202-43/SNT" available="true">
 <price>249</price>
 <currencyId>UAH</currencyId>
-<categoryId>1180</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i102957117-d7bb0265de67f35bd62ccef751f07fb9-1745395132619.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i102957117-ade07661557fcc8e1bf412e2317c7a1b-1745411676498.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i102957117-9cb2bb4a72dd8c1eb486cfc2b45bc165-1745411682999.jpg</picture>
-<picture>https://snt.od.ua/image/cache/catalog/uploads_2/202-43-600x600.jpg</picture>
+<categoryId>1180</categoryId>
 <vendor>SNT</vendor>
 <vendorCode>OAN/202-43/SNT</vendorCode>
 <name>Келих для пива "Череп", пивний кухоль 1 шт 540 мл OAN2</name>
@@ -40266,17 +40235,10 @@ USB-кабель заряджання;
 <offer id="RI002144" available="true">
 <price>6714</price>
 <currencyId>UAH</currencyId>
-<categoryId>1113</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146300.jpg</picture>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146318.jpg</picture>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146319.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146320.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146322.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146323.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146324.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146325.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146326.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/266ff830-17bd-11ec-9d7c-d45d64415ba4-00000146327.jpg</picture>
+<categoryId>1113</categoryId>
 <vendor>NERVE</vendor>
 <vendorCode>RI002144</vendorCode>
 <name>Мотокуртка жіноча текстильна NERVE 653-2 XL Синій/Чорний</name>
@@ -44809,10 +44771,8 @@ USB-кабель заряджання;
 <offer id="OK08222" available="true">
 <price>449</price>
 <currencyId>UAH</currencyId>
-<categoryId>1091</categoryId>
-<picture>https://images.prom.ua/5007547150_w640_h640_5007547150.jpg</picture>
-<picture>https://images.prom.ua/5007547149_w640_h640_5007547149.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92395597-89d98c464800afac455e8d8152f70946-1759155112035.jpg</picture>
+<categoryId>1091</categoryId>
 <vendor>Без бренду</vendor>
 <vendorCode>OK08222</vendorCode>
 <name>Жіночі рукавички теплі з німецького оксамиту N179 Рожеві</name>
@@ -44848,10 +44808,8 @@ USB-кабель заряджання;
 <offer id="RI004287" available="true">
 <price>173</price>
 <currencyId>UAH</currencyId>
-<categoryId>1075</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/f1c374cb-55b6-11e7-af8d-363766626438-00000002000.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/f1c374cb-55b6-11e7-af8d-363766626438-00000014905.jpg</picture>
-<picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/f1c374cb-55b6-11e7-af8d-363766626438-00000014906.jpg</picture>
+<categoryId>1075</categoryId>
 <vendor>Без бренду</vendor>
 <vendorCode>RI004287</vendorCode>
 <name>Камера запчастина для футбольних, волейбольних м'ячів BALLONSTAR FB-5005 Чорний</name>
@@ -49899,7 +49857,6 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <offer id="OK06664" available="true">
 <price>449</price>
 <currencyId>UAH</currencyId>
-<categoryId>1091</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89680200-88271c807386e7d91114f6c314e35970-1733691339661.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89680200-d0318218f07a8b10c0cf1971ea7d3566-1733691339310.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89680200-9ac837bf20848aabbd7ee16e4aed5c64-1733691339114.jpg</picture>
@@ -49909,7 +49866,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89680200-578ccc33317ef2544787090bee2ab44b-1733691340378.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89680200-507420bf5c737691786cc2b6690ddb77-1733691340560.jpg</picture>
 <picture>https://images.prom.ua/4866969799_w640_h640_4866969799.jpg</picture>
-<picture>https://images.prom.ua/4866968929_w640_h640_4866968929.jpg</picture>
+<categoryId>1091</categoryId>
 <vendor>Без бренду</vendor>
 <vendorCode>OK06664</vendorCode>
 <name>Жіночі рукавички трикотажні сенсорні з хутряною підкладкою розмір 7,5 чорні 1-32</name>
@@ -49986,14 +49943,13 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <offer id="OK06862" available="true">
 <price>699</price>
 <currencyId>UAH</currencyId>
-<categoryId>1091</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89716066-e18e68b51d52c6c2c300c02561119a17-1734002197079.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89716066-0aecfd2efa757539ea00da1b61e80526-1734002197260.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89716066-441face843a89458c4a541cfd70e1784-1734002197456.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89716066-d5124108aa2d7b8a8e20a1721be3a227-1734002197732.jpg</picture>
 <picture>https://images.prom.ua/4930429693_w640_h640_4930429693.jpg</picture>
-<picture>https://images.prom.ua/4930429561_w640_h640_4930429561.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89716066-72222418494d03e2f62fff0b9ebf96cf-1734002196805.jpg</picture>
+<categoryId>1091</categoryId>
 <vendor>Без бренду</vendor>
 <vendorCode>OK06862</vendorCode>
 <name>Рукавички жіночі з натуральної шкіри з махровою підкладкою розмір XL (8,5) Чорні S-014</name>
@@ -51521,11 +51477,10 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <offer id="MI000104" available="true">
 <price>1086</price>
 <currencyId>UAH</currencyId>
-<categoryId>1142</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74608335-efa9993378f567ab61d7623c9b28b230.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74608335-db5b2b5f0ba74e5cc89a261d67f5a7f9.jpg</picture>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74608335-44383e5b41ced0607701519bb80bc5f4.jpg</picture>
-<picture>https://images.prom.ua/3672400128_w640_h640_3672400128.jpg</picture>
+<categoryId>1142</categoryId>
 <vendor>Без бренду</vendor>
 <vendorCode>MI000104</vendorCode>
 <name>Сушарка для посуду в шафу Hoz 50 см з нержавіючої сталі</name>
@@ -55264,11 +55219,8 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <offer id="OK02944" available="true">
 <price>2453</price>
 <currencyId>UAH</currencyId>
-<categoryId>1187</categoryId>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/19474/nabor-dlya-piknika-na-2-persony-9048-5-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/19474/nabor-dlya-piknika-na-2-persony-9048-6-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/19474/nabor-dlya-piknika-na-2-persony-9048-7-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/19474/nabor-dlya-piknika-na-2-persony-9048-8-660x660.jpg</picture>
+<categoryId>1187</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>OK02944</vendorCode>
 <name>Набір для пікніка на 2 персони 38706, кошик для пікніка плетений</name>
@@ -55336,10 +55288,8 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <offer id="RZ00563" available="true">
 <price>499</price>
 <currencyId>UAH</currencyId>
-<categoryId>1028</categoryId>
 <picture>https://www.floramax.com.ua/image/cache/catalog/product/36863/banka-steklyannaya-basic-kitchen-3-9-l-35440-1-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/36863/banka-steklyannaya-basic-kitchen-3-9-l-35440-4-660x660.jpg</picture>
-<picture>https://www.floramax.com.ua/image/cache/catalog/product/36863/banka-steklyannaya-basic-kitchen-3-9-l-35440-2-660x660.jpg</picture>
+<categoryId>1028</categoryId>
 <vendor>Flora</vendor>
 <vendorCode>RZ00563</vendorCode>
 <name>Набір 6 шт скляних банок для сипучих, спецій, варення та меду HTID3044 - кришка з різьбленням 80 мл</name>
