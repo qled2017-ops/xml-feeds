@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-16 09:00">
+<yml_catalog date="2026-09-16 19:00">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -13965,7 +13965,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="834-832grey" available="false">
+<offer id="834-832grey" available="true">
 <price>245</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -14679,7 +14679,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007454" available="true">
+<offer id="RI007454" available="false">
 <price>120</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -14689,7 +14689,7 @@ _x000D_
 <name_ua>Банка підвісна керамічна  Літо в Європі 400 мл DU934-S</name_ua>
 <description>Банка підвісна керамічна Літо в Європі 400 мл</description>
 <description_ua>Банка підвісна керамічна Літо в Європі 400 мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -15183,7 +15183,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007516" available="true">
+<offer id="RI007516" available="false">
 <price>175</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -15193,7 +15193,7 @@ _x000D_
 <name_ua>Банка порцелянова  з кришкою Кантрі 400 мл 940-108</name_ua>
 <description>Банка порцелянова з кришкою Кантрі 400 мл</description>
 <description_ua>Банка порцелянова з кришкою Кантрі 400 мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -66561,7 +66561,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006195" available="true">
+<offer id="RI006195" available="false">
 <price>1390</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -66571,7 +66571,7 @@ _x000D_
 <name_ua>М'яка новорічна іграшка Олень 19*15*58 см  червоний із сірим 877-375</name_ua>
 <description>М'яка новорічна іграшка Олень 19*15*58 см червоний із сірим</description>
 <description_ua>М'яка новорічна іграшка Олень 19*15*58 см червоний із сірим</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -70509,7 +70509,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006751" available="true">
+<offer id="RI006751" available="false">
 <price>2871</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -70519,7 +70519,7 @@ _x000D_
 <name_ua>Декоративна фігура з LED підсвічуванням Пряничний будиночок з глітером 18*10.5*32.5 см 837-252</name_ua>
 <description>Декоративна фігура Ялинка-морозиво в гліттері 28 см</description>
 <description_ua>Декоративна фігура Ялинка-морозиво в гліттері 28 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -89709,7 +89709,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000002294" available="false">
+<offer id="MN000002294" available="true">
 <price>342</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
@@ -102151,7 +102151,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007978" available="true">
+<offer id="RI007978" available="false">
 <price>300</price>
 <currencyId>UAH</currencyId>
 <categoryId>101133.0</categoryId>
@@ -102161,7 +102161,7 @@ _x000D_
 <name_ua>Глечик керамічний Акварель 1.3 л  DK0102-D</name_ua>
 <description>Глечик керамічний Акварель 1.3 л</description>
 <description_ua>Глечик керамічний Акварель 1.3 л</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
