@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-17 19:00">
+<yml_catalog date="2026-09-18 13:28">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -4526,7 +4526,7 @@
 <param name="Колір">Прозорий</param>
 <param name="Ширина в упаковці (см)">32 см</param>
 </offer>
-<offer id="AE001005" available="false">
+<offer id="AE001005" available="true">
 <price>749.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>104207.0</categoryId>
@@ -8727,7 +8727,7 @@ _x000D_
 <param name="Колір">Рожевий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="RI000102" available="false">
+<offer id="RI000102" available="true">
 <price>599.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>121882.0</categoryId>
@@ -9739,7 +9739,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="KU00340" available="false">
+<offer id="KU00340" available="true">
 <price>141</price>
 <currencyId>UAH</currencyId>
 <categoryId>101149.0</categoryId>
@@ -10691,7 +10691,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000002436" available="false">
+<offer id="MN000002436" available="true">
 <price>175</price>
 <currencyId>UAH</currencyId>
 <categoryId>101149.0</categoryId>
@@ -11359,7 +11359,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="445-035-3" available="false">
+<offer id="445-035-3" available="true">
 <price>352</price>
 <currencyId>UAH</currencyId>
 <categoryId>101149.0</categoryId>
@@ -14679,7 +14679,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007454" available="false">
+<offer id="RI007454" available="true">
 <price>120</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -15141,7 +15141,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007511" available="false">
+<offer id="RI007511" available="true">
 <price>492</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -15183,7 +15183,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007516" available="false">
+<offer id="RI007516" available="true">
 <price>175</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -15309,7 +15309,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007523" available="false">
+<offer id="RI007523" available="true">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -21179,7 +21179,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000002342" available="false">
+<offer id="MN000002342" available="true">
 <price>475</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -21207,7 +21207,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000003110" available="false">
+<offer id="MN000003110" available="true">
 <price>425</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -21221,7 +21221,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000003190" available="false">
+<offer id="MN000003190" available="true">
 <price>425</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -21711,7 +21711,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="EA01229" available="false">
+<offer id="EA01229" available="true">
 <price>800</price>
 <currencyId>UAH</currencyId>
 <categoryId>100942.0</categoryId>
@@ -31071,7 +31071,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000003167" available="false">
+<offer id="MN000003167" available="true">
 <price>588</price>
 <currencyId>UAH</currencyId>
 <categoryId>100942.0</categoryId>
@@ -32555,7 +32555,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="EA02041" available="true">
+<offer id="EA02041" available="false">
 <price>888</price>
 <currencyId>UAH</currencyId>
 <categoryId>114002.0</categoryId>
@@ -32565,7 +32565,7 @@ _x000D_
 <name_ua>Підставка для торта порцелянова "Святковий флер" 20.5см 498-253</name_ua>
 <description>Елегантна порцелянова підставка для торта з чарівним новорічним декором стане яскравим елементом святкової сервіровки. Ідеально підходить для подачі тортів, кексів або фруктів під час різдвяних застіль. Компактна й водночас виразна, вона створює атмосферу тепла та затишку.</description>
 <description_ua>Елегантна порцелянова підставка для торта з чарівним новорічним декором стане яскравим елементом святкової сервіровки. Ідеально підходить для подачі тортів, кексів або фруктів під час різдвяних застіль. Компактна й водночас виразна, вона створює атмосферу тепла та затишку.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -39401,7 +39401,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OO01015" available="false">
+<offer id="OO01015" available="true">
 <price>1520</price>
 <currencyId>UAH</currencyId>
 <categoryId>104309.0</categoryId>
@@ -39429,7 +39429,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OO01154" available="false">
+<offer id="OO01154" available="true">
 <price>3987</price>
 <currencyId>UAH</currencyId>
 <categoryId>104309.0</categoryId>
@@ -43283,7 +43283,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN00000937" available="false">
+<offer id="MN00000937" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
 <categoryId>104309.0</categoryId>
@@ -43745,7 +43745,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000002306" available="false">
+<offer id="MN000002306" available="true">
 <price>2673</price>
 <currencyId>UAH</currencyId>
 <categoryId>104309.0</categoryId>
@@ -45747,7 +45747,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI005640" available="false">
+<offer id="RI005640" available="true">
 <price>225</price>
 <currencyId>UAH</currencyId>
 <categoryId>112304.0</categoryId>
@@ -50213,7 +50213,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RE01949" available="false">
+<offer id="RE01949" available="true">
 <price>368</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -50493,7 +50493,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="147-874" available="false">
+<offer id="147-874" available="true">
 <price>688</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -52197,7 +52197,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006614" available="false">
+<offer id="RI006614" available="true">
 <price>512</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -52505,7 +52505,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006681" available="false">
+<offer id="RI006681" available="true">
 <price>1588</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -52757,7 +52757,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006698" available="false">
+<offer id="RI006698" available="true">
 <price>1890</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -52771,7 +52771,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006704" available="false">
+<offer id="RI006704" available="true">
 <price>1944</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -52981,7 +52981,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006814" available="false">
+<offer id="RI006814" available="true">
 <price>2268</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -57765,7 +57765,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN00000455" available="false">
+<offer id="MN00000455" available="true">
 <price>308</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -57835,7 +57835,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN00000460" available="false">
+<offer id="MN00000460" available="true">
 <price>218</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -61749,7 +61749,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN00000575" available="false">
+<offer id="MN00000575" available="true">
 <price>462</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -64853,7 +64853,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI005994" available="false">
+<offer id="RI005994" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -65805,7 +65805,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006127" available="false">
+<offer id="RI006127" available="true">
 <price>6840</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -66337,7 +66337,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006148" available="false">
+<offer id="RI006148" available="true">
 <price>1665</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -66505,7 +66505,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006212" available="false">
+<offer id="RI006212" available="true">
 <price>1620</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -66561,7 +66561,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006195" available="false">
+<offer id="RI006195" available="true">
 <price>1390</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -67667,7 +67667,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006328" available="false">
+<offer id="RI006328" available="true">
 <price>2052</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -69067,7 +69067,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006556" available="false">
+<offer id="RI006556" available="true">
 <price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -69123,7 +69123,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006551" available="false">
+<offer id="RI006551" available="true">
 <price>550</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -69529,7 +69529,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006585" available="false">
+<offer id="RI006585" available="true">
 <price>725</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -70509,7 +70509,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006751" available="false">
+<offer id="RI006751" available="true">
 <price>2871</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -71181,7 +71181,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006879" available="false">
+<offer id="RI006879" available="true">
 <price>996</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -73449,7 +73449,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007203" available="false">
+<offer id="RI007203" available="true">
 <price>4887</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -73715,7 +73715,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007218" available="false">
+<offer id="RI007218" available="true">
 <price>24120</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -81273,7 +81273,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI005764" available="false">
+<offer id="RI005764" available="true">
 <price>1016</price>
 <currencyId>UAH</currencyId>
 <categoryId>104852.0</categoryId>
@@ -92313,7 +92313,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OO01189" available="false">
+<offer id="OO01189" available="true">
 <price>838</price>
 <currencyId>UAH</currencyId>
 <categoryId>100942.0</categoryId>
@@ -92875,7 +92875,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OO00901" available="true">
+<offer id="OO00901" available="false">
 <price>158</price>
 <currencyId>UAH</currencyId>
 <categoryId>114002.0</categoryId>
@@ -92885,7 +92885,7 @@ _x000D_
 <name_ua>Металеве кільце для серветок Квітка D4.3*4 см рожевий із золотом 992-334</name_ua>
 <description>Металеве кільце для серветок Квітка, D4.3*4 см, колір - рожевий із золотом</description>
 <description_ua>Металеве кільце для серветок Квітка, D4.3*4 см, колір - рожевий із золотом</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -93337,7 +93337,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK03725" available="false">
+<offer id="OK03725" available="true">
 <price>938</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -93379,7 +93379,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK05228" available="false">
+<offer id="OK05228" available="true">
 <price>425</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -94977,7 +94977,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007762" available="false">
+<offer id="RI007762" available="true">
 <price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -102151,7 +102151,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007978" available="false">
+<offer id="RI007978" available="true">
 <price>300</price>
 <currencyId>UAH</currencyId>
 <categoryId>101133.0</categoryId>
