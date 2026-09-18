@@ -520,7 +520,7 @@
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Чорний</param>
 </offer>
-<offer id="EA03288" available="false">
+<offer id="EA03288" available="true">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1007</categoryId>
