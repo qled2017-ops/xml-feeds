@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-18 14:22">
+<yml_catalog date="2026-09-18 23:58">
   <offers>
     <offer id="MR05014" available="true">
       <price>1890</price>
@@ -45141,7 +45141,7 @@
     <offer id="MR38026" available="true">
       <price>649</price>
     </offer>
-    <offer id="MR38027" available="true">
+    <offer id="MR38027" available="false">
       <price>649</price>
       <price_old>1000</price_old>
     </offer>
@@ -70066,7 +70066,7 @@
     <offer id="IR02275" available="true">
       <price>2203</price>
     </offer>
-    <offer id="AN001261" available="true">
+    <offer id="AN001261" available="false">
       <price>153</price>
     </offer>
     <offer id="IR02276" available="true">
@@ -76662,19 +76662,19 @@
     <offer id="IR003023" available="true">
       <price>34</price>
     </offer>
-    <offer id="MR50679" available="true">
+    <offer id="MR50679" available="false">
       <price>584</price>
     </offer>
-    <offer id="MR50680" available="true">
+    <offer id="MR50680" available="false">
       <price>584</price>
     </offer>
-    <offer id="MR50681" available="true">
+    <offer id="MR50681" available="false">
       <price>584</price>
     </offer>
-    <offer id="MR50682" available="true">
+    <offer id="MR50682" available="false">
       <price>584</price>
     </offer>
-    <offer id="MR50683" available="true">
+    <offer id="MR50683" available="false">
       <price>584</price>
     </offer>
     <offer id="DR003686" available="true">
@@ -117589,10 +117589,10 @@
     <offer id="AN004606" available="true">
       <price>6630</price>
     </offer>
-    <offer id="MR60802" available="true">
+    <offer id="MR60802" available="false">
       <price>779</price>
     </offer>
-    <offer id="MR60803" available="true">
+    <offer id="MR60803" available="false">
       <price>779</price>
     </offer>
     <offer id="NA005404" available="true">
@@ -119878,7 +119878,7 @@
     <offer id="AN004980" available="true">
       <price>1078</price>
     </offer>
-    <offer id="AN004981" available="true">
+    <offer id="AN004981" available="false">
       <price>396</price>
     </offer>
     <offer id="AN004982" available="true">
@@ -138970,7 +138970,7 @@
     <offer id="AN006903" available="true">
       <price>112</price>
     </offer>
-    <offer id="AN006904" available="true">
+    <offer id="AN006904" available="false">
       <price>71</price>
     </offer>
     <offer id="DR012241" available="true">
