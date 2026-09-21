@@ -56113,7 +56113,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="null">Сороконіжки</param>
 <param name="Колір">Блакитний;Жовтий</param>
 </offer>
-<offer id="dm210-XL" available="false">
+<offer id="dm210-XL" available="true">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>1014</categoryId>
