@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-23 18:41">
+<yml_catalog date="2026-09-23 19:39">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -632,7 +632,7 @@
 <param name="Колір">Чорний</param>
 </offer>
 <offer id="DE02679" available="true">
-<price>1164.0</price>
+<price>1164</price>
 <currencyId>UAH</currencyId>
 <categoryId>116266.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i83068868-827e8653e3208cd65b3788c1f991fb12-1715271452897.jpg</picture>
@@ -1015,7 +1015,7 @@
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="RS04107" available="true">
-<price>720</price>
+<price>735</price>
 <currencyId>UAH</currencyId>
 <categoryId>100942.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125371254-d18fe37dc8aaf6d9c8471b7a65c43561-1769446382212.jpg</picture>
@@ -3317,7 +3317,7 @@
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="IT00782" available="false">
-<price>299</price>
+<price>144</price>
 <currencyId>UAH</currencyId>
 <categoryId>101149.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i122233496-a5c94313512b5b7232ef9ff67368893e-1765310496516.jpg</picture>
@@ -7058,7 +7058,7 @@ _x000D_
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="RI000102" available="false">
-<price>599.0</price>
+<price>472</price>
 <currencyId>UAH</currencyId>
 <categoryId>121882.0</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/67788b30-833d-11ec-9df6-d45d64415ba400.jpg</picture>
@@ -8097,7 +8097,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="KU00344" available="true">
-<price>129</price>
+<price>135</price>
 <currencyId>UAH</currencyId>
 <categoryId>101149.0</categoryId>
 <picture>https://bonadi.com.ua/img/goods/for_kitchen_collection/napkins/445_053.jpg</picture>
@@ -8671,7 +8671,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="IT00785" available="true">
-<price>212</price>
+<price>242</price>
 <currencyId>UAH</currencyId>
 <categoryId>101149.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i122233542-ce7c4484c408843030094d472ecaa0a5-1765311372290.jpg</picture>
@@ -13400,7 +13400,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007482" available="true">
+<offer id="RI007482" available="false">
 <price>425</price>
 <currencyId>UAH</currencyId>
 <categoryId>100896.0</categoryId>
@@ -13410,7 +13410,7 @@ _x000D_
 <name_ua>Банка керамічна з об'ємним малюнком Котяча домівка 1 л   DM007-C</name_ua>
 <description>Банка керамічна з об'ємним малюнком Котяча домівка 1 л</description>
 <description_ua>Банка керамічна з об'ємним малюнком Котяча домівка 1 л</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -34777,7 +34777,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="OS01132" available="false">
-<price>555</price>
+<price>612</price>
 <currencyId>UAH</currencyId>
 <categoryId>112110.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359594-0fc02112919d9a9b364ac62f1014f90c-1768171491464.jpg</picture>
@@ -40884,7 +40884,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN00000870" available="true">
+<offer id="MN00000870" available="false">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>104309.0</categoryId>
@@ -40894,7 +40894,7 @@ _x000D_
 <name_ua>Ваза керамічна Ілюзія, 24.5 см, колір - бордо глянець з матовим обідком (VH8-404)</name_ua>
 <description>Сьогодні вази перестали бути лише функціональним предметом зберігання квітів і стали важливим елементом декору. Особливою популярністю користуються вироби з кераміки, і все це завдяки великій різноманітності кольорів та текстур. Зусиллями талановитих майстрів створюються ємності різних форм та дизайну, тому не проблема підібрати та замовити вази керамічні під будь-який інтер'єр. Переваги керамічних ваз Керамічні вази можна назвати унікальним предметом інтер'єру, тому що велика кількість текстур, дизайнів і кольорів дозволяє підібрати абсолютно ексклюзивну модель.Керамічні вази можуть бути прикрашені різними візерунками та малюнками, тому їх можна використовувати в якості додаткових акцентів в інтер'єрі.Кераміка міцніша, ніж скло, тому вази можуть витримувати великі навантаження і прослужити значно довше.Плюс цього матеріалу полягає у здатності зберігати тепло, що дуже важливо, коли потрібно поставити квіти, що потребують певної температури.Не забуваємо про те, що кераміка – це природний, тобто екологічний матеріал, тому він безпечний для людини та рослин.Мити виріб можна навіть у звичайній воді, тому повернути йому початковий вигляд досить просто.Вази з кераміки відрізняються універсальністю, тому вони гармонійно виглядатимуть як на кухні, так і у вітальні, передпокої або в інших кімнатах.</description>
 <description_ua>Сьогодні вази перестали бути лише функціональним предметом зберігання квітів і стали важливим елементом декору. Особливою популярністю користуються вироби з кераміки, і все це завдяки великій різноманітності кольорів та текстур. Зусиллями талановитих майстрів створюються ємності різних форм та дизайну, тому не проблема підібрати та замовити вази керамічні під будь-який інтер'єр. Переваги керамічних ваз Керамічні вази можна назвати унікальним предметом інтер'єру, тому що велика кількість текстур, дизайнів і кольорів дозволяє підібрати абсолютно ексклюзивну модель.Керамічні вази можуть бути прикрашені різними візерунками та малюнками, тому їх можна використовувати в якості додаткових акцентів в інтер'єрі.Кераміка міцніша, ніж скло, тому вази можуть витримувати великі навантаження і прослужити значно довше.Плюс цього матеріалу полягає у здатності зберігати тепло, що дуже важливо, коли потрібно поставити квіти, що потребують певної температури.Не забуваємо про те, що кераміка – це природний, тобто екологічний матеріал, тому він безпечний для людини та рослин.Мити виріб можна навіть у звичайній воді, тому повернути йому початковий вигляд досить просто.Вази з кераміки відрізняються універсальністю, тому вони гармонійно виглядатимуть як на кухні, так і у вітальні, передпокої або в інших кімнатах.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -50961,7 +50961,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RI006679" available="true">
-<price>738</price>
+<price>1180</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://bonadi.com.ua/img/goods/ny_collection/stat_other/K07_517.jpg</picture>
@@ -52668,7 +52668,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007146" available="true">
+<offer id="RI007146" available="false">
 <price>728</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -52678,7 +52678,7 @@ _x000D_
 <name_ua>Набір декоративних фігурок на підвісі Гномики 6.5 см 4 шт. бордо з білим 823-084</name_ua>
 <description>Набір декоративних фігурок на підвісі Гномики 6.5 см 4 шт. бордо з білим</description>
 <description_ua>Набір декоративних фігурок на підвісі Гномики 6.5 см 4 шт. бордо з білим</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -54183,7 +54183,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="IT00345" available="true">
-<price>345</price>
+<price>425</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i121369061-a9a228f6e35b1cb79cce6e0e7c37bc8f-1764356958238.jpg</picture>
@@ -61363,7 +61363,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="MN000002180" available="true">
-<price>320</price>
+<price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>112258.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i126574129-fa8fa602e069977a8fb60575308c6cfa-1771083798103.jpg</picture>
@@ -65339,7 +65339,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RI006277" available="true">
-<price>3780</price>
+<price>5902</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
 <picture>https://bonadi.com.ua/img/goods/ny_collection/ny_toys/877_305.jpg</picture>
@@ -71442,7 +71442,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007161" available="true">
+<offer id="RI007161" available="false">
 <price>845</price>
 <currencyId>UAH</currencyId>
 <categoryId>112311.0</categoryId>
@@ -71452,7 +71452,7 @@ _x000D_
 <name_ua>Набір декоративних  фігурок Яблуко 8 см 4 шт. рожевий перламутр   731-141</name_ua>
 <description>Набір декоративних фігурок Яблуко 8 см 4 шт. рожевий перламутр</description>
 <description_ua>Набір декоративних фігурок Яблуко 8 см 4 шт. рожевий перламутр</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -86975,7 +86975,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="MN000002298" available="true">
-<price>342</price>
+<price>388</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i126574283-7f3f6edb6111dc41a8db3f500c00b21e-1771409464228.jpg</picture>
@@ -88039,7 +88039,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="MN000002294" available="true">
-<price>342</price>
+<price>388</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i126817828-89190c207f30b819d473219fdc915e7d-1771407543438.jpg</picture>
@@ -88053,7 +88053,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="MN000002295" available="true">
-<price>342</price>
+<price>388</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i126817882-cb83db37c83b73309821bc74cf970ee5-1771408883637.jpg</picture>
@@ -91401,7 +91401,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="232-705" available="true">
-<price>2241</price>
+<price>1999</price>
 <currencyId>UAH</currencyId>
 <categoryId>117861.0</categoryId>
 <picture>https://cdn.27.ua/sc--media--prod/default/a7/6a/ae/a76aae67-669a-4daf-b502-8d99fdd120f5.jpg</picture>
@@ -98921,7 +98921,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RI007391" available="true">
-<price>638</price>
+<price>1836</price>
 <currencyId>UAH</currencyId>
 <categoryId>100942.0</categoryId>
 <picture>https://bonadi.com.ua/img/goods/dishes_collection/oneplate/888_145.jpg</picture>
@@ -101205,7 +101205,7 @@ _x000D_
 <description_ua>Висота статуетки - 11 см, довжина - 9 см, ширина - 5 см.Статуетка білого кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE01948" available="true">
+<offer id="RE01948" available="false">
 <price>849</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -101215,7 +101215,7 @@ _x000D_
 <name_ua>Фігурка Підкова (291N)</name_ua>
 <name_ru>Фигурка Подкова (291N)</name_ru>
 <description_ua>Статуетка Підкова найкрасивіший предмет інтер'єру інкрустована блискучими кристалами. Закохані погляди щаслива пара, красива біла сукня нареченої, перший трепетний танець молодої сім'ї. Чарівний день весілля – день народження сім'ї. Такі емоції мають зберігатись. Саме така статуетка нагадуватиме про цю чудову подію. Це ідеальний подарунок для близької коханої людини. Вона також підійде на подарунок молодятам, чи дружині на річницю. Їм точно сподобатися такий знак уваги і довго зберегти теплі спогади.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE01947" available="true">
 <price>234</price>
@@ -101629,7 +101629,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01868" available="true">
-<price>462</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70376401-0cc6522a68ff40382c08304001d61023.jpg</picture>
