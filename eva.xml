@@ -2438,7 +2438,7 @@
 <param name="Тип">Миски</param>
 <param name="Колір">Сріблястий</param>
 </offer>
-<offer id="KitchenMasterWhite" available="false">
+<offer id="KitchenMasterWhite" available="true">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>105454.0</categoryId>
