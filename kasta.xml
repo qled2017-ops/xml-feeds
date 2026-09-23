@@ -213,8 +213,8 @@
 <category id="1205" rz_id="4634953">Чоловічі черевики</category>
 </categories>
 <offers>
-<offer id="VK01250" available="false">
-<price>99</price>
+<offer id="VK01250" available="true">
+<price>80</price>
 <currencyId>UAH</currencyId>
 <categoryId>1000</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i90930494-4e4718e8db26655370c354cea480d17e-1727168540415.jpg</picture>
