@@ -1653,7 +1653,7 @@
 <param name="Тип поставки">Набір</param>
 <param name="Ширина в упаковці (см)">12,1</param>
 </offer>
-<offer id="OO00815" available="true">
+<offer id="OO00815" available="false">
 <price>438</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -1663,7 +1663,7 @@
 <name_ua>Кухоль порцеляновий 450 мл Sicilia 149-029</name_ua>
 <description>Кухоль порцеляновий Sicilia Колір:  Різнокольоровий  Розміри:  D9.7*9.7 см, 450 мл</description>
 <description_ua>Кухоль порцеляновий Sicilia Колір:  Різнокольоровий  Розміри:  D9.7*9.7 см, 450 мл</description_ua>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Кухоль</param>
 <param name="Висота в упаковці (см)">9.7</param>
 <param name="Гарантія">14 днів</param>
