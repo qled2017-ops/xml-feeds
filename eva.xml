@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-23 17:24">
+<yml_catalog date="2026-09-23 18:41">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -44427,7 +44427,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RI005622" available="true">
-<price>399</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>112304.0</categoryId>
 <picture>https://bonadi.com.ua/img/goods/ny_collection/trees/122_194.jpg</picture>
@@ -100563,6 +100563,1118 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
+</offer>
+<offer id="OO00400" available="true">
+<price>838</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/K07_779.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OO00400</vendorCode>
+<name_ua>Декоративна статуетка Заєць у човні 17*6*11 см K07-779</name_ua>
+<name_ru>Декоративная статуэтка Заяц в лодке 17*6*11 см K07-779</name_ru>
+<description_ua>Декоративна статуетка Заєць у човні 17*6*11 см&amp;nbsp; &amp;nbsp;Матеріал: Полістоун</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00406" available="true">
+<price>472</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/K07_809.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OO00406</vendorCode>
+<name_ua>Декоративна статуетка Качечка з ведмедиком 8*6.5*10 см жовтий K07-809</name_ua>
+<name_ru>Декоративная статуэтка Уточка с мишкой 8*6.5*10 см желтый K07-809</name_ru>
+<description_ua>Декоративна статуетка Качечка з ведмедиком, 8*6.5*10см, колір - жовтий&amp;nbsp; Матеріал: Полістоун</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00407" available="true">
+<price>472</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/K07_808.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OO00407</vendorCode>
+<name_ua>Декоративна статуетка Каченя із зайчиком 8*6.5*9 см жовтий K07-808</name_ua>
+<name_ru>Декоративная статуэтка Утенок с зайкой 8*6.5*9 см желтый K07-808</name_ru>
+<description_ua>Декоративна статуетка Каченя із зайчиком, 8*6.5*9см, колір - жовтий&amp;nbsp; Матеріал: Полістоун</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00459" available="true">
+<price>576</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/K07_812.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OO00459</vendorCode>
+<name_ua>Декоративна статуетка Дівчинка у віночку 5.5*3.5*12 см K07-812</name_ua>
+<name_ru>Декоративная статуэтка Девочка в веночке 5.5*3.5*12 см K07-812</name_ru>
+<description_ua>Декоративна статуетка Дівчинка у віночку 5.5*3.5*12 см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01954" available="true">
+<price>379</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70437709-4579e8036abd34d966b360d03f42b311.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE01954</vendorCode>
+<name_ua>Підвіска декоративна Пряниковий будиночок-2 (707-742)</name_ua>
+<name_ru>Подвеска декоративная Пряничный домик-2 (707-742)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01953" available="true">
+<price>379</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70437685-abb0a2620c5b092909d46ce708faeef8.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE01953</vendorCode>
+<name_ua>Підвіска декоративна Пряниковий будиночок-1 (707-742)</name_ua>
+<name_ru>Подвеска декоративная Пряничный домик-1 (707-742)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02543" available="true">
+<price>742</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71496022-e57963bb9b90ebfaa5d2f7747259d4ce.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02543</vendorCode>
+<name_ua>Декоративна фігура BonaDi Гном (823-803)</name_ua>
+<name_ru>Декоративная фигура BonaDi Гном (823-803)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02542" available="true">
+<price>875</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71496011-4fcc2ab6349bd5abd2fc43cbc2806ec4.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02542</vendorCode>
+<name_ua>Декоративна фігура BonaDi Гном (823-550)</name_ua>
+<name_ru>Декоративная фигура BonaDi Гном (823-550)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02541" available="true">
+<price>875</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71496007-8f6482ec6623d2d450e280a62b48552e.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02541</vendorCode>
+<name_ua>Декоративна фігура BonaDi Гном (823-547)</name_ua>
+<name_ru>Декоративная фигура BonaDi Гном (823-547)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02525" available="true">
+<price>850</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71492256-d1d673bc735fb3ca0eb84d5da8452375.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02525</vendorCode>
+<name_ua>Декоративна статуетка BonaDi Клоун на конику (707-050)</name_ua>
+<name_ru>Декоративная статуэтка BonaDi Клоун на лошадке (707-050)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02520" available="true">
+<price>192</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71491163-359d503fd4e2d58f08c9a1695db6b5dd.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02520</vendorCode>
+<name_ua>Декоративна статуетка BonaDi (197-A22)</name_ua>
+<name_ru>Декоративная статуэтка BonaDi (197-A22)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02527" available="true">
+<price>779</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71492289-52da4cadf7fb6c493fc80f01711ecde1.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02527</vendorCode>
+<name_ua>Декоративна статуетка BonaDi Лускунчик з короною (218-933)</name_ua>
+<name_ru>Декоративная статуэтка BonaDi Щелкунчик с короной (218-933)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02546" available="true">
+<price>519</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71496091-ede563237af56fe86db05026bd58ca5e.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02546</vendorCode>
+<name_ua>Декоративна фігура Хлопчик з подарунком (887-344)</name_ua>
+<name_ru>Декоративная фигура Мальчик с подарком (887-344)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02549" available="true">
+<price>135</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71496124-71e7b8e711539920802e927cd5edbc13.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02549</vendorCode>
+<name_ua>Декоративний птах на кліпсі BonaDi (499-077)</name_ua>
+<name_ru>Декоративная птица на клипсе BonaDi (499-077)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02523" available="true">
+<price>714</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71491337-a72998dd4dd98c9f5a31e18dc076f68d-1739195391728.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02523</vendorCode>
+<name_ua>Декоративна статуетка Дівчинка з парасолькою (707-990)</name_ua>
+<name_ru>Декоративная статуэтка Девочка с зонтиком (707-990)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02650" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71525130-88ec158804c4d20cf3471e0074686b5a.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02650</vendorCode>
+<name_ua>Декоративна статуетка BonaDi Хлопчик (218-973)</name_ua>
+<name_ru>Декоративная статуэтка BonaDi Мальчик (218-973)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02672" available="true">
+<price>406</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71532969-06982e977fa5ee96319e53e0b135136f.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02672</vendorCode>
+<name_ua>Декоративна статуетка Санки з подарунками BonaDi (707-819)</name_ua>
+<name_ru>Декоративная статуэтка Санки с подарками BonaDi (707-819)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02720" available="true">
+<price>909</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71549330-8d69ca8575033e84f6c64c00f6b003eb.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02720</vendorCode>
+<name_ua>Декоративна статуетка Пташка на шишці (218-575)</name_ua>
+<name_ru>Декоративная статуэтка Птичка на шишке (218-575)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, що однозначно надають гарного настрою.Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="823-777" available="true">
+<price>909</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71548953-a335a7c93bc4e8cea5d316813149d68b.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>823-777</vendorCode>
+<name_ua>Декоративна фігура 28 см Ангел новорічна статуетка</name_ua>
+<name_ru>Декоративная фигура 28 см Ангел новогодняя статуэтка</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02694" available="true">
+<price>1202</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71548525-50ff898acfca93ca017e218e7fa47565.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE02694</vendorCode>
+<name_ua>Фігурка новорічна Flora Сова 24 см Білий (11376)</name_ua>
+<name_ru>Фигурка новогодняя Flora Сова 24 см Белый (11376)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02732" available="true">
+<price>909</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71549757-5f673c6d8f8e1fd27aecaacf98a5dd42.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02732</vendorCode>
+<name_ua>Декоративна статуетка BonaDi Ангел з пташкою (197-A30)</name_ua>
+<name_ru>Декоративная статуэтка BonaDi Ангел с птичкой (197-A30)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02803" available="true">
+<price>825</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71702209-27ea9567f52c082e1cd2ce445c601f7a.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE02803</vendorCode>
+<name_ua>Декоративна статуетка BonaDi Олень (731-152)</name_ua>
+<name_ru>Декоративная статуэтка BonaDi Олень (731-152)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE03229" available="true">
+<price>1199</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i73623563-9ccb91072328f8b9e693de253b41b9e1.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE03229</vendorCode>
+<name_ua>Фігурка декоративна Лускунчик 31 см Зелений (218-278)</name_ua>
+<name_ru>Фигурка декоративная Щелкунчик 31 см Зеленый (218-278)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="SA000401" available="true">
+<price>299</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://cdn.27.ua/sc--media--prod/default/80/06/bb/8006bb46-73f7-4243-bffd-72811b2012d7.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>SA000401</vendorCode>
+<name_ua>Декоративна фігура Принцеса на лавочці (884-218)</name_ua>
+<name_ru>Декоративная фигура Принцесса на скамеечке (884-218)</name_ru>
+<description_ua>Декоративна фігурка «Принцеса на лавці» — витончена прикраса, наповнена атмосферою спокою та казкової чарівності. Фігурка зображує витончену принцесу, що сидить на акуратно виконаній лавці, наче відпочиває в чарівному саду або занурену в мрії.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="SA000402" available="true">
+<price>299</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://cdn.27.ua/sc--media--prod/default/68/ab/4a/68ab4ad8-48b7-4ac8-a72a-1b0d9e1e8fb8.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>SA000402</vendorCode>
+<name_ua>Декоративна фігура BonaDi Принцеса на лавочці з короною і совою (884-218)</name_ua>
+<name_ru>Декоративная фигура BonaDi Принцесса на скамеечке с короной и совой (884-218)</name_ru>
+<description_ua>Декоративна фігурка Принцеса на лавочці, 10см, колір - рожевий</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="SA000400" available="true">
+<price>299</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://cdn.27.ua/sc--media--prod/default/39/bd/c2/39bdc20b-4c99-4f2f-9d69-f424302cc00f.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>SA000400</vendorCode>
+<name_ua>Декоративна фігура Принцеса на лавочці з оленем (884-218)</name_ua>
+<name_ru>Декоративная фигура Принцесса на скамеечке с оленем (884-218)</name_ru>
+<description_ua>Декоративна фігурка «Принцеса на лавці» — витончена прикраса, наповнена атмосферою спокою та казкової чарівності. Фігурка зображує витончену принцесу, що сидить на акуратно виконаній лавці, наче відпочиває в чарівному саду або занурену в мрії.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="SA000413" available="true">
+<price>625</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://cdn.27.ua/sc--media--prod/default/38/8d/7b/388d7b61-a234-4d72-9417-d86274caf83d.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>SA000413</vendorCode>
+<name_ua>Декоративна фігура BonaDi Білченя Гастон (831-251)</name_ua>
+<name_ru>Декоративная фигура BonaDi Бельчонок Гастон (831-251)</name_ru>
+<description_ua>Декоративна фігурка Білченя Гастон, 24см, колір - зелений</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="SA000414" available="true">
+<price>625</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://cdn.27.ua/sc--media--prod/default/71/f1/99/71f199c0-daac-4060-bb94-35d942ca5cab.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>SA000414</vendorCode>
+<name_ua>Декоративна фігурка Білочка Хлоя, 24см, колір - бежевий (831-253)</name_ua>
+<name_ru>Декоративная фигурка Белочка Хлоя, 24см, цвет - бежевый (831-253)</name_ru>
+<description_ua>Декоративна фігурка Білченя Гастон, 24см, колір - зелений</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="SA000984" available="true">
+<price>406</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://cdn.27.ua/sc--media--prod/default/5a/a1/1e/5aa11e7e-228d-4571-ba6e-d32f50b6784c.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>SA000984</vendorCode>
+<name_ua>Декоративна статуетка Санки з подарунками (707-819)</name_ua>
+<name_ru>Декоративная статуэтка Санки с подарками (707-819)</name_ru>
+<description_ua>Декоративна фігурка Сани з подарунками, 12,5 см, колір - рожево-бежевий</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE04173" available="true">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78155394-f3ccdd27d2000e3f9255a7e3e2c48800-1708198206129.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE04173</vendorCode>
+<name_ua>Декоративна статуетка Янгол молиться (218-833)</name_ua>
+<name_ru>Декоративная статуэтка Ангел молится (218-833)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01178" available="true">
+<price>793</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/831_899.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01178</vendorCode>
+<name_ua>Декоративна статуетка Дівчинка в шапці із заячими вушками 23 см Блакитний з жовтим 831-899</name_ua>
+<name_ru>Декоративная статуэтка Девочка в шапке с заячьими ушками 23 см Голубой с желтым 831-899</name_ru>
+<description_ua>Декоративна статуетка Дівчинка в шапці із заячими вушками, 23см, колір - блакитний з жовтим</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01179" available="true">
+<price>988</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/831_898.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01179</vendorCode>
+<name_ua>Декоративна статуетка Заєць на капкейці 20.5 см 831-898</name_ua>
+<name_ru>Декоративная статуэтка Заяц на капкейке 20.5 см 831-898</name_ru>
+<description_ua>Декоративна статуетка Заєць на капкейці 20.5 см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01227" available="true">
+<price>920</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_184.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01227</vendorCode>
+<name_ua>Набір 4 шт фігурка декоративна Кролик з бантом з флоковим напиленням 7*23.5 см соковитий жовтий 113-184</name_ua>
+<name_ru>Набор 4 шт фигурка декоративная Кролик с бантом с флоковым напылением 7*23.5 см сочный желтый 113-184</name_ru>
+<description_ua>Фігурка декоративна Кролик з бантом, з флоковим напиленням 7*23.5см, колір - жовтий сочний</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01234" available="true">
+<price>822</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_180.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01234</vendorCode>
+<name_ua>Набір 4 шт фігурка декоративна Кролик з бантом з флоковим напиленням 6*19,5 см зелений лайм 113-180</name_ua>
+<name_ru>Набор 4 шт фигурка декоративная Кролик с бантом с флоковым напылением 6*19,5 см зеленый лайм 113-180</name_ru>
+<description_ua>Фігурка декоративна Кролик з бантом, з флоковим напиленням 6*19,5см, колір -&amp;nbsp;зелений лайм&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01301" available="true">
+<price>822</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_175.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01301</vendorCode>
+<name_ua>Набір 4 шт. фігурка декоративна Кролик з бантом з флоковим напиленням 6*19.5 см білий 113-175</name_ua>
+<name_ru>Набор 4 шт. фигурка декоративная Кролик с бантом с флоковым напылением 6*19.5 см белый 113-175</name_ru>
+<description_ua>Фігурка декоративна Кролик з бантом, з флоковим напиленням 6*19,5 см, колір - білий</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01251" available="true">
+<price>920</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_188.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01251</vendorCode>
+<name_ua>Набір 4 шт. фігурка декоративна Кролик з бантом з флоковим напиленням 7*23.5 см  зелений лайм 113-188</name_ua>
+<name_ru>Набор 4 шт. фигурка декоративная Кролик с бантом с флоковым напылением 7*23.5 см зеленый лайм 113-188</name_ru>
+<description_ua>Фігурка декоративна Кролик з бантом, з флоковим напиленням 7*23.5см, колір - зелений лайм</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01261" available="true">
+<price>343</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_194.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01261</vendorCode>
+<name_ua>Набір 3 шт. декоративних кроликів з флоковим напиленням 2.5*7 см білий 113-194</name_ua>
+<name_ru>Набор 3 шт. декоративных кроликов с флоковым напылением 2.5*7 см белый 113-194</name_ru>
+<description_ua>Набір (3шт) декоративних кроликів з флоковим напиленням 2.5*7см, колір - білий</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01242" available="true">
+<price>707</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_129.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01242</vendorCode>
+<name_ua>Набір 4 шт фігурка декоративна Кролик  з флоковим напиленням 10*15 см жовтий пастельний 113-129</name_ua>
+<name_ru>Набор 4 шт фигурка декоративная Кролик с флоковым напылением 10*15 см желтый пастельный 113-129</name_ru>
+<description_ua>Фігурка декоративна Кролик&amp;nbsp; з флоковим напиленням 10*15см, колір -&amp;nbsp;жовтий пастельний&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01244" available="true">
+<price>920</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_183.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01244</vendorCode>
+<name_ua>Набір 4 шт фігурка декоративна Кролик з бантом з флоковим напиленням 7*23.5 см білий 113-183</name_ua>
+<name_ru>Набор 4 шт фигурка декоративная Кролик с бантом с флоковым напылением 7*23.5 см белый 113-183</name_ru>
+<description_ua>Фігурка декоративна&amp;nbsp;Кролик з бантом з флоковим напиленням 7*23.5 см білий</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01290" available="true">
+<price>239</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_147.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01290</vendorCode>
+<name_ua>Фігурка декоративна Кролик з бантом з флоковим напиленням 8*21,5 см зелений лайм 113-147</name_ua>
+<name_ru>Фигурка декоративная Кролик с бантом с флоковым напылением 8*21,5 см зеленый лайм 113-147</name_ru>
+<description_ua>Фігурка декоративна Кролик з бантом, з флоковим напиленням 8*21,5 см, колір -&amp;nbsp;зелений лайм&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01262" available="true">
+<price>291</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/113_209.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01262</vendorCode>
+<name_ua>Набір 4 шт. фігурка декоративна баранчик з флоковим напиленням 10.5*6.5 см білий 113-209</name_ua>
+<name_ru>Набор 4 шт. фигурка декоративная баранчик с флоковым напылением 10.5*6.5 см белый 113-209</name_ru>
+<description_ua>Фігурка декоративна баранчик з флоковим напиленням 10.5*6.5см, колір - білий</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01472" available="true">
+<price>655</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/831_849.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01472</vendorCode>
+<name_ua>Декоративна статуетка Зайчик з мереживними вухами на яйці 9*6.5*19 см 831-849</name_ua>
+<name_ru>Декоративная статуэтка Зайка с кружевными ушами на яйце 9*6.5*19 см 831-849</name_ru>
+<description_ua>Декоративна статуетка Зайчик з мереживними вухами на яйці 9*6.5*19 см&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01473" available="true">
+<price>780</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/831_848.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01473</vendorCode>
+<name_ua>Декоративна статуетка Зайчик з мереживними вухами 9*8.5*25 см 831-848</name_ua>
+<name_ru>Декоративная статуэтка Зайка с кружевными ушами 9*8.5*25 см 831-848</name_ru>
+<description_ua>Декоративна статуетка&amp;nbsp;Зайчик з мереживними вухами 9*8.5*25 см&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01471" available="true">
+<price>949</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/831_878.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK01471</vendorCode>
+<name_ua>Декоративна статуетка Кролик з морквою 11*8*29.5 см 831-878</name_ua>
+<name_ru>Декоративная статуэтка Кролик с морковью 11*8*29.5 см 831-878</name_ru>
+<description_ua>Декоративна статуетка Кролик з морквою 11*8*29.5 см&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK05239" available="true">
+<price>1950</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/decor_collection/poly_figurines/450_885.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OK05239</vendorCode>
+<name_ua>Декоративна фігура Лев 43 см золотий 450-885</name_ua>
+<name_ru>Декоративная фигура Лев 43 см золотой 450-885</name_ru>
+<description_ua>Декоративна фігура Лев 43*13*25 см золотий&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="197-A30-book" available="true">
+<price>779</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71549757-5f673c6d8f8e1fd27aecaacf98a5dd42.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>197-A30-book</vendorCode>
+<name_ua>Декоративна статуетка Ангел з книгою (197-A30)</name_ua>
+<name_ru>Декоративная статуэтка Ангел с книгой (197-A30)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="K07-803-2" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i99597564-c5bfd7ac8824159d20a8f6fcae43d845-1739959391656.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>K07-803-2</vendorCode>
+<name_ua>Декоративна статуетка великодня Зайчик з букетом V2 7*7*16 см</name_ua>
+<name_ru>Декоративная статуэтка пасхальная Зайка с букетом V2 7*7*16 см</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA02109" available="true">
+<price>1349</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123336590-342eff3a4abdbb26307322ef14e4c529-1766520995995.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>EA02109</vendorCode>
+<name_ua>Декорація Різдвяний Вертеп 7021</name_ua>
+<name_ru>Декорация Рождественский Вертеп 7021</name_ru>
+<description_ua>Декоративна композиція «Різдвяний вертеп» — класичний різдвяний декор, що відтворює сцену народження Ісуса Христа. Композиція включає фігурки Святої Родини, волхвів, пастуха та ягняти, виконані з високою деталізацією та у стриманій традиційній кольоровій гамі. Вертеп стане центральним елементом різдвяного оформлення інтер’єру, створюючи атмосферу духовності, тепла та святкового затишку. Ідеально підходить для розміщення на комоді, полиці, каміні або як частина різдвяної композиції у домі, офісі чи храмі. Також стане чудовим подарунком до різдвяних свят.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00382" available="true">
+<price>571</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/na44d5d27e2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/na44d5d29e2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OO00382</vendorCode>
+<name_ua>Статуетка Родина кроликів 10 см (2007-265)</name_ua>
+<name_ru>Статуетка Семья кроликів 10 см (2007-265)</name_ru>
+<description_ua>Висота статуетки - 10 см, довжина - 11,5 см, ширина - 7 см. Статуетка білого кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00381" available="true">
+<price>384</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/na44d5d2ae2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/na44d5d2be2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/na44d5d2ce2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OO00381</vendorCode>
+<name_ua>Статуетка Кролик з тюльпанами 11 см (2007-266)</name_ua>
+<description_ua>Висота статуетки – 11 см, длина – 9 см, ширина – 5,5 см. Статуетка білого кролика виготовлена з полістоуну, що придає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури меху та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00384" available="true">
+<price>621</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/na44d5d23e2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/na44d5d24e2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/na44d5d25e2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OO00384</vendorCode>
+<name_ua>Статуетка Теплі обійми кроликів 16 см (2007-263)</name_ua>
+<name_ru>Статуэтка Теплые объятия кроликов 16 см (2007-263)</name_ru>
+<description_ua>Висота статуетки - 16 см, довжина - 8 см, ширина - 6 см. Статуетка білого кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00383" available="true">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/na44d5d26e2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OO00383</vendorCode>
+<name_ua>Статуетка Закохані кролики 11 см (2007-264)</name_ua>
+<name_ru>Статуэтка Влюбленные кролики 11 см (2007-264)</name_ru>
+<description_ua>Висота статуетки - 11 см, довжина - 10,5 см, ширина - 6 см. Статуетка білого кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00385" available="true">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/na44d5d21e2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/na44d5d22e2bc11ef8a24002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OO00385</vendorCode>
+<name_ua>Статуетка Кролик з візком 11 см (2007-262)</name_ua>
+<name_ru>Статуэтка Кролик с тележкой 11 см (2007-262)</name_ru>
+<description_ua>Висота статуетки - 11 см, довжина - 9 см, ширина - 5 см.Статуетка білого кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01948" available="true">
+<price>849</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70435094-4b895c6c6bf8e1ab1ac94ab7fd5600d1.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>RE01948</vendorCode>
+<name_ua>Фігурка Підкова (291N)</name_ua>
+<name_ru>Фигурка Подкова (291N)</name_ru>
+<description_ua>Статуетка Підкова найкрасивіший предмет інтер'єру інкрустована блискучими кристалами. Закохані погляди щаслива пара, красива біла сукня нареченої, перший трепетний танець молодої сім'ї. Чарівний день весілля – день народження сім'ї. Такі емоції мають зберігатись. Саме така статуетка нагадуватиме про цю чудову подію. Це ідеальний подарунок для близької коханої людини. Вона також підійде на подарунок молодятам, чи дружині на річницю. Їм точно сподобатися такий знак уваги і довго зберегти теплі спогади.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01947" available="true">
+<price>234</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70435065-55735dba86c74256ca7145326da6d421.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70435065-e3b6b414e43d940d7ed1320290a622d6.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>RE01947</vendorCode>
+<name_ua>Фігурка Elisey Мила танцівниця (2007-094)</name_ua>
+<name_ru>Фигурка Elisey Милая танцовщица (2007-094)</name_ru>
+<description_ua>Фігурка "Мила танцівниця" маленька дівчинка – справжня балерина. Нехай недовго займається вона цим прекрасним мистецтвом, але на ній уже справжня балетна сукня, і вона явно готується до виступу на сцені – можливо, до найпершого у своєму житті. Подарувати таку фігурку можна такій ось юній балерині з побажанням стати знаменитою, але не забувати й той час, коли вона робила у світі танцю перші кроки.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02805" available="true">
+<price>1335</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71702275-358fe3cfdadb7ed6f4a6379a510a09b0.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71702275-e330b817e6a8e3d39de5b70994cbdbab.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>RE02805</vendorCode>
+<name_ua>Статуетка Elisey Божа матір з немовлям (77338A4)</name_ua>
+<name_ru>Статуэтка Elisey Божья матерь с младенцем (77338A4)</name_ru>
+<description_ua>Статуетка "Божа матір з немовлям" високої якості від відомого бренду Veronese - це справжній витвір мистецтва, створений справжніми майстрами. Статуетка з детальним опрацюванням деталей нікого не залишить байдужим та стане чудовим подарунком та оберегом на хрестини, на новосілля, релігійне свято, день народження, на знак подяки або як утіха людині, якій потрібна підтримка у складну хвилину. Статуетка виготовлена з полістоуну (штучного каменю) та покрита бронзовим напиленням. Запакована в пінопласт та гарну подарункову упаковку.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE03146" available="true">
+<price>200</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i73165675-c441f17288435df0dbe011e86ba266ff.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>RE03146</vendorCode>
+<name_ua>Фігурка Космонавт та ракета (2007-043)</name_ua>
+<name_ru>Фигурка Космонавт и ракета (2007-043)</name_ru>
+<description_ua>У пошуках предметів інтер'єру, якими можна красиво підкреслити обстановку кабінету або вітальні, потрібно трохи вибірковості та терпіння. Фігурка - це завжди чудовий презент та декор. Виготовлено із полістоуну. Штучний камінь полістоун стійкий як впливу води, але й вступає у реакцію з повітрям, слабкими розчинами кислот, лугів. Він не піддається фарбуванню харчовими соками, напоями, несприйнятливим до нафтопродуктів, шампунів та інших продуктів побутової промисловості. Тематична фігурка використовується для декору та створення відповідного настрою. Також підійде на презент закоханим, на річницю, вінчання. Завдяки надійній упаковці, Ви можете бути впевненими у безпеці при транспортуванні.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK01538" available="true">
+<price>207</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/n0afe9097bc5711ee8a15002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/n0afe9098bc5711ee8a15002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/n0afe9099bc5711ee8a15002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/n0afe909abc5711ee8a15002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK01538</vendorCode>
+<name_ua>Фігурка Білий кролик 8,5 см (5007-001)</name_ua>
+<name_ru>Фигурка Белый кролик 8,5 см (5007-001)</name_ru>
+<description_ua>Фігурка Білий кролик 8,5 см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03004" available="true">
+<price>262</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa7d033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa7e033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03004</vendorCode>
+<name_ua>Фігурка Лялечка жовта 24 см (9109-017)</name_ua>
+<name_ru>Фигурка Куколка желтая 24 см (9109-017)</name_ru>
+<description_ua>Висота - 24 см, ширина - 7 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими лялечками! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03006" available="true">
+<price>262</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa76033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa77033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa78033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa79033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03006</vendorCode>
+<name_ua>Фігурка Кролик зелений 18 см (9109-015)</name_ua>
+<name_ru>Фигурка Кролик зеленый 18 см (9109-015)</name_ru>
+<description_ua>Висота - 18 см, довжина - 11 см, ширина - 8 см. Фігурка пухнаста, стійка. Вушка гнучкі. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK02998" available="true">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa86033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa87033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa88033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK02998</vendorCode>
+<name_ua>Фігурка Кролиця рожева 21 см (9109-021)</name_ua>
+<name_ru>Фигурка Крольчиха розовый 21 см (9109-021)</name_ru>
+<description_ua>Висота - 21 см, ширина - 6 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03013" available="true">
+<price>646</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa59033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa5a033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa5b033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03013</vendorCode>
+<name_ua>Фігурка Кролиця 49 см (9109-003)</name_ua>
+<name_ru>Фигурка Крольчиха 49 см (9109-003)</name_ru>
+<description_ua>Висота - 49 см, ширина - 12 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03009" available="true">
+<price>309</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa69033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa6a033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa6b033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03009</vendorCode>
+<name_ua>Фігурка Курча біле 24 см (9109-009)</name_ua>
+<name_ru>Фигурка Цыпленок белое 24 см (9109-009)</name_ru>
+<description_ua>Висота - 24 см, ширина - 8 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK02996" available="true">
+<price>421</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa91033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa92033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK02996</vendorCode>
+<name_ua>Фігурка Кролиця біла 30 см (9109-026)</name_ua>
+<name_ru>Фигурка Крольчиха белый 30 см (9109-026)</name_ru>
+<description_ua>Висота - 30 см, ширина - 9 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03002" available="true">
+<price>234</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa84033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa85033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03002</vendorCode>
+<name_ua>Фігурка Фея 20 см (9109-020)</name_ua>
+<name_ru>Фигурка Фея 20 см (9109-020)</name_ru>
+<description_ua>Висота - 20 см, ширина - 7 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими лялечками! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03012" available="true">
+<price>646</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa5c033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa5d033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03012</vendorCode>
+<name_ua>Фігурка Кролик 49 см (9109-004)</name_ua>
+<name_ru>Фигурка Кролик 49 см (9109-004)</name_ru>
+<description_ua>Висота - 49 см, ширина - 12 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03014" available="true">
+<price>262</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa55033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa56033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03014</vendorCode>
+<name_ua>Фігурка Кролиця 26 см (9109-001)</name_ua>
+<name_ru>Фигурка Крольчиха 26 см (9109-001)</name_ru>
+<description_ua>Висота - 26 см, ширина - 7 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03001" available="true">
+<price>421</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa8f033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa90033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03001</vendorCode>
+<name_ua>Фігурка Кролик білий 30 см (9109-025)</name_ua>
+<name_ru>Фигурка Кролик белый 30 см (9109-025)</name_ru>
+<description_ua>Висота - 30 см, ширина - 9 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03000" available="true">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa8b033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa8c033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03000</vendorCode>
+<name_ua>Фігурка Кролик білий 20 см (9109-023)</name_ua>
+<name_ru>Фигурка Кролик белый 20 см (9109-023)</name_ru>
+<description_ua>Висота - 20 см, ширина - 5 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK02999" available="true">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa89033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa8a033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK02999</vendorCode>
+<name_ua>Фігурка Кролик жовтий 21 см (9109-022)</name_ua>
+<name_ru>Фигурка Кролик желтый 21 см (9109-022)</name_ru>
+<description_ua>Висота - 21 см, ширина - 6 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03005" available="true">
+<price>215</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa7a033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa7b033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa7c033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03005</vendorCode>
+<name_ua>Фігурка Лялечка рожева 18,5 см (9109-016)</name_ua>
+<name_ru>Фигурка Куколка розовая 18,5 см (9109-016)</name_ru>
+<description_ua>Висота - 18,5 см, ширина - 5,5 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими лялечками! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03003" available="true">
+<price>337</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa7f033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa80033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03003</vendorCode>
+<name_ua>Фігурка Лялька рожева 24 см (9109-018)</name_ua>
+<name_ru>Фигурка Кукла розовая 24 см (9109-018)</name_ru>
+<description_ua>Висота - 24 см, ширина - 7 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими лялечками! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03015" available="true">
+<price>262</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa57033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa58033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03015</vendorCode>
+<name_ua>Фігурка Кролик 26 см (9109-002)</name_ua>
+<name_ru>Фигурка Кролик 26 см (9109-002)</name_ru>
+<description_ua>Висота - 26 см, ширина - 7 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03010" available="true">
+<price>309</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa66033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa67033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa68033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03010</vendorCode>
+<name_ua>Фігурка Курча жовте 24 см (9109-008)</name_ua>
+<name_ru>Фигурка Цыпленок желтое 24 см (9109-008)</name_ru>
+<description_ua>Висота - 24 см, ширина - 8 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03011" available="true">
+<price>281</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa5e033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa5f033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa60033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03011</vendorCode>
+<name_ua>Фігурка Великодній кролик 29 см (9109-005)</name_ua>
+<name_ru>Фигурка Пасхальный кролик 29 см (9109-005)</name_ru>
+<description_ua>Висота - 29 см, ширина - 5 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03007" available="true">
+<price>262</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa73033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa74033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa75033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03007</vendorCode>
+<name_ua>Фігурка Кролик жовтий 18 см (9109-014)</name_ua>
+<name_ru>Фигурка Кролик желтый 18 см (9109-014)</name_ru>
+<description_ua>Висота - 18 см, довжина - 11 см, ширина - 8 см. Фігурка пухнаста, стійка. Вушка гнучкі. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03008" available="true">
+<price>262</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa71033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa72033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK03008</vendorCode>
+<name_ua>Фігурка Кролик рожевий 18 см (9109-013)</name_ua>
+<name_ru>Фигурка Кролик розовый 18 см (9109-013)</name_ru>
+<description_ua>Висота - 18 см, довжина - 11 см, ширина - 8 см. Фігурка пухнаста, стійка. Вушка гнучкі. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK02997" available="true">
+<price>421</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://elisey.ua/files/products/nb3acfa8d033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<picture>https://elisey.ua/files/products/nb3acfa8e033d11ef8a19002590e9c1ad.540x540w.jpeg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>OK02997</vendorCode>
+<name_ua>Фігурка Кролиця рожева 30 см (9109-024)</name_ua>
+<name_ru>Фигурка Крольчиха розовый 30 см (9109-024)</name_ru>
+<description_ua>Висота - 30 см, ширина - 9 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA01288" available="true">
+<price>267</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i115545226-9c01bedc7a5eb7a6bd810e910c0495d9-1758825450938.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i115545226-8abea1dac4acb9213b6c29098d61b390-1759934645582.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i115545226-21cf759770bd6a8d5b8b5b39386ace17-1759934645847.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i115545226-641ad71161cf615f2e1142e76084f6d4-1759934646051.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i115545226-012386083132dd6d653722556879fe1f-1759934646255.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>EA01288</vendorCode>
+<name_ua>Статуетка Казковий кролик 15 см Золотий (2007-254)</name_ua>
+<name_ru>Статуэтка Сказочный кролик 15 см Золотой (2007-254)</name_ru>
+<description_ua>Декоративна статуетка «Казковий кролик» від Elisey стане елегантним акцентом у будь-якому інтер’єрі. Вишукана форма, реалістичні деталі та благородний золотий колір роблять цю фігурку привабливою для дому, фотостудії, магазину або кафе. Виготовлена з високоякісного полістоуна, статуетка стійко стоїть на підставці та приносить радість і святковий настрій. Характеристики: Висота: 15 см Довжина: 9 см Ширина: 10 см Матеріал: полістоун</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA02082" available="true">
+<price>207</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i122445185-0b53ca4feb498fdc74ae24350d4eb41f-1765797052909.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i122445185-290cb885ef361f555f5e86ebe1581b68-1765797053075.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>EA02082</vendorCode>
+<name_ua>Статуетка "Пінгвінятка" (2007-183)</name_ua>
+<name_ru>Статуэтка "Пингвинятка" (2007-183)</name_ru>
+<description_ua>Мила декоративна статуетка у вигляді двох пінгвінят в зимових шапочках та шарфику — чудове доповнення до новорічного або зимового інтер'єру. Ідеально підходить для прикрашання оселі, офісу чи подарунку на свята. Виготовлена з якісного матеріалу з детальним опрацюванням кожної деталі. Розміри: 9×9×4 см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="MN000001986" available="true">
+<price>557</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i126184703-6e525d7b7e2b802ae14034b2537522cb-1770471360999.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>MN000001986</vendorCode>
+<name_ua>Статуетка "Блакитний папуга", 17 см (5106-010/blue)</name_ua>
+<name_ru>Статуэтка "Голубой попугай", 17 см (5106-010/blue)</name_ru>
+<description_ua>Висота статуетки — 17 см, довжина — 8 см, ширина — 8 см. Керамічна статуетка у вигляді папуги наповнює інтер’єр атмосферою легкості, радості та літнього настрою. Детально опрацьоване пір’я та плавні лінії створюють живий і виразний образ, який одразу привертає увагу. Статуетка гармонійно виглядає на полиці, консолі чи святковому столі, додаючи простору декоративного акценту та відчуття оновлення. Вона стане чудовим елементом весняного та літнього декору, а також приємним подарунком для поціновувачів керамічних прикрас.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="MN000001987" available="true">
+<price>557</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i126184754-972bcf9de0bfedc5b46ab30c176b65e6-1770471798485.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>MN000001987</vendorCode>
+<name_ua>Статуетка "Жовтий папуга", 17 см (5106-010/yellow)</name_ua>
+<name_ru>Статуэтка "Желтый попугай", 17 см (5106-010/yellow)</name_ru>
+<description_ua>Висота статуетки — 17 см, довжина — 8 см, ширина — 8 см. Керамічна статуетка у вигляді папуги наповнює інтер’єр атмосферою легкості, радості та літнього настрою. Детально опрацьоване пір’я та плавні лінії створюють живий і виразний образ, який одразу привертає увагу. Статуетка гармонійно виглядає на полиці, консолі чи святковому столі, додаючи простору декоративного акценту та відчуття оновлення. Вона стане чудовим елементом весняного та літнього декору, а також приємним подарунком для поціновувачів керамічних прикрас.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="MN000001988" available="true">
+<price>284</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i126184771-a2c9d43c58fd8d8eb8eb08e1d1094b98-1770472175179.jpg</picture>
+<vendor>Elisey</vendor>
+<vendorCode>MN000001988</vendorCode>
+<name_ua>Статуетка "Сова-аристократ", 17,5 см (5105-008)</name_ua>
+<name_ru>Статуэтка "Сова-аристократ", 17,5 см (5105-008)</name_ru>
+<description_ua>Висота статуетки — 17,5 см, довжина — 7 см, ширина — 6,5 см. Статуетка «Сова—аристократ» — виразний декоративний акцент із характером та легкою іронією. Образ сови в елегантному костюмі та циліндрі відсилає до класики й театральної естетики, створюючи відчуття вишуканості та стилю. Детальне опрацювання одягу, пози й міміки надає фігурці живості та робить її справді запам’ятовуваною. Виготовлена з полістоуну, статуетка поєднує декоративність і практичність, добре тримає форму та ефектно виглядає на полиці, консолі чи у вітрині. Вона стане стильним подарунком або яскравим акцентом для інтер’єрів із характером.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="0507-007angel" available="true">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i131308942-75e9022648bf5b7b300dddc5d002bf38-1775638280393.jpg</picture>
+<vendor>elisey</vendor>
+<vendorCode>0507-007angel</vendorCode>
+<name_ua>Статуетка з підсвічуванням Ангел з книгою 19 см (0507-007)</name_ua>
+<name_ru>Статуэтка с подсветкой Ангел с книгой 19 см (0507-007)</name_ru>
+<description_ua>Елегантна декоративна статуетка «Янгол з книгою» стане вишуканим доповненням інтер’єру та символічним подарунком для близьких. Фігура янгола з книгою у руках уособлює мудрість, спокій та духовну гармонію, створюючи атмосферу тепла і затишку в домі. М’яка вбудована підсвітка додає виробу особливого шарму, красиво підсвічуючи деталі та наповнюючи простір ніжним світлом.</description_ua>
+<quantity_in_stock>1</quantity_in_stock>
+</offer>
+<offer id="RE04239" available="true">
+<price>909</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78365524-f3ccdd27d2000e3f9255a7e3e2c48800-1708706220633.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE04239</vendorCode>
+<name_ua>Декоративна статуетка 14.5 см (707-252)</name_ua>
+<name_ru>Декоративная статуэтка 14.5 см (707-252)</name_ru>
+<description_ua>Статуетка янголят може послужити прикрасою не тільки Вашого інтер'єру, а також додати вишуканості при оформленні весільної, новорічної, різдвяної, великодньої композиції.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01868" available="true">
+<price>462</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70376401-0cc6522a68ff40382c08304001d61023.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>RE01868</vendorCode>
+<name_ua>Декоративна статуетка Груша (FG2-370)</name_ua>
+<name_ru>Декоративная статуэтка Груша (FG2-370)</name_ru>
+<description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="AE001291" available="true">
+<price>299</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i130569866-27469b50926a16554aea4fa7b0c229bc-1774787732874.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>AE001291</vendorCode>
+<name_ua>Декоративна фігурка "Свинка-балерина", набір 3 шт., 9 см 538-545</name_ua>
+<name_ru>Декоративная фигурка "Свинка-балерина", набор 3 шт., 9 см 538-545</name_ru>
+<description_ua>Чарівний набір декоративних фігурок «Свинка-балерина» стане яскравим акцентом в інтер'єрі та подарує гарний настрій. У комплект входять три фігурки в різних дизайнах, кожна з яких виконана в ніжних відтінках пастельних і прикрашена повітряною балетною спідницею. Фігурки відмінно підійдуть для декору будинку, вітрини магазину, дитячої кімнати або як оригінальний подарунок. Переваги: Набір з 3 фігурок - готове декоративне рішення Різні дизайни - виглядають цікаво разом Компактний розмір — зручно розміщувати на полицях та столі Яскравий та милий зовнішній вигляд – привертає увагу Відмінний варіант для подарунка</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="AE001295" available="true">
+<price>699</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i130570026-4af7965e0317e5aaf1d38da661970792-1774789188808.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>AE001295</vendorCode>
+<name_ua>Стикер підвісний «Жаба» 1 К4.141 для квіткового горщика</name_ua>
+<name_ru>Стикер подвесной «Лягушка» 1 К4.141 для цветочного горшка</name_ru>
+<description_ua>Оригінальний підвісний стікер «Жаба» - стильний декоративний елемент для прикраси горщиків для квітів і кімнатних рослин. Милий дизайн у вигляді жаби додасть затишку та пожвавить інтер'єр, зробивши композицію з рослинами більш цікавою та привабливою. Виріб виконаний із міцного пластокерамічного матеріалу, стійкого до вологи та зовнішніх впливів, що дозволяє використовувати його як у приміщенні, так і на балконі або терасі. Переваги: Оригінальний дизайн - прикрашає квіткові горщики Легко кріпиться на край горщика Вологостійкий матеріал - підходить для рослин Компактний розмір – не заважає росту рослини Відмінно підходить для декору будинку та подарунку</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OO00397" available="true">
+<price>225</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/K07_793.jpg</picture>
+<vendor>BonaDi</vendor>
+<vendorCode>OO00397</vendorCode>
+<name_ua>Декоративна фігурка-підвіска Кролик з букетами 4*4.5*10 см коричневий з жовтим K07-793</name_ua>
+<name_ru>Декоративная фигурка подвеска Кролик с букетами 4*4.5*10 см коричневый с желтым K07-79</name_ru>
+<description_ua>Декоративна фігурка-підвіска Кролик з букетами 4*4.5*10 см коричневий з жовтим&amp;nbsp; &amp;nbsp;Матеріал: Полістоун</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
 </offer>
 </offers>
 </shop>
