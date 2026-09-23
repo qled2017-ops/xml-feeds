@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-23 07:05">
+<yml_catalog date="2026-09-23 09:01">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -2438,7 +2438,7 @@
 <param name="Тип">Миски</param>
 <param name="Колір">Сріблястий</param>
 </offer>
-<offer id="KitchenMasterWhite" available="true">
+<offer id="KitchenMasterWhite" available="false">
 <price>579</price>
 <currencyId>UAH</currencyId>
 <categoryId>105454.0</categoryId>
