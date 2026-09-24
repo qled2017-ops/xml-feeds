@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-24 10:53">
+<yml_catalog date="2026-09-24 11:55">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -103543,7 +103543,7 @@ _x000D_
 <description_ua>Матеріал: 100% поліестер; Набивка: 100% поліестер (100 г/кв.м); Сумка для транспортування: 100% поліестер. Розміри: 210 х 150 см. Вага: 800г. Особливості: - У комплекті із невеликою сумкою для транспортування; - Можна використовувати як підкладку для пончо або як ковдру.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK02428" available="true">
+<offer id="OK02428" available="false">
 <price>2174</price>
 <currencyId>UAH</currencyId>
 <categoryId>1003</categoryId>
@@ -103559,7 +103559,7 @@ _x000D_
 <name_ua>Підкладка під пончо, ковдра, килимок для сну Mil-Tec 210х150см Олива PONCHO LINER (STEPPDECKE) WOODLAND (14425001)</name_ua>
 <name_ru>Подкладка под пончо, одеяло, коврик для сна Mil-Tec 210х150см Олива PONCHO LINER (STEPPDECKE) WOODLAND (14425001)</name_ru>
 <description_ua>Матеріал: 100% поліестер; Набивка: 100% поліестер (100 г/кв.м); Сумка для транспортування: 100% поліестер. Розміри: 210 х 150 см. Вага: 800г. Особливості: - У комплекті із невеликою сумкою для транспортування; - Можна використовувати як підкладку для пончо або як ковдру.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK02429" available="true">
 <price>2174</price>
@@ -103679,8 +103679,8 @@ _x000D_
 <description_ua>Матеріал: 100% поліестер (фліс, 220 г/кв.м). Сумка для транспортування: 100% поліестер. Розміри: 220 х 80 х 50 см. Розмір упаковки: 37 х 12 см. Вага: 740г. Екстремальний діапазон: приблизно до 17 градусів. Особливості: - Флісова підкладка у спальний мішок у формі мумії; - Флісовий спальний мішок також можна використовувати як ковдру або легкий літній спальник; - Вбудований капюшон зі шнурком; - Двостороння блискавка; - У комплект входить сумка-чохол для транспортування.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="SA000460" available="true">
-<price>1576</price>
+<offer id="SA000460" available="false">
+<price>962</price>
 <currencyId>UAH</currencyId>
 <categoryId>1010</categoryId>
 <picture>https://cdn.27.ua/sc--media--prod/default/3a/1a/6b/3a1a6b32-2c92-46a1-8e1b-6ef271250225.jpg</picture>
@@ -103690,7 +103690,7 @@ _x000D_
 <vendorCode>SA000460</vendorCode>
 <name_ua>Коврик для йоги каучуковый двухслойный 3мм Record FI-5662-9 1,83мx0,61м Коралловый, с принтом Мандала</name_ua>
 <description_ua>Тип: килимок для йоги. Кількість шарів: двошаровий. Матеріал: замша, каучук. Розмір: 183x61x0,3 см. Комплектація: фіксуючий ремінь. Колір: кораловий, з принтом Мандала.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK01013" available="true">
 <price>408</price>
