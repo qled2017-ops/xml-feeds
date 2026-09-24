@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-24 01:38">
+<yml_catalog date="2026-09-24 03:42">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -91442,7 +91442,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00314" available="true">
+<offer id="OK00314" available="false">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -91456,7 +91456,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00428" available="true">
+<offer id="OK00428" available="false">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -101674,6 +101674,1816 @@ _x000D_
 <name_ua>Декоративна фігурка-підвіска Кролик з букетами 4*4.5*10 см коричневий з жовтим K07-793</name_ua>
 <name_ru>Декоративная фигурка подвеска Кролик с букетами 4*4.5*10 см коричневый с желтым K07-79</name_ru>
 <description_ua>Декоративна фігурка-підвіска Кролик з букетами 4*4.5*10 см коричневий з жовтим&amp;nbsp; &amp;nbsp;Матеріал: Полістоун</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="UU0000281" available="true">
+<price>129</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i100742422-0e2382fc9539688312a1bc29acbdcded-1741005788821.jpg</picture>
+<vendor>Польща</vendor>
+<vendorCode>UU0000281</vendorCode>
+<name_ua>Статуетка "ведмедик сидячий з соскою" сірий 31155</name_ua>
+<name_ru>Статуэтка "мишка сидячий с соской" серый 31155</name_ru>
+<description_ua>Країна імпорту Польща Ціна вказана на 1шт. Висота 6см; Ширина 6см Матеріал кераміка</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK07777" available="true">
+<price>190</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://decorize.com.ua/image/catalog/2024/08.2024.2/_DSC7624.jpg</picture>
+<picture>https://decorize.com.ua/image/catalog/2024/08.2024.2/_DSC7625.jpg</picture>
+<picture>https://decorize.com.ua/image/catalog/2024/08.2024.2/_DSC7628.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OK07777</vendorCode>
+<name_ua>Статуетка змій з ялинкою 3563-9</name_ua>
+<name_ru>Статуэтка змей с елочкой 3563-9</name_ru>
+<description_ua>Висота 16 см Ширина 11 см Матеріал: МДФ</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK07774" available="true">
+<price>190</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://decorize.com.ua/image/catalog/2024/09.2024.1/_DSC8170.JPG</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OK07774</vendorCode>
+<name_ua>Статуетка змія блакитна 3563-15</name_ua>
+<name_ru>Статуэтка змея голубая 3563-15</name_ru>
+<description_ua>Висота 17 см Ширина 9 см Матеріал: МДФ</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK07779" available="true">
+<price>190</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://decorize.com.ua/image/catalog/2024/09.2024.1/_DSC8176.JPG</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OK07779</vendorCode>
+<name_ua>Статуетка змія зелена 3563-14</name_ua>
+<name_ru>Статуэтка змея зеленая 3563-14</name_ru>
+<description_ua>Висота 12 см Ширина 7 см Матеріал: МДФ</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK07776" available="true">
+<price>190</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://decorize.com.ua/image/catalog/2024/08.2024.2/_DSC7645.jpg</picture>
+<picture>https://decorize.com.ua/image/catalog/2024/08.2024.2/_DSC7646.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OK07776</vendorCode>
+<name_ua>Статуетка змія з подарунками 3563-12</name_ua>
+<name_ru>Статуэтка змея с подарочками 3563-12</name_ru>
+<description_ua>Висота 13 см Ширина 14 см Матеріал: МДФ</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK07771" available="true">
+<price>233</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://decorize.com.ua/image/catalog/2024/08.2024.2/_DSC7647.jpg</picture>
+<picture>https://decorize.com.ua/image/catalog/2024/08.2024.2/_DSC7649.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OK07771</vendorCode>
+<name_ua>Статуетка змія з новим роком 4236-10</name_ua>
+<name_ru>Статуэтка змея с новым годом 4236-10</name_ru>
+<description_ua>Висота 10 см, довжина 26 см Матеріали: МДФ</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01763" available="true">
+<price>687</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006158-fe2e808ab002733b216585a190f67979-1767704254008.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006158-9d9a14aeecfef2f4f1d43908ac517650-1767704254515.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01763</vendorCode>
+<name_ua>Статуетка декоративна "кішка" DH-ST-21 S COLOR</name_ua>
+<name_ru>Статуэтка декоративная "кошка" DH-ST-21 S COLOR</name_ru>
+<description_ua>Оригінальна статуетка МВМ MY HOME Кішка – це красивий сучасний аксесуар і справжній витвір мистецтва, який радуватиме око своїм зовнішнім виглядом. Крім того, статуетка має позитивне значення, тварина з піднятим хвостиком вгору принесе благополуччя і процвітання в будинок. Виготовлена із якісної синтетичної смоли. Має привабливий дизайн та неординарне кольорове забарвлення. Така ненав'язлива фігурка успішно доповнить будь-який інтер'єр. Стане приємним акцентом у оформленні приміщення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01764" available="true">
+<price>687</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006158-fe2e808ab002733b216585a190f67979-1767704254008.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006270-bd050bca475092e5c4065eed3eb17809-1767704356713.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006158-9d9a14aeecfef2f4f1d43908ac517650-1767704254515.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01764</vendorCode>
+<name_ua>Статуетка декоративна "кішка" DH-ST-21 M COLOR</name_ua>
+<name_ru>Статуэтка декоративная "кошка" DH-ST-21 M COLOR</name_ru>
+<description_ua>Оригінальна статуетка МВМ MY HOME Кішка – це красивий сучасний аксесуар і справжній витвір мистецтва, який радуватиме око своїм зовнішнім виглядом. Крім того, статуетка має позитивне значення, тварина з піднятим хвостиком вгору принесе благополуччя і процвітання в будинок. Виготовлена із якісної синтетичної смоли. Має привабливий дизайн та неординарне кольорове забарвлення. Така ненав'язлива фігурка успішно доповнить будь-який інтер'єр. Стане приємним акцентом у оформленні приміщення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01765" available="true">
+<price>911</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006281-3aec675e6f37ea5ccc4d0c632904cd12-1767704572455.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006281-b1f081526bfd3fb4fb5981e97935c421-1767704570824.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006281-4feff9e9615ae5251a44f10168047a48-1767704571267.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006281-c8560948cb9419b5a3a5e2a2cf347038-1767704571660.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124006281-62deedcf21888fd757b7955a4385a511-1767704572098.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01765</vendorCode>
+<name_ua>Статуетка декоративна "слон" DH-ST-22 S COLOR</name_ua>
+<name_ru>Статуэтка декоративная "слон" DH-ST-22 S COLOR</name_ru>
+<description_ua>Яскрава декоративна статуетка МВМ MY HOME у вигляді барвистого слона – це чудовий твір сучасного мистецтва. Приваблива фігурка з арт розписом поєднує статуетку та картину в одному виробі. Слон стане родзинкою інтер'єру та додасть фарб приміщенню. Аксесуар виготовлений із якісної синтетичної смоли. Статуетка стане чудовим елементом декору, зробить приміщення неповторним, додасть особливої енергії та викличе усмішку на обличчі. Можна придбати для себе або на подарунок мрійливим творчим особистостям.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01766" available="false">
+<price>1407</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124007529-3aec675e6f37ea5ccc4d0c632904cd12-1767704723423.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124007529-374673161560ae95c7ad65ea76e2a09b-1767704722063.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124007529-b1f081526bfd3fb4fb5981e97935c421-1767704721760.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124007529-4feff9e9615ae5251a44f10168047a48-1767704722408.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124007529-c8560948cb9419b5a3a5e2a2cf347038-1767704722742.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124007529-62deedcf21888fd757b7955a4385a511-1767704723112.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01766</vendorCode>
+<name_ua>Статуетка декоративна "слон" DH-ST-22 M COLOR</name_ua>
+<name_ru>Статуэтка декоративная "слон" DH-ST-22 M COLOR</name_ru>
+<description_ua>Яскрава декоративна статуетка МВМ MY HOME у вигляді барвистого слона – це чудовий твір сучасного мистецтва. Приваблива фігурка з арт розписом поєднує статуетку та картину в одному виробі. Слон стане родзинкою інтер'єру та додасть фарб приміщенню. Аксесуар виготовлений із якісної синтетичної смоли. Статуетка стане чудовим елементом декору, зробить приміщення неповторним, додасть особливої енергії та викличе усмішку на обличчі. Можна придбати для себе або на подарунок мрійливим творчим особистостям.</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="KD01769" available="true">
+<price>519</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321391-6a682b1e7256436aa784c4f413184723-1768043701415.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321391-fc1aa9a738e408c79286c597b26e0676-1768043701995.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321391-86aa79339d6e51588fd2876d44f04c7d-1768043701759.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321391-2dac8fb9f8c6d72d4a5078dcc8b72b7a-1768043701098.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01769</vendorCode>
+<name_ua>Статуетка "Равлик" DH-ST-24 S GOLD</name_ua>
+<name_ru>Статуэтка "Улитка" DH-ST-24 S GOLD</name_ru>
+<description_ua>Оригінальна статуетка равлика МВМ MY HOME допоможе у декоруванні приміщення та стане родзинкою інтер'єру. А ще це універсальний подарунок з будь-якого приводу. Статуетка має неординарний привабливий дизайн, що неодмінно сподобається поціновувачам прекрасного. Виготовлена із якісної смоли.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01770" available="true">
+<price>582</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321391-6a682b1e7256436aa784c4f413184723-1768043701415.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321391-86aa79339d6e51588fd2876d44f04c7d-1768043701759.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321391-2dac8fb9f8c6d72d4a5078dcc8b72b7a-1768043701098.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321518-e4b53da078b37cc31d10065d67a742e4-1768043855347.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01770</vendorCode>
+<name_ua>Статуетка "Равлик" DH-ST-24 M GOLD</name_ua>
+<name_ru>Статуэтка "Улитка" DH-ST-24 M GOLD</name_ru>
+<description_ua>Оригінальна статуетка равлика МВМ MY HOME допоможе у декоруванні приміщення та стане родзинкою інтер'єру. А ще це універсальний подарунок з будь-якого приводу. Статуетка має неординарний привабливий дизайн, що неодмінно сподобається поціновувачам прекрасного. Виготовлена із якісної смоли.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01771" available="true">
+<price>582</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321538-bb70420ca5257d91b2f44f45ecca1f6b-1768043956826.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321538-177aa2bb8bbb541621573af5edb502b2-1768043956637.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321538-60fa4bb2b1b66f06ba0eab6440094b09-1768043957014.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01771</vendorCode>
+<name_ua>Статуетка "Равлик" DH-ST-24 M BLACK</name_ua>
+<name_ru>Статуэтка "Улитка" DH-ST-24 M BLACK</name_ru>
+<description_ua>Оригінальна статуетка равлика МВМ MY HOME допоможе у декоруванні приміщення та стане родзинкою інтер'єру. А ще це універсальний подарунок з будь-якого приводу. Статуетка має неординарний привабливий дизайн, що неодмінно сподобається поціновувачам прекрасного. Виготовлена із якісної смоли.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01776" available="true">
+<price>227</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321634-a16c04c26e84ccb4146fad26ecbcd726-1768045101921.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321634-f8401fa2ad4681ee808400c0aed824fd-1768045102198.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321634-95c4f6a72af198fcf9065579d07039d7-1768045101731.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01776</vendorCode>
+<name_ua>Статуетка "Пташка" DH-ST-30 S WHITE</name_ua>
+<name_ru>Статуэтка "Птичка" DH-ST-30 S WHITE</name_ru>
+<description_ua>Еталон ніжності та краси ідеально впишеться в будь-який інтер'єр. Буде чудово виглядати у дитячій кімнаті, вітальні, на рецепшені громадського закладу, в офісі, ресторані тощо. Статуетка МВМ MY HOME птах має лаконічний та дуже привабливий дизайн. Виготовлена із міцної смоли. Можна придбати собі чи на подарунок.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01777" available="true">
+<price>309</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321645-30fdeb96fd7d19b7af5486a208ae0cc4-1768045236865.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321645-5034da5c2c1d7df23af6edcecf2a3b22-1768045237177.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321645-ed33c03728bf730ae14b1d0a9cba0a3c-1768045237405.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01777</vendorCode>
+<name_ua>Статуетка "Пташка" DH-ST-30 M WHITE</name_ua>
+<name_ru>Статуэтка "Птичка" DH-ST-30 M WHITE</name_ru>
+<description_ua>Еталон ніжності та краси ідеально впишеться в будь-який інтер'єр. Буде чудово виглядати у дитячій кімнаті, вітальні, на рецепшені громадського закладу, в офісі, ресторані тощо. Статуетка МВМ MY HOME птах має лаконічний та дуже привабливий дизайн. Виготовлена із міцної смоли. Можна придбати собі чи на подарунок.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01778" available="true">
+<price>414</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321645-30fdeb96fd7d19b7af5486a208ae0cc4-1768045236865.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321645-5034da5c2c1d7df23af6edcecf2a3b22-1768045237177.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124321689-5e892eeb27e0470047dfd05e2a616d98-1768045344833.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01778</vendorCode>
+<name_ua>Статуетка "Пташка" DH-ST-30 L WHITE</name_ua>
+<name_ru>Статуэтка "Птичка" DH-ST-30 L WHITE</name_ru>
+<description_ua>Еталон ніжності та краси ідеально впишеться в будь-який інтер'єр. Буде чудово виглядати у дитячій кімнаті, вітальні, на рецепшені громадського закладу, в офісі, ресторані тощо. Статуетка МВМ MY HOME птах має лаконічний та дуже привабливий дизайн. Виготовлена із міцної смоли. Можна придбати собі чи на подарунок.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01779" available="true">
+<price>309</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324175-e191a1378a7b6ac00041d3568596a559-1768045516839.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324175-ad572d5ba77201a0629407ac23cfc716-1768045517044.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01779</vendorCode>
+<name_ua>Статуетка "Пташка" DH-ST-30 M BLACK</name_ua>
+<name_ru>Статуэтка "Птичка" DH-ST-30 M BLACK</name_ru>
+<description_ua>Еталон ніжності та краси ідеально впишеться в будь-який інтер'єр. Буде чудово виглядати у дитячій кімнаті, вітальні, на рецепшені громадського закладу, в офісі, ресторані тощо. Статуетка МВМ MY HOME птах має лаконічний та дуже привабливий дизайн. Виготовлена із міцної смоли. Можна придбати собі чи на подарунок.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01780" available="true">
+<price>414</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324175-e191a1378a7b6ac00041d3568596a559-1768045516839.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324292-30d97f9fdac30ed0648b3dcb05df9ced-1768045623719.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01780</vendorCode>
+<name_ua>Статуетка "Пташка" DH-ST-30 L BLACK</name_ua>
+<name_ru>Статуэтка "Птичка" DH-ST-30 L BLACK</name_ru>
+<description_ua>Еталон ніжності та краси ідеально впишеться в будь-який інтер'єр. Буде чудово виглядати у дитячій кімнаті, вітальні, на рецепшені громадського закладу, в офісі, ресторані тощо. Статуетка МВМ MY HOME птах має лаконічний та дуже привабливий дизайн. Виготовлена із міцної смоли. Можна придбати собі чи на подарунок.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01781" available="true">
+<price>1346</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324303-cbc331bbd81bb72621ed26fa1949de19-1768045870034.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324303-68013331411d470a7aca09416b731aeb-1768045869755.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324303-03ccfd0954d0f900f7f1a6aa00d31945-1768045870271.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01781</vendorCode>
+<name_ua>Статуетка "Ялинка" DH-ST-31 S GREEN</name_ua>
+<name_ru>Статуэтка "Елка" DH-ST-31 S GREEN</name_ru>
+<description_ua>Красива тематична статуетка ялинка МВМ MY HOME нагадає про наближення свята та створить особливу теплу атмосферу у приміщенні. Маленьку ялинку можна поставити на робочому столі, полиці чи підвіконні. А ще – це чудовий символічний подарунок. Статуетка виготовлена із якісної смоли. Чудово виглядатиме як окремий аксесуар і доповнить святкову композицію.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KD01782" available="true">
+<price>1618</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324323-832ad36f56cec7401d8211e2f3c71c55-1768046025574.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324323-0bbd3117a59d8913095a18bb9a93cc65-1768046023936.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324323-6c797250a9dd9f6bbeec9a6cc57b4ec8-1768046025101.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324323-53aa36703a7874500aac4fc57471f82d-1768046024335.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324323-87941d73d23d85d1f06eb2aa7fbdd873-1768046024708.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124324323-b11cf13fb6e7277d5c64a26037feba61-1768046025338.jpg</picture>
+<vendor>МВМ MY HOME</vendor>
+<vendorCode>KD01782</vendorCode>
+<name_ua>Статуетка "Ялинка" DH-ST-31 M GREEN</name_ua>
+<name_ru>Статуэтка "Елка" DH-ST-31 M GREEN</name_ru>
+<description_ua>Красива тематична статуетка ялинка МВМ MY HOME нагадає про наближення свята та створить особливу теплу атмосферу у приміщенні. Маленьку ялинку можна поставити на робочому столі, полиці чи підвіконні. А ще – це чудовий символічний подарунок. Статуетка виготовлена із якісної смоли. Чудово виглядатиме як окремий аксесуар і доповнить святкову композицію.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01037" available="true">
+<price>1920</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124356160-53c6a6edff2e71bf8376bf96e143aeda-1768157652856.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01037</vendorCode>
+<name_ua>Декоративна статуетка "Щасливі разом", 33см (K07-173)</name_ua>
+<name_ru>Декоративная статуэтка "Счастливые вместе", 33см (K07-173)</name_ru>
+<description_ua>Матеріал: Полістоун Розміри:&amp;nbsp;16.5*12.5*33см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01038" available="true">
+<price>1800</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124357714-128b9134d919322d63d7e7671a790223-1768157834267.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01038</vendorCode>
+<name_ua>Декоративна статуетка Щаслива сім'я, 30см (K07-814)</name_ua>
+<name_ru>Декоративная статуэтка Счастливая семья, 30см (K07-814)</name_ru>
+<description_ua>Матеріал: Полістоун Колір: Бежевий Розміри: 20*9.5*30см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01056" available="true">
+<price>1330</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124358101-641a017041a2c2ca8626412956e93ce8-1768159966670.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01056</vendorCode>
+<name_ua>Декоративна статуетка Сім'я слонів 29см, колір - чорний із золотом (SG37-888)</name_ua>
+<name_ru>Декоративная статуэтка Семья слонов 29см, цвет – черный с золотом (SG37-888)</name_ru>
+<description_ua>Матеріал: Полістоун Колір:&amp;nbsp;Чорний Розміри:&amp;nbsp;29*10.5*15.2см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01065" available="true">
+<price>1180</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124358175-6f2eb6753abd9f433109f7015d2c4669-1768161408790.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01065</vendorCode>
+<name_ua>Декоративна статуетка Сім'я слонів 30,5см, колір - білий із золотом (SG37-877)</name_ua>
+<name_ru>Декоративная статуэтка Семья слонов 30,5см, цвет – белый с золотом (SG37-877)</name_ru>
+<description_ua>Матеріал: Полістоун Колір:&amp;nbsp;Білий Розміри:&amp;nbsp;30.5*9*15см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01068" available="true">
+<price>1130</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359000-74e8d94a52a2d4543c4d43530634ce60-1768161662536.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01068</vendorCode>
+<name_ua>Декоративна статуетка Танцююча дівчина, 29см (K07-457)</name_ua>
+<name_ru>Декоративная статуэтка Танцующая девушка, 29см (K07-457)</name_ru>
+<description_ua>Матеріал:&amp;nbsp;Полірезіна Розміри:&amp;nbsp;20*13*29см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01072" available="true">
+<price>1080</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359141-0c3f04c008366ff8d2a6bb01d2c6b795-1768163092160.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01072</vendorCode>
+<name_ua>Декоративна статуетка Bon Voyage, 25.5см (K07-183)</name_ua>
+<name_ru>Декоративная статуэтка Bon Voyage, 25.5см (K07-183)</name_ru>
+<description_ua>Матеріал:&amp;nbsp;Полістоун Розміри:&amp;nbsp;12.5*10*25.5см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01084" available="true">
+<price>900</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359215-5ef06d72c0d899df5c989d4b73cdb00b-1768164776533.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01084</vendorCode>
+<name_ua>Декоративна статуетка Слон 20,5 см, колір - білий із золотом (SG37-874)</name_ua>
+<name_ru>Декоративная статуэтка Слон 20,5 см, цвет – белый с золотом (SG37-874)</name_ru>
+<description_ua>Матеріал: Полістоун Колір:&amp;nbsp;Білий Розміри:&amp;nbsp;20.5*8.5*16.7см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01094" available="true">
+<price>776</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359367-0a30cefd2e957fe3d092f9020f620bab-1768166085040.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01094</vendorCode>
+<name_ua>Декоративна статуетка Йогіня з котиками, 14см (K07-107)</name_ua>
+<name_ru>Декоративная статуэтка Йогиня с котиками, 14см (K07-107)</name_ru>
+<description_ua>Матеріал: Полістоун Колір: Різнокольоровий Розміри: 8.8*10.5*19.5см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01123" available="true">
+<price>1120</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359552-436470bcfc01d7b0e46cb5c8b484403e-1773218503076.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01123</vendorCode>
+<name_ua>Набір декоративних статуеток дівчинки із парасолькою, 2шт, 25.5см (K07-450)</name_ua>
+<name_ru>Набор декоративных статуэток девочки с зонтиком, 2шт, 25.5см (K07-450)</name_ru>
+<description_ua>Матеріал:&amp;nbsp;Полірезіна Розміри:&amp;nbsp;9.5*11*25.5см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03288" available="true">
+<price>147</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124373887-5680fdb414554a574d1e29ba27a35fae-1768221029256.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03288</vendorCode>
+<name_ua>Фігурка керамічна Яйце золоте 6 см. 33739</name_ua>
+<name_ru>Фигурка керамическая Яйцо золотое 6 см. 33739</name_ru>
+<description_ua>Керамічна фігурка яйце золотого кольору. Підходить для подарунка на Великдень.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01138" available="true">
+<price>1840</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124564229-8a4777bbbf92bcd6f3f9f80aa65a6d51-1768476848076.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01138</vendorCode>
+<name_ua>Набір декоративних статуеток Гусак під парасолькою 4шт, 18см (HA9-111)</name_ua>
+<name_ru>Набор декоративных статуэток Гусь под зонтиком 4шт, 18см (HA9-111)</name_ru>
+<description_ua>Матеріал: Полістоун Колір:&amp;nbsp;Білий Розміри:&amp;nbsp;8.5*6*18см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01139" available="true">
+<price>1840</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124564248-ec035f39fac2b7d3407ee3e87daea5e9-1768476905065.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01139</vendorCode>
+<name_ua>Набір декоративних статуеток Гусак під парасолькою 4шт, 18см (HA9-111)</name_ua>
+<name_ru>Набор декоративных статуэток Гусь под зонтиком 4шт, 18см (HA9-111)</name_ru>
+<description_ua>Матеріал: Полістоун Колір:&amp;nbsp;Білий Розміри:&amp;nbsp;8.5*6*18см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01141" available="true">
+<price>840</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124564275-0444f56714ef7418accd3a29dc21d569-1768477116535.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01141</vendorCode>
+<name_ua>Набір декоративних статуеток Дівчинка з ведмедиком 2шт, 14.5см (K07-129)</name_ua>
+<name_ru>Набор декоративных статуэток Девочка с мишкой 2шт, 14.5см (K07-129)</name_ru>
+<description_ua>Матеріал:&amp;nbsp;Полістоун Розміри:&amp;nbsp;7.5*6*14.5см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01148" available="true">
+<price>960</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124564455-444a55d69cbc8c58ee83a852073ca80e-1768478059039.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01148</vendorCode>
+<name_ua>Набір декоративних статуеток Дітки з квітами 3шт, 11.5см (K07-130)</name_ua>
+<name_ru>Набор декоративных статуэток Детки с цветами 3шт, 11.5см (K07-130)</name_ru>
+<description_ua>Матеріал: Полістоун Розміри:&amp;nbsp;7*5*11.5см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OS01149" available="true">
+<price>960</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124564482-5fc060c5a7f4c7868954462b8a03d7f2-1768478095721.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01149</vendorCode>
+<name_ua>Набір декоративних статуеток Дітки з квітами 3шт, 11.5см (K07-130)</name_ua>
+<name_ru>Набор декоративных статуэток Детки с цветами 3шт, 11.5см (K07-130)</name_ru>
+<description_ua>Матеріал: Полістоун Розміри:&amp;nbsp;7*5*11.5см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="VK00975" available="false">
+<price>1824</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i88822337-e6b41d1c64e7b56c4cac72e84010e64d-1724156405904.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i88822337-4b1bafd02413c1720e82481644fc3aa6-1724156405995.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i88822337-693b655c16881e556ac43512bbe6e516-1724156406088.jpg</picture>
+<vendor>Fairytale</vendor>
+<vendorCode>VK00975</vendorCode>
+<name_ua>Статуетка "Fairytale" (8712-008)</name_ua>
+<name_ru>Статуэтка “Fairytale” (8712-008)</name_ru>
+<description_ua>Оригінальна декоративна статуетка дівчини із підставкою від бренду Andrea. Статуетки дівчат, леді з нової колекції Andrea уособлюють індивідуальність, підкреслюють стиль та несуть настрій. Кожна з них унікальна і здатна не просто прикрасити, а й пожвавити інтер'єр, підтримати атмосферу заданого стилю, внесе жвавість і наповненість в простір, що оформляється. Кожна статуетка цієї колекції символізує якийсь внутрішній зміст, Вам необхідно лише вибрати яка відображає саме Вас. Ширина 18 см Довжина 17 см Висота 20 см Матеріал Полістоун</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="VK00974" available="false">
+<price>387</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i88813582-290a989161fadd39eb68f651dcd1b14a-1724146109606.jpg</picture>
+<vendor>Crystocraft</vendor>
+<vendorCode>VK00974</vendorCode>
+<name_ua>Фігурка "Дельфін" Crystocraft 0276-001/GA</name_ua>
+<name_ru>Фигурка “Дельфин” Crystocraft 0276-001/GA</name_ru>
+<description_ua>Ми вивчаємо сучасні тенденції розвитку галузі. Це дозволяє нам йти в ногу з часом, стежити за всіма новинками і пропонувати асортимент, що постійно оновлюється, відповідний актуальним потребам сьогоднішнього ринку. У нашому асортименті Ви завжди зможете знайти продукцію для будь-якого свята – як сімейного, так і офіційного. А предмети декору, представлені у нас, задовольнять потреби як шанувальників сучасного, так і прихильників класичного стилю в оформленні інтер'єрів.</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01019" available="false">
+<price>5090</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124353528-26c33464e6acf197978ca8a9c769cca2-1768155163226.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01019</vendorCode>
+<name_ua>Декоративна статуетка Кролик на велосипеді 50см (419-302)</name_ua>
+<name_ru>Декоративная статуэтка Кролик на велосипеде 50см (419-302)</name_ru>
+<description_ua>Матеріал: Полістоун Розміри: 13*18.5*50см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01057" available="false">
+<price>1320</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124358104-c9029c013cdec0062c140539569a6847-1768160068559.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01057</vendorCode>
+<name_ua>Декоративна фігура з годинником Білий Кролик 21см, колір - рожеве золото (419-281)</name_ua>
+<name_ru>Декоративная фигура с часами Белый Кролик 21см, цвет – розовое золото (419-281)</name_ru>
+<description_ua>Матеріал: Полістоун Розміри:&amp;nbsp;11*8.5*21см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01085" available="false">
+<price>884</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359219-22310beb2c36690f315a4b6bcc2a950c-1768164875039.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01085</vendorCode>
+<name_ua>Декоративна стауетка Лебедине озеро, 18.5см (707-584)</name_ua>
+<name_ru>Декоративная стауэтка Лебединое озеро, 18.5см (707-584)</name_ru>
+<description_ua>Матеріал:&amp;nbsp;Полістоун Колір:&amp;nbsp;Зелений Розміри:&amp;nbsp;18.5*7.5*16.5см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01088" available="false">
+<price>890</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359239-e5dced25f64ad1d69809131b797322a8-1768165291798.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01088</vendorCode>
+<name_ua>Декоративна фігура Слон 19.5см, колір - золото (459-107)</name_ua>
+<name_ru>Декоративная фигура Слон 19.5см, цвет – золото (459-107)</name_ru>
+<description_ua>Матеріал:&amp;nbsp;Полірезіна Колір:&amp;nbsp;Золотий Розміри:&amp;nbsp;19.5*8*20.2см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01097" available="false">
+<price>760</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359383-8d2b102189c568d734c8e6d08038f81b-1768166387476.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01097</vendorCode>
+<name_ua>Декоративна статуетка Такса 14.5см, колір - срібло (459-002)</name_ua>
+<name_ru>Декоративная статуэтка Такса 14.5см, цвет – серебро (459-002)</name_ru>
+<description_ua>Матеріал: Полірезіна Колір: Срібло Розміри: 24.5*6.5*14.5см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01104" available="false">
+<price>875</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359416-ff7641d5991b214742f5633d4be15051-1768167260510.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01104</vendorCode>
+<name_ua>Декоративна статуетка Тигр у шарфі 37.5см, колір - бірюза з жовтим (218-214)</name_ua>
+<name_ru>Декоративная статуэтка Тигр в шарфе 37.5см, цвет - бирюза с желтым (218-214)</name_ru>
+<description_ua>Матеріал: Полістоун Колір:&amp;nbsp;Бірюзовий Розміри:&amp;nbsp;14*10*37.5см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01116" available="false">
+<price>750</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359502-734765881ad3d8259ebef094eb1e5205-1768168786644.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01116</vendorCode>
+<name_ua>Декоративна статуетка з годинником Тигр, 26.5 см, колір - зелений із золотом (419-249)</name_ua>
+<name_ru>Декоративная статуэтка с часами Тигр, 26.5 см, цвет - зеленый с золотом (419-249)</name_ru>
+<description_ua>Матеріал: Полістоун Колір:&amp;nbsp;Зелений Розміри:&amp;nbsp;13*12*26.5см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01117" available="false">
+<price>750</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359503-14293426230ac6cd729b64965ec84ec2-1768168965567.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01117</vendorCode>
+<name_ua>Декоративна статуетка Корова з бантом, 27см, колір - чорний з білим (419-235)</name_ua>
+<name_ru>Декоративная статуэтка Корова с бантом, 27см, цвет – черный с белым (419-235)</name_ru>
+<description_ua>Матеріал: Полістоун Колір:&amp;nbsp;Чорний з білим Розміри:&amp;nbsp;27*11*20см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OS01137" available="false">
+<price>150</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124359621-2e0a3384414f39bb9a8fe9483459b1b7-1768172147937.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OS01137</vendorCode>
+<name_ua>Декоративна статуетка Собака 32см (737-137)</name_ua>
+<name_ru>Декоративная статуэтка Собака 32см (737-137)</name_ru>
+<description_ua>Матеріал:&amp;nbsp;Порцеляна Колір:&amp;nbsp;Білий Розміри:&amp;nbsp;10*6*32см</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="RS03704" available="true">
+<price>215</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124813985-e9f05d340ab760ad580d39eb726fc144-1768902386848.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03704</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик рожева, 15 см (12025-026)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик розовая, 15 см (12025-026)</name_ru>
+<description_ua>Висота фігурки — 15 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03705" available="true">
+<price>215</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124814129-c43a684dbd19de3a5e43a3f33f2a4ed0-1768902488087.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03705</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик зелена, 15 см (12025-025)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик зеленая, 15 см (12025-025)</name_ru>
+<description_ua>Висота фігурки — 15 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03706" available="true">
+<price>215</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124814230-570cb3f65765fea563a0bb5d49d43c18-1768902795023.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03706</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик темно-рожева, 15 см (12025-024)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик темно-розовая, 15 см (12025-024)</name_ru>
+<description_ua>Висота фігурки — 15 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03707" available="true">
+<price>215</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124814564-7ae635c9fe858a3695fbfdfcc1991f78-1768902863125.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03707</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик жовта, 15 см (12025-023)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик желтая, 15 см (12025-023)</name_ru>
+<description_ua>Висота фігурки — 15 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03708" available="true">
+<price>562</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124814570-06915cfe53cb565275a3aefb52f3ccd4-1768902932800.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124814570-dce160527e3be26ce8452ab7033054d7-1768902994055.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03708</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик рожева, 25 см (12025-022)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик розовая, 25 см (12025-022)</name_ru>
+<description_ua>Висота фігурки — 25 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03709" available="true">
+<price>562</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124814580-259e77957412270e6bf17734b6050ab9-1768903059188.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124814580-c922bb98edc8e47989d580cf8c55d4d5-1768903057944.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03709</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик зелена, 25 см (12025-021)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик зеленая, 25 см (12025-021)</name_ru>
+<description_ua>Висота фігурки — 25 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03710" available="true">
+<price>562</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124819939-6be8799ac373014fab4634930ba9ed97-1768903148393.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03710</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик  темно-рожева, 25 см (12025-020)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик темно-розовая, 25 см (12025-020)</name_ru>
+<description_ua>Висота фігурки — 25 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03711" available="true">
+<price>562</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124819961-e80bee84d6e17b51cbff51e0c349713b-1768903883161.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03711</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик жовта, 25 см (12025-019)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик желтая, 25 см (12025-019)</name_ru>
+<description_ua>Висота фігурки — 25 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03712" available="true">
+<price>1170</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124853446-2c12e1aebed07054d330b440c4382d6b-1768903982819.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124853446-80492388ca910cdf2ecab2d1baef8a0e-1768903981636.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03712</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик рожева 40 см (12025-018)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик розовая 40 см (12025-018)</name_ru>
+<description_ua>Висота фігурки — 40 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03713" available="true">
+<price>1170</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124855423-09ba56acb7cb9495da7e82b544d065a8-1768904073464.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124855423-ed90bfa2480a1b2134c0222cb868c780-1768904069488.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03713</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик зелена, 40 см (12025-017)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик зеленая, 40 см (12025-017)</name_ru>
+<description_ua>Висота фігурки — 40 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03714" available="true">
+<price>1170</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124855435-c63f1388787fc2b1fa93244e6f9609fe-1768904191147.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124855435-cd9c09e6c90f42fed726887c7057339c-1768904189812.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03714</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик темно-рожева, 40 см (12025-016)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик темно-розовая, 40 см (12025-016)</name_ru>
+<description_ua>Висота фігурки — 40 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03715" available="true">
+<price>1170</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124855447-16031c7d56a6fdf61ec48294e2cc0978-1768904329129.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124855447-90020259d03539e0ecf99d9fd0e28ab3-1768904325971.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03715</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик жовта, 40 см (12025-015)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик желтая, 40 см (12025-015)</name_ru>
+<description_ua>Висота фігурки — 40 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03716" available="true">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124855506-ae649af260df7aecf1f437fea9e3ee94-1768904712621.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124855506-95e3f7141276b79484c0eb2861dd4653-1768904711412.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03716</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик рожева, 23 см (12025-010)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик розовая, 23 см (12025-010)</name_ru>
+<description_ua>Висота фігурки — 23 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03717" available="true">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858236-80f8ad7b000e42bbfa771c3edc4619b6-1768904794386.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03717</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик зелена, 23 см (12025-009)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик зеленая, 23 см (12025-009)</name_ru>
+<description_ua>Висота фігурки — 23 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03718" available="true">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858239-b92b5a8fe1c56915602591b1e45aa0c2-1768904930839.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858239-a5fd0db986e2db0538e252a9df7e1b47-1768904929810.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03718</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик темно-рожева, 23 см (12025-008)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик темно-розовая, 23 см (12025-008)</name_ru>
+<description_ua>Висота фігурки — 23 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03719" available="true">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858262-7295d44028cc0d40c5acdcc86acaede0-1768904990339.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858262-8eeeebdcd85ee1ad15013c350b5fa586-1768904989092.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03719</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик жовта, 23 см (12025-007)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик желтая, 23 см (12025-007)</name_ru>
+<description_ua>Висота фігурки — 23 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03720" available="true">
+<price>356</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858274-e5f8720cca5a9924c264e17897bb0568-1768905125809.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858274-83acddb3cdde0b03d2c2707e9e6f858c-1768905173191.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03720</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик рожева, 30 см (12025-006)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик розовая, 30 см (12025-006)</name_ru>
+<description_ua>Висота фігурки — 30 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03721" available="true">
+<price>356</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858362-adc504e8e020ad9b39f1e1287d6cc932-1768905288853.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858362-5ab2dabf490dee17ef3a9dc6b60f57ff-1768905363694.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03721</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик зелена, 30 см (12025-005)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик зеленая, 30 см (12025-005)</name_ru>
+<description_ua>Висота фігурки — 30 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03722" available="true">
+<price>356</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858381-c16035d6502e8fbc3100f4d87793a952-1768905474381.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858381-332295a83da7ee20d394e10807d95357-1768905471256.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03722</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик темно-рожева, 30 см (12025-004)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик темно-розовая, 30 см (12025-004)</name_ru>
+<description_ua>Висота фігурки — 30 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03723" available="true">
+<price>356</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858392-3e2cc640ce2db3feaebf777c301e3ed8-1768905559825.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124858392-699d12537513f65166d39b1d201493c4-1768905558805.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03723</vendorCode>
+<name_ua>Фігурка флокова Великодній зайчик жовта, 30 см (12025-003)</name_ua>
+<name_ru>Фигурка флоковая Пасхальный кролик желтая, 30 см (12025-003)</name_ru>
+<description_ua>Висота фігурки — 30 см. Фігурка флокова "Великодній зайчик" — стильний декоративний елемент із м’якою оксамитовою поверхнею, який створює відчуття затишку та святкової атмосфери. Лаконічна форма та акуратні деталі роблять її універсальною для оформлення вітрин, святкових композицій, фотозон і великоднього декору в інтер’єрі. Чудово поєднується з іншими декоративними елементами та підходить як для роздрібного, так і для професійного оформлення.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03727" available="true">
+<price>840</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124863321-c8ce9a8c57881468661de00dac2b785c-1768907008707.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03727</vendorCode>
+<name_ua>Набір 6 шт фігурка Пташка помаранчева, 8 см (4011-016)</name_ua>
+<name_ru>Набор 6 шт фигурка Птичка оранжевая, 8 см (4011-016)</name_ru>
+<description_ua>Висота фігурки — 8 см, довжина — 11 см, ширина — 6 см. Фігурка виконана з кераміки. Керамічна фігурка пташки — ніжний декоративний акцент, що створює атмосферу весни, оновлення та тепла. Образ пташки символізує пробудження природи, легкість і початок нового циклу, тому така фігурка ідеально підходить для великоднього декору. Вона гармонійно доповнює святкові композиції, сервірування столу, декор полиць чи підвіконь, додаючи інтер’єру світлого, затишного настрою. Фігурка стане красивим символічним елементом у домі та доречним акцентом у весняних і святкових оформленнях.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03730" available="true">
+<price>1374</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124863345-1a0937887afeb12e1c082e8ca228f79c-1768907862313.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124863345-79eb47a3be256931ed391587a9601d49-1768907517086.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03730</vendorCode>
+<name_ua>Набір 6 шт. підвісна статуетка Кролик з тюльпанами 8 см (5105-013)</name_ua>
+<name_ru>Набор 6 шт подвесная статуэтка Кролик с тюльпанами 8 см (5105-013)</name_ru>
+<description_ua>Висота статуетки — 8 см, довжина — 5 см, ширина — 4 см. Статуетка кролика виконана з полістоуну, що забезпечує міцність і довговічність виробу. Завдяки продуманому підвісному формату фігурка легко розміщується на гілках, декоративних композиціях або святкових інсталяціях, створюючи легкий і казковий акцент. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, надає образу особливого шарму, а якісний розпис підкреслює декоративність виробу. Така підвісна статуетка стане гармонійним елементом святкового декору та оригінальною прикрасою інтер’єру.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03731" available="true">
+<price>1704</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124863434-063966d9b6bd10583824ad9647d16084-1768907752087.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124863434-27af18fdbdb02aa04386124421d060f5-1768907689893.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03731</vendorCode>
+<name_ua>Набір 6 шт. підвісна статуетка Кролик з великим букетом 8,5 см (5105-012)</name_ua>
+<name_ru>Набор из 6 шт. подвесная статуэтка Кролик с большим букетом 8,5 см (5105-012)</name_ru>
+<description_ua>Висота статуетки — 8 см, довжина — 5 см, ширина — 4 см. Статуетка кролика виконана з полістоуну, що забезпечує міцність і довговічність виробу. Завдяки продуманому підвісному формату фігурка легко розміщується на гілках, декоративних композиціях або святкових інсталяціях, створюючи легкий і казковий акцент. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, надає образу особливого шарму, а якісний розпис підкреслює декоративність виробу. Така підвісна статуетка стане гармонійним елементом святкового декору та оригінальною прикрасою інтер’єру.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03732" available="true">
+<price>1572</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124866021-990d8bedd085a356d6827a9dbc67825b-1768911589862.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03732</vendorCode>
+<name_ua>Набір 6 шт. підвісна статуетка Кролик у вінку 8 см (5105-011)</name_ua>
+<name_ru>Набор из 6 шт. подвесная статуэтка Кролик в венке 8 см (5105-011)</name_ru>
+<description_ua>Висота статуетки — 8 см, довжина — 5 см, ширина — 4,5 см. Статуетка кролика виконана з полістоуну, що забезпечує міцність і довговічність виробу. Завдяки продуманому підвісному формату фігурка легко розміщується на гілках, декоративних композиціях або святкових інсталяціях, створюючи легкий і казковий акцент. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, надає образу особливого шарму, а якісний розпис підкреслює декоративність виробу. Така підвісна статуетка стане гармонійним елементом святкового декору та оригінальною прикрасою інтер’єру.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03733" available="true">
+<price>1704</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124866030-035394ae88dd4aadbde2caa8255f5be0-1768911684882.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124866030-86d58441553c08dc42ad0f76431f6030-1768911685506.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03733</vendorCode>
+<name_ua>Набір з 6 шт. підвісна статуетка Кролик з букетами 10 см (5105-010)</name_ua>
+<name_ru>Набор из 6 шт подвесная статуэтка Кролик с букетами 10 см (5105-010)</name_ru>
+<description_ua>Висота статуетки — 10 см, довжина — 5 см, ширина — 4 см. Статуетка кролика виконана з полістоуну, що забезпечує міцність і довговічність виробу. Завдяки продуманому підвісному формату фігурка легко розміщується на гілках, декоративних композиціях або святкових інсталяціях, створюючи легкий і казковий акцент. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, надає образу особливого шарму, а якісний розпис підкреслює декоративність виробу. Така підвісна статуетка стане гармонійним елементом святкового декору та оригінальною прикрасою інтер’єру.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03734" available="true">
+<price>1572</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124866115-7f57567855d88685a5376605a81d62fe-1768911783949.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03734</vendorCode>
+<name_ua>Набір з 6 шт. кролик у квітах 8 см (5105-009)</name_ua>
+<name_ru>Набор из 6 шт. кролик в цветах 8 см (5105-009)</name_ru>
+<description_ua>Висота статуетки — 8 см, довжина — 5 см, ширина — 4,5 см. Статуетка кролика виконана з полістоуну, що забезпечує міцність і довговічність виробу. Завдяки продуманому підвісному формату фігурка легко розміщується на гілках, декоративних композиціях або святкових інсталяціях, створюючи легкий і казковий акцент. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, надає образу особливого шарму, а якісний розпис підкреслює декоративність виробу. Така підвісна статуетка стане гармонійним елементом святкового декору та оригінальною прикрасою інтер’єру.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03735" available="true">
+<price>655</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124866120-d49f84fd32115f16e1db5544d6970ee7-1768911852439.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124866120-b6b8a6288c0362a9c4dabfe001b6a9d9-1768911853431.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03735</vendorCode>
+<name_ua>Статуетка Кролик у саду 12,5 см (5105-007)</name_ua>
+<name_ru>Статуэтка Кролик в саду 12,5 см (5105-007)</name_ru>
+<description_ua>Висота статуетки — 12,5 см, довжина — 13 см, ширина — 6 см. Статуетка кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03750" available="true">
+<price>842</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103209-79c984ef6686b3259e147f25ce62cf41-1769022682943.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03750</vendorCode>
+<name_ua>Набір 2 шт фігурка Кролиця рожева, 30 см (9109-024)</name_ua>
+<name_ru>Набор 2 шт фигурка Кролица розовая, 30 см (9109-024)</name_ru>
+<description_ua>Висота - 30 см, ширина - 9 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03751" available="true">
+<price>1968</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103217-0d0a2882e2ad0c7091fbcebe923936c5-1769022812799.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03751</vendorCode>
+<name_ua>Набір 6 шт Фігурка Зефір зелений, 13 см (4000-017/geen)</name_ua>
+<name_ru>Набор 6 шт. Фигурка Зефир зеленый, 13 см (4000-017/geen)</name_ru>
+<description_ua>Ширина, см 6,8 Довжина, см 6,8 Висота, см 13 &amp;nbsp; Матеріал Кераміка</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03752" available="true">
+<price>1536</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103252-76fdc7c42bdfc9934193bfa2bcc7d4e6-1769022929061.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103252-d4094fc53d69fffc2a7935927d2120aa-1769022931008.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03752</vendorCode>
+<name_ua>Набір 4 шт Статуетка Кролик з тюльпанами 11 см (2007-266)</name_ua>
+<name_ru>Набор 4 шт. Статуэтка Кролик с тюльпанами 11 см (2007-266)</name_ru>
+<description_ua>Висота статуетки - 11 см, довжина - 9 см, ширина - 5,5 см. Статуетка білого кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03754" available="true">
+<price>1760</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103266-d7fe0020f6bb6aa43c2736f8095d5f3c-1769023196313.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03754</vendorCode>
+<name_ua>Набір 4 шт Статуетка Закохані кролики 11 см (2007-264)</name_ua>
+<name_ru>Набор 4 шт Статуэтка Влюбленные кролики 11 см (2007-264)</name_ru>
+<description_ua>Висота статуетки - 11 см, довжина - 10,5 см, ширина - 6 см. Статуетка білого кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03756" available="true">
+<price>898</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103279-fa4424e921856a1e56f56ee94b36c23d-1769023320268.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103279-0d6ee0f6c23174470f9f7e66e5732bcf-1769023319806.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03756</vendorCode>
+<name_ua>Набір 2 шт Статуетка Кролик з візком 11 см (2007-262)</name_ua>
+<name_ru>Набор 2 шт Статуэтка Кролик с тележкой 11 см (2007-262)</name_ru>
+<description_ua>Висота статуетки - 11 см, довжина - 9 см, ширина - 5 см. Запаковані в картонну коробку по 2 шт. Статуетка білого кролика виконана з полістоуну, що надає їй міцності та довговічності. Реалістичне опрацювання деталей, зокрема текстури хутра та виразних рис, робить образ особливо чарівним. Завдяки стійкій основі та якісному розпису ця фігурка стане чудовим доповненням до святкового декору або приємним подарунком.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03757" available="true">
+<price>842</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103285-fb24bb52dcd5c5c3cd22a538cc715402-1769023405982.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03757</vendorCode>
+<name_ua>Набір 2 шт Фігурка Кролиця біла, 30 см (9109-026)</name_ua>
+<name_ru>Набор 2 шт Фигурка Кролик белый, 30 см (9109-026)</name_ru>
+<description_ua>Висота - 30 см, ширина - 9 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03758" available="true">
+<price>842</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103291-feb56a1c6abfc81a5d0f9e389e915abd-1769023459158.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03758</vendorCode>
+<name_ua>Набір 2 шт Фігурка Кролик білий, 30 см (9109-025)</name_ua>
+<name_ru>Набор 2 шт. Фигурка Кролик белый, 30 см (9109-025)</name_ru>
+<description_ua>Висота - 30 см, ширина - 9 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03759" available="true">
+<price>870</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103297-66d4420dc8adb73a34d52800eae4f342-1769023506444.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03759</vendorCode>
+<name_ua>Набір 3 шт Фігурка Кролик білий, 20 см (9109-023)</name_ua>
+<name_ru>Набор 3 шт. Фигурка Кролик белый, 20 см (9109-023)</name_ru>
+<description_ua>Висота - 20 см, ширина - 5 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03760" available="true">
+<price>870</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103302-33fa6d0831dca2aaa2ce4af3432194a7-1769023570583.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03760</vendorCode>
+<name_ua>Набір 3 шт Фігурка жовтий, 21 см (9109-022)</name_ua>
+<name_ru>Набор 3 шт Фигурка желтая, 21 см (9109-022)</name_ru>
+<description_ua>Висота - 20 см, ширина - 5 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03762" available="true">
+<price>702</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103314-8dabca8c534e4fb9fc0856db0432eaf5-1769024002047.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03762</vendorCode>
+<name_ua>Набір 3 шт Фігурка Фея 20 см (9109-020)</name_ua>
+<name_ru>Набор 3 шт Фигурка Фея 20 см (9109-020)</name_ru>
+<description_ua>Висота - 21 см, ширина - 6 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03763" available="true">
+<price>645</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103341-d9455ea078658631eba4cb4825206960-1769024075540.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03763</vendorCode>
+<name_ua>Набір 3 шт Підвісна фігурка Фея 21 см (9109-019)</name_ua>
+<name_ru>Набор 3 шт Подвесная фигурка Фея 21 см (9109-019)</name_ru>
+<description_ua>Висота - 21 см, ширина - 6 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03764" available="true">
+<price>1011</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103349-a63f3f00c50f6d3c2db880d0e18ff701-1769024164648.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03764</vendorCode>
+<name_ua>Набір 3 шт Фігурка Лялька рожева, 24 см (9109-018)</name_ua>
+<name_ru>Набор 3 шт Фигурка Кукла розовая, 24 см (9109-018)</name_ru>
+<description_ua>Висота - 24 см, ширина - 7 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими лялечками! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03765" available="true">
+<price>786</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103353-1ae21b3f87f932adb21f602eb47277bd-1769024226679.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03765</vendorCode>
+<name_ua>Набір 3 шт Фігурка Лялечка жовта, 24 см (9109-017)</name_ua>
+<name_ru>Набор 3 шт Фигурка Кукла желтая, 24 см (9109-017)</name_ru>
+<description_ua>Висота - 24 см, ширина - 7 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими лялечками! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03767" available="true">
+<price>645</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103361-3c460989bb2a904ef7e2a2ad1d8cf8f0-1769024421914.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03767</vendorCode>
+<name_ua>Набір 3 шт Фігурка Лялечка рожева 18,5 см (9109-016)</name_ua>
+<name_ru>Набор 3 шт Фигурка Кукла розовая 18,5 см (9109-016)</name_ru>
+<description_ua>Висота - 18,5 см, ширина - 5,5 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими лялечками! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03769" available="true">
+<price>786</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103372-62ac3867b09e807349dfc78e4fdb6941-1769024617130.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03769</vendorCode>
+<name_ua>Набір 3 шт Фігурка Кролик зелений, 18 см (9109-015)</name_ua>
+<name_ru>Набор 3 шт. Фигурка Кролик зеленый, 18 см (9109-015)</name_ru>
+<description_ua>Висота - 18 см, довжина - 11 см, ширина - 8 см. Фігурка пухнаста, стійка. Вушка гнучкі. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03770" available="true">
+<price>786</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103440-99dec773279cf64447eaf7de3c9f7135-1769024733082.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03770</vendorCode>
+<name_ua>Набір 3 шт Фігурка Кролик жовтий, 18 см (9109-014)</name_ua>
+<name_ru>Набор 3 шт. Фигурка Кролик желтый, 18 см (9109-014)</name_ru>
+<description_ua>Висота - 18 см, довжина - 11 см, ширина - 8 см. Фігурка пухнаста, стійка. Вушка гнучкі. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03771" available="true">
+<price>786</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103446-1c851023519615263bb9d2a6e75e8536-1769024783284.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03771</vendorCode>
+<name_ua>Набір 3 шт Фігурка Кролик рожевий, 18 см (9109-013)</name_ua>
+<name_ru>Набор 3 шт. Фигурка Кролик розовый, 18 см (9109-013)</name_ru>
+<description_ua>Висота - 18 см, довжина - 11 см, ширина - 8 см. Фігурка пухнаста, стійка. Вушка гнучкі. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03772" available="true">
+<price>504</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103457-f8579eacefae5dd6c9b3045f64293905-1769024889680.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03772</vendorCode>
+<name_ua>Набір 3 шт Підвісна фігурка Курча в яєчку 14 см (9109-012)</name_ua>
+<name_ru>Набор 3 шт Подвесная фигурка Цыпленок в яичке 14 см (9109-012)</name_ru>
+<description_ua>Довжина - 14 см, разом з підвісною ниткою - 18 см. Текстильна, ніжки висячі. Зробіть ваш дім яскравішим цього великодня з текстильними підвісними фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03773" available="true">
+<price>591</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103463-76f597b67fcc734e4c3e54043e2804be-1769025045820.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03773</vendorCode>
+<name_ua>Набір 3 шт Підвісна фігурка Курча 20,5 см (9109-011)</name_ua>
+<name_ru>Набор 3 шт Подвесная фигурка Цыпленок 20,5 см (9109-011)</name_ru>
+<description_ua>Довжина - 20,5 см, разом з підвісною ниткою - 25 см. Текстильна, ніжки висячі. Зробіть ваш дім яскравішим цього великодня з текстильними підвісними фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03774" available="true">
+<price>591</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103492-473fb9e00971761e5f2fcd321fe7762f-1769025401813.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03774</vendorCode>
+<name_ua>Набір 3 шт Підвісна фігурка Курча 20,5 см (9109-010)</name_ua>
+<name_ru>Набор 3 шт Подвесная фигурка Цыпленок 20,5 см (9109-010)</name_ru>
+<description_ua>Довжина - 20,5 см, разом з підвісною ниткою - 25 см. Текстильна, ніжки висячі. Зробіть ваш дім яскравішим цього великодня з текстильними підвісними фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03775" available="true">
+<price>927</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103498-515d4cba33b0833beb7f0d1907a23508-1769025673767.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03775</vendorCode>
+<name_ua>Набір 3 шт Курча біле 24 см (9109-009)</name_ua>
+<name_ru>Набор 3 шт Цыпленок белый 24 см (9109-009)</name_ru>
+<description_ua>Висота - 24 см, ширина - 8 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03776" available="true">
+<price>927</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103513-f165c6a118a3fe05c1906f0cc1d3db06-1769025715562.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03776</vendorCode>
+<name_ua>Набір 3 шт Курча жовте 24 см (9109-008)</name_ua>
+<name_ru>Набор 3 шт Цыпленок желтый 24 см (9109-008)</name_ru>
+<description_ua>Висота - 24 см, ширина - 8 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками курчат! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03777" available="true">
+<price>786</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103520-3742be291984ce95d87690650b89eb34-1769025805645.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03777</vendorCode>
+<name_ua>Набір 6 шт Підвісна фігурка Кролик жовта, 15,5 см (9109-007)</name_ua>
+<name_ru>Набор 6 шт. Подвесная фигурка Кролик желтая, 15,5 см (9109-007)</name_ru>
+<description_ua>Довжина - 15,5 см, разом з підвісною ниткою - 20 см. Текстильна, ніжки висячі. Зробіть ваш дім яскравішим цього великодня з текстильними підвісними фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03778" available="true">
+<price>786</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103527-257e778afabdbf0dfbbb24f20d032679-1769025909366.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03778</vendorCode>
+<name_ua>Набір 6 шт Підвісна фігурка Кролик рожева, 15,5 см (9109-006)</name_ua>
+<name_ru>Набор 6 шт. Подвесная фигурка Кролик розовая, 15,5 см (9109-006)</name_ru>
+<description_ua>Довжина - 15,5 см, разом з підвісною ниткою - 20 см. Текстильна, ніжки висячі. Зробіть ваш дім яскравішим цього великодня з текстильними підвісними фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03779" available="true">
+<price>1686</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103533-c921e8fabae0cafcd5ceaedfbb375f88-1769026020296.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03779</vendorCode>
+<name_ua>Набір 6 шт фігурка Великодній кролик 29 см (9109-005)</name_ua>
+<name_ru>Набор 6 шт Пасхальный кролик 29 см (9109-005)</name_ru>
+<description_ua>Висота - 29 см, ширина - 5 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03780" available="true">
+<price>786</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103538-13b380bb4ef45010d2bf9259ada48e28-1769026083968.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03780</vendorCode>
+<name_ua>Набір 3 шт фігурка Великодній кролик 26 см (9109-002)</name_ua>
+<name_ru>Набор 3 шт Пасхальный кролик 26 см (9109-002)</name_ru>
+<description_ua>Висота - 26 см, ширина - 7 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03782" available="true">
+<price>646</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103546-3b87be42e050ff9c7217f96b539217b8-1769026347721.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03782</vendorCode>
+<name_ua>Фігурка Кролик 49 см (9109-004)</name_ua>
+<name_ru>Фигурка Кролик 49 см (9109-004)</name_ru>
+<description_ua>Висота - 49 см, ширина - 12 см. Текстильна, стійка. Зробіть ваш дім яскравішим цього великодня з текстильними стійкими фігурками кроликів! Ця весела та кольорова фігурка зроблена з якісних текстильних матеріалів і створить святковий настрій у кожному домі. Ідеально підійде для прикраси столу або полиці, додаючи нотку весняного барвистого настрою до інтер'єру. Чудовий весняний декор для кафе, фотостудій, вітрин магазинів та власного дому!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03786" available="true">
+<price>739</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103638-612df6a68ccf7d6b0aa0dba084a10c5c-1769027306678.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03786</vendorCode>
+<name_ua>Набір статуеток Lovely rabbits (8941-002)</name_ua>
+<name_ru>Набор статуэток Lovely rabbits (8941-002)</name_ru>
+<description_ua>Статуетка кроликів - це фігурка з полістоуна, що зображує двох милих кроликів - дівчинку та хлопчика. Статуетка виповнена з ніжних привабливих кольорів. Статуетка такого дизайну використовується як прикраса у святковій атмосфері, особливо під час весняних та пасхальних свят. Це чудовий варіант подарунку для дітей або закоханих.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03787" available="true">
+<price>1066</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103648-c295a4b5811f17385e996a5d0ebb0940-1769027406112.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03787</vendorCode>
+<name_ua>Набір статуеток Lovely rabbits (8941-001)</name_ua>
+<name_ru>Набор статуэток Lovely rabbits (8941-001)</name_ru>
+<description_ua>Статуетка кроликів - це фігурка з полістоуна, що зображує двох милих кроликів - дівчинку та хлопчика. Статуетка виповнена з ніжних привабливих кольорів. Статуетка такого дизайну використовується як прикраса у святковій атмосфері, особливо під час весняних та пасхальних свят. Це чудовий варіант подарунку для дітей або закоханих.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03789" available="true">
+<price>843</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103658-9c147ccf793033dbc6960d0ba0da74d4-1769027597896.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03789</vendorCode>
+<name_ua>Набір 3 шт Рожевий кролик 12,5 см (6018-125)</name_ua>
+<name_ru>Набор 3 шт. Розовый кролик 12,5 см (6018-125)</name_ru>
+<description_ua>Курча "Крихітка", 11 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03790" available="true">
+<price>1968</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103770-88ac565278ec67d4ce7e9666d8a699e6-1769027773061.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03790</vendorCode>
+<name_ua>Набір 6 шт Фігурка Зефір рожевий, 13 см (4000-017/pink)</name_ua>
+<name_ru>Набор 6 шт. Фигурка Зефир розовый, 13 см (4000-017/pink)</name_ru>
+<description_ua>Пасхальний кролик - дуже красива і якісна прикраса для будинку, кафе, офісу або фотозони. Фігура виконана з високоякісної білої кераміки з ніжним рожевим животиком і вухами. Така фігура в пастельних тонах буде відмінно виглядати на будь-якій полиці або стільниці. Ця керамічна прикраса у вигляді кролика також є прекрасним великоднім подарунком. Ідеально підходить для того, щоб подарувати його своїм близьким, дитині або друзям на Великдень, весняні свята та багато іншого. Фігурка кролика принесе удачу і процвітання!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03791" available="true">
+<price>1968</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103773-e66d3b36e2eb68b8d59882f611c195de-1769027831717.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03791</vendorCode>
+<name_ua>Набір 6 шт Фігурка Зефір рожевий, 13 см (4000-017/grey)</name_ua>
+<name_ru>Набор 6 шт. Фигурка Зефир розовый, 13 см (4000-017/grey)</name_ru>
+<description_ua>Пасхальний кролик - дуже красива і якісна прикраса для будинку, кафе, офісу або фотозони. Фігура виконана з високоякісної білої кераміки з ніжним рожевим животиком і вухами. Така фігура в пастельних тонах буде відмінно виглядати на будь-якій полиці або стільниці. Ця керамічна прикраса у вигляді кролика також є прекрасним великоднім подарунком. Ідеально підходить для того, щоб подарувати його своїм близьким, дитині або друзям на Великдень, весняні свята та багато іншого. Фігурка кролика принесе удачу і процвітання!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03792" available="true">
+<price>3258</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103774-9f8a24479fb36211ff347da3abeed07c-1769027902332.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03792</vendorCode>
+<name_ua>Набір 6 шт Фігурка Великодній кролик рожевий, 17,5 см (4000-016/pink)</name_ua>
+<name_ru>Набор 6 шт Пасхальный кролик розовый, 17,5 см (4000-016/pink)</name_ru>
+<description_ua>Великодній кролик - дуже гарна і якісна прикраса для будинку, кафе, офісу або фотозони. Фігурка виконана з високоякісної білої кераміки з ніжним рожевим животиком і вушками. Така фігурка в пастельних тонах буде відмінно виглядати на будь-якій полиці або столі. Ця керамічна прикраса у вигляді кролика також є прекрасним великоднім подарунком. Ідеально підходить для того, щоб подарувати його своїм близьким, дитині або друзям на Великдень, весняні свята та багато іншого. Фігурка кролика принесе удачу і процвітання!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03793" available="true">
+<price>3258</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103776-a3f796f75d222b4898c3945e30dbeae1-1769027962474.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03793</vendorCode>
+<name_ua>Набір 6 шт Фігурка Великодній кролик сірий, 17,5 см (4000-016/grey)</name_ua>
+<name_ru>Набор 6 шт Пасхальный кролик серый, 17,5 см (4000-016/grey)</name_ru>
+<description_ua>Великодній кролик - дуже гарна і якісна прикраса для будинку, кафе, офісу або фотозони. Фігурка виконана з високоякісної білої кераміки з ніжним рожевим животиком і вушками. Така фігурка в пастельних тонах буде відмінно виглядати на будь-якій полиці або столі. Ця керамічна прикраса у вигляді кролика також є прекрасним великоднім подарунком. Ідеально підходить для того, щоб подарувати його своїм близьким, дитині або друзям на Великдень, весняні свята та багато іншого. Фігурка кролика принесе удачу і процвітання!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03794" available="true">
+<price>3258</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103778-ca24b3d32905a2016f8f0d2a74104cc9-1769027998284.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03794</vendorCode>
+<name_ua>Набір 6 шт Фігурка Великодній кролик зелений, 17,5 см (4000-016/green)</name_ua>
+<name_ru>Набор 6 шт Пасхальный кролик зеленый, 17,5 см (4000-016/green)</name_ru>
+<description_ua>Великодній кролик - дуже гарна і якісна прикраса для будинку, кафе, офісу або фотозони. Фігурка виконана з високоякісної білої кераміки з ніжним рожевим животиком і вушками. Така фігурка в пастельних тонах буде відмінно виглядати на будь-якій полиці або столі. Ця керамічна прикраса у вигляді кролика також є прекрасним великоднім подарунком. Ідеально підходить для того, щоб подарувати його своїм близьким, дитині або друзям на Великдень, весняні свята та багато іншого. Фігурка кролика принесе удачу і процвітання!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03795" available="true">
+<price>3090</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103780-4ddab4f784a3dbd1f2f1f294361a7e3a-1769028081041.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03795</vendorCode>
+<name_ua>Набір 6 шт Фігурка Вухастик рожевий, 18 см (4000-015/pink)</name_ua>
+<name_ru>Набор 6 шт Фигурка Ушастик розовый, 18 см (4000-015/pink)</name_ru>
+<description_ua>Керамічна фігурка кролика стане прекрасною частиною декору в пасхальній тематиці і не тільки! Милий кролик порадує ваше око в домашніх умовах, в милому кафе, офісі або фотозоні. Така фігура в пастельних тонах буде відмінно виглядати на будь-якій полиці або столі. Кролик - традиційна пасхальна тварина в багатьох країнах! Фігурка кролика принесе вашому будинку удачу, достаток і плодючість. Він виготовлений з високоякісної білої кераміки, животик і вушка кролика мають ніжний зелений відтінок. З цієї причини ця керамічна фігурка кролика також є відмінним доповненням до подарунка!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03796" available="true">
+<price>3090</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103782-559a864796a2f1168e197bec389a220d-1769028134821.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03796</vendorCode>
+<name_ua>Набір 6 шт Фігурка Вухастик зелений, 18 см (4000-015/green)</name_ua>
+<name_ru>Набор 6 шт Фигурка Ушастик зеленый, 18 см (4000-015/green)</name_ru>
+<description_ua>Керамічна фігурка кролика стане прекрасною частиною декору в пасхальній тематиці і не тільки! Милий кролик порадує ваше око в домашніх умовах, в милому кафе, офісі або фотозоні. Така фігура в пастельних тонах буде відмінно виглядати на будь-якій полиці або столі. Кролик - традиційна пасхальна тварина в багатьох країнах! Фігурка кролика принесе вашому будинку удачу, достаток і плодючість. Він виготовлений з високоякісної білої кераміки, животик і вушка кролика мають ніжний зелений відтінок. З цієї причини ця керамічна фігурка кролика також є відмінним доповненням до подарунка!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03797" available="true">
+<price>3090</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103785-1ba4554c6713f89439df32fb600193fb-1769028204745.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03797</vendorCode>
+<name_ua>Набір 6 шт Фігурка Вухастик сірий, 18 см (4000-015/grey)</name_ua>
+<name_ru>Набор 6 шт Фигурка Ушастик серый, 18 см (4000-015/grey)</name_ru>
+<description_ua>Керамічна фігурка кролика стане прекрасною частиною декору в пасхальній тематиці і не тільки! Милий кролик порадує ваше око в домашніх умовах, в милому кафе, офісі або фотозоні. Така фігура в пастельних тонах буде відмінно виглядати на будь-якій полиці або стільниці. Кролик - традиційна пасхальна тварина в багатьох країнах! Фігурка кролика принесе вашому будинку удачу, достаток і плодючість. Він виготовлений з високоякісної білої кераміки, животик і вуха кролика мають ніжний сірий відтінок. З цієї причини ця керамічна фігурка кролика також є відмінним доповненням до подарунка!</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03798" available="true">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103791-7f36dde9bd9574fa0398e1efd6c6c027-1769028369106.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03798</vendorCode>
+<name_ua>Кролик із морквиною, 14 см (6018-136)</name_ua>
+<name_ru>Кролик с морковкой, 14 см (6018-136)</name_ru>
+<description_ua>Кролик із морквиною, 14 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03799" available="true">
+<price>534</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103798-0f53f536a3dd720c19f4a25f8e0efd84-1769028433826.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03799</vendorCode>
+<name_ua>Кроличка в жовтому капелюшку, 21 см (6018-131)</name_ua>
+<name_ru>Кроличка в желтой шляпке, 21 см (6018-131)</name_ru>
+<description_ua>Кроличка в жовтому капелюшку, 21 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03801" available="true">
+<price>827</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103806-65c4bfc6816fa1889259cdf5c00a271b-1769028544222.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03801</vendorCode>
+<name_ua>Кролик із корзинкою, 25 см (6018-121)</name_ua>
+<name_ru>Кролик с корзинкой, 25 см (6018-121)</name_ru>
+<description_ua>Кроличка в жовтому капелюшку, 21 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03802" available="true">
+<price>732</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103807-ba7c2e94c8d97f255bbbb1899f048c8b-1769028597472.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03802</vendorCode>
+<name_ua>Кролик із курчатами, 21 см (6018-120)</name_ua>
+<name_ru>Кролик с цыплятами, 21 см (6018-120)</name_ru>
+<description_ua>Кролик із курчатами, 21 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03803" available="true">
+<price>721</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103809-3e771a02758e601c81c03ef519eca27b-1769028686056.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03803</vendorCode>
+<name_ua>Фігурка Кролиця з трояндою 12 см (6013-042)</name_ua>
+<description_ua>Фігурка білої кролиці - це чудовий варіант декору на Великдень і не тільки! Крільчиха надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Великодня кролиця виконана з якісного матеріалу - полістоуна, що тримає в лапках троянду. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03804" available="true">
+<price>721</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103815-45cc649e374a4a951335f63a459feb32-1769028761086.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03804</vendorCode>
+<name_ua>Фігурка Кролик з малюком 13 см (6013-043)</name_ua>
+<name_ru>Фигурка Кролик с малышом 13 см (6013-043)</name_ru>
+<description_ua>Фігурка кролика з малюком - це чудовий варіант декору на Великдень і не лише! Фігурка сім'ї кроликів надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальні кролики виконані з якісного матеріалу – полістоуну. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03805" available="true">
+<price>708</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103816-a761c501efb58d051c0f4d9141cc9aa3-1769028837830.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03805</vendorCode>
+<name_ua>Фігурка Кролиця з малюками 12 см (6013-041)</name_ua>
+<name_ru>Фигурка Кролик с малышами 12 см (6013-041)</name_ru>
+<description_ua>Фігурка кролиці з кроликами - це чудовий варіант декору на Великдень і не лише! Фігурка сім'ї кроликів надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальні кролики виконані з якісного матеріалу – полістоуну. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03806" available="true">
+<price>716</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103819-ae1fd3f9fed6c4dc22cac33b4440ac69-1769028886981.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03806</vendorCode>
+<name_ua>Фігурка Кролик з десертом 22 см (6013-037)</name_ua>
+<name_ru>Фигурка Кролик с десертом 22 см (6013-037)</name_ru>
+<description_ua>Фігурка білого кролика – це чудовий варіант декору на Великдень і не лише! Кролик надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальний кролик виконаний з якісного матеріалу – полістоуну, білого кольору. Фігурка стійка, вушка гнуться.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03807" available="true">
+<price>346</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103821-7d2279bdb2c24c036ce6b426d62ecc2a-1769028968841.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03807</vendorCode>
+<name_ua>Зелений кролик Травка 14, 5 см (6018-132)</name_ua>
+<name_ru>Зеленый кролик Травка 14,5 см (6018-132)</name_ru>
+<description_ua>Зелений кролик "Травка", 14, 5 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03808" available="true">
+<price>534</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103826-e0d24e8f660de0bcd41d9437a91488e5-1769029044003.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03808</vendorCode>
+<name_ua>Кроличка в рожевому капелюшку, 21 см (6018-130)</name_ua>
+<name_ru>Кроличка в розовой шляпке, 21 см (6018-130)</name_ru>
+<description_ua>Кроличка в рожевому капелюшку, 21 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03809" available="true">
+<price>756</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103831-a0ebc266f10b9620ba488074916163cd-1769029136232.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03809</vendorCode>
+<name_ua>Фігурка Солоденький кролик 22 см (6013-040)</name_ua>
+<name_ru>Фигурка Сладенький кролик 22 см (6013-040)</name_ru>
+<description_ua>Фігурка білого кролика – це чудовий варіант декору на Великдень і не лише! Кролик надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальний кролик виконаний з якісного матеріалу – полістоуну, білого кольору. Фігурка стійка, вушка гнуться.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03810" available="true">
+<price>534</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103834-843507f78d01619b295f29909f80461c-1769029224721.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03810</vendorCode>
+<name_ua>Набір 3 шт кроличка Пінкі 10, 5 см (6018-133)</name_ua>
+<name_ru>Набор 3 шт кроличка Пинки 10,5 см (6018-133)</name_ru>
+<description_ua>Кроличка "Пінкі", 10, 5 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03811" available="true">
+<price>843</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103839-585eb785d5b95889dc9246c2f1bf61e5-1769029282681.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03811</vendorCode>
+<name_ua>Набір 3 шт Жовтий кролик, 12,5 см (6018-124)</name_ua>
+<name_ru>Набор 3 шт. Желтый кролик, 12,5 см (6018-124)</name_ru>
+<description_ua>Жовтий кролик, 12,5 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03812" available="true">
+<price>843</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103842-139915f657e5785f8c1abe574e4bfd37-1769029356662.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03812</vendorCode>
+<name_ua>Набір 3 шт Салатовий кролик, 12,5 см (6018-123)</name_ua>
+<name_ru>Набор 3 шт. Салатовый кролик, 12,5 см (6018-123)</name_ru>
+<description_ua>Салатовий кролик, 12,5 см ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03813" available="true">
+<price>1460</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103846-27329ce842c70247e970642157cff71e-1769029416299.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03813</vendorCode>
+<name_ua>Набір 4 шт Фігурка Сонний кролик 10 см (6013-046)</name_ua>
+<name_ru>Набор 4 шт Фигурка Сонный кролик 10 см (6013-046)</name_ru>
+<description_ua>Фігурка білого кролика – це чудовий варіант декору на Великдень і не лише! Кролик надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальний кролик виконаний з якісного матеріалу – полістоуну. Білий кролик сидить у вазоні, на вушках красується метелик. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03814" available="true">
+<price>561</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103855-4dd16dc96b90244bbacd1e9219bcb64e-1769029525614.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03814</vendorCode>
+<name_ua>Набір 3 шт Іграшка Гном Соня (5004-007)</name_ua>
+<name_ru>Набор 3 шт Игрушка Гном Соня (5004-007)</name_ru>
+<description_ua>Іграшка "Гном Соня" ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03815" available="true">
+<price>561</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103863-12f8a1e20652e0dbcf81b6892ba31258-1769506550531.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03815</vendorCode>
+<name_ua>Набір 3 шт Гном Веселун (5004-006)</name_ua>
+<name_ru>Набор 3 шт Гном Весельчак (5004-006)</name_ru>
+<description_ua>Іграшка "Гном Веселун" ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03816" available="true">
+<price>561</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103912-11c7fc8364968061ad5799bcd26e2177-1769030734028.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03816</vendorCode>
+<name_ua>Набір 3 шт Гном Буркотун (5004-005)</name_ua>
+<name_ru>Набор 3 шт Гном Ворчун (5004-005)</name_ru>
+<description_ua>Іграшка "Гном Буркотун" ідеальний подарунок для ваших рідних і близьких.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03817" available="true">
+<price>711</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103919-09d096e1263b24fc8f35fc80a3dd65bc-1769030874330.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03817</vendorCode>
+<name_ua>Фігурка Жовта курочка 17 см (6013-026)</name_ua>
+<name_ru>Фигурка Желтая курочка 17 см (6013-026)</name_ru>
+<description_ua>Така курочка - це чудовий варіант декору на Великдень і не лише! Курочки надзвичайної краси та якісного виконання будуть радувати око цілий рік. Також ця великодня фігурка – милий подарунок для близьких та дітей! Курочка має жовтий колір та солом'яний бантик на шиї. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03818" available="true">
+<price>711</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103926-8d6da0760d1e3ebaf71219a16f63f86a-1769030996024.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03818</vendorCode>
+<name_ua>Фігурка Жовта курочка 17 см (6013-026)</name_ua>
+<name_ru>Фигурка Розовая курочка 14 см (6013-025)</name_ru>
+<description_ua>Така курочка - це чудовий варіант декору на Великдень і не лише! Курочки надзвичайної краси та якісного виконання будуть радувати око цілий рік. Також ця великодня фігурка – милий подарунок для близьких та дітей! Курочка має рожевий колір та солом'яний бантик на шиї. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03819" available="true">
+<price>711</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103928-e514fd8b24d637fb00c6052c226b640f-1769031102420.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03819</vendorCode>
+<name_ua>Фігурка Кролик з пончиком 20 см (6013-039)</name_ua>
+<name_ru>Фигурка Кролик с пончиком 20 см (6013-039)</name_ru>
+<description_ua>Фігурка білого кролика – це чудовий варіант декору на Великдень і не лише! Кролик надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальний кролик виконаний з якісного матеріалу – полістоуну, білого кольору. Фігурка стійка, вушка гнуться.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03820" available="true">
+<price>812</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103934-50b9cd17af650073d77dc18a8f1baa15-1769031236128.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03820</vendorCode>
+<name_ua>Фігурка Родина кроликів 20 см (6013-023)</name_ua>
+<name_ru>Фигурка Семья кроликов 20 см (6013-023)</name_ru>
+<description_ua>Фігурка білої кролиці з кроликом - це чудовий варіант декору на Великдень і не тільки! Родина кроликів надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальна фігурка виконана з якісного матеріалу – полістоуну, білого кольору, кролики в лапках тримають троянду, кролиця має на шиї солом'яний бантик. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03821" available="true">
+<price>812</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103939-d2f6053921c3002606478010eeeae2d2-1769031302346.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03821</vendorCode>
+<name_ua>Фігурка Біла кролиця 25 см (6013-022)</name_ua>
+<name_ru>Фигурка Белая крольчиха 25 см (6013-022)</name_ru>
+<description_ua>Фігурка білої кролиці - це чудовий варіант декору на Великдень і не тільки! Кроличка надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Кроличка виконана з якісного матеріалу – полістоуну, білого кольору, тримає в лапках троянду та має на шиї солом'яний бантик. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03822" available="true">
+<price>684</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103942-a5a5fdf257616078f1733c44b12bbee5-1769031383078.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03822</vendorCode>
+<name_ua>Фігурка Міс Кролиця 28 см (6013-032)</name_ua>
+<name_ru>Фигурка Мисс Кролица 28 см (6013-032)</name_ru>
+<description_ua>Фігурка білої кролиці - це чудовий варіант декору на Великдень і не тільки! Крільчиха надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Великодня кролиця виконана з якісного матеріалу - полістоуну, білого кольору в стильному вбранні, тримає в лапках качечок. Фігурка стійка, вушка гнуться.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03823" available="true">
+<price>684</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103952-220bd7cb80b9ad550244afc38372e849-1769031522334.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03823</vendorCode>
+<name_ua>Фігурка Містер Кролик 28 см (6013-031)</name_ua>
+<name_ru>Фигурка Мистер Кролик 28 см (6013-031)</name_ru>
+<description_ua>Фігурка кролика – це чудовий варіант декору на Великдень і не лише! Кролик надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальний кролик виконаний з якісного матеріалу – полістоуна, білого кольору в стильному вбранні, тримає у лапках великоднє яєчко. Фігурка стійка, вушка гнуться.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03824" available="true">
+<price>796</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103959-2acc9410fe64db6da6eb6d85d302bbb2-1769031568292.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03824</vendorCode>
+<name_ua>Фігурка Кролик у рожевому 28 см (6013-030)</name_ua>
+<name_ru>Фигурка Кролик в розовом 28 см (6013-030)</name_ru>
+<description_ua>Фігурка рожевого кролика – це чудовий варіант декору на Великдень і не лише! Кролик надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальний кролик виконаний з якісного матеріалу – полістоуна, білого кольору, тримає у лапках квітку. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03825" available="true">
+<price>732</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103960-74d4b429abeb2d30feffff4fde4acdec-1769031714091.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03825</vendorCode>
+<name_ua>Фігурка Кролик у бірюзовому 18 см (6013-029)</name_ua>
+<name_ru>Фигурка Кролик в бирюзовом 18 см (6013-029)</name_ru>
+<description_ua>Фігурка рожевого кролика – це чудовий варіант декору на Великдень і не лише! Кролик надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальний кролик виконаний з якісного матеріалу – полістоуна, білого кольору, тримає у лапках квітку. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RS03826" available="true">
+<price>684</price>
+<currencyId>UAH</currencyId>
+<categoryId>1026</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i125103964-fa7b2637c8e40f7bbb86ee3dd58b6e1a-1769031873942.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>RS03826</vendorCode>
+<name_ua>Фігурка Кролик у фіолетовому 17 см (6013-028)</name_ua>
+<name_ru>Фигурка Кролик в фиолетовом 17 см (6013-028)</name_ru>
+<description_ua>Фігурка рожевого кролика – це чудовий варіант декору на Великдень і не лише! Кролик надзвичайної краси та якісного виконання радуватиме око цілий рік і даруватиме кожному будинку блага та затишок. Пасхальний кролик виконаний з якісного матеріалу – полістоуна, білого кольору, тримає у лапках квітку. Фігурка стійка.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01442" available="true">
+<price>1499</price>
+<currencyId>UAH</currencyId>
+<categoryId>1003</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69717737-6d79ccd4a627a29daf47940087a0ea33.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69717737-66173daf7fb387690ecba16eb8c8edc4.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69717737-e75d98b6fbe315037e3e00265b16616d.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>RE01442</vendorCode>
+<name_ua>Килимок для сидіння M-Tac з ременем MM14</name_ua>
+<name_ru>Коврик для сидения M-Tac  с ремнем MM14</name_ru>
+<description_ua>Килимок для сидіння від M-Tac кріпиться на поясі за допомогою текстильного ременя з фастексом. Подібна конструкція давно та успішно використовується в туризмі, і без сумніву робить перебування в польових умовах комфортнішим. Особливо, якщо йдеться про змінну або слабку рухову активність у холодний період року. Прикріплений до пояса за допомогою ременя на фастексі, такий килимок залишає вільними руки та економить час, оскільки його не треба ні діставати та розкладати щоразу, коли ви захочете присісти, ні прибирати, коли ви збираєтеся знову продовжити рух. M-Tac килимок для сидіння розроблений на досвіді учасників АТО (збільшена товщина ізоляції), щоб максимально усунути фактори ризику переохолодження організму в холодних погодних умовах та запобігти виникненню застудних захворювань. Килимок має незнімний чохол з кордури, який захищає його від пошкоджень та проколів. Регульований ремінь на фастексі дозволяє легко кріпити килимок на поясі та швидко знімати його за потреби. Оптимальні габарити та регульована довжина ременя роблять його універсальним та придатним для використання людьми різної комплекції та зросту.&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01446" available="true">
+<price>1608</price>
+<currencyId>UAH</currencyId>
+<categoryId>1003</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69717772-4ce9898252968be6d427141f842d33db.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69717772-0d55100300aba03724bdb1e17f9cbe61.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69717772-eb23fee92b81c9a2905e7ac17fa89b84.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>RE01446</vendorCode>
+<name_ua>Килимок для сидіння M-Tac з ременем ARMOR MM14</name_ua>
+<name_ru>Коврик для сидения  M-Tac с ремнем ARMOR MM14</name_ru>
+<description_ua>Килимок для сидіння – вкрай необхідний елемент спорядження в холодну пору року. У польових умовах він ефективно захищає сідниці та поперек від переохолодження. Килимок не пропускає вологу та ізолює тіло від холоду під час сидіння на мокрій або холодній поверхні. Спеціальне портативне сидіння має широкий спектр застосування, тому може використовуватися як , так і мисливцями, рибалками, мандрівниками або любителями відпочинку на природі. Ця модель килимка передбачає можливість додаткового встановлення балістичного захисту – M-TAC БАЛІСТИЧНИЙ ПАКЕТ 1А КЛАС У КИЛИМОК ДЛЯ СИДІННЯ З РЕМЕНЕМ ARMOR (не йде в комплекті). Ще однією перевагою килимка є використання технології NIR compliant, що робить його невидимим в ІЧ-діапазоні. Сидіння виготовлене з листа прогумованого піноматеріалу товщиною 30 мм, що забезпечує чудову термоізоляцію. Сам чохол пошитий з Cordura 1000D - надміцної тканини, стійкої до стирання та високих навантажень. Кріпиться на пояс за допомогою міцної стропи з фастексом. Регульований ремінь дозволяє легко пристебнути килимок на пояс та швидко зняти його за потреби. З боків розташовані трикутні панелі, що сприяють кращій фіксації килимка на стегнах.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01450" available="true">
+<price>1608</price>
+<currencyId>UAH</currencyId>
+<categoryId>1003</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729188-d33be13471663d7314023327d9152dec.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729188-ca5fcd380bdedc6949071e19fa2fe7d1.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729188-f12ca3b4accbf1986737f5c387e494fb.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>RE01450</vendorCode>
+<name_ua>Килимок для сидіння M-Tac з ременем ARMOR Coyote</name_ua>
+<name_ru>Коврик для сидения M-Tac с ремнем ARMOR Coyote</name_ru>
+<description_ua>Килимок для сидіння – вкрай необхідний елемент спорядження в холодну пору року. У польових умовах він ефективно захищає сідниці та поперек від переохолодження. Килимок не пропускає вологу та ізолює тіло від холоду під час сидіння на мокрій або холодній поверхні. Спеціальне портативне сидіння має широкий спектр застосування, тому може використовуватися як , так і мисливцями, рибалками, мандрівниками або любителями відпочинку на природі. Ця модель килимка передбачає можливість додаткового встановлення балістичного захисту – M-TAC БАЛІСТИЧНИЙ ПАКЕТ 1А КЛАС У КИЛИМОК ДЛЯ СИДІННЯ З РЕМЕНЕМ ARMOR (не йде в комплекті). Ще однією перевагою килимка є використання технології NIR compliant, що робить його невидимим в ІЧ-діапазоні. Сидіння виготовлене з листа прогумованого піноматеріалу товщиною 30 мм, що забезпечує чудову термоізоляцію. Сам чохол пошитий з Cordura 1000D - надміцної тканини, стійкої до стирання та високих навантажень. Кріпиться на пояс за допомогою міцної стропи з фастексом. Регульований ремінь дозволяє легко пристебнути килимок на пояс та швидко зняти його за потреби. З боків розташовані трикутні панелі, що сприяють кращій фіксації килимка на стегнах.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01453" available="true">
+<price>5199</price>
+<currencyId>UAH</currencyId>
+<categoryId>1003</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729253-10023a88ed4e84fc2bf1ed27a23bf614.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729253-79f2ed886df19be7f873b82ee805803d.jpg</picture>
+<vendor>A-Line</vendor>
+<vendorCode>RE01453</vendorCode>
+<name_ua>Каремат складаний  A-Line СМ62 олива</name_ua>
+<name_ru>Каремат складной  A-Line СМ62 олива</name_ru>
+<description_ua>Складаний каремат, що складається в 10 секцій, після чого фіксується стропою (йде в комплекті). Мала вага та зручність транспортування - однозначно плюси цього виробу. Верх і низ CORDURA. Як утеплювач - пінополіетилен підвищеної жорсткості товщиною 10 мм. У розгорнутому вигляді 75х170 см. Для зручності перенесення комплектується плечовим ременем.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01454" available="true">
+<price>3224</price>
+<currencyId>UAH</currencyId>
+<categoryId>1003</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729362-a921af195499858497020b0f2da1e8bc.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729362-0739dc7e56835729872af520a49d701f.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729362-d4bf515d9bc2ce47e9eb502cf1bce876.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i69729362-b7763435fda7bd28381488fc4d2a9391.jpg</picture>
+<vendor>A-Line</vendor>
+<vendorCode>RE01454</vendorCode>
+<name_ua>Каремат складаний  A-Line  СМ62 койот</name_ua>
+<name_ru>Каремат складной  A-Line  СМ62 койот</name_ru>
+<description_ua>&amp;nbsp;Складаний каремат від компанії A-line. Каремат складається в 10 секцій, після чого фіксується стропою (йде в комплекті). Мала вага та зручність транспортування - однозначно плюси цього виробу.&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE01632" available="true">
+<price>274</price>
+<currencyId>UAH</currencyId>
+<categoryId>1025</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70073490-ead26870ff06e4d438b018334d1e1de1.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70073490-c53203a9512098734ff60c2c179a6a06.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70073490-e94994ad978f141d3186e56a283a0710.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>RE01632</vendorCode>
+<name_ua>Темляк M-Tac Ninja Ver.2 Coyote</name_ua>
+<description_ua>КОРОТКІ ХАРАКТЕРИСТИКИ Темляк з плетеного паракорду - це декоративна прикраса, яка надає Вашому ножу якусь родзинку, виділяючи її на краще з десятка подібних до нього ножів. Це запасний шнур, який завжди під рукою. І в той же час це гнучке продовження рукояті за яку можна за лічені секунди витягти Ваш ніж із кишені штанів. Матеріал: 550 type III Матеріал намистиниМельхіор. Особливості:Бусіна Ніндзя ОГЛЯД M-TAC ТЕМЛЯК NINJA VER.2 Темляк – це не просто стильний аксесуар. Даний практичний пристрій виконує кілька функцій: 1. За допомогою темляка ніж набагато швидше та зручніше витягати з кишені. Залишаючи темляк зовні, можна витягнути ножа, просто потягнувши за темляк. Немає необхідності нишпорити по кишенях у пошуках ножа. 2. Темляк (особливо з оригінальним дизайном) дозволить індивідуалізувати ножа (Ви легко зможете відрізнити саме свій ніж серед інших подібних). 3. Темляк яскравого кольору полегшить пошук ножа серед екіпірування або якщо ви впустили його, наприклад, у траву. Стильний оригінальний темляк моделі NINJA Ver.2 від вітчизняного бренду М-ТАС якнайкраще впорається з поставленими завданнями. Модель NINJA Ver.2 виготовлена з паракорду - міцної нейлонової стропи, що спочатку використовувалася як парашутна. Перекочувавши в цивільну сферу, паракорд практично витіснив мотузки та мотузки через свою компактність, легкість і надзвичайну міцність. Габарити темляка: Загальна довжина: 14,5 см. Довжина петлі: 7 см. Матеріал виготовлення: паракорд 550 III. Темляк є декоративним плетеним виріб з паракорду з фіксуючою петлею. За допомогою якої він і кріпиться до ручки ножа чи іншого предмета. Особливістю даної моделі є декоративна намистина "Ніндзя" з мельхіору, встановлена в нижній частині темляка. По центру темляк декорований мінікордом (переважно контрастного кольору), що надає йому жорсткості. Відмінність другої генерації темляків NINJA від першої полягає у незначній зміні дизайну та використанні паракорду трохи більшого діаметру. Насамкінець хочеться відзначити, що завдяки оригінальному дизайну темляк NINJA Ver.2 від вітчизняного бренду М-ТАС стане стильною прикрасою Вашого улюбленого ножа або іншого елемента екіпірування. Практична користь від такого аксесуару очевидна - це гнучке продовження рукоятки, за яке можна витягти ніж з кишені за лічені миті (навіть у рукавичках). Темляк полегшить пошук ножа, а міцний і зносостійкий матеріал виготовлення - паракорд - гарантує довгий термін служби цього аксесуара.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 </offers>
