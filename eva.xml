@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-25 14:05">
+<yml_catalog date="2026-09-25 19:26">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -31356,7 +31356,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RS01601" available="true">
+<offer id="RS01601" available="false">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>114002.0</categoryId>
@@ -31366,7 +31366,7 @@ _x000D_
 <name_ua>Фруктівниця з прозорого скла на нозі Scandi із золотим обідком D20*8.5см 992-048</name_ua>
 <description>Фруктівниця з прозорого скла на нозі Scandi із золотим обідком D20*8.5см</description>
 <description_ua>Фруктівниця з прозорого скла на нозі Scandi із золотим обідком D20*8.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -36620,7 +36620,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OS01369" available="true">
+<offer id="OS01369" available="false">
 <price>338</price>
 <currencyId>UAH</currencyId>
 <categoryId>112110.0</categoryId>
@@ -36630,7 +36630,7 @@ _x000D_
 <name_ua>Набір (3шт) декоративних Гарбузів у сітці, колір - салатовий (151-033)</name_ua>
 <description>Матеріал: Пінопласт Колір: Салатовий Розміри: D9*7см</description>
 <description_ua>Матеріал: Пінопласт Колір: Салатовий Розміри: D9*7см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -48048,7 +48048,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RS00940" available="true">
+<offer id="RS00940" available="false">
 <price>16200</price>
 <currencyId>UAH</currencyId>
 <categoryId>112304.0</categoryId>
@@ -48058,7 +48058,7 @@ _x000D_
 <name_ua>Ялинка штучна Датська на металевій підставці 228 см 2490 гілок 840-149</name_ua>
 <description>Ялинка штучна "Датська", на металевій підставці, 228 см, 2490 гілок</description>
 <description_ua>Ялинка штучна "Датська", на металевій підставці, 228 см, 2490 гілок</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -59318,7 +59318,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN00000538" available="true">
+<offer id="MN00000538" available="false">
 <price>762</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -59328,7 +59328,7 @@ _x000D_
 <name_ua>Ялинкова фігурна прикраса зі скла Ведмедик у кріслі, 12.5 см (NY29-473)</name_ua>
 <description>Ялинкові скляні прикраси — це вишуканий та стильний декор, який створює особливу атмосферу свята. Виготовлені з високоякісного скла, вони вражають деталізацією, яскравими кольорами та ігристим блиском, що чудово відбиває світло ялинкових гірлянд. Кожна прикраса має оригінальний дизайн: фігурні елементи, традиційні форми або авторські декоративні акценти. Завдяки міцному склу та продуманому покриттю, іграшки зберігають свій вигляд багато сезонів поспіль. Прикраси легко кріпляться на ялинку завдяки зручній петельці або шнурочку, а компактне пакування забезпечує безпечне зберігання та транспортування.</description>
 <description_ua>Ялинкові скляні прикраси — це вишуканий та стильний декор, який створює особливу атмосферу свята. Виготовлені з високоякісного скла, вони вражають деталізацією, яскравими кольорами та ігристим блиском, що чудово відбиває світло ялинкових гірлянд. Кожна прикраса має оригінальний дизайн: фігурні елементи, традиційні форми або авторські декоративні акценти. Завдяки міцному склу та продуманому покриттю, іграшки зберігають свій вигляд багато сезонів поспіль. Прикраси легко кріпляться на ялинку завдяки зручній петельці або шнурочку, а компактне пакування забезпечує безпечне зберігання та транспортування.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
@@ -101758,7 +101758,7 @@ _x000D_
 <description_ua>Оригінальний підвісний стікер «Жаба» - стильний декоративний елемент для прикраси горщиків для квітів і кімнатних рослин. Милий дизайн у вигляді жаби додасть затишку та пожвавить інтер'єр, зробивши композицію з рослинами більш цікавою та привабливою. Виріб виконаний із міцного пластокерамічного матеріалу, стійкого до вологи та зовнішніх впливів, що дозволяє використовувати його як у приміщенні, так і на балконі або терасі. Переваги: Оригінальний дизайн - прикрашає квіткові горщики Легко кріпиться на край горщика Вологостійкий матеріал - підходить для рослин Компактний розмір – не заважає росту рослини Відмінно підходить для декору будинку та подарунку</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OO00397" available="false">
+<offer id="OO00397" available="true">
 <price>225</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -151515,6 +151515,42 @@ _x000D_
 <name_ua>Барний набір "Смак життя", 10 аксесуарів (9123-013)</name_ua>
 <name_ru>Барный набор "Вкус жизни", 10 аксессуаров (9123-013)</name_ru>
 <description_ua>Довжина бамбукової підставки - 27 см, висота - 6см. Об'єм шейкера - 500 мл, висота - 20 см. Барний подарунковий набір для виготовлення коктейлів - це стильний та практичний комплект з бамбуковою підставкою, що допомагає створити ідеальні коктейлі вдома. Набір складається з предметів, що зроблять приготування коктейлів легким та веселим процесом. Зокрема, у комплекті є шейкер, подвійний джигер, гейзера, щипці для льоду, мадлер, барна ложка тощо. Цей набір дозволяє не тільки ефективно змішувати і охолоджувати інгредієнти, але й надає атмосферу професійного бару у власному домі. Барний набір є ідеальним подарунком для будь-якого любителя коктейлів, незалежно від рівня досвіду, і додає елегантність і стиль в кулінарний арсенал кожного гурмана.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE12851" available="true">
+<price>244</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92388378-f339e15bc09b1841c7d85573c6d4c18b-1729693749920.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE12851</vendorCode>
+<name_ua>Санки дерев'яні Flora м'ятні 20 см. 11557</name_ua>
+<name_ru>Санки деревянные Flora мятные 20 см. 11557</name_ru>
+<description_ua>Санки дерев'яні декоративні м'ятного кольору.&amp;nbsp;Підійдуть для декору новорічного столу, каміна, офісу.&amp;nbsp;Можуть бути задекоровані як новорічна композиція.&amp;nbsp;Заготівка для подальшого декорування.&amp;nbsp;Може бути готовим предметом декору в екодізайні.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE14233" available="true">
+<price>606</price>
+<currencyId>UAH</currencyId>
+<categoryId>1097</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i93974420-f339e15bc09b1841c7d85573c6d4c18b-1732609204571.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE14233</vendorCode>
+<name_ua>Масляна фарфорова Flora Naturel з ножем на бамбуковій підставці 33361</name_ua>
+<name_ru>Масленица фарфоровая Flora  Naturel с ножом на бамбуковой подставке 33361</name_ru>
+<description_ua>Фарфорове масляне блюдо в простій сучасній формі в поєднанні з бамбуковою кришкою, в яку поміщений ніж для масла, виглядає унікально і вписується в будь-яку композицію. Воно зроблене з високоякісного фарфору, який буде красиво виглядати на кухонному столі. Перевага фарфору в тому, що він не вбирає запахи.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE13059" available="true">
+<price>599</price>
+<currencyId>UAH</currencyId>
+<categoryId>1071</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92646514-e343759c5f395f4a748cdc44923e7b31-1730146631717.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE13059</vendorCode>
+<name_ua>Набір фарфорових чашок Ялинка 2 шт. 400 мл. 33665</name_ua>
+<name_ru>Набор фарфоровых чашек Елка 2 шт. 400 мл. 33665</name_ru>
+<description_ua>Набір фарфорових чашок Ялинка, 400 мл, 2 дизайни, колір - червоний з білим. Набір фарфорових чашок&amp;nbsp;відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих Вам людей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 </offers>
