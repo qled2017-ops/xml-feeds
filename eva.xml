@@ -52877,7 +52877,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE15300" available="true">
-<price>562</price>
+<price>135</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i95614307-f3b6f1043ec712bcf76057aefd9fd828-1734967177851.jpg</picture>
@@ -79641,7 +79641,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02618" available="true">
-<price>649</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>104852.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71521686-897c6edd7bc3a2643daff1f702f22b8b.jpg</picture>
@@ -128574,7 +128574,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="EA02124" available="true">
-<price>282</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123635647-9d8cea72786315c10a3cb769ce5f4ad8-1767124232841.jpg</picture>
