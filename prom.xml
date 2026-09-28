@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-28 00:28">
+<yml_catalog date="2026-09-28 09:11">
 <shop>
 <name>Prom feed</name>
 <company>Prom feed</company>
@@ -39633,7 +39633,7 @@ USB-кабель заряджання;
 <param name="Колір">Карамельний</param>
 <param name="Ширина в упаковці (см)">32</param>
 </offer>
-<offer id="RS06404" available="true">
+<offer id="RS06404" available="false">
 <price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1234</categoryId>
@@ -39645,7 +39645,7 @@ USB-кабель заряджання;
 <name_ru>Кабель для очистки труб, Л-5 м, Д-6 мм P-1410</name_ru>
 <description>ВиробникSLLTOOL Країна походженняКитай Тип сантехнічного кабелюПружинний матеріал мотузкиНержавіюча сталь Кабель для очищення труб, Л-5 м, Д 6 мм. Кабель для пробивання засмічень в каналізаційних трубах. Модель оснащена новою міцною, стійкою до скручування спіраллю 1/4 (6 мм) з сердечником. Має великі ручки зручної конструкції.</description>
 <description_ua>ВиробникSLLTOOL Країна походженняКитай Тип сантехнічного кабелюПружинний матеріал мотузкиНержавіюча сталь Кабель для очищення труб, Л-5 м, Д 6 мм. Кабель для пробивання засмічень в каналізаційних трубах. Модель оснащена новою міцною, стійкою до скручування спіраллю 1/4 (6 мм) з сердечником. Має великі ручки зручної конструкції.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Вага в упаковці, кг">0.2</param>
 <param name="Висота в упаковці (см)">5</param>
@@ -70680,7 +70680,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина">22 см</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="OK04430" available="true">
+<offer id="OK04430" available="false">
 <price>1999</price>
 <currencyId>UAH</currencyId>
 <categoryId>1239</categoryId>
@@ -70700,7 +70700,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <name_ru>Дорожная сумка большой вместимости GJ006-5 Черный</name_ru>
 <description>Виробник: Китай Матеріал: Meланж тканинна Розміри: висота 45 см, довжина 24 см Ширина бічний 20 см&amp;nbsp;</description>
 <description_ua>Виробник: Китай Матеріал: Meланж тканинна Розміри: висота 45 см, довжина 24 см Ширина бічний 20 см&amp;nbsp;</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Висота">45 см</param>
