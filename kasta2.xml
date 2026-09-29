@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-23 14:50">
+<yml_catalog date="2026-09-29 19:32">
 <shop>
 <name>Kasta feed 2 (Floramax)</name>
 <company>Kasta feed 2 (Floramax)</company>
@@ -51845,6 +51845,132 @@
 <name_ua>Набір фарфорових чашок Ялинка 2 шт. 400 мл. 33665</name_ua>
 <name_ru>Набор фарфоровых чашек Елка 2 шт. 400 мл. 33665</name_ru>
 <description_ua>Набір фарфорових чашок Ялинка, 400 мл, 2 дизайни, колір - червоний з білим. Набір фарфорових чашок&amp;nbsp;відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих Вам людей.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="KU00159" available="true">
+<price>421</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://www.floramax.com.ua/image/cache/webp/catalog/product/44815/kashpo-keramicheskoe-domik-h-23-sm-36546-1-660x660.webp</picture>
+<picture>https://www.floramax.com.ua/image/cache/webp/catalog/product/44815/kashpo-keramicheskoe-domik-h-10-sm-36549-2-660x660.webp</picture>
+<vendor>Flora</vendor>
+<vendorCode>KU00159</vendorCode>
+<name_ua>Кашпо керамічне Будиночок H-10 см. 36549</name_ua>
+<name_ru>Кашпо керамическое Домик H-10 см. 36549</name_ru>
+<description_ua>Стильне кашпо виготовлене з кераміки. Завдяки оригінальному дизайну – кашпо стане цікавим акцентом в інтер'єрі заміського будинку чи квартири. Влітку квітами в кашпо можна прикрасити терасу, альтанку.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="10671-4,1" available="true">
+<price>1249</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i149736307-9d2d0bfc837459bbcbe13f06f2ca8a7e-1790680524848.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>10671-4,1</vendorCode>
+<name_ua>Горщик керамічний Куля Шовк 4,1 л капучіно (10671)</name_ua>
+<name_ru>Горшок керамический Шар Шелк 4,1 л капучино (10671)</name_ru>
+<description_ua>Стильний керамічний горщик серії «Куля Шовк» у теплому кольорі капучіно стане практичним та декоративним доповненням домашнього або офісного інтер'єру. Округла форма гармонійно поєднується з кімнатними рослинами та добре виглядає на підвіконні, полиці, столі або підставці для квітів. Горщик виготовлений із кераміки , має об'єм 4,1 л та комплектується піддоном. Розмір підходить для вирощування різноманітних кімнатних декоративно-листяних і квітучих рослин. Нейтральний відтінок капучіно легко поєднується з деревом, текстилем та іншими елементами сучасного інтер'єру. Для цієї моделі вказуються діаметр 19,5 см, висота 17 см і глибина 16 см. Характеристики: Тип: горщик для квітів Серія: Куля Шовк Артикул: 10671 Матеріал: кераміка Об'єм: 4,1 л Колір: капучіно Форма: округла Діаметр: 19,5 см Висота: 17 см Глибина: 16 см Комплектація: горщик, піддон Країна-виробник: Україна&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="MN000003221" available="true">
+<price>1376</price>
+<currencyId>UAH</currencyId>
+<categoryId>1061</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i129457789-3e1f82bae5ba3acc991cd785d74b93fa-1773910275122.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>MN000003221</vendorCode>
+<name_ua>Ваза скляна безбарвна 21 см. (33969)</name_ua>
+<name_ru>Ваза стеклянная бесцветная 21 см. (33969)</name_ru>
+<description_ua>Стримана елегантність, яка підходить до будь-якого інтер’єру. Безбарвна скляна ваза - універсальний акцент для дому: досить компактна для шафи або підвіконня і при цьому помітна, щоб підтримати букет або стати самостійним предметом декору. Напівпрозоре скло красиво пом'якшує світло і відтіняє зелень, підкреслюючи форму стебел і бутонів. Вона однаково гармонійно виглядає з пишними букетами, кількома довгими стеблами, гілками евкаліпта або композиціями із сухоцвітів.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="MN000003223" available="true">
+<price>1449</price>
+<currencyId>UAH</currencyId>
+<categoryId>1061</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i129458293-0346f99bf398f8acb3a9d378715d7444-1773910926104.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>MN000003223</vendorCode>
+<name_ua>Ваза скляна сіра 21 см. (33960)</name_ua>
+<name_ru>Ваза стеклянная серая 21 см. (33960)</name_ru>
+<description_ua>Стримана елегантність, яка підходить до будь-якого інтер’єру. Безбарвна скляна ваза - універсальний акцент для дому: досить компактна для шафи або підвіконня і при цьому помітна, щоб підтримати букет або стати самостійним предметом декору. Напівпрозоре скло красиво пом'якшує світло і відтіняє зелень, підкреслюючи форму стебел і бутонів. Вона однаково гармонійно виглядає з пишними букетами, кількома довгими стеблами, гілками евкаліпта або композиціями із сухоцвітів.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="MN000003244" available="true">
+<price>1302</price>
+<currencyId>UAH</currencyId>
+<categoryId>1061</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i129504729-eacfff7d5049819443cf12bc75c78c4e-1773927972310.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>MN000003244</vendorCode>
+<name_ua>Ваза скляна Сумка безбарвна 23 см. (33975)</name_ua>
+<name_ru>Ваза стеклянная Сумка бесцветная 23 см. (33975)</name_ru>
+<description_ua>Оригінальна ваза у формі сумки створена для стильного та сучасного декору. Її незвичний дизайн імітує сумку з ручками, що додає їй особливої чарівності. Виготовлена з високоякісного скла, вона стане чудовим акцентом у будь-якому інтер’єрі.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE11919" available="true">
+<price>756</price>
+<currencyId>UAH</currencyId>
+<categoryId>1134</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91368119-9c01bedc7a5eb7a6bd810e910c0495d9-1727859930638.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE11919</vendorCode>
+<name_ua>Набір пластикових новорічних куль Мікс 40 шт. 13077</name_ua>
+<name_ru>Набор пластиковых новогодних шаров Микс 40 шт. 13077</name_ru>
+<description_ua>Набір ялинкових куль, колір – рожевий фламінго, 40 шт – 6 см, 5 см, 4 см, 3 см: 4 шт – перламутр, 3 шт – матовий, 3 шт – глітер для кожного розміру. Ялинкові кулі немов створені для того, щоб новорічний настрій оселився у вашому будинку. Кульки на ялинку завжди будуть класичним рішенням у святковому декорі – вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна прикрашати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE14646" available="true">
+<price>285</price>
+<currencyId>UAH</currencyId>
+<categoryId>1184</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i111427381-10536b6edc1f3b0345d2fa843f9f875e-1759930020750.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i111427381-689b14658a00e9a13fadd100f8259147-1761654225417.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE14646</vendorCode>
+<name_ua>Будиночок з підсвіткою новорічний 11 см. 13929 (923-308)</name_ua>
+<name_ru>Домик с подсветкой новогодний 11 см. 13929 (923-308)</name_ru>
+<description_ua>Будиночок керамічний з підсвіткою відмінно підійде для створення новорічних композицій. Працює від двох батарейок типу LR44 (батарейки в комплекті).</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE14645" available="true">
+<price>333</price>
+<currencyId>UAH</currencyId>
+<categoryId>1184</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i111427405-74f97f6617699830eb77b9a50e0287cb-1760007628697.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE14645</vendorCode>
+<name_ua>Будиночок з підсвіткою Flora 14.5 см. 13930</name_ua>
+<name_ru>Домик с подсветкой Flora 14.5 см. 13930</name_ru>
+<description_ua>Будиночок керамічний з підсвіткою відмінно підійде для створення новорічних композицій. Працює від двох батарейок типу LR44 (батарейки в комплекті).</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE11663" available="true">
+<price>1911</price>
+<currencyId>UAH</currencyId>
+<categoryId>1147</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91099861-943f2b0aa171125a8fa14703ebe05ac9-1727360921327.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91099861-9c01bedc7a5eb7a6bd810e910c0495d9-1727360921623.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91099861-f6d2006735f406807550a55f1df152bd-1727360921718.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE11663</vendorCode>
+<name_ua>Гірлянда-пучок Flora 500 міні-LED (25 ліній по 2 м. 20 діодів) 12856</name_ua>
+<name_ru>Гирлянда-пучок Flora 500 мини-LED (25 линий по 2 м. 20 диодов) 12856</name_ru>
+<description_ua>Світлодіодні підсвітки прикрасять вашу квартиру, а їх світло створить неповторну атмосферу в кімнаті. Завдяки гнучкості проводів ми можемо самі визначати форму підсвічування. Параметри: - тепле світло, - живлення від мережі 220 в. - для внутрішнього і зовнішнього використання.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE11664" available="true">
+<price>1617</price>
+<currencyId>UAH</currencyId>
+<categoryId>1147</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91099893-bba8cd9fa1ba55f0b2162bfb75e17843-1727361147111.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91099893-f339e15bc09b1841c7d85573c6d4c18b-1727361147206.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91099893-c7d33e7a2f71504be0d73ecaaf582dcf-1727361147303.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE11664</vendorCode>
+<name_ua>Гірлянда-пучок Flora 360 міні-LED (18 ліній по 2 м. 20 діодів) 12854</name_ua>
+<name_ru>Гирлянда-пучок Flora 360 мини-LED (18 линий по 2 м. 20 диодов) 12854</name_ru>
+<description_ua>Світлодіодні підсвітки прикрасять вашу квартиру, а їх світло створить неповторну атмосферу в кімнаті. Завдяки гнучкості проводів ми можемо самі визначати форму підсвічування. Параметри: - тепле світло, - живлення від мережі 220 в. - для внутрішнього і зовнішнього використання.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 </offers>
