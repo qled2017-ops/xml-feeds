@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-29 11:03">
+<yml_catalog date="2026-09-29 13:00">
   <offers>
     <offer id="MR05014" available="true">
       <price>1890</price>
@@ -1305,7 +1305,7 @@
     <offer id="N01726" available="false">
       <price>211</price>
     </offer>
-    <offer id="WHW21746-5" available="true">
+    <offer id="WHW21746-5" available="false">
       <price>173</price>
     </offer>
     <offer id="R29044" available="false">
@@ -1476,7 +1476,7 @@
     <offer id="R84939" available="false">
       <price>82</price>
     </offer>
-    <offer id="R85329/R85334" available="true">
+    <offer id="R85329/R85334" available="false">
       <price>519</price>
     </offer>
     <offer id="MH-3366" available="false">
@@ -152819,7 +152819,7 @@
     <offer id="DR015861" available="true">
       <price>1034</price>
     </offer>
-    <offer id="DR015862" available="true">
+    <offer id="DR015862" available="false">
       <price>1151</price>
     </offer>
     <offer id="DR015864" available="false">
@@ -172415,7 +172415,7 @@
     <offer id="AM0001941" available="false">
       <price>293</price>
     </offer>
-    <offer id="AM0001942" available="true">
+    <offer id="AM0001942" available="false">
       <price>390</price>
     </offer>
     <offer id="AM0001948" available="false">
@@ -218740,13 +218740,13 @@
     <offer id="RI0002302" available="true">
       <price>507</price>
     </offer>
-    <offer id="AN0137516" available="true">
+    <offer id="AN0137516" available="false">
       <price>273</price>
     </offer>
     <offer id="RI0002303" available="true">
       <price>516</price>
     </offer>
-    <offer id="AN0137517" available="true">
+    <offer id="AN0137517" available="false">
       <price>273</price>
     </offer>
     <offer id="AN0137518" available="true">
