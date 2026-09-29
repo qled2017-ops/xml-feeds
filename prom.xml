@@ -8561,7 +8561,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="EA01827" available="true">
-<price>297</price>
+<price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i120983313-7e3cc981723335566bb505c4487ed810-1764007708576.jpg</picture>
@@ -30394,7 +30394,7 @@ LED-підсвічування</param>
 <param name="Колір">Синий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="SA001045" available="true">
+<offer id="SA001045" available="false">
 <price>315</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -30406,7 +30406,7 @@ LED-підсвічування</param>
 <name_ru>Мужские трусы INDENA Бамбук 3XL Черный (85324)</name_ru>
 <description>Продукція фірми INDENA виготовлена із натуральної бавовни з додаванням еластичної нитки. Завдяки сучасному дизайну, обліку особливості чоловічої будови тіла, а також природним оздоровчим властивостям бавовни, робить чоловічу білизну м'якою, комфортабельною та зручною в носінні.</description>
 <description_ua>Продукція фірми INDENA виготовлена із натуральної бавовни з додаванням еластичної нитки. Завдяки сучасному дизайну, обліку особливості чоловічої будови тіла, а також природним оздоровчим властивостям бавовни, робить чоловічу білизну м'якою, комфортабельною та зручною в носінні.</description_ua>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Вид тканини">Бамбук</param>
 <param name="Висота в упаковці (см)">2</param>
@@ -76051,7 +76051,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">12</param>
 </offer>
 <offer id="EA02123" available="true">
-<price>299</price>
+<price>292</price>
 <currencyId>UAH</currencyId>
 <categoryId>1178</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123635596-411216cb1b1ee357b4eb5a8274501ee9-1767124035988.jpg</picture>
@@ -76080,7 +76080,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">11</param>
 </offer>
 <offer id="EA02121" available="true">
-<price>229</price>
+<price>174</price>
 <currencyId>UAH</currencyId>
 <categoryId>1178</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123635567-f3b6f1043ec712bcf76057aefd9fd828-1767123503852.jpg</picture>
@@ -77004,7 +77004,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="EA02122" available="true">
-<price>299</price>
+<price>292</price>
 <currencyId>UAH</currencyId>
 <categoryId>1178</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123635585-db7da300d164ed027d3c976214888319-1767123761318.jpg</picture>
