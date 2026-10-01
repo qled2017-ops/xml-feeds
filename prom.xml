@@ -5234,7 +5234,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="VK01575" available="true">
-<price>26</price>
+<price>50</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92899134-91b7df00a85791d9bfac0dc5db5db8c5-1730459318685.jpg</picture>
@@ -5882,7 +5882,7 @@ LED-підсвічування</param>
 <param name="Форма сервірування страви">Фігурна</param>
 <param name="Колір">Бежевий</param>
 </offer>
-<offer id="EA03846" available="true">
+<offer id="EA03846" available="false">
 <price>129</price>
 <currencyId>UAH</currencyId>
 <categoryId>1083</categoryId>
@@ -5894,7 +5894,7 @@ LED-підсвічування</param>
 <name_ru>Прищепка бытовая 20шт/уп WW00728</name_ru>
 <description>Набір побутових прищіпок призначений для зручної фіксації одягу, білизни та інших речей під час сушіння. Прищіпки виготовлені з міцного пластику, мають компактний розмір і зручну конструкцію для повсякденного використання. Набір із 20 прищіпок підходить для використання вдома, на балконі, у ванній кімнаті або на дачі. Різнокольорове оформлення робить їх практичним та зручним аксесуаром для дому.</description>
 <description_ua>Набір побутових прищіпок призначений для зручної фіксації одягу, білизни та інших речей під час сушіння. Прищіпки виготовлені з міцного пластику, мають компактний розмір і зручну конструкцію для повсякденного використання. Набір із 20 прищіпок підходить для використання вдома, на балконі, у ванній кімнаті або на дачі. Різнокольорове оформлення робить їх практичним та зручним аксесуаром для дому.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Кількість в упаковці">20</param>
 <param name="Матеріал">Пластик</param>
@@ -6030,7 +6030,7 @@ LED-підсвічування</param>
 <param name="Колір">Сріблястий</param>
 </offer>
 <offer id="NI00051" available="true">
-<price>92</price>
+<price>83</price>
 <currencyId>UAH</currencyId>
 <categoryId>1074</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i106416551-f3ccdd27d2000e3f9255a7e3e2c48800-1747258073219.jpg</picture>
@@ -7641,7 +7641,7 @@ LED-підсвічування</param>
 <param name="Тип поставки">Набір</param>
 <param name="Ширина в упаковці (см)">12,1</param>
 </offer>
-<offer id="KK-105" available="true">
+<offer id="KK-105" available="false">
 <price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>1105</categoryId>
@@ -7654,7 +7654,7 @@ LED-підсвічування</param>
 <name_ru>Калькулятор KK-105 инженерный Matrix НФ-00006427</name_ru>
 <description>Калькулятор Matrix KK-105 інженерний, 10-розрядний, кишеньковий — для школярів, студентів, инженеров і бухгалтеров. Виконує тригонометрические, логарифмические і статистические функції, роботу з дробями, степенями і корнями, перевод одиниць, обчислення з пам'яттю. Великої контрастний дисплей на 10 разрядов, зручні великі кнопки з чітким маркуванням. Живлення від батарейки, автоматичне відключення економить заряд. Компактний корпус з захисної кришкою поміщається в пенал або кишеня і захищає клавіатуру при перенесенні. Розрядність дисплея: 10 Країна-виробник: Китай Живлення: LR44 Вид: інженерний Бренд: Іншого Країна-виробник: Китай Розрядність дисплея: 10 Вид: інженерний Матеріал корпусу: пластиковий Живлення: LR44 Колір виробника: чорний</description>
 <description_ua>Калькулятор Matrix KK-105 інженерний, 10-розрядний, кишеньковий — для школярів, студентів, инженеров і бухгалтеров. Виконує тригонометрические, логарифмические і статистические функції, роботу з дробями, степенями і корнями, перевод одиниць, обчислення з пам'яттю. Великої контрастний дисплей на 10 разрядов, зручні великі кнопки з чітким маркуванням. Живлення від батарейки, автоматичне відключення економить заряд. Компактний корпус з захисної кришкою поміщається в пенал або кишеня і захищає клавіатуру при перенесенні. Розрядність дисплея: 10 Країна-виробник: Китай Живлення: LR44 Вид: інженерний Бренд: Іншого Країна-виробник: Китай Розрядність дисплея: 10 Вид: інженерний Матеріал корпусу: пластиковий Живлення: LR44 Колір виробника: чорний</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">50.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -10026,7 +10026,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">28</param>
 </offer>
 <offer id="445-093-2" available="true">
-<price>199</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70434060-86a84c40e47d1ab1daedd54d0b71f0ad.jpg</picture>
@@ -10399,7 +10399,7 @@ LED-підсвічування</param>
 <param name="Тип">Для малювання</param>
 </offer>
 <offer id="DE12600" available="true">
-<price>271</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94519941-a26e339e6751cfd0e87ec204513065ef-1733329472474.jpg</picture>
@@ -12591,7 +12591,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="DreamStan-43" available="true">
-<price>299</price>
+<price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1008</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74073654-01b0e19c0e913ec58ce9d53389430497-1769966623199.jpg</picture>
@@ -15111,7 +15111,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="1-104S" available="true">
-<price>299</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70637754-783b279f91d3ea3c2b6de00bb1d5dab0.jpg</picture>
@@ -15410,7 +15410,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="NVPIL" available="true">
-<price>699</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72301292-2c2ec490f6024e1571c77b09edd24f87.jpg</picture>
@@ -16509,7 +16509,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-12-8,5" available="true">
-<price>699</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71283479-41cf731164f6dd72ac95b71b965635ec.jpg</picture>
@@ -16597,7 +16597,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-12-7" available="true">
-<price>799</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71283479-41cf731164f6dd72ac95b71b965635ec.jpg</picture>
@@ -16641,7 +16641,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="G-12-6.5" available="true">
-<price>599</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71283479-41cf731164f6dd72ac95b71b965635ec.jpg</picture>
@@ -16995,7 +16995,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="G-04M" available="true">
-<price>999</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-745346cc4fea570c3b210d5be86f7db1.jpg</picture>
@@ -17040,7 +17040,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-04S" available="true">
-<price>999</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-745346cc4fea570c3b210d5be86f7db1.jpg</picture>
@@ -17800,7 +17800,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="Q803XXL" available="true">
-<price>649</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71688694-12c51b6d571650ecf95cd3bb81e41cd6.jpg</picture>
@@ -17878,7 +17878,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">14</param>
 </offer>
 <offer id="Q802XL" available="true">
-<price>699</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71688183-aa89fbb592c208b8ef1dee9d08596acd.jpg</picture>
@@ -19418,7 +19418,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="MtacMk2WRGen2Coyote45" available="true">
-<price>4999</price>
+<price>5499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68597493-9ae7cddfe17a444bb0748d4d05d5e2c9.jpg</picture>
@@ -19549,7 +19549,7 @@ LED-підсвічування</param>
 <param name="Колір">Різнобарвні</param>
 </offer>
 <offer id="MtacMk2WRGen2Coyote44" available="true">
-<price>4999</price>
+<price>5499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68597493-9ae7cddfe17a444bb0748d4d05d5e2c9.jpg</picture>
@@ -22379,7 +22379,7 @@ LED-підсвічування</param>
 <param name="Колір">Сірий</param>
 <param name="Ширина в упаковці (см)">5</param>
 </offer>
-<offer id="RE01338" available="true">
+<offer id="RE01338" available="false">
 <price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1178</categoryId>
@@ -22399,7 +22399,7 @@ LED-підсвічування</param>
 <name_ru>Мультитул с плоскогубцами и отверткой с набором бит M-Tac Type 1 Black 60002002</name_ru>
 <description>КОРОТКІ ХАРАКТЕРИСТИКИ Сучасний мультитул від бренду M-TAC оснащений усіма необхідними інструментами, які можуть знадобитися як у повсякденному житті, так і під час тривалого перебування у похідних умовах. Виготовлений з нержавіючої сталі марки 440С, що гарантує довговічність та міцність інструментів навіть при тривалій експлуатації. Мультитул TYPE 1 має: ніж, напилок, викрутку, битотримач та 9 насадок різного розміру, шило, консервний ніж та відкривалку для пляшок, хрестову викрутку, пилку та плоскогубці, які розкладаються відведенням рукояток. Всі елементи щільно фіксуються у відкритому та закритому положенні. Завдяки ергономічній формі, мультитул чудово лежить у руці і не зісковзує під час роботи. Комплектується спеціальним чохлом, який за допомогою стропи можна кріпити до екіпірування. Також мультитул добре поміщається в сумці або рюкзаку, не займаючи багато місця. Довжина у складеному стані: 10,5 см Матеріал: 440С Інструмент : плоскогубці-кусачки ніж напилок викрутка плоска шило консервний ніж відкривалка Хрестова викрутка мала плоска викрутка середня плоска викрутка пилка Додатково : нейлоновий чохол ОГЛЯД M-TAC МУЛЬТИТУЛ Похід на природу, поїздка автомобілем або велосипедом, безліч хобі (рибалка тощо), дрібний побутовий ремонт будинку — ось далеко не повний перелік випадків, коли Вам знадобиться набір інструментів. Кожен може опинитися в ситуації, коли викрутка або плоскогубці були б дуже доречними. Але ж постійно носити з собою купу інструментів незручно і не раціонально. Вирішення цієї проблеми було знайдено ще наприкінці 19-го століття, коли з'явилися перші складані ножі з невеликою кількістю інструментів. Мультитул у його сучасному вигляді (складні пасатижі з інструментами в ручках) був винайдений Тімом Лезерманном (засновником компанії та творцем торгової марки Leathermann). З того часу виробники мультитулів не винаходять велосипед. Конструкція мультитула практично не зазнала змін, змінюється та вдосконалюється лише набір інструментів, що розміщуються у ручках. До вашої уваги пропонується версія мультитулу від вітчизняного бренду компанії М-ТАС. За цей час було розроблено та випущено чималий асортимент продукції, серед якої і даний мультитул. Продуманий дизайн та функціональність моделі у поєднанні з бюджетною ціною зробили його чудовим варіантом набору інструментів. Такий мультитул відмінно підійде як подарунок, оскільки знадобиться практично кожному. Розглянемо модель докладніше. Довжина у складеному стані – всього 105 мм. Комплектується нейлоновим чохлом з клапаном на велкро та петлею для просування ременя та носіння на поясі. І комплектом змінних бітів. Матеріал виготовлення мультитулу – сталь марки 440С. Рукоятки мультитула виготовлені з металу, не мають накладок. За рахунок отворів у ручках виробник знизив загальний вага виробу без шкоди для його надійності та функціональності. Комплект має ретельно продуманий і підібраний набір інструментів: тільки затребуване, нічого зайвого. 1. Ніж 2. Напильник 3. Викрутка плоска 4. Утримувач біт (на ньому слід зупинитися окремо). За допомогою намагніченого перехідника на утримувачі закріплюються насадки. У комплекті їх 9 (фігурні та плоскі викрутки різного розміру, шестигранники). 5. Мала плоска викрутка Це набір інструментів, що розташовані в одній рукоятці. Тепер друга: 1. Шило 2. Консервний ніж+відкривачка для пляшок 3. Хрестова викрутка 4. Пила Ну і звичайно, плоскогубці-кусачки, які розкладаються відведенням рукояток. Ви самі можете переконатися, що мультитул обладнаний лише затребуваними інструментами. Усі вони вміщені в компактний, міцний і зручний корпус, а мультитул у складеному стані займає зовсім небагато місця і відмінно поміститься в кишені або на поясі (в чохлі), не кажучи вже про рюкзак або бардачок автомобіля. Якісна, надійна та відносно бюджетна модель мультитула від вітчизняного бренду М-ТАС стане в нагоді тим, хто хоч іноді щось лагодить чи робить своїми руками. Отже – практично кожному. І стане чудовим придбанням як для себе, так і як подарунок.</description>
 <description_ua>КОРОТКІ ХАРАКТЕРИСТИКИ Сучасний мультитул від бренду M-TAC оснащений усіма необхідними інструментами, які можуть знадобитися як у повсякденному житті, так і під час тривалого перебування у похідних умовах. Виготовлений з нержавіючої сталі марки 440С, що гарантує довговічність та міцність інструментів навіть при тривалій експлуатації. Мультитул TYPE 1 має: ніж, напилок, викрутку, битотримач та 9 насадок різного розміру, шило, консервний ніж та відкривалку для пляшок, хрестову викрутку, пилку та плоскогубці, які розкладаються відведенням рукояток. Всі елементи щільно фіксуються у відкритому та закритому положенні. Завдяки ергономічній формі, мультитул чудово лежить у руці і не зісковзує під час роботи. Комплектується спеціальним чохлом, який за допомогою стропи можна кріпити до екіпірування. Також мультитул добре поміщається в сумці або рюкзаку, не займаючи багато місця. Довжина у складеному стані: 10,5 см Матеріал: 440С Інструмент : плоскогубці-кусачки ніж напилок викрутка плоска шило консервний ніж відкривалка Хрестова викрутка мала плоска викрутка середня плоска викрутка пилка Додатково : нейлоновий чохол ОГЛЯД M-TAC МУЛЬТИТУЛ Похід на природу, поїздка автомобілем або велосипедом, безліч хобі (рибалка тощо), дрібний побутовий ремонт будинку — ось далеко не повний перелік випадків, коли Вам знадобиться набір інструментів. Кожен може опинитися в ситуації, коли викрутка або плоскогубці були б дуже доречними. Але ж постійно носити з собою купу інструментів незручно і не раціонально. Вирішення цієї проблеми було знайдено ще наприкінці 19-го століття, коли з'явилися перші складані ножі з невеликою кількістю інструментів. Мультитул у його сучасному вигляді (складні пасатижі з інструментами в ручках) був винайдений Тімом Лезерманном (засновником компанії та творцем торгової марки Leathermann). З того часу виробники мультитулів не винаходять велосипед. Конструкція мультитула практично не зазнала змін, змінюється та вдосконалюється лише набір інструментів, що розміщуються у ручках. До вашої уваги пропонується версія мультитулу від вітчизняного бренду компанії М-ТАС. За цей час було розроблено та випущено чималий асортимент продукції, серед якої і даний мультитул. Продуманий дизайн та функціональність моделі у поєднанні з бюджетною ціною зробили його чудовим варіантом набору інструментів. Такий мультитул відмінно підійде як подарунок, оскільки знадобиться практично кожному. Розглянемо модель докладніше. Довжина у складеному стані – всього 105 мм. Комплектується нейлоновим чохлом з клапаном на велкро та петлею для просування ременя та носіння на поясі. І комплектом змінних бітів. Матеріал виготовлення мультитулу – сталь марки 440С. Рукоятки мультитула виготовлені з металу, не мають накладок. За рахунок отворів у ручках виробник знизив загальний вага виробу без шкоди для його надійності та функціональності. Комплект має ретельно продуманий і підібраний набір інструментів: тільки затребуване, нічого зайвого. 1. Ніж 2. Напильник 3. Викрутка плоска 4. Утримувач біт (на ньому слід зупинитися окремо). За допомогою намагніченого перехідника на утримувачі закріплюються насадки. У комплекті їх 9 (фігурні та плоскі викрутки різного розміру, шестигранники). 5. Мала плоска викрутка Це набір інструментів, що розташовані в одній рукоятці. Тепер друга: 1. Шило 2. Консервний ніж+відкривачка для пляшок 3. Хрестова викрутка 4. Пила Ну і звичайно, плоскогубці-кусачки, які розкладаються відведенням рукояток. Ви самі можете переконатися, що мультитул обладнаний лише затребуваними інструментами. Усі вони вміщені в компактний, міцний і зручний корпус, а мультитул у складеному стані займає зовсім небагато місця і відмінно поміститься в кишені або на поясі (в чохлі), не кажучи вже про рюкзак або бардачок автомобіля. Якісна, надійна та відносно бюджетна модель мультитула від вітчизняного бренду М-ТАС стане в нагоді тим, хто хоч іноді щось лагодить чи робить своїми руками. Отже – практично кожному. І стане чудовим придбанням як для себе, так і як подарунок.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">0.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -24924,7 +24924,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">22</param>
 </offer>
 <offer id="Mtacslao44" available="true">
-<price>2187</price>
+<price>2015</price>
 <currencyId>UAH</currencyId>
 <categoryId>1065</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i64476848-13a33fde8d7ba5b7466d5aa0639edd5a.jpg</picture>
@@ -27267,7 +27267,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">12</param>
 </offer>
 <offer id="Mtacslao43" available="true">
-<price>2187</price>
+<price>2015</price>
 <currencyId>UAH</currencyId>
 <categoryId>1065</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i64476848-13a33fde8d7ba5b7466d5aa0639edd5a.jpg</picture>
@@ -27545,7 +27545,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">25</param>
 </offer>
 <offer id="WinterSoftShellBlackXL" available="true">
-<price>434</price>
+<price>514</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68498552-b610e45ffb7190b81e8211b8bacf15b6.jpg</picture>
@@ -28672,7 +28672,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="VK02095" available="true">
-<price>75</price>
+<price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94767609-5bc49954d823731f207cfa56965b9cb6-1733735751106.jpg</picture>
@@ -28700,7 +28700,7 @@ LED-підсвічування</param>
 <param name="Форма">Кругла</param>
 </offer>
 <offer id="VK01858" available="true">
-<price>115</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i93975223-5aed05700ba93e91311c20dfddefdbd9-1732612684786.jpg</picture>
@@ -29228,7 +29228,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="RE02883" available="true">
-<price>135</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71842986-395a7f727cd202cca94502b70b97846b.jpg</picture>
@@ -30081,7 +30081,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">12</param>
 </offer>
 <offer id="RE02631" available="true">
-<price>29</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71524012-89ff04f6e1106794b651b124328e5959.jpg</picture>
@@ -30379,7 +30379,7 @@ USB-кабель заряджання;
 <param name="Колір">Синій</param>
 </offer>
 <offer id="221001XL" available="true">
-<price>1199</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68387969-9e7dd83ce0b4db4568d1e3c725b06d13.jpg</picture>
@@ -30428,7 +30428,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="2210012XL" available="true">
-<price>999</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68387969-9e7dd83ce0b4db4568d1e3c725b06d13.jpg</picture>
@@ -30477,7 +30477,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="2210013XL" available="true">
-<price>899</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68387969-9e7dd83ce0b4db4568d1e3c725b06d13.jpg</picture>
@@ -31258,7 +31258,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="Митсубиси 46" available="true">
-<price>399</price>
+<price>381</price>
 <currencyId>UAH</currencyId>
 <categoryId>1006</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i75818370-070a30157c22f833fa3131ea71414d0a-1714039251000.jpg</picture>
@@ -31483,7 +31483,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="П-29black41" available="true">
-<price>199</price>
+<price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>1006</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i79488800-00bef1555d596c522b1dd1b1836b5c78-1710605870495.jpg</picture>
@@ -33221,7 +33221,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="221002-3XL" available="true">
-<price>699</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68387753-2e0ca4a00973ac3817e48ff6d0ec9aef-1731510472492.jpg</picture>
@@ -33934,7 +33934,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">31</param>
 </offer>
 <offer id="221002-2XL" available="true">
-<price>599</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68387753-2e0ca4a00973ac3817e48ff6d0ec9aef-1731510472492.jpg</picture>
@@ -35799,7 +35799,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="SA000859" available="true">
-<price>399</price>
+<price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1058</categoryId>
 <picture>https://cdn.27.ua/sc--media--prod/default/7d/ca/b0/7dcab01c-d3e8-4d52-805f-d1a68b8077e9.png</picture>
@@ -38702,7 +38702,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="33012XL" available="true">
-<price>899</price>
+<price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70953217-b4c36ecfe7f130d64cb4576a5f1a1dde.jpg</picture>
@@ -38747,7 +38747,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="33014XL" available="true">
-<price>999</price>
+<price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70953217-b4c36ecfe7f130d64cb4576a5f1a1dde.jpg</picture>
@@ -38829,7 +38829,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="222003-XL" available="true">
-<price>1299</price>
+<price>1099</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74520016-0e2974b2f1f0b6bb45722d739a1d76c3-1729455961592.jpg</picture>
@@ -39633,7 +39633,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="UD00381" available="true">
-<price>579</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i81738273-0d4b8dec527e44178616e51b3f1c2757-1764934769108.jpg</picture>
@@ -39690,7 +39690,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="stolikdarkwood" available="true">
-<price>799</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i82931341-ae286ee9144b3a39377d6105689b35fe-1715074372342.jpg</picture>
@@ -40291,7 +40291,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="AE000292" available="true">
-<price>999</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1234</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i122525619-6c6bd01dfc8e2bf75bdfd84374fe7be7-1765878265049.jpg</picture>
@@ -40533,7 +40533,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="221012XL" available="true">
-<price>1099</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68387944-d64d9317739a78a5b439f83d4ae20c84.jpg</picture>
@@ -40582,7 +40582,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="221013XL" available="true">
-<price>999</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68387944-d64d9317739a78a5b439f83d4ae20c84.jpg</picture>
@@ -40631,7 +40631,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="221014XL" available="true">
-<price>1199</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68387944-d64d9317739a78a5b439f83d4ae20c84.jpg</picture>
@@ -41668,7 +41668,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">6</param>
 </offer>
 <offer id="OO00575" available="true">
-<price>488</price>
+<price>341</price>
 <currencyId>UAH</currencyId>
 <categoryId>1033</categoryId>
 <picture>https://elisey.ua/files/products/n980e10c5dd7211ef8a24002590e9c1ad.540x540w.jpeg</picture>
@@ -43479,7 +43479,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="П-29black42" available="true">
-<price>199</price>
+<price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>1006</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i79488800-00bef1555d596c522b1dd1b1836b5c78-1710605870495.jpg</picture>
@@ -43972,7 +43972,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">26</param>
 </offer>
 <offer id="Q200L" available="true">
-<price>749</price>
+<price>649</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72282573-97acc83dc4b88566029f1327c43ed30d.jpg</picture>
@@ -44018,7 +44018,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="Q802L" available="true">
-<price>699</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71688183-aa89fbb592c208b8ef1dee9d08596acd.jpg</picture>
@@ -44106,7 +44106,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="OK06773" available="true">
-<price>185</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89703001-347e0fbca7a87a925cf0613a8bd43b1a-1768833324576.jpg</picture>
@@ -44144,7 +44144,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06774" available="true">
-<price>185</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89703008-347e0fbca7a87a925cf0613a8bd43b1a-1768833335821.jpg</picture>
@@ -44182,7 +44182,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06775" available="true">
-<price>185</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89703013-347e0fbca7a87a925cf0613a8bd43b1a-1768833349157.jpg</picture>
@@ -44220,7 +44220,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06776" available="true">
-<price>185</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89703017-347e0fbca7a87a925cf0613a8bd43b1a-1768833360733.jpg</picture>
@@ -44259,7 +44259,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06777" available="true">
-<price>185</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89703022-347e0fbca7a87a925cf0613a8bd43b1a-1768833373074.jpg</picture>
@@ -44452,7 +44452,7 @@ USB-кабель заряджання;
 <param name="Колір">Білий</param>
 </offer>
 <offer id="Q802M" available="true">
-<price>699</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71688183-aa89fbb592c208b8ef1dee9d08596acd.jpg</picture>
@@ -47067,7 +47067,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="1-104M" available="true">
-<price>299</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70637754-783b279f91d3ea3c2b6de00bb1d5dab0.jpg</picture>
@@ -47113,7 +47113,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="1-1042XL" available="true">
-<price>299</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70637754-783b279f91d3ea3c2b6de00bb1d5dab0.jpg</picture>
@@ -48667,7 +48667,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06607" available="true">
-<price>299</price>
+<price>213</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89675540-13d09387cc09e143490045f3e01bd542-1763681284009.jpg</picture>
@@ -48710,7 +48710,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK06609" available="true">
-<price>399</price>
+<price>213</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89675545-13d09387cc09e143490045f3e01bd542-1763681571230.jpg</picture>
@@ -48753,7 +48753,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK06610" available="true">
-<price>349</price>
+<price>213</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89675547-13d09387cc09e143490045f3e01bd542-1763681642957.jpg</picture>
@@ -48796,7 +48796,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK06608" available="true">
-<price>299</price>
+<price>213</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89675543-13d09387cc09e143490045f3e01bd542-1763681496177.jpg</picture>
@@ -48839,7 +48839,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK06611" available="true">
-<price>299</price>
+<price>213</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89675550-13d09387cc09e143490045f3e01bd542-1763681750845.jpg</picture>
@@ -48926,7 +48926,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="2-32XL" available="true">
-<price>399</price>
+<price>449</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72566376-3c62a0e545e339409d807ce14eadeded.jpg</picture>
@@ -48975,7 +48975,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="2-32L" available="true">
-<price>399</price>
+<price>449</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72566376-3c62a0e545e339409d807ce14eadeded.jpg</picture>
@@ -49073,7 +49073,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="G-04XL" available="true">
-<price>799</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-745346cc4fea570c3b210d5be86f7db1.jpg</picture>
@@ -49118,7 +49118,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="1-103-2XL" available="true">
-<price>349</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i117417490-9cf6f9ba465a253e67b2219b30f8a378-1760352353064.jpg</picture>
@@ -49847,7 +49847,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="OK06764" available="true">
-<price>185</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89702943-89fad9a80eb8485fe176ed5d34786dd8-1766618506805.jpg</picture>
@@ -49887,7 +49887,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06765" available="true">
-<price>185</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89702944-89fad9a80eb8485fe176ed5d34786dd8-1766618846281.jpg</picture>
@@ -49967,7 +49967,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06767" available="true">
-<price>185</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89702962-89fad9a80eb8485fe176ed5d34786dd8-1766618989750.jpg</picture>
@@ -50341,7 +50341,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">28</param>
 </offer>
 <offer id="445-098-2" available="true">
-<price>229</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70434008-16d3c3c7dccba9d7ea244b5a914538ff.jpg</picture>
@@ -50453,7 +50453,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="Q225-L" available="true">
-<price>499</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91545906-9b00645368930685d613d7729f48c0cf-1728375893777.jpg</picture>
@@ -50545,7 +50545,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="Q225-XL" available="true">
-<price>399</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91545906-9b00645368930685d613d7729f48c0cf-1728375893777.jpg</picture>
@@ -52102,7 +52102,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="AE000521" available="true">
-<price>1799</price>
+<price>1345</price>
 <currencyId>UAH</currencyId>
 <categoryId>1254</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i124528947-9da9cf731e31203e7dec21777ce33700-1768389733894.jpg</picture>
@@ -52266,7 +52266,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="AE000525" available="true">
-<price>1999</price>
+<price>1345</price>
 <currencyId>UAH</currencyId>
 <categoryId>1254</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i124528947-9da9cf731e31203e7dec21777ce33700-1768389733894.jpg</picture>
@@ -52555,7 +52555,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="dm210-XL" available="true">
-<price>579</price>
+<price>479</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i118057230-aa323c3fbefe71a26f825012a52e764f-1761151460158.jpg</picture>
@@ -52985,7 +52985,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="YD126-XL" available="true">
-<price>649</price>
+<price>549</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i118055808-b949130885e6d793c6acc08429aa26f5-1761149203162.jpg</picture>
@@ -53508,7 +53508,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір">Рожевий</param>
 </offer>
 <offer id="YM-2630l" available="true">
-<price>399</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1058</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78683256-56a079abcaa9eec4c3aaa5b0b1b1e726-1725956719777.jpg</picture>
@@ -54715,7 +54715,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="9444-2-4" available="true">
-<price>450</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1214</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70179594-3e96b157c61f9d4b1e740ba38818065c.jpg</picture>
@@ -56519,7 +56519,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Чашка">Без кісточок</param>
 </offer>
 <offer id="RE01912" available="true">
-<price>15</price>
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>1142</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70409454-887941e7f75f40f8cfb076d9386d4fa4-1781867369458.jpg</picture>
@@ -56958,7 +56958,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Максимальна кількість при замовленні">0.0</param>
 </offer>
 <offer id="445-101-2" available="true">
-<price>199</price>
+<price>240</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70433955-6d8f42677573c3f31bfc15c512e41836.jpg</picture>
@@ -57033,7 +57033,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="445-090-2" available="true">
-<price>199</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70434023-514e15562f857e632bb8a73b0f375405.jpg</picture>
@@ -57070,7 +57070,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">28</param>
 </offer>
 <offer id="445-089-2" available="true">
-<price>199</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70434054-8b075d3309f4f4b9a55ac7db20f47634.jpg</picture>
@@ -60197,7 +60197,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="RE01698" available="true">
-<price>155</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1093</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70136602-14c33460456a1b1b93b0020513d84c70.jpg</picture>
@@ -60481,7 +60481,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="G-04L" available="true">
-<price>799</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-745346cc4fea570c3b210d5be86f7db1.jpg</picture>
@@ -60526,7 +60526,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-04-2XL" available="true">
-<price>799</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-745346cc4fea570c3b210d5be86f7db1.jpg</picture>
@@ -60569,7 +60569,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-04-3XL" available="true">
-<price>799</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-745346cc4fea570c3b210d5be86f7db1.jpg</picture>
@@ -61825,7 +61825,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="9170-016" available="true">
-<price>103</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1013</categoryId>
 <picture>https://elisey.ua/files/products/n26a57fd75ade11ef8a1b002590e9c1ad.540x540w.jpeg</picture>
@@ -64424,7 +64424,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="YD123-XL" available="true">
-<price>499</price>
+<price>539</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i118052432-6dd4153675887eb57ce04b75278b335b-1761143967697.jpg</picture>
@@ -64466,7 +64466,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="Q803XL" available="true">
-<price>649</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71688694-12c51b6d571650ecf95cd3bb81e41cd6.jpg</picture>
@@ -64602,7 +64602,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">13</param>
 </offer>
 <offer id="Q200XL" available="true">
-<price>799</price>
+<price>649</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72282573-97acc83dc4b88566029f1327c43ed30d.jpg</picture>
@@ -65510,7 +65510,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="G-12-7,5" available="true">
-<price>999</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71283479-41cf731164f6dd72ac95b71b965635ec.jpg</picture>
@@ -65600,7 +65600,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-016-L" available="true">
-<price>699</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-566c9a1e7e6a53838b0f4fb07adf8f0f.jpg</picture>
@@ -66024,7 +66024,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="2-32S" available="true">
-<price>399</price>
+<price>449</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72566376-3c62a0e545e339409d807ce14eadeded.jpg</picture>
@@ -66544,7 +66544,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="UA000120" available="true">
-<price>599</price>
+<price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>1052</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78979606-98acb7ae56719ffbf7a16a6f0a8658d9-1709734752229.jpg</picture>
@@ -66644,7 +66644,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір лінз">Чорний</param>
 </offer>
 <offer id="OK06279" available="true">
-<price>117</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://elisey.ua/files/products/nefc61480490c11ef8a1b002590e9c1ad.540x540w.jpeg</picture>
@@ -68971,7 +68971,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="RI003396" available="true">
-<price>209</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>1076</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/5a57fdf2-f662-11e9-9b02-305a3a7701f3-00000002000.jpg</picture>
@@ -69446,7 +69446,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK03027" available="true">
-<price>105</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://elisey.ua/files/products/nee7210c9033f11ef8a19002590e9c1ad.540x540w.jpeg</picture>
@@ -69473,7 +69473,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір">Pink</param>
 </offer>
 <offer id="OK03028" available="true">
-<price>105</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://elisey.ua/files/products/nee7210c6033f11ef8a19002590e9c1ad.540x540w.jpeg</picture>
@@ -69501,7 +69501,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір">White</param>
 </offer>
 <offer id="EA02107" available="true">
-<price>315</price>
+<price>210</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123335908-9b95a6649f981d524417ad32f3a5a0b6-1766520211390.jpg</picture>
@@ -69973,7 +69973,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">12</param>
 </offer>
 <offer id="9009-001-33" available="true">
-<price>549</price>
+<price>649</price>
 <currencyId>UAH</currencyId>
 <categoryId>1033</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i128522007-c4074e20485453c583c44bbfffbee439-1773083510442.jpg</picture>
@@ -70068,7 +70068,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="NN000138" available="true">
-<price>249</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>1016</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i109532129-d537adcd4f550753cf31af59427658bd-1751449887908.jpg</picture>
@@ -71108,7 +71108,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір">Чорний;Червоний</param>
 </offer>
 <offer id="OK03707" available="true">
-<price>420</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>1050</categoryId>
 <picture>https://elisey.ua/files/products/n4baaee62c97411ee8a17002590e9c1ad.540x540w.jpeg</picture>
@@ -71876,7 +71876,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="182-8526" available="true">
-<price>979</price>
+<price>849</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i95570110-bba8cd9fa1ba55f0b2162bfb75e17843-1734939772708.jpg</picture>
@@ -72708,7 +72708,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">9</param>
 </offer>
 <offer id="RE04264" available="true">
-<price>449</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1293</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78491992-f3ccdd27d2000e3f9255a7e3e2c48800-1709058709578.jpg</picture>
@@ -72831,7 +72831,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">25</param>
 </offer>
 <offer id="RE04263" available="true">
-<price>499</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1293</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78491992-f3ccdd27d2000e3f9255a7e3e2c48800-1709058709578.jpg</picture>
@@ -73791,7 +73791,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06737" available="true">
-<price>249</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://images.prom.ua/4930478341_w640_h640_4930478341.jpg</picture>
@@ -73826,7 +73826,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06736" available="true">
-<price>299</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://images.prom.ua/4930478341_w640_h640_4930478341.jpg</picture>
@@ -73861,7 +73861,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06734" available="true">
-<price>249</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://images.prom.ua/4930478341_w640_h640_4930478341.jpg</picture>
@@ -73896,7 +73896,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06735" available="true">
-<price>249</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://images.prom.ua/4930478341_w640_h640_4930478341.jpg</picture>
@@ -73931,7 +73931,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06733" available="true">
-<price>249</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://images.prom.ua/4930478341_w640_h640_4930478341.jpg</picture>
@@ -73967,7 +73967,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="OK06726" available="true">
-<price>299</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89697351-55ea178f760a55be7d7dae361a9c9f33-1765484215600.jpg</picture>
@@ -74009,7 +74009,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK06727" available="true">
-<price>299</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89697356-55ea178f760a55be7d7dae361a9c9f33-1765484224769.jpg</picture>
@@ -74051,7 +74051,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK06725" available="true">
-<price>299</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89697330-55ea178f760a55be7d7dae361a9c9f33-1765484201959.jpg</picture>
@@ -74091,7 +74091,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK06724" available="true">
-<price>299</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89697325-55ea178f760a55be7d7dae361a9c9f33-1765483694444.jpg</picture>
@@ -74132,7 +74132,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK06723" available="true">
-<price>299</price>
+<price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89697312-55ea178f760a55be7d7dae361a9c9f33-1765476078346.jpg</picture>
@@ -74264,7 +74264,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="B20-1-6.5" available="true">
-<price>399</price>
+<price>263</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92572277-17f1a17143edffa9a46cae975407fe0b-1764964725117.jpg</picture>
@@ -76304,7 +76304,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OK03648" available="true">
-<price>600</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
 <picture>https://bonadi.com.ua/img/goods/dishes_collection/oneplate/988_215.jpg</picture>
@@ -79090,7 +79090,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="743-855" available="true">
-<price>229</price>
+<price>199</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://bonadi.com.ua/img/goods/easter_collection/easter_deco/743_855.jpg</picture>
@@ -79982,7 +79982,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="ДДЗ-03 Размеры 38" available="true">
-<price>649</price>
+<price>582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1298</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124911526-2ddac2068a568d0501e284360a64f452-1768988756925.jpg</picture>
@@ -80028,7 +80028,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="ДДЗ-03 Размеры 39" available="true">
-<price>649</price>
+<price>582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1298</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124911526-2ddac2068a568d0501e284360a64f452-1768988756925.jpg</picture>
@@ -80074,7 +80074,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="ДДЗ-03 Размеры 40" available="true">
-<price>649</price>
+<price>582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1298</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124911526-2ddac2068a568d0501e284360a64f452-1768988756925.jpg</picture>
@@ -80120,7 +80120,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="ДДЗ-03 Размеры 41" available="true">
-<price>649</price>
+<price>582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1298</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i124911526-2ddac2068a568d0501e284360a64f452-1768988756925.jpg</picture>
@@ -81359,7 +81359,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="RE02891" available="true">
-<price>349</price>
+<price>454</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71865383-1c350016fa6eb85af22237923ecb2aac.jpg</picture>
@@ -81390,7 +81390,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="RE02990" available="true">
-<price>299</price>
+<price>389</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72310022-067336428d1bc1b773e2018babaedf9e.jpg</picture>
@@ -81915,7 +81915,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="DE12335" available="true">
-<price>379</price>
+<price>285</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94174099-b5f1156c113597fe289c1092e85e9093-1732976157244.jpg</picture>
@@ -81974,7 +81974,7 @@ USB Type-C
 <param name="Ширина, см">40</param>
 </offer>
 <offer id="DE12516" available="true">
-<price>449</price>
+<price>359</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94489665-af7d4bb2dcd7ce305fddb2a2e818c2c3-1733315761550.jpg</picture>
@@ -82059,7 +82059,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="DE12533" available="true">
-<price>399</price>
+<price>282</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94517782-34a9c39dcae17c5a2c78c20582eda21f-1733326165300.jpg</picture>
@@ -82085,7 +82085,7 @@ USB Type-C
 <param name="Колір">Чорний із синім</param>
 </offer>
 <offer id="DE12629" available="true">
-<price>413</price>
+<price>323</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94569249-496d1a5589c65b0a72ce4d37c92fc6b2-1733403884883.jpg</picture>
@@ -82258,7 +82258,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="AO/3722-15" available="true">
-<price>379</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1169</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i79394675-f53a4e3cc4879c2bd21240720cb3850b-1710347124950.jpg</picture>
@@ -82444,7 +82444,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">14</param>
 </offer>
 <offer id="AC002008" available="true">
-<price>956</price>
+<price>503</price>
 <currencyId>UAH</currencyId>
 <categoryId>1304</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i117791908-9e09ea182586a36b634e5594fe26b0d8-1760874990047.jpg</picture>
@@ -82895,7 +82895,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="AC002009" available="true">
-<price>956</price>
+<price>503</price>
 <currencyId>UAH</currencyId>
 <categoryId>1304</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i117791908-9e09ea182586a36b634e5594fe26b0d8-1760874990047.jpg</picture>
