@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-01 07:22">
+<yml_catalog date="2026-10-02 07:21">
   <offers>
     <offer id="AM0016591" available="true">
       <price>783</price>
@@ -31201,7 +31201,7 @@
     <offer id="IT00105" available="true">
       <price>646</price>
     </offer>
-    <offer id="RO00115" available="true">
+    <offer id="RO00115" available="false">
       <price>275</price>
     </offer>
     <offer id="AS00089" available="true">
@@ -38923,7 +38923,7 @@
     <offer id="KS01293" available="true">
       <price>488</price>
     </offer>
-    <offer id="RO00419" available="true">
+    <offer id="RO00419" available="false">
       <price>185</price>
     </offer>
     <offer id="KS01294" available="true">
