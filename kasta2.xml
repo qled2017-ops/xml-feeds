@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-29 19:32">
+<yml_catalog date="2026-10-04 17:54">
 <shop>
 <name>Kasta feed 2 (Floramax)</name>
 <company>Kasta feed 2 (Floramax)</company>
@@ -51971,6 +51971,173 @@
 <name_ua>Гірлянда-пучок Flora 360 міні-LED (18 ліній по 2 м. 20 діодів) 12854</name_ua>
 <name_ru>Гирлянда-пучок Flora 360 мини-LED (18 линий по 2 м. 20 диодов) 12854</name_ru>
 <description_ua>Світлодіодні підсвітки прикрасять вашу квартиру, а їх світло створить неповторну атмосферу в кімнаті. Завдяки гнучкості проводів ми можемо самі визначати форму підсвічування. Параметри: - тепле світло, - живлення від мережі 220 в. - для внутрішнього і зовнішнього використання.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RZ00875" available="true">
+<price>1494</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i67192894-003d26db7a1c93304b31e0d29ea7a489.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RZ00875</vendorCode>
+<name_ua>Горшок пластмассовый Flora HEOS с вкладом антрацитовый 43.5см. 93156</name_ua>
+<description_ua>Горщики пластикові з серії Heos відрізняються класичним і сучасним дизайном. В комплект входить внутрішній вклад, який спирається безпосередньо на стінки горщика і не потребує складання. Його унікальне перевага - це можливість зменшити кількість ґрунту в горщику і забезпечити легку пересадку рослини. Виготовлений з якісного пластику, стійкого до морозів, УФ-випромінювання і механічних пошкоджень.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA01274" available="true">
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i115544208-9da9cf731e31203e7dec21777ce33700-1758820894058.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>EA01274</vendorCode>
+<name_ua>Комплект білих кашпо 2 шт. 29522</name_ua>
+<name_ru>Комплект белых кашпо 2 шт. 29522</name_ru>
+<description_ua>Комплект білих кашпо, 2 шт. – стильні декоративні кашпо, виконані в універсальному білому кольорі. Оснащені міцними ручками з мотузки, що надає виробам елегантний вигляд і зручність при перенесенні. Особливості: У комплекті: 2 кашпо Колір: білий Дизайн: з мотузковими ручками Призначення: для декору інтер'єру, розміщення кімнатних рослин або декоративних композицій Стиль: мінімалізм, сканді, еко Такі кашпо гармонійно впишуться в будь-який інтер'єр і стануть стильним акцентом у вашому домі або на терасі.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA01275" available="true">
+<price>546</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i115544324-ac446fe3902d269b96ebb839be6bfbee-1758821241635.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>EA01275</vendorCode>
+<name_ua>Комплект кашпо Тюльпан 2 шт. 29460</name_ua>
+<description_ua>Комплект кашпо «Тюльпан», 2 шт. – стильний набір кашпо сірого кольору оригінальної форми, що нагадує бутон тюльпана. Доповнений декоративним написом, який надає виробам особливого шарму. Ці кашпо стануть елегантним акцентом в інтер'єрі, підкреслять красу рослин і додадуть затишку в будь-який простір.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="MN000003227" available="true">
+<price>1489</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i129491163-a88d8c3f27dfcf277a5c870ce3890206-1773913812318.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>MN000003227</vendorCode>
+<name_ua>Горщик пластмасовий HEOS з вкладом білий 39.5 см. (93145)</name_ua>
+<name_ru>Горшок пластмассовый HEOS с вкладом белый 39.5 см. (93145)</name_ru>
+<description_ua>Горщики пластикові з серії Heos відрізняються класичним і сучасним дизайном. У комплект входить внутрішній вклад, який спирається безпосередньо на стінки горщика і не вимагає складання. Його унікальна перевага - це можливість зменшити кількість грунту в горщику і забезпечити легку пересадку рослини. Виготовлений з якісного пластику, стійкого до морозів, УФ-випромінювання і механічних пошкоджень.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="MN000003231" available="true">
+<price>1951</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i129494748-6a862e98345797945df292ed76591b7f-1773917062517.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i129494748-aee031ea9989c8be52e7921056d26882-1773917063988.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i129494748-7c309d63121b24ca99779a84f6431cab-1773917070330.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>MN000003231</vendorCode>
+<name_ua>Горщик пластмасовий з вкладом URBI CASE TOWER матовий антрацитовий 58 см. (92136)</name_ua>
+<name_ru>Горшок пластмассовый с вкладом URBI CASE TOWER матовый антрацитовый 58 см. (92136)</name_ru>
+<description_ua>Горщик для квітів з вкладом URBI CASE TOWER антрацитовий виготовлений із якісного пластику, стійкого до дії сонячних променів та вологи. Він легкий та стійкий, має модний дизайн та забарвлення у спокійних тонах. Він підійде для декорування тераси, балкону, кафе чи квартири. Внутрішній вклад зробить посадку рослини та догляд за нею легше та зручніше.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="53816" available="true">
+<price>599</price>
+<currencyId>UAH</currencyId>
+<categoryId>1113</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i100399711-40a607603e9e0159f4743b08d361cc36-1740645652559.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>53816</vendorCode>
+<name_ua>Фігурка ангела, прикраса у вигляді ангела, біла 53816 - 15x10x12 см</name_ua>
+<name_ru>Фигурка ангела, украшение в виде ангела, белая 53816 - 15x10x12 см</name_ru>
+<description_ua>Статуетка янголят може послужити прикрасою не тільки Вашого інтер'єру, а також додати вишуканості при оформленні весільної, новорічної, різдвяної, великодньої композиції. Матеріал статуетки пластокераміка&amp;nbsp; 15x10x12 см</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="UA00035" available="true">
+<price>1334</price>
+<currencyId>UAH</currencyId>
+<categoryId>1066</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i111395450-d40f4a7ce2e0360ca3aaf53f4191bd38-1765982267759.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71830551-6c1643faea6d05dff79a35a101ded976.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>UA00035</vendorCode>
+<name_ua>Фігурка м'яка новорічна Ангел Дівчинка 65 см. 12954</name_ua>
+<name_ru>Фигурка мягкая новогодняя Ангел Девочка 65 см. 12954</name_ru>
+<description_ua>Зовнішність різдвяних ангелів вже давно перестав бути виключно релігійним і набув світського нальоту. Їм уже не потрібно бути у традиційному одязі. Головне, будити дух Різдва. Тому Різдвяні ангели як символ свята обов'язково повинні прикрашати новорічний інтер'єр. Чарівні ангелочки з м'якого текстилю, з личками з полістоуну та обов'язково блискучими крилами неодмінно повинні вам сподобатися, і не лише зовні. Новорічні інтер'єрні іграшки абсолютно безпечні для здоров'я: вони не виділяють шкідливі речовини та поганий запах, які могли б стати причиною нездужання, адже це абсолютно неприпустимо напередодні зимових свят. Звичайно ж для зберігання інтер'єрних ляльок у міжсезоння вам знадобиться окреме місце, бажано охайне (хоча янголят можна робити вологе чищення), але піднятий настрій буде гарантовано. І не обов'язково ховати м'які новорічні іграшки після свят, вони не втомляться стояти цілий рік.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE03547" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>1066</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i111396866-9847ad5694be65f52f6656958eeb86d6-1765899266725.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74879792-b78bccdb5c9929abb42702e5f0d52315.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE03547</vendorCode>
+<name_ua>Набір (2 шт) бантів новорічних 19х24 см Червоні (13302)</name_ua>
+<name_ru>Набор (2 шт) бантов новогодних 19х24 см Красные (13302)</name_ru>
+<description_ua>Новорічний бант червоного кольору чудово підійде для оформлення подарунків та іншого святкового декору.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02270" available="true">
+<price>880</price>
+<currencyId>UAH</currencyId>
+<categoryId>1175</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71112472-114731e3fd4e8a76e0efe039a502cb94.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71112472-8c58aff2d994a55e832ea1b13b857154.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71112472-37ec24bc4fdcb6030059c51dba051cb7-1707913137265.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE02270</vendorCode>
+<name_ua>Подсвечник металлический 39,5 см Серебряный (37805)</name_ua>
+<description_ua>Ексклюзивний підсвічник для внутрішнього оздоблення з можливістю спалювання натуральних свічок. Підсвічник виконаний з металу в поєднанні зі склом, він ідеально вписується в прикраси для дому. Висота (см) - 39.5 Діаметр (см) - 11.5</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="OK03452" available="true">
+<price>726</price>
+<currencyId>UAH</currencyId>
+<categoryId>1078</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i83536241-8ca9a1603698288db92aa422d591bf44-1745059255817.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i83536241-610608022172d3a137e516308431d5f4-1745059255996.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i83536241-d3042bd07c2bebbb8ad0ca18431ea47f-1745059256230.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i83536241-a5b8e83e8639d2ba0468cfd9c8e4c919-1745059256442.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>OK03452</vendorCode>
+<name_ua>Горщик пластмасовий H=36.5, D-19.5 см GRACIA TUBUS SLIM на ніжках білий 93631</name_ua>
+<name_ru>Горшок пластмассовый H=36.5, D-19.5 см GRACIA TUBUS SLIM на ножках белый 93631</name_ru>
+<description_ua>Пластиковий горщик GRACIA TUBUS SLIM&amp;nbsp; на ніжках - ідеальний горщик для посадки квітів, рослин та трав. Ніжки виготовлені з матеріалу ECO, що імітує дерево. Горщик стійкий до УФ-випромінювання. Розміри горщика Діаметр верх. зовніш. (см) – 19,5 Висота (см) – 36.5 Об'єм горщика (л) - 7 Діаметр верх. внутр. (см) - 19 Діаметр нижній зовніш. (см) – 16 Опції горщика Отвір на дні - ні Використання - кімната Система автополиву - ні Характеристики горщика Матеріал горщика - пластмаса Тип горщика - горщики на ніжках Форма горщика - круглий Колір горщика - білий Фактура – матова Загальні характеристики Країна - Польща</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="45061" available="true">
+<price>1299</price>
+<currencyId>UAH</currencyId>
+<categoryId>1147</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70521520-2c127f493115ca014837f37b175983e7-1727629895580.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70521520-c33bf5c218ec0e9cecba261b8d07a078-1727629895851.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70521520-027b75c501349441e0c032b44047acc7-1727629896062.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70521520-9588b244b7d5a89be92e44859d3210d0.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70521520-21507b0b8e3ab3ec00cee9b752a77695-1727629896247.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70521520-eaa5efc0dc8b7a486fe27760c65fb666.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>45061</vendorCode>
+<name_ua>Гірлянда-завіса 450х80 см, 240 LED діодів (зірки), дріт гнучкий сріблястий, свічення Білий теплий від 220В (на ялинку, штору, вікно, стіну)</name_ua>
+<name_ru>Гирлянда-занавес 450х80 см, 240 LED диодов (звезды), провод гибкий серебристый, свечение Белый теплый от 220В (на елку, штору, окно, стену)</name_ru>
+<description_ua>Світлодіодна завіса. Ідеально підходить для оформлення вікон, терасових дверей, стін та ін. Це дозволяє заощадити до 75% більше енергії, ніж звичайні лампи. Параметри - для внутрішнього та зовнішнього застосування, - колір кабелю - срібло, - 240 зіркових світлових точок, - ширина: 450 см, - Довжина: 80 см, - Розміри зірки: 26,5 см, - Довжина кабелю живлення 300 см, - світлодіодні лампи не замінні, - харчування від електрики</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02891" available="true">
+<price>454</price>
+<currencyId>UAH</currencyId>
+<categoryId>1175</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71865383-1c350016fa6eb85af22237923ecb2aac.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE02891</vendorCode>
+<name_ua>Декорація великодня на піку Курча 6 шт. (44265)</name_ua>
+<name_ru>Декорация пасхальная на пике Цыпленок 6 шт. (44265)</name_ru>
+<description_ua>Декоративний пасхальний стик Яйце. Матеріал – пінопласт, дерево.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RE02990" available="true">
+<price>389</price>
+<currencyId>UAH</currencyId>
+<categoryId>1175</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72310022-067336428d1bc1b773e2018babaedf9e.jpg</picture>
+<vendor>Flora</vendor>
+<vendorCode>RE02990</vendorCode>
+<name_ua>Пасхальна декорація на піку Flora Писанка мікс 6 шт. (44091)</name_ua>
+<name_ru>Декорация пасхальная на пике Flora Писанка микс 6 шт. (44091)</name_ru>
+<description_ua>Декоративні крашанки завжди прикрасять святковий куточок у будь-якому приміщенні.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 </offers>
