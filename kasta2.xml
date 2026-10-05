@@ -10926,7 +10926,7 @@
 <description_ua>Керамічна ємність для зберігання печива, солодощів або будь-яких інших дрібниць.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE14298" available="true">
+<offer id="RE14298" available="false">
 <price>606</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -10936,7 +10936,7 @@
 <name_ua>Комплект скляних банок Flora BASIC KITCHEN 80 мл. 6 шт. 35441</name_ua>
 <name_ru>Комплект стеклянных банок Flora BASIC KITCHEN 80 мл. 6 шт. 35441</name_ru>
 <description_ua>Набір з 6 банок BASIC KITCHEN виготовлених зі скла з металевою кришкою. Завдяки своєму розміру вони ідеально підходять для всіх типів консервів і приправ. Завдяки своїй формі вони прекрасно доповнюють стіл і кухню. Завдяки їм можна подавати варення, цукор, йогурт в зовсім іншому вигляді і здивувати домочадців новим рішенням.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE14300" available="true">
 <price>784</price>
