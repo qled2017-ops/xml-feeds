@@ -90492,7 +90492,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">30</param>
 <param name="Ширина, см">30</param>
 </offer>
-<offer id="RS06598" available="true">
+<offer id="RS06598" available="false">
 <price>212</price>
 <currencyId>UAH</currencyId>
 <categoryId>1052</categoryId>
@@ -90504,7 +90504,7 @@ USB Type-C
 <name_ru>Корзина для белья с ручками складная 35*43см серая R101219</name_ru>
 <description>Кошик для білизни з ручками складаний 35*43см</description>
 <description_ua>Кошик для білизни з ручками складаний 35*43см</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">0.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
