@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-07 07:32">
+<yml_catalog date="2026-10-07 18:00">
   <offers>
     <offer id="MR05014" available="false">
       <price>1890</price>
@@ -1275,19 +1275,19 @@
     <offer id="MR06121" available="true">
       <price>3952</price>
     </offer>
-    <offer id="MR06207" available="true">
+    <offer id="MR06207" available="false">
       <price>570</price>
     </offer>
-    <offer id="MR06208" available="true">
+    <offer id="MR06208" available="false">
       <price>402</price>
     </offer>
-    <offer id="MR06210" available="true">
+    <offer id="MR06210" available="false">
       <price>1039</price>
     </offer>
-    <offer id="MR06211" available="true">
+    <offer id="MR06211" available="false">
       <price>914</price>
     </offer>
-    <offer id="MR06214" available="true">
+    <offer id="MR06214" available="false">
       <price>654</price>
     </offer>
     <offer id="R26398" available="false">
@@ -9009,46 +9009,46 @@
     <offer id="MR11014" available="false">
       <price>1949</price>
     </offer>
-    <offer id="MR11034" available="true">
+    <offer id="MR11034" available="false">
       <price>1000</price>
     </offer>
-    <offer id="MR11035" available="true">
+    <offer id="MR11035" available="false">
       <price>857</price>
     </offer>
-    <offer id="MR11037" available="true">
+    <offer id="MR11037" available="false">
       <price>1039</price>
     </offer>
-    <offer id="MR11039" available="true">
+    <offer id="MR11039" available="false">
       <price>3120</price>
     </offer>
-    <offer id="MR11040" available="true">
+    <offer id="MR11040" available="false">
       <price>4134</price>
     </offer>
-    <offer id="MR11041" available="true">
+    <offer id="MR11041" available="false">
       <price>5655</price>
     </offer>
-    <offer id="MR11044" available="true">
+    <offer id="MR11044" available="false">
       <price>6225</price>
     </offer>
-    <offer id="MR11045" available="true">
+    <offer id="MR11045" available="false">
       <price>7789</price>
     </offer>
-    <offer id="MR11046" available="true">
+    <offer id="MR11046" available="false">
       <price>8432</price>
     </offer>
-    <offer id="MR11047" available="true">
+    <offer id="MR11047" available="false">
       <price>8943</price>
     </offer>
-    <offer id="MR11049" available="true">
+    <offer id="MR11049" available="false">
       <price>9900</price>
     </offer>
-    <offer id="MR11051" available="true">
+    <offer id="MR11051" available="false">
       <price>10998</price>
     </offer>
-    <offer id="MR11056" available="true">
+    <offer id="MR11056" available="false">
       <price>1169</price>
     </offer>
-    <offer id="MR11057" available="true">
+    <offer id="MR11057" available="false">
       <price>1949</price>
     </offer>
     <offer id="MR11233" available="false">
@@ -40525,7 +40525,7 @@
     <offer id="MR34264" available="true">
       <price>374</price>
     </offer>
-    <offer id="MR34272" available="true">
+    <offer id="MR34272" available="false">
       <price>1089</price>
     </offer>
     <offer id="MR34303" available="true">
@@ -61639,7 +61639,7 @@
     <offer id="MR45614" available="false">
       <price>219</price>
     </offer>
-    <offer id="MR45635" available="true">
+    <offer id="MR45635" available="false">
       <price>909</price>
     </offer>
     <offer id="MR45645" available="false">
@@ -61654,7 +61654,7 @@
     <offer id="MR45666" available="false">
       <price>5849</price>
     </offer>
-    <offer id="MR45673" available="true">
+    <offer id="MR45673" available="false">
       <price>1559</price>
     </offer>
     <offer id="MR45675" available="false">
@@ -61663,7 +61663,7 @@
     <offer id="MR45676" available="false">
       <price>1109</price>
     </offer>
-    <offer id="MR45677" available="true">
+    <offer id="MR45677" available="false">
       <price>6053</price>
     </offer>
     <offer id="MR45682" available="true">
@@ -61822,7 +61822,7 @@
     <offer id="MR45858" available="true">
       <price>844</price>
     </offer>
-    <offer id="MR45859" available="true">
+    <offer id="MR45859" available="false">
       <price>779</price>
     </offer>
     <offer id="MR45861" available="false">
@@ -66365,7 +66365,7 @@
     <offer id="IR01632" available="false">
       <price>1923</price>
     </offer>
-    <offer id="NA001589" available="true">
+    <offer id="NA001589" available="false">
       <price>3580</price>
     </offer>
     <offer id="MR47625" available="false">
@@ -66896,10 +66896,10 @@
     <offer id="MR47707" available="false">
       <price>2599</price>
     </offer>
-    <offer id="MR47710" available="true">
+    <offer id="MR47710" available="false">
       <price>4393</price>
     </offer>
-    <offer id="MR47711" available="true">
+    <offer id="MR47711" available="false">
       <price>4393</price>
     </offer>
     <offer id="DR002130" available="false">
@@ -68237,7 +68237,7 @@
     <offer id="MR48011" available="true">
       <price>571</price>
     </offer>
-    <offer id="MR48013" available="true">
+    <offer id="MR48013" available="false">
       <price>1039</price>
     </offer>
     <offer id="DR002398" available="false">
@@ -68576,7 +68576,7 @@
     <offer id="MR48128" available="true">
       <price>259</price>
     </offer>
-    <offer id="MR48129" available="true">
+    <offer id="MR48129" available="false">
       <price>1039</price>
     </offer>
     <offer id="MR48133" available="true">
@@ -84624,7 +84624,7 @@
     <offer id="AN001914" available="false">
       <price>2522</price>
     </offer>
-    <offer id="AN001915" available="true">
+    <offer id="AN001915" available="false">
       <price>939</price>
     </offer>
     <offer id="DR004988" available="false">
@@ -84850,10 +84850,10 @@
     <offer id="DR005014" available="false">
       <price>861</price>
     </offer>
-    <offer id="IR003822" available="true">
+    <offer id="IR003822" available="false">
       <price>4471</price>
     </offer>
-    <offer id="IR003823" available="true">
+    <offer id="IR003823" available="false">
       <price>4810</price>
     </offer>
     <offer id="DR005015" available="false">
@@ -84868,7 +84868,7 @@
     <offer id="DR005017" available="false">
       <price>911</price>
     </offer>
-    <offer id="IR003824" available="true">
+    <offer id="IR003824" available="false">
       <price>4810</price>
     </offer>
     <offer id="DR005018" available="false">
@@ -84877,7 +84877,7 @@
     <offer id="DR005019" available="false">
       <price>1099</price>
     </offer>
-    <offer id="IR003825" available="true">
+    <offer id="IR003825" available="false">
       <price>3770</price>
     </offer>
     <offer id="MR52359" available="false">
@@ -84889,7 +84889,7 @@
     <offer id="DR005021" available="false">
       <price>1229</price>
     </offer>
-    <offer id="IR003826" available="true">
+    <offer id="IR003826" available="false">
       <price>3770</price>
     </offer>
     <offer id="MR52360" available="false">
@@ -84904,10 +84904,10 @@
     <offer id="DR005027" available="false">
       <price>506</price>
     </offer>
-    <offer id="IR003827" available="true">
+    <offer id="IR003827" available="false">
       <price>3770</price>
     </offer>
-    <offer id="IR003828" available="true">
+    <offer id="IR003828" available="false">
       <price>4554</price>
     </offer>
     <offer id="DR005029" available="false">
@@ -84919,16 +84919,16 @@
     <offer id="DR005033" available="false">
       <price>180</price>
     </offer>
-    <offer id="IR003829" available="true">
+    <offer id="IR003829" available="false">
       <price>4554</price>
     </offer>
-    <offer id="IR003830" available="true">
+    <offer id="IR003830" available="false">
       <price>4909</price>
     </offer>
-    <offer id="IR003831" available="true">
+    <offer id="IR003831" available="false">
       <price>4909</price>
     </offer>
-    <offer id="IR003832" available="true">
+    <offer id="IR003832" available="false">
       <price>5194</price>
     </offer>
     <offer id="DR005035" available="false">
@@ -84943,7 +84943,7 @@
     <offer id="DR005038" available="false">
       <price>144</price>
     </offer>
-    <offer id="IR003833" available="true">
+    <offer id="IR003833" available="false">
       <price>5237</price>
     </offer>
     <offer id="DR005042" available="false">
@@ -87098,7 +87098,7 @@
     <offer id="MR52677" available="false">
       <price>454</price>
     </offer>
-    <offer id="MR52681" available="true">
+    <offer id="MR52681" available="false">
       <price>1169</price>
     </offer>
     <offer id="IR004052" available="false">
@@ -89032,7 +89032,7 @@
     <offer id="MR53204" available="true">
       <price>1299</price>
     </offer>
-    <offer id="MR53205" available="true">
+    <offer id="MR53205" available="false">
       <price>1949</price>
     </offer>
     <offer id="NA003132" available="false">
@@ -89044,7 +89044,7 @@
     <offer id="NA003134" available="false">
       <price>925</price>
     </offer>
-    <offer id="MR53206" available="true">
+    <offer id="MR53206" available="false">
       <price>1169</price>
     </offer>
     <offer id="NA003135" available="false">
@@ -91478,7 +91478,7 @@
     <offer id="MR53796" available="true">
       <price>810</price>
     </offer>
-    <offer id="IR004321" available="true">
+    <offer id="IR004321" available="false">
       <price>852</price>
     </offer>
     <offer id="MR53797" available="true">
@@ -91607,13 +91607,13 @@
     <offer id="DR006093" available="false">
       <price>3805</price>
     </offer>
-    <offer id="IR004322" available="true">
+    <offer id="IR004322" available="false">
       <price>1006</price>
     </offer>
-    <offer id="IR004323" available="true">
+    <offer id="IR004323" available="false">
       <price>1006</price>
     </offer>
-    <offer id="IR004324" available="true">
+    <offer id="IR004324" available="false">
       <price>1053</price>
     </offer>
     <offer id="DR006094" available="false">
@@ -91622,7 +91622,7 @@
     <offer id="DR006095" available="false">
       <price>4016</price>
     </offer>
-    <offer id="IR004325" available="true">
+    <offer id="IR004325" available="false">
       <price>1053</price>
     </offer>
     <offer id="DR006096" available="false">
@@ -91631,7 +91631,7 @@
     <offer id="DR006097" available="false">
       <price>3174</price>
     </offer>
-    <offer id="IR004326" available="true">
+    <offer id="IR004326" available="false">
       <price>1175</price>
     </offer>
     <offer id="DR006098" available="false">
@@ -91640,19 +91640,19 @@
     <offer id="DR006099" available="false">
       <price>3805</price>
     </offer>
-    <offer id="IR004327" available="true">
+    <offer id="IR004327" available="false">
       <price>1175</price>
     </offer>
     <offer id="DR006100" available="false">
       <price>3132</price>
     </offer>
-    <offer id="IR004328" available="true">
+    <offer id="IR004328" available="false">
       <price>1398</price>
     </offer>
     <offer id="DR006101" available="false">
       <price>4854</price>
     </offer>
-    <offer id="IR004329" available="true">
+    <offer id="IR004329" available="false">
       <price>1398</price>
     </offer>
     <offer id="DR006102" available="false">
@@ -91667,19 +91667,19 @@
     <offer id="DR006105" available="false">
       <price>4339</price>
     </offer>
-    <offer id="IR004330" available="true">
+    <offer id="IR004330" available="false">
       <price>1398</price>
     </offer>
     <offer id="DR006106" available="false">
       <price>4854</price>
     </offer>
-    <offer id="IR004331" available="true">
+    <offer id="IR004331" available="false">
       <price>1398</price>
     </offer>
     <offer id="DR006107" available="false">
       <price>2505</price>
     </offer>
-    <offer id="IR004332" available="true">
+    <offer id="IR004332" available="false">
       <price>1542</price>
     </offer>
     <offer id="DR006108" available="false">
@@ -91688,13 +91688,13 @@
     <offer id="DR006109" available="false">
       <price>779</price>
     </offer>
-    <offer id="IR004333" available="true">
+    <offer id="IR004333" available="false">
       <price>6314</price>
     </offer>
     <offer id="DR006110" available="false">
       <price>737</price>
     </offer>
-    <offer id="IR004334" available="true">
+    <offer id="IR004334" available="false">
       <price>6593</price>
     </offer>
     <offer id="DR006111" available="false">
@@ -91706,7 +91706,7 @@
     <offer id="DR006113" available="false">
       <price>521</price>
     </offer>
-    <offer id="IR004335" available="true">
+    <offer id="IR004335" available="false">
       <price>7041</price>
     </offer>
     <offer id="MR53807" available="true">
@@ -91721,7 +91721,7 @@
     <offer id="DR006122" available="false">
       <price>1249</price>
     </offer>
-    <offer id="IR004336" available="true">
+    <offer id="IR004336" available="false">
       <price>9388</price>
     </offer>
     <offer id="DR006124" available="false">
@@ -91730,7 +91730,7 @@
     <offer id="MR53809" available="true">
       <price>1131</price>
     </offer>
-    <offer id="IR004337" available="true">
+    <offer id="IR004337" available="false">
       <price>10840</price>
     </offer>
     <offer id="IR004346" available="true">
@@ -91751,13 +91751,13 @@
     <offer id="IR004351" available="true">
       <price>895</price>
     </offer>
-    <offer id="IR004358" available="true">
+    <offer id="IR004358" available="false">
       <price>2082</price>
     </offer>
-    <offer id="IR004363" available="true">
+    <offer id="IR004363" available="false">
       <price>2918</price>
     </offer>
-    <offer id="IR004365" available="true">
+    <offer id="IR004365" available="false">
       <price>3200</price>
     </offer>
     <offer id="IR004367" available="true">
@@ -92994,7 +92994,7 @@
     <offer id="NA003612" available="false">
       <price>1707</price>
     </offer>
-    <offer id="IR004663" available="true">
+    <offer id="IR004663" available="false">
       <price>909</price>
     </offer>
     <offer id="IR004671" available="true">
@@ -93202,13 +93202,13 @@
     <offer id="IR004720" available="true">
       <price>382</price>
     </offer>
-    <offer id="IR004722" available="true">
+    <offer id="IR004722" available="false">
       <price>467</price>
     </offer>
-    <offer id="IR004723" available="true">
+    <offer id="IR004723" available="false">
       <price>909</price>
     </offer>
-    <offer id="IR004724" available="true">
+    <offer id="IR004724" available="false">
       <price>714</price>
     </offer>
     <offer id="IR004728" available="true">
@@ -93321,7 +93321,7 @@
     <offer id="IR004768" available="false">
       <price>6929</price>
     </offer>
-    <offer id="IR004770" available="true">
+    <offer id="IR004770" available="false">
       <price>12138</price>
     </offer>
     <offer id="AN002508" available="false">
@@ -93339,16 +93339,16 @@
     <offer id="AN002514" available="false">
       <price>571</price>
     </offer>
-    <offer id="IR004775" available="true">
+    <offer id="IR004775" available="false">
       <price>7153</price>
     </offer>
-    <offer id="IR004776" available="true">
+    <offer id="IR004776" available="false">
       <price>9165</price>
     </offer>
-    <offer id="IR004777" available="true">
+    <offer id="IR004777" available="false">
       <price>13970</price>
     </offer>
-    <offer id="IR004778" available="true">
+    <offer id="IR004778" available="false">
       <price>22349</price>
     </offer>
     <offer id="IR004780" available="true">
@@ -93486,40 +93486,40 @@
     <offer id="MR54024" available="true">
       <price>519</price>
     </offer>
-    <offer id="IR004834" available="true">
+    <offer id="IR004834" available="false">
       <price>213</price>
     </offer>
-    <offer id="IR004835" available="true">
+    <offer id="IR004835" available="false">
       <price>551</price>
     </offer>
-    <offer id="IR004836" available="true">
+    <offer id="IR004836" available="false">
       <price>572</price>
     </offer>
-    <offer id="IR004837" available="true">
+    <offer id="IR004837" available="false">
       <price>680</price>
     </offer>
-    <offer id="IR004838" available="true">
+    <offer id="IR004838" available="false">
       <price>719</price>
     </offer>
-    <offer id="IR004839" available="true">
+    <offer id="IR004839" available="false">
       <price>719</price>
     </offer>
-    <offer id="IR004840" available="true">
+    <offer id="IR004840" available="false">
       <price>719</price>
     </offer>
-    <offer id="IR004841" available="true">
+    <offer id="IR004841" available="false">
       <price>829</price>
     </offer>
-    <offer id="IR004842" available="true">
+    <offer id="IR004842" available="false">
       <price>994</price>
     </offer>
-    <offer id="IR004843" available="true">
+    <offer id="IR004843" available="false">
       <price>1016</price>
     </offer>
-    <offer id="IR004844" available="true">
+    <offer id="IR004844" available="false">
       <price>1356</price>
     </offer>
-    <offer id="IR004845" available="true">
+    <offer id="IR004845" available="false">
       <price>1503</price>
     </offer>
     <offer id="IR004849" available="true">
@@ -124798,25 +124798,25 @@
     <offer id="AN005445" available="true">
       <price>5967</price>
     </offer>
-    <offer id="AN005446" available="true">
+    <offer id="AN005446" available="false">
       <price>1198</price>
     </offer>
-    <offer id="AN005448" available="true">
+    <offer id="AN005448" available="false">
       <price>1404</price>
     </offer>
-    <offer id="AN005449" available="true">
+    <offer id="AN005449" available="false">
       <price>1404</price>
     </offer>
-    <offer id="AN005450" available="true">
+    <offer id="AN005450" available="false">
       <price>1404</price>
     </offer>
-    <offer id="AN005451" available="true">
+    <offer id="AN005451" available="false">
       <price>1404</price>
     </offer>
-    <offer id="AN005455" available="true">
+    <offer id="AN005455" available="false">
       <price>617</price>
     </offer>
-    <offer id="AN005456" available="true">
+    <offer id="AN005456" available="false">
       <price>900</price>
     </offer>
     <offer id="AN005457" available="false">
@@ -130809,10 +130809,10 @@
     <offer id="MR66600" available="false">
       <price>15566</price>
     </offer>
-    <offer id="MR66604" available="true">
+    <offer id="MR66604" available="false">
       <price>2599</price>
     </offer>
-    <offer id="MR66607" available="true">
+    <offer id="MR66607" available="false">
       <price>2599</price>
     </offer>
     <offer id="MR66610" available="false">
@@ -133149,31 +133149,31 @@
     <offer id="DR010588" available="true">
       <price>1299</price>
     </offer>
-    <offer id="DR010589" available="true">
+    <offer id="DR010589" available="false">
       <price>519</price>
     </offer>
-    <offer id="DR010590" available="true">
+    <offer id="DR010590" available="false">
       <price>1039</price>
     </offer>
-    <offer id="DR010591" available="true">
+    <offer id="DR010591" available="false">
       <price>2339</price>
     </offer>
-    <offer id="DR010592" available="true">
+    <offer id="DR010592" available="false">
       <price>1429</price>
     </offer>
-    <offer id="DR010593" available="true">
+    <offer id="DR010593" available="false">
       <price>1689</price>
     </offer>
-    <offer id="DR010594" available="true">
+    <offer id="DR010594" available="false">
       <price>1559</price>
     </offer>
-    <offer id="DR010595" available="true">
+    <offer id="DR010595" available="false">
       <price>1689</price>
     </offer>
-    <offer id="DR010596" available="true">
+    <offer id="DR010596" available="false">
       <price>1689</price>
     </offer>
-    <offer id="DR010597" available="true">
+    <offer id="DR010597" available="false">
       <price>2339</price>
     </offer>
     <offer id="DR010598" available="false">
@@ -135143,22 +135143,22 @@
     <offer id="DR011246" available="false">
       <price>2469</price>
     </offer>
-    <offer id="DR011247" available="true">
+    <offer id="DR011247" available="false">
       <price>649</price>
     </offer>
-    <offer id="DR011248" available="true">
+    <offer id="DR011248" available="false">
       <price>649</price>
     </offer>
-    <offer id="DR011249" available="true">
+    <offer id="DR011249" available="false">
       <price>649</price>
     </offer>
-    <offer id="DR011250" available="true">
+    <offer id="DR011250" available="false">
       <price>649</price>
     </offer>
-    <offer id="DR011251" available="true">
+    <offer id="DR011251" available="false">
       <price>909</price>
     </offer>
-    <offer id="DR011252" available="true">
+    <offer id="DR011252" available="false">
       <price>324</price>
     </offer>
     <offer id="DR011253" available="true">
@@ -138757,7 +138757,7 @@
     <offer id="AN006830" available="true">
       <price>36</price>
     </offer>
-    <offer id="DR012237" available="true">
+    <offer id="DR012237" available="false">
       <price>324</price>
     </offer>
     <offer id="AN006831" available="true">
@@ -147065,7 +147065,7 @@
     <offer id="AN008067" available="true">
       <price>991</price>
     </offer>
-    <offer id="AN008070" available="true">
+    <offer id="AN008070" available="false">
       <price>744</price>
     </offer>
     <offer id="AN008071" available="true">
@@ -156453,19 +156453,19 @@
     <offer id="DR017135" available="true">
       <price>458</price>
     </offer>
-    <offer id="DR017136" available="true">
+    <offer id="DR017136" available="false">
       <price>273</price>
     </offer>
-    <offer id="DR017137" available="true">
+    <offer id="DR017137" available="false">
       <price>273</price>
     </offer>
-    <offer id="DR017138" available="true">
+    <offer id="DR017138" available="false">
       <price>273</price>
     </offer>
-    <offer id="DR017139" available="true">
+    <offer id="DR017139" available="false">
       <price>273</price>
     </offer>
-    <offer id="DR017140" available="true">
+    <offer id="DR017140" available="false">
       <price>273</price>
     </offer>
     <offer id="DR017142" available="true">
@@ -156731,13 +156731,13 @@
     <offer id="DR017249" available="true">
       <price>305</price>
     </offer>
-    <offer id="DR017251" available="true">
+    <offer id="DR017251" available="false">
       <price>907</price>
     </offer>
-    <offer id="DR017252" available="true">
+    <offer id="DR017252" available="false">
       <price>948</price>
     </offer>
-    <offer id="DR017253" available="true">
+    <offer id="DR017253" available="false">
       <price>1207</price>
     </offer>
     <offer id="DR017256" available="true">
@@ -156788,7 +156788,7 @@
     <offer id="DR017272" available="false">
       <price>2511</price>
     </offer>
-    <offer id="DR017273" available="true">
+    <offer id="DR017273" available="false">
       <price>2207</price>
     </offer>
     <offer id="DR017274" available="true">
@@ -157922,7 +157922,7 @@
     <offer id="DR017673" available="true">
       <price>229</price>
     </offer>
-    <offer id="DR017675" available="true">
+    <offer id="DR017675" available="false">
       <price>1320</price>
     </offer>
     <offer id="DR017677" available="false">
@@ -178969,10 +178969,10 @@
     <offer id="AR003628" available="true">
       <price>507</price>
     </offer>
-    <offer id="AR003629" available="true">
+    <offer id="AR003629" available="false">
       <price>710</price>
     </offer>
-    <offer id="AR003630" available="true">
+    <offer id="AR003630" available="false">
       <price>710</price>
     </offer>
     <offer id="OK004859" available="false">
@@ -180460,7 +180460,7 @@
     <offer id="OK005080" available="false">
       <price>1022</price>
     </offer>
-    <offer id="AR003722" available="true">
+    <offer id="AR003722" available="false">
       <price>710</price>
     </offer>
     <offer id="OK005081" available="false">
@@ -180484,10 +180484,10 @@
     <offer id="OK005085" available="false">
       <price>1731</price>
     </offer>
-    <offer id="AR003725" available="true">
+    <offer id="AR003725" available="false">
       <price>710</price>
     </offer>
-    <offer id="AR003726" available="true">
+    <offer id="AR003726" available="false">
       <price>710</price>
     </offer>
     <offer id="OK005087" available="true">
@@ -180514,7 +180514,7 @@
     <offer id="OK005094" available="false">
       <price>1997</price>
     </offer>
-    <offer id="AR003731" available="true">
+    <offer id="AR003731" available="false">
       <price>812</price>
     </offer>
     <offer id="OK005096" available="true">
@@ -180569,7 +180569,7 @@
     <offer id="AR003741" available="true">
       <price>1014</price>
     </offer>
-    <offer id="AR003742" available="true">
+    <offer id="AR003742" available="false">
       <price>507</price>
     </offer>
     <offer id="AR003744" available="false">
@@ -181946,16 +181946,16 @@
     <offer id="AR003852" available="true">
       <price>163</price>
     </offer>
-    <offer id="AR003853" available="true">
+    <offer id="AR003853" available="false">
       <price>992</price>
     </offer>
-    <offer id="AR003855" available="true">
+    <offer id="AR003855" available="false">
       <price>907</price>
     </offer>
     <offer id="AR003856" available="true">
       <price>153</price>
     </offer>
-    <offer id="AR003857" available="true">
+    <offer id="AR003857" available="false">
       <price>1165</price>
     </offer>
     <offer id="AR003858" available="true">
@@ -182564,7 +182564,7 @@
     <offer id="OK005402" available="true">
       <price>354</price>
     </offer>
-    <offer id="ВС000321" available="true">
+    <offer id="ВС000321" available="false">
       <price>4840</price>
     </offer>
     <offer id="ВС000323" available="false">
@@ -182591,16 +182591,16 @@
     <offer id="AR003961" available="true">
       <price>203</price>
     </offer>
-    <offer id="AR003962" available="true">
+    <offer id="AR003962" available="false">
       <price>761</price>
     </offer>
-    <offer id="AR003963" available="true">
+    <offer id="AR003963" available="false">
       <price>741</price>
     </offer>
-    <offer id="AR003964" available="true">
+    <offer id="AR003964" available="false">
       <price>710</price>
     </offer>
-    <offer id="AR003965" available="true">
+    <offer id="AR003965" available="false">
       <price>710</price>
     </offer>
     <offer id="OK005404" available="false">
@@ -182630,7 +182630,7 @@
     <offer id="OK005413" available="true">
       <price>325</price>
     </offer>
-    <offer id="AR003966" available="true">
+    <offer id="AR003966" available="false">
       <price>761</price>
     </offer>
     <offer id="OK005414" available="true">
@@ -182642,7 +182642,7 @@
     <offer id="OK005416" available="true">
       <price>195</price>
     </offer>
-    <offer id="AR003967" available="true">
+    <offer id="AR003967" available="false">
       <price>1208</price>
     </offer>
     <offer id="OK005417" available="true">
@@ -182657,7 +182657,7 @@
     <offer id="OK005420" available="true">
       <price>195</price>
     </offer>
-    <offer id="AR003968" available="true">
+    <offer id="AR003968" available="false">
       <price>1380</price>
     </offer>
     <offer id="AR003969" available="true">
@@ -183002,7 +183002,7 @@
     <offer id="AR004019" available="true">
       <price>761</price>
     </offer>
-    <offer id="AR004020" available="true">
+    <offer id="AR004020" available="false">
       <price>254</price>
     </offer>
     <offer id="AR004021" available="true">
@@ -183017,7 +183017,7 @@
     <offer id="AR004027" available="true">
       <price>585</price>
     </offer>
-    <offer id="AR004028" available="true">
+    <offer id="AR004028" available="false">
       <price>1811</price>
     </offer>
     <offer id="OK005500" available="true">
@@ -183561,10 +183561,10 @@
     <offer id="AM0003918" available="false">
       <price>656</price>
     </offer>
-    <offer id="ВС000324" available="true">
+    <offer id="ВС000324" available="false">
       <price>2732</price>
     </offer>
-    <offer id="ВС000325" available="true">
+    <offer id="ВС000325" available="false">
       <price>3470</price>
     </offer>
     <offer id="ВС000326" available="false">
@@ -184907,7 +184907,7 @@
     <offer id="RI0000548" available="false">
       <price>218</price>
     </offer>
-    <offer id="ВС000342" available="true">
+    <offer id="ВС000342" available="false">
       <price>4840</price>
     </offer>
     <offer id="RI0000549" available="false">
@@ -193442,13 +193442,13 @@
     <offer id="AM0007365" available="true">
       <price>641</price>
     </offer>
-    <offer id="AM0007366" available="true">
+    <offer id="AM0007366" available="false">
       <price>1194</price>
     </offer>
-    <offer id="AM0007367" available="true">
+    <offer id="AM0007367" available="false">
       <price>1415</price>
     </offer>
-    <offer id="AM0007368" available="true">
+    <offer id="AM0007368" available="false">
       <price>1150</price>
     </offer>
     <offer id="AM0007369" available="false">
