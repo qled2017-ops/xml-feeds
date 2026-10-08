@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-07 07:33">
+<yml_catalog date="2026-10-08 07:29">
   <offers>
     <offer id="AM0016591" available="true">
       <price>783</price>
@@ -45424,7 +45424,7 @@
     <offer id="IT00449" available="true">
       <price>252</price>
     </offer>
-    <offer id="LI000332" available="true">
+    <offer id="LI000332" available="false">
       <price>117</price>
     </offer>
     <offer id="LI000333" available="true">
@@ -46345,7 +46345,7 @@
     <offer id="LI000381" available="true">
       <price>341</price>
     </offer>
-    <offer id="LI000382" available="true">
+    <offer id="LI000382" available="false">
       <price>585</price>
     </offer>
     <offer id="LI000383" available="true">
@@ -46983,7 +46983,7 @@
     <offer id="RO01161" available="true">
       <price>516</price>
     </offer>
-    <offer id="RO01162" available="true">
+    <offer id="RO01162" available="false">
       <price>516</price>
     </offer>
     <offer id="RO01163" available="true">
@@ -49038,7 +49038,7 @@
     <offer id="AS00494" available="true">
       <price>1989</price>
     </offer>
-    <offer id="AS00495" available="true">
+    <offer id="AS00495" available="false">
       <price>3751</price>
     </offer>
     <offer id="AS00496" available="true">
@@ -78640,7 +78640,7 @@
     <offer id="LI006101" available="true">
       <price>497</price>
     </offer>
-    <offer id="LI006102" available="true">
+    <offer id="LI006102" available="false">
       <price>497</price>
     </offer>
     <offer id="LI006103" available="false">
@@ -79309,7 +79309,7 @@
     <offer id="ST00690" available="true">
       <price>1480</price>
     </offer>
-    <offer id="ST00691" available="true">
+    <offer id="ST00691" available="false">
       <price>117</price>
     </offer>
     <offer id="ST00692" available="true">
