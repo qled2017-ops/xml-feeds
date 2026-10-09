@@ -28603,7 +28603,7 @@ LED-підсвічування</param>
 <param name="Колір">Червоний</param>
 <param name="Ширина в упаковці (см)">5</param>
 </offer>
-<offer id="IT00799" available="true">
+<offer id="IT00799" available="false">
 <price>144</price>
 <currencyId>UAH</currencyId>
 <categoryId>1101</categoryId>
@@ -28615,7 +28615,7 @@ LED-підсвічування</param>
 <name_ru>Набор (3 шт) салфетка сервировочная (плейсмат) Floral 43*28см 445-101</name_ru>
 <description>Матеріал: Поліпропілен Фабрика: 445 Розміри: 43*28см Кількість в упаковці: 3 Кількість у ящику: 120 Кількість дизайнів: 1</description>
 <description_ua>Матеріал: Поліпропілен Фабрика: 445 Розміри: 43*28см Кількість в упаковці: 3 Кількість у ящику: 120 Кількість дизайнів: 1</description_ua>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Вага в упаковці, кг">0,2</param>
 <param name="Висота в упаковці (см)">5</param>
