@@ -10926,7 +10926,7 @@
 <description_ua>Керамічна ємність для зберігання печива, солодощів або будь-яких інших дрібниць.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE14298" available="false">
+<offer id="RE14298" available="true">
 <price>606</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
