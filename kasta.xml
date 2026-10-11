@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-11 09:22">
+<yml_catalog date="2026-10-11 19:15">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -221751,7 +221751,7 @@ _x000D_
 <description_ua>Наколінники налокітники Helikon-tex захисні LOW-PROFILE PROTECTIVE PAD INSERTS OC-LPI-NE - зручні у використанні низькопрофільні захисні вставки з неопрену товщиною 6 мм. Для захисту колін або ліктів, їх з легкістю можна помістити в спеціальні кишені для захисних накладок. Особливості: - Виготовлений з 6-міліметрового неопрену, ламінованого з одного боку нейлоном; - Призначені як захисні вставки на коліна або лікті. Виробник: Helikon-tex, Польща.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK02791" available="true">
+<offer id="OK02791" available="false">
 <price>1169</price>
 <currencyId>UAH</currencyId>
 <categoryId>1007</categoryId>
@@ -236725,7 +236725,7 @@ _x000D_
 <description_ua>Шторка для душу тканинна з люверсами 180*180 см 200/grey-beige — практичне рішення для ванної кімнати, яке захищає підлогу та стіни від бризок і водночас задає настрій інтер’єру. Щільна та м'яка штора для ванної кімнати однотонна, виготовлена ​​з поліестеру, має водовідштовхувальне просочення. Кріпиться на карниз за допомогою люверсів. Можливе прання у пральній машині. Шторка швидко сохне, не вбирає запахи та легко очищується звичайною губкою. Верхній край з отворами розрахований на стандартні кільця, тому повісити її можна за кілька хвилин на будь-який карниз. Щільний матеріал не липне до тіла під час душу та зберігає форму після багаторазового прання. Розмір: 180×180 см Колір: сірий Матеріал: поліестер Країна виробництва: Китай Догляд: протирати вологою губкою або прати за температури до 30°, сушити в розправленому вигляді. Перед покупкою звірте ширину та висоту з розмірами вашого карниза.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="200/lightgrey" available="true">
+<offer id="200/lightgrey" available="false">
 <price>1028</price>
 <currencyId>UAH</currencyId>
 <categoryId>1234</categoryId>
@@ -242639,7 +242639,7 @@ _x000D_
 <description_ua>Функціональна ванночка Bimbo BM-60530 — зручне рішення для щоденного купання немовляти. Модель виконана у практичному складному форматі, що дозволяє швидко скласти її після використання та зекономити простір у ванній кімнаті або при зберіганні. Вбудований електронний датчик температури допомагає контролювати воду, забезпечуючи оптимальні умови для безпечного купання. У комплект входить м’який матрац, який підтримує дитину та сприяє правильному положенню тіла під час водних процедур. Завдяки продуманому клапану зливу воду легко видалити без необхідності піднімати ванночку. Розкладні ніжки забезпечують стійкість і надійність конструкції навіть при активному використанні. Переваги: компактне складання для зручного зберігання; електронний контроль температури води; м’який матрац для комфорту малюка; швидкий та зручний злив води; стійка конструкція з розкладними ніжками; безпечні матеріали без шкідливих домішок.&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK01003" available="true">
+<offer id="OK01003" available="false">
 <price>798</price>
 <currencyId>UAH</currencyId>
 <categoryId>1272</categoryId>
@@ -329549,7 +329549,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 24 см, ширина 26 см, ширина бічна 10 см Наявність довгих ручок Призначення: для жінок Колір: чорний</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000006187" available="true">
+<offer id="MN000006187" available="false">
 <price>1155</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -329575,7 +329575,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 24 см, ширина 26 см, ширина бічна 10 см Наявність довгих ручок Призначення: для жінок Колір: карамельний</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000006189" available="true">
+<offer id="MN000006189" available="false">
 <price>1155</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331354,7 +331354,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра просунута PU + замша Сумка через плече стильна, якісна Розміри: висота 20 см, ширина 29 см, ширина боковая 9.5 см. Наявність регульованого плечового ременя Призначення: для жінок Колір: коричнево - чорна</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="EA03855" available="false">
+<offer id="EA03855" available="true">
 <price>1485</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331436,7 +331436,7 @@ _x000D_
 <description_ua>Чоловіча сумка через плече виготовлена зі штучної шкіри. Практична модель із лаконічним дизайном підходить для повсякденного використання, роботи, прогулянок і поїздок. Сумка оснащена регульованим плечовим ременем і додатковою ручкою, завдяки чому її можна зручно носити через плече або в руці. Місткий формат дозволяє розмістити необхідні особисті речі. Модель вирізняється практичним дизайном і зручною конструкцією, тому підходить для повсякденного та ділового образу. Характеристики: Матеріал: штучна шкіра. Розмір: 25 × 21 × 7 см. Тип: сумка через плече. Модель: кросбоді. Призначення: чоловіча.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EA03865" available="false">
+<offer id="EA03865" available="true">
 <price>1455</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331452,7 +331452,7 @@ _x000D_
 <description_ua>Чоловіча сумка через плече виготовлена з натуральної шкіри. Компактна модель із лаконічним дизайном підходить для повсякденного використання, роботи, прогулянок і поїздок. Сумка оснащена регульованим плечовим ременем, який дозволяє зручно носити її через плече. Компактний розмір робить модель зручною для зберігання необхідних особистих речей. Практична конструкція та стриманий дизайн роблять сумку підходящою для повсякденного та ділового образу. Характеристики: Матеріал: натуральна шкіра. Розмір: 20 × 13 × 5 см. Тип: сумка через плече. Модель: кросбоді. Призначення: чоловіча.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EA03866" available="false">
+<offer id="EA03866" available="true">
 <price>1455</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -333245,7 +333245,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 11.5 см, ширина 17 см. Колір: Коричневий</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="A5811-4" available="true">
+<offer id="A5811-4" available="false">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -333255,7 +333255,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (A5811-4) Червоний</name_ua>
 <name_ru>Сумка сумка через плечо (A5811-4) Красный</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 11.5 см, ширина 17 см. Колір: Коричневий</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="B9614-3" available="true">
 <price>735</price>
@@ -343353,7 +343353,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак міський стильний Розміри: висота 40 см, ширина 30 см, ширина дна 13 см Наявність регульованих плечових ременів Рюкзак містить бокові кишені Призначення: жіночий Колір: кораловий</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000005010" available="false">
+<offer id="MN000005010" available="true">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -343368,7 +343368,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак міський стильний Розміри: висота 39 см, ширина 28 см, ширина дна 15 см. Наявність регульованих плечових ременів Рюкзак містить бокові кишені. Призначення: жіночий Колір: різнокольоровий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005011" available="false">
+<offer id="MN000005011" available="true">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -343383,7 +343383,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак міський стильний Розміри: висота 39 см, ширина 28 см, ширина дна 15 см. Наявність регульованих плечових ременів Рюкзак містить бокові кишені. Призначення: жіночий Колір: різнокольоровий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005012" available="false">
+<offer id="MN000005012" available="true">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -343398,7 +343398,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак міський стильний Розміри: висота 39 см, ширина 28 см, ширина дна 15 см Наявність регульованих плечових ременів Рюкзак містить бокові кишені Призначення: жіночий Колір: різнобарвний</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005013" available="false">
+<offer id="MN000005013" available="true">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -353575,7 +353575,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:нейлонова тканина Розміри: Рюкзак,висота 43 см, ширина 27 cm Ширина дно 18 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK08379" available="false">
+<offer id="OK08379" available="true">
 <price>713</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -353589,7 +353589,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:нейлонова тканина Розміри: Рюкзак,висота 39 см, ширина 28 cm Ширина дно 15 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK08380" available="false">
+<offer id="OK08380" available="true">
 <price>713</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -353602,7 +353602,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:нейлонова тканина Розміри: Рюкзак,висота 39 см, ширина 28 cm Ширина дно 15 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK08381" available="false">
+<offer id="OK08381" available="true">
 <price>713</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -353615,7 +353615,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:нейлонова тканина Розміри: Рюкзак,висота 39 см, ширина 28 cm Ширина дно 15 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK08382" available="false">
+<offer id="OK08382" available="true">
 <price>713</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -357470,7 +357470,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра просунутий PU Виробник: Китай Розміри висота 19 см, ширина15,5 см.Ширина бічний 6 см&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK08275" available="true">
+<offer id="OK08275" available="false">
 <price>360</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -357480,7 +357480,7 @@ _x000D_
 <name_ua>Жіноча сумка через плече 816/4-6</name_ua>
 <name_ru>Женская сумка через плечо 816/4-6</name_ru>
 <description_ua>Матеріал: Екошкіра просунутий PU Виробник: Китай Розміри висота 19 см, ширина15,5 см.Ширина бічний 6 см&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK08509" available="true">
 <price>885</price>
