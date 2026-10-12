@@ -3483,7 +3483,7 @@
 <param name="Форма">Прямокутні</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="IT00799" available="false">
+<offer id="IT00799" available="true">
 <price>144</price>
 <currencyId>UAH</currencyId>
 <categoryId>101149.0</categoryId>

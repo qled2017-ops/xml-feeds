@@ -10422,7 +10422,7 @@ LED-підсвічування</param>
 <param name="Колір">Хакі</param>
 <param name="Ширина в упаковці (см)">29</param>
 </offer>
-<offer id="RE00011" available="false">
+<offer id="RE00011" available="true">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1016</categoryId>
@@ -11958,7 +11958,7 @@ LED-підсвічування</param>
 <param name="Форма">Прямокутні</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="IT00799" available="false">
+<offer id="IT00799" available="true">
 <price>144</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -242319,7 +242319,7 @@ _x000D_
 <description_ua>Матеріал: метал, товщина 0,5 мм Розмір: 45 х 30 х 35 см Грати гриль виготовлені з металу, має хромоване покриття, розмір: 41 х 29 см. Зручний механізм складання "кейсом" Прорізні ручки на корпусі для зручного транспортування</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK04167" available="true">
+<offer id="OK04167" available="false">
 <price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1267</categoryId>
@@ -242329,7 +242329,7 @@ _x000D_
 <name_ua>Годинник Механізм білий 25,4 см (2005-075)</name_ua>
 <name_ru>Часы Механизм белый 25,4 см (2005-075)</name_ru>
 <description_ua>Діаметр - 25,4 см. Настінний годинник – це стильний та функціональний елемент інтер’єру, який чудово поєднується з будь-яким дизайном приміщення. Завдяки використанню високоякісного пластику, годинник є легким, міцним і довговічним. Настінний годинник з пластику стане чудовим вибором як для домашнього інтер’єру, так і для офісу, кафе, фотостудій чи інших громадських приміщень. Він додасть нотку стилю і практичності у ваше оточення, допомагаючи завжди бути вчасно.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RU00267" available="true">
 <price>962</price>
