@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-12 19:19">
+<yml_catalog date="2026-10-13 09:49">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -310,7 +310,7 @@
 <category id="1437" rz_id="4674474.0">Трекінгові кросівки</category>
 </categories>
 <offers>
-<offer id="NA00600" available="true">
+<offer id="NA00600" available="false">
 <price>370</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -4195,7 +4195,7 @@
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="NA01455" available="false">
+<offer id="NA01455" available="true">
 <price>845</price>
 <currencyId>UAH</currencyId>
 <categoryId>1038</categoryId>
@@ -4422,7 +4422,7 @@
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="NA02209" available="true">
+<offer id="NA02209" available="false">
 <price>1130</price>
 <currencyId>UAH</currencyId>
 <categoryId>1095</categoryId>
@@ -5386,7 +5386,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Кількість вантажних місць">1</param>
 <param name="Вид">м'яч футбольний</param>
 </offer>
-<offer id="DE06466" available="true">
+<offer id="DE06466" available="false">
 <price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -5401,7 +5401,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Кількість вантажних місць">1</param>
 <param name="Вид">м'яч футбольний</param>
 </offer>
-<offer id="DE06467" available="true">
+<offer id="DE06467" available="false">
 <price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -5566,7 +5566,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI005031" available="true">
+<offer id="RI005031" available="false">
 <price>745</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -11394,7 +11394,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI002202" available="true">
+<offer id="RI002202" available="false">
 <price>646</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
@@ -12204,7 +12204,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI002537" available="true">
+<offer id="RI002537" available="false">
 <price>3083</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
@@ -18776,7 +18776,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE10881" available="true">
+<offer id="DE10881" available="false">
 <price>1332</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
@@ -92491,7 +92491,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Розмір">7</param>
 </offer>
-<offer id="OK02312" available="true">
+<offer id="OK02312" available="false">
 <price>1425</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -92504,7 +92504,7 @@ _x000D_
 <name_ua>Рукавиці Mil-Tec S Олива ASSAULT GLOVES OLIV (12519501-902-S)</name_ua>
 <name_ru>Перчатки Mil-Tec S Олива ASSAULT GLOVES OLIV (12519501-902-S)</name_ru>
 <description_ua>Матеріал:  50% нейлон, 30% еластан, 20% неопрен  Особливості: ідеальна посадка; неопренові вставки в області зап'ястя і кісточок; посилена долоня; вентиляційні отвори в області долоні; регульований пояс на липучці.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Кількість вантажних місць">1</param>
 <param name="Розмір">6</param>
 </offer>
@@ -93024,7 +93024,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Розмір">6</param>
 </offer>
-<offer id="OK02349" available="true">
+<offer id="OK02349" available="false">
 <price>1040</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -93035,7 +93035,7 @@ _x000D_
 <name_ua>Рукавиці Mil-Tec Воїн 2XL Чорні WARRIOR GLOVES SCHWARZ (12519102-906-2XL)</name_ua>
 <name_ru>Перчатки Mil-Tec Воин 2XL Черные WARRIOR GLOVES SCHWARZ (12519102-906-2XL)</name_ru>
 <description_ua>Матеріал:  45% поліамід, 24% еластан, 18% поліуретан, 9% неопрен, 4% бавовна. Набивка: піна EVA. Особливості:  Зручна коротка рукавичка; Завдяки еластичним вставкам ідеально прилягає до руки; Регульований пояс на липучці; Посилення в області щиколотки; Підкладка в долоні.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Кількість вантажних місць">1</param>
 <param name="Розмір">10</param>
 </offer>
@@ -141859,7 +141859,7 @@ _x000D_
 <description_ua>Чохол-сидушка M-Tac призначений для перенесення складаного BW каремата (бундес-каремат). Ви можете використовувати чохол як сидушку. Для фіксації на системі MOLLE та поясних ременях передбачені стропи з велкро. Основне відділення закривається блискавкою. Також по боках обладнано поясне кріплення, яке застібається на фастекс.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK00653" available="true">
+<offer id="OK00653" available="false">
 <price>2295</price>
 <currencyId>UAH</currencyId>
 <categoryId>1195</categoryId>
@@ -141874,7 +141874,7 @@ _x000D_
 <name_ua>Термокаремат складний Mil-Tec Олива BW ISOMATTE FALTBAR 190X60X0,5 см OLIV (14423000)</name_ua>
 <name_ru>Термокаремат складной Mil-Tec Олива BW ISOMATTE FALTBAR 190X60X0,5 см OLIV (14423000)</name_ru>
 <description_ua>Матеріал: 100% піна EVA (дуже висока якість, відмінна піна, зберігає сухість і тепло); Габарити в складеному стані: 27,5 х 37,5 х 4 см Габарити в розкладеному стані: 190 х 60 х 0,5 см Вага: 610г Особливості: - До складу входить термоізоляційний полімер щільної структури, в складеному вигляді нагадує багатошаровий бутерброд або товсту книгу. Через своїх компактних розмірів легко поміщається в рюкзак, в складеному положенні можна просто сидіти на ньому. - Забезпечує сухе, зручне місце для сну або сидіння - Він добре ізолює - Повністю захищає від вологи - Ви можете скласти його в куб - Невеликі габарити та мала вага - Можна помістити в рюкзак.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK00654" available="true">
 <price>646</price>
@@ -147910,7 +147910,7 @@ _x000D_
 <description_ua>великих відділень із застібкою-блискавкою з різними сітчастими внутрішніми кишенями, двох маленьких передніх кишень, а також вбудованої кишені на липучці для гідросистеми. Усі відділення закриваються на міцні двосторонні блискавки. Ергономічні плечові лямки шириною близько 5 см регулюються по довжині. Крім того, рюкзак оснащений щільною демпферною спинкою з вентиляційною системою та регульованим поясним ременем на застібці Fastex. Рюкзак має бічне регулювання за обсягом (залежно від завантаження рюкзака), а також стропи строп на зовнішній стороні для навішування додаткових сумків та D-подібні кільця на плечових лямках. Ця модель рюкзака має оптимальний обсяг для міських умов, легких прогулянок на природі, риболовлі та полювання. Особливості: М'яка спинка та плечові ремені. Компресійні ремені: Так Додаток: стропи Місткість: 36 л</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK02206" available="true">
+<offer id="OK02206" available="false">
 <price>2998</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -147924,7 +147924,7 @@ _x000D_
 <name_ua>Рюкзак туристичний Mil-Tec 36 л Мультікам уламковий US ASSAULT PACK LG W/L (14002220-36)</name_ua>
 <name_ru>Рюкзак туристический Mil-Tec 36 л Мультикам обломочный US ASSAULT PACK LG W/L (14002220-36)</name_ru>
 <description_ua>Зовнішній матеріал: 100% поліестер, покриття з полівінілхлориду.Підкладка: 100% поліестер.Набивка: піна EVA.Ємність: 36 літрів.Розміри: 51 х 29 х 28 см.Вага: 1450 г.Особливості:- м'яка спинка;- ергономічні, м'які плечові ремені, шириною приблизно 5 см, регульовані по довжині;- люверси для додаткового кріплення матеріалу;- регульований по довжині пояс з застібкою-фастексом;- ручка для перенесення;- 2 великих відділення з різними відділеннями на блискавці та сіткою;- передня кишеня з органайзером і додаткове відділення на блискавці;- усі відділення на двосторонній блискавці;- регулювання об'єму та фіксація багажу бічними компресійними ременями;- кріплення строп.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK02210" available="true">
 <price>2998</price>
@@ -152647,7 +152647,7 @@ _x000D_
 <description_ua>Матеріал: нержавіюча сталь. Чохол: 100% поліестер. Розмір упаковки: 12,5 х 5 х 2,5 см. Вага: 200г. Особливості: - ніж, виделка, ложка; - відкривачка для банок та пляшок; - штопор; - кільце для шнурка; – є чохол для зберігання.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK00705" available="true">
+<offer id="OK00705" available="false">
 <price>2070</price>
 <currencyId>UAH</currencyId>
 <categoryId>1142</categoryId>
@@ -152660,7 +152660,7 @@ _x000D_
 <name_ua>Мультитул Mil-Tec універсальний в чохлі кобра Чорний MULTI TOOL BLACK COBRA LG (15406102)</name_ua>
 <name_ru>Мультитул Mil-Tec универсальный в чехле кобра Черный MULTI TOOL BLACK COBRA LG (15406102)</name_ru>
 <description_ua>Матеріал: сталь 2Cr13; Корпус/ручка: алюміній; Чохол для зберігання: 100% нейлон. Загальна довжина: 17 см Довжина корпусу: 11 см Розмір упаковки: 11 х 4,5 х 2,5 см Вага: 308 г. Особливості: - Компактний багатофункціональний інструмент; - Усі інструменти можна розкласти однією рукою; - Замок забезпечує безпечну та акуратну роботу; - Доступно 9 інструментів: плоскогубці, напилок, оправка, 2 шліцеві та одна хрестова викрутки, консервний ніж, ніж, пилка; - У комплект входить чохол для зберігання інструмента</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK00706" available="true">
 <price>1425</price>
@@ -153796,7 +153796,7 @@ _x000D_
 <description_ua>Матеріал: 95% поліестер, 5% еластан. Тканина з сітчастою структурою дуже еластична і тому забезпечує оптимальну свободу рухів. Стільниковий фліс на внутрішній стороні білизни утримує тепле повітря близько до тіла, одночасно відводячи вологу через канали. Хороші ізоляційні властивості забезпечують комфорт при носінні в будь-якому кліматі. Особливості: - Повітропроникна; - Відведення вологи; - Швидке висихання; - Еластична та комфортна.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK00738" available="true">
+<offer id="OK00738" available="false">
 <price>2430</price>
 <currencyId>UAH</currencyId>
 <categoryId>1139</categoryId>
@@ -153810,7 +153810,7 @@ _x000D_
 <name_ua>Термобілизна Mil-Tec Флісова з комірцем та застібкою-блискавкою L Олива UNTERWÄSCHE THERMOFLEECE GEN.III OLIV (11220001-904-L)</name_ua>
 <name_ru>Термобелье Mil-Tec Флисовое с воротничком и застежкой-молнией L Олива UNTERWÄSCHE THERMOFLEECE GEN.III OLIV (11220001-904-L)</name_ru>
 <description_ua>Матеріал: фліс - 100% поліестр. Вага: 180g/qm Особливості спідньої білизни: сорочка з довгими рукавами; комір під шию на блискавці; довгі штани; пухнастий, м'який флісовий матеріал. матеріал дихаючий, швидко сохне і легко його доглядати. Антипігулковий фліс. У комплект термобілизни входить: - Кофта з довгими рукавами; - Штани з м’якого термофлісу.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK00739" available="true">
 <price>2430</price>
@@ -183845,7 +183845,7 @@ _x000D_
 <description_ua>Термоактивна сорочка з довгими рукавами. Виготовлена з швидковисихного та повітропроникного матеріалу. Він допомагає зберегти шкіру сухою, ефективно відводячи вологу, що виробляється організмом під час тренування. Манжети забезпечені отворами для великих пальців, щоб рукави не закочувалися під час занять. На плечах є липучки, які дають змогу прикріпити будь-які нашивки або емблемі, наприклад, національний прапор, емблемі частини або ін. Матеріал: 100% поліестер. Особливості - сорочка з довгим рукавом; - Швидке висихання; - Повітропроникна; - Липучки на плечі для кріплення патчів; - Манжети з петлею для великого пальця; - Кругла горловина.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK02461" available="true">
+<offer id="OK02461" available="false">
 <price>1230</price>
 <currencyId>UAH</currencyId>
 <categoryId>1302</categoryId>
@@ -183859,7 +183859,7 @@ _x000D_
 <name_ua>Сорочка Mil-Tec Термоактивна швидкосохнуча S Олива TACTICAL QUICK DRY LANGARMSHIRT OLIV (11082001-902-S)</name_ua>
 <name_ru>Рубашка Mil-Tec Термоактивная быстросохнущая S Олива TACTICAL QUICK DRY LANGARMSHIRT OLIV (11082001-902-S)</name_ru>
 <description_ua>Термоактивна сорочка з довгими рукавами. Виготовлена з швидковисихного та повітропроникного матеріалу. Він допомагає зберегти шкіру сухою, ефективно відводячи вологу, що виробляється організмом під час тренування. Манжети забезпечені отворами для великих пальців, щоб рукави не закочувалися під час занять. На плечах є липучки, які дають змогу прикріпити будь-які нашивки або емблемі, наприклад, національний прапор, емблемі частини або ін. Матеріал: 100% поліестер. Особливості - сорочка з довгим рукавом; - Швидке висихання; - Повітропроникна; - Липучки на плечі для кріплення патчів; - Манжети з петлею для великого пальця; - Кругла горловина.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE06246" available="true">
 <price>3399</price>
