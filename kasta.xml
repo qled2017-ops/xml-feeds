@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-13 19:48">
+<yml_catalog date="2026-10-14 09:20">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -47991,7 +47991,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RS00818" available="true">
+<offer id="RS00818" available="false">
 <price>150</price>
 <currencyId>UAH</currencyId>
 <categoryId>1147</categoryId>
@@ -48001,7 +48001,7 @@ _x000D_
 <name_ua>Гірлянда 6 м 30 лампочок/1м прозрачна трубка 8 режимів 770-242</name_ua>
 <name_ru>Гирлянда 6 м 30 лампочек/1м прозрачная трубка 8 режимов 770-242</name_ru>
 <description_ua>Гірлянда Дюралайт 6м, 30 лампочок/1м (різнокольорові), прозора трубка, 8 режимів. Для внутрішнього вживання.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Гирлянда</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -49626,7 +49626,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007429" available="true">
+<offer id="RI007429" available="false">
 <price>1100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -49636,7 +49636,7 @@ _x000D_
 <name_ua>Набір банок керамічних "Pepper" 600 мл 2 шт. червоний  928-093</name_ua>
 <name_ru>Набор керамических банок "Pepper" 600 мл 2 шт. червоний  928-093</name_ru>
 <description_ua>Набір банок керамічних "Pepper" 600 мл 2 шт. червоний</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Банка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -52132,7 +52132,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RS01316" available="true">
+<offer id="RS01316" available="false">
 <price>1100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -52142,7 +52142,7 @@ _x000D_
 <name_ua>Банки керамічні 2 шт Pepper 600мл червоний 928-093</name_ua>
 <name_ru>Банки керамические 2шт Pepper 600мл червоний 928-093</name_ru>
 <description_ua>Банка керамічна "Pepper" 600мл, колір - червоний</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Банка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -67617,7 +67617,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000003206" available="true">
+<offer id="MN000003206" available="false">
 <price>388</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -67627,7 +67627,7 @@ _x000D_
 <name_ua>Тарілка супова порцелянова Lily, D20*5.5 см (988-478)</name_ua>
 <name_ru>Тарелка суповая фарфоровая Lily, D20*5.5 см (988-478)</name_ru>
 <description_ua>Елегантна супова тарілка з високоякісної порцеляни створена для щоденного використання та святкових обідів. Глибока форма тарілки зручно вміщує супи, бульйони, крем-супи та гарячі страви. Білий класичний дизайн поєднує естетику та функціональність, а міцна порцеляна стійка до подряпин і перепадів температур. Тарілка безпечна для використання в мікрохвильовій печі.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">тарілка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -67782,7 +67782,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT03752" available="true">
+<offer id="IT03752" available="false">
 <price>388</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -67792,7 +67792,7 @@ _x000D_
 <name_ua>Тарілка супова порцелянова Lily, D20*5.5см (988-478) Білий</name_ua>
 <name_ru>Тарелка суповая фарфоровая Lily, D20*5.5см (988-478) Белый</name_ru>
 <description_ua>Матеріал: Порцеляна Колір: Білий Фабрика: 988 Розміри: 20.3*20.3*5.5см, 500мл Упаковка: біла картонна коробка Кількість в упаковці: 1</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">тарілка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -67857,7 +67857,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT03764" available="true">
+<offer id="IT03764" available="false">
 <price>398</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -67867,7 +67867,7 @@ _x000D_
 <name_ua>Піала порцелянова D16*5.8см Dentelle Blanche (988-515) Білий</name_ua>
 <name_ru>Пиала фарфоровая D16*5.8см Dentelle Blanche (988-515) Белый</name_ru>
 <description_ua>Матеріал: Порцеляна Колір: Білий Фабрика: 988 Розміри: 16*16*5.8см, 600мл Упаковка: біла картонна коробка Кількість в упаковці: 1</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">піала</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -68682,7 +68682,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT00695" available="true">
+<offer id="IT00695" available="false">
 <price>135</price>
 <currencyId>UAH</currencyId>
 <categoryId>1072</categoryId>
@@ -68692,7 +68692,7 @@ _x000D_
 <name_ua>Набір (3 шт) кухарська ложка 32см, 544-141 Синій</name_ua>
 <name_ru>Набор (3 шт) поварская ложка 32см 544-141 Синий</name_ru>
 <description_ua>Матеріал: Пластик Матеріал: Нержавіюча сталь Фабрика: 544 Розміри: 32*7.3*2.5см Упаковка: бирка Кількість в упаковці: 3 Кількість у ящику: 72 Кількість дизайнів: 1</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Ложка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -73227,7 +73227,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OS01144" available="true">
+<offer id="OS01144" available="false">
 <price>836</price>
 <currencyId>UAH</currencyId>
 <categoryId>1113</categoryId>
@@ -80399,7 +80399,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN00000908" available="true">
+<offer id="MN00000908" available="false">
 <price>825</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -80409,7 +80409,7 @@ _x000D_
 <name_ua>Ваза керамічна 26 см, колір - попіл троянди глянець (733-527)</name_ua>
 <name_ru>Ваза керамическая 26 см, цвет - пепел розы глянец (733-527)</name_ru>
 <description_ua>Сьогодні вази перестали бути лише функціональним предметом зберігання квітів і стали важливим елементом декору. Особливою популярністю користуються вироби з кераміки, і все це завдяки великій різноманітності кольорів та текстур. Зусиллями талановитих майстрів створюються ємності різних форм та дизайну, тому не проблема підібрати та замовити вази керамічні під будь-який інтер'єр. Переваги керамічних ваз Керамічні вази можна назвати унікальним предметом інтер'єру, тому що велика кількість текстур, дизайнів і кольорів дозволяє підібрати абсолютно ексклюзивну модель.Керамічні вази можуть бути прикрашені різними візерунками та малюнками, тому їх можна використовувати в якості додаткових акцентів в інтер'єрі.Кераміка міцніша, ніж скло, тому вази можуть витримувати великі навантаження і прослужити значно довше.Плюс цього матеріалу полягає у здатності зберігати тепло, що дуже важливо, коли потрібно поставити квіти, що потребують певної температури.Не забуваємо про те, що кераміка – це природний, тобто екологічний матеріал, тому він безпечний для людини та рослин.Мити виріб можна навіть у звичайній воді, тому повернути йому початковий вигляд досить просто.Вази з кераміки відрізняються універсальністю, тому вони гармонійно виглядатимуть як на кухні, так і у вітальні, передпокої або в інших кімнатах.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Ваза</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -83759,7 +83759,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI005644" available="true">
+<offer id="RI005644" available="false">
 <price>1000</price>
 <currencyId>UAH</currencyId>
 <categoryId>1082</categoryId>
@@ -83769,7 +83769,7 @@ _x000D_
 <name_ua>Набір ялинок декоративних з натуральних шишок з ягодами 43 см 2 шт.  коричневий 814-382</name_ua>
 <name_ru>Набор декоративних елок из натуральных шишек с ягодами 43 см 2 шт. коричневий 814-382</name_ru>
 <description_ua>Набір ялинок декоративних з натуральних шишок з ягодами 43 см 2 шт. коричневий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">набір</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -85424,7 +85424,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OS00231" available="true">
+<offer id="OS00231" available="false">
 <price>1000</price>
 <currencyId>UAH</currencyId>
 <categoryId>1082</categoryId>
@@ -85434,7 +85434,7 @@ _x000D_
 <name_ua>Набір (2шт) Ялинка декоративна з натуральних шишок з ягодами, 43см, колір - коричневий (814-382)</name_ua>
 <name_ru>Набор (2шт) Елка декоративная из натуральных шишек с ягодами, 43см, цвет - коричневий (814-382)</name_ru>
 <description_ua>Матеріал: Натуральні матеріали Колір: Коричневий Розміри: 43*17см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">ялинка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -86804,7 +86804,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RS00889" available="true">
+<offer id="RS00889" available="false">
 <price>1000</price>
 <currencyId>UAH</currencyId>
 <categoryId>1082</categoryId>
@@ -86814,7 +86814,7 @@ _x000D_
 <name_ua>Ялинки декоративні 2 шт з натуральних шишок з ягодами 43 см коричневий 814-382</name_ua>
 <name_ru>Елки декоративные 2 шт из натуральных шишек с ягодами 43 см коричневий 814-382</name_ru>
 <description_ua>Ялинка декоративна з натуральних шишок з ягодами, 43см, колір - коричневий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">деко</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -88163,7 +88163,7 @@ _x000D_
 <name_ua>Фігурка-підвіска Щелкунчик (HA9-539) — класична новорічна прикраса для ялинки та інтер’єру</name_ua>
 <name_ru>Фигурка-подвеска Щелкунчик (HA9-539) — классическое новогоднее украшение для елки и интерьера</name_ru>
 <description_ua>Ця майстерно виконана фігурка висотою близько 12–15 см вражає увагою до деталей: від блискучих мідних ґудзиків та оксамитової оздоби до реалістичної пози з рукою на стегні та зручним гачком для підвішування, що робить її ідеальним елементом декору. Виготовлена з преміум-матеріалів — комбінації дерева, металу та полімерів — з захисним покриттям від пилу та вицвітання, забезпечуючи надійність та естетичну збереженість на роки вперед. Щелкунчик чудово виглядає на новорічній ялинці, як мобіль над каміном, на гірляндах чи в тематичних композиціях, посилюючи затишок у вітальні, коридорі чи на святковому столі. Такий предмет не тільки прикрасить дім, але й стане цінним подарунком для поціновувачів мистецтва, колекціонерів антикваріату чи сімей з традиціями читання казок, пробуджуючи спогади про чарівництво та радість зимових вечорів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Елочная игрушка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -88348,7 +88348,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RE02162" available="true">
+<offer id="RE02162" available="false">
 <price>270</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -88358,7 +88358,7 @@ _x000D_
 <name_ua>Прикраси на ялинку Крила Ангела (788-754), чорні, набір 4 шт, ялинкові іграшки</name_ua>
 <name_ru>Украшения на елку Крылья Ангела (788-754), черные, набор 4 шт, елочные игрушки</name_ru>
 <description_ua>Новий рік — довгоочікуване зимове свято, оточене приємними турботами та відчуттям казки. Кожна, навіть найменша деталь є невід'ємною частиною майбутнього свята. Порадуйте друзів, колег, рідних та близьких, подарувавши їм шматочок зимового чаклунства. Наповніть новорічний інтер'єр легкістю та чарами! Новорічні кулі створять святковий настрій. Вони перетворять ялинку або стануть чудовим окремим декором. Ялинкові прикраси немов створені для того, щоб новорічний настрій оселився у вашому будинку. Кульки на ялинку завжди будуть класичним рішенням у святковому декорі – вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна прикрашати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч. Набір з 4 яскравих новорічних іграшок для прикраси ялинки або декорування інтер'єру допоможе швидко, просто і зі смаком одягнути Вашу ялинку, а також послужить чудовим новорічним подарунком родичам, друзям, колегам. Ялинкові прикраси виконані в одній кольоровій гамі та текстурі, завдяки чому кулі будуть чудово виглядати на Вашій лісовій красуні, поблискуючи у світлі новорічної гірлянди. Іграшки на ялинку чудово поєднуються з будь-якими ялинковими прикрасами та допомагають наповнити будинок атмосферою затишку та свята. Кулі для ялинки підходять для новорічної ялинки; інтер'єру; хвойних композицій; вінків і просто як шикарний подарунок. Бажаємо щасливого Нового року та Різдва.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Елочная игрушка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -90446,7 +90446,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006694" available="true">
+<offer id="RI006694" available="false">
 <price>1829</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -90456,7 +90456,7 @@ _x000D_
 <name_ua>Набір декоративна підвісок Миші-музиканти 4.5*3.5*9 см  8 шт. сірий із зеленим K07-711</name_ua>
 <name_ru>Набор декоративных подвесок Мыши-музыканты 4.5*3.5*9 см 8 шт. серый с зеленым K07-711</name_ru>
 <description_ua>Набір декоративна підвісок Миші-музиканти 4.5*3.5*9 см 8 шт. сірий із зеленим</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Елочная игрушка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -91571,7 +91571,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006900" available="true">
+<offer id="RI006900" available="false">
 <price>575</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -91581,7 +91581,7 @@ _x000D_
 <name_ua>Набір декоративних підвісок Балерина 11 см 2 шт. шампань 707-180</name_ua>
 <name_ru>Набор декоративних подвесок Балерина 11 см. 2 шт. шампань 707-180</name_ru>
 <description_ua>Набір декоративних підвісок Балерина 11 см 2 шт. шампань</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Елочная игрушка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -91886,7 +91886,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007021" available="true">
+<offer id="RI007021" available="false">
 <price>925</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -91896,7 +91896,7 @@ _x000D_
 <name_ua>Набір декоративних підвісок  Павич 17 см 2 шт. темно-синій із золотом SG37-824</name_ua>
 <name_ru>Набор декоративних подвесок Павлин 17 см 2 шт. темно-синий с золотом SG37-824</name_ru>
 <description_ua>Набір декоративних підвісок Павич 17 см 2 шт. темно-синій із золотом</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Елочная игрушка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -108905,7 +108905,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006036" available="true">
+<offer id="RI006036" available="false">
 <price>1180</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -108915,12 +108915,12 @@ _x000D_
 <name_ua>Новорічна музична іграшка Арлекін  40.6 см  червоний із зеленим NY14-779</name_ua>
 <name_ru>Новогодняя музыкальная игрушка Арлекин 40.6 см червоний с зеленим NY14-779</name_ru>
 <description_ua>Новорічна музична іграшка Арлекін (з функцією руху голови), 40.6 см, колір - червоний із зеленим</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006066" available="true">
+<offer id="RI006066" available="false">
 <price>1080</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -108930,7 +108930,7 @@ _x000D_
 <name_ua>Новорічна фігура Санта з подарунками та ялинкою 30 см золотий з паєтками NY44-118</name_ua>
 <name_ru>Новогодняя фигура Санта с подарками и елкой 30 см золотой с пайетками NY44-118</name_ru>
 <description_ua>Новорічна фігура Санта з подарунками та ялинкою 30 см золотий з паєтками</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -109730,7 +109730,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006106" available="true">
+<offer id="RI006106" available="false">
 <price>1000</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -109740,7 +109740,7 @@ _x000D_
 <name_ua>Новорічна декоративна іграшка Санта 61 см червоний NY14-713</name_ua>
 <name_ru>Новогодняя декоративная игрушка Санта 61 см червоний NY14-713</name_ru>
 <description_ua>Новорічна декоративна іграшка Санта 61 см червоний.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -113225,7 +113225,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006522" available="true">
+<offer id="RI006522" available="false">
 <price>325</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -113235,7 +113235,7 @@ _x000D_
 <name_ua>Декоративна фігурка на підвісі Юна Балерина 10.5 см білий з гліттером K07-218</name_ua>
 <name_ru>Декоративная фигурка на подвесе Юная Балерина 10.5 см белый с глиттером K07-218</name_ru>
 <description_ua>Декоративна фігурка на підвісі Юна Балерина, 10.5 см, колір - білий з гліттером</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -115040,7 +115040,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006774" available="true">
+<offer id="RI006774" available="false">
 <price>1890</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -115050,7 +115050,7 @@ _x000D_
 <name_ua>Декоративна фігура Санта-Клаус із пряниковим будиночком 13*14*31 см червоний з білим 837-245</name_ua>
 <name_ru>Декоративная фигура Санта-Клаус с пряничным домиком 13*14*31 см красный с белым 837-245</name_ru>
 <description_ua>Декоративна фігура Санта-Клаус із пряниковим будиночком 13*14*31 см червоний з білим</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -132239,7 +132239,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OS00565" available="true">
+<offer id="OS00565" available="false">
 <price>750</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -132249,7 +132249,7 @@ _x000D_
 <name_ua>Набір (6шт) Декоративних квіток Пуансетії, 30.5см, колір - червоний (839-800)</name_ua>
 <name_ru>Набор (6шт) Декоративних цветов Пуансетия, 30.5см, цвет - червоний (839-800)</name_ru>
 <description_ua>Матеріал: Тканина, Дріт Колір: Червоний Розміри: 30.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Цветы</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -150582,7 +150582,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OO00911" available="true">
+<offer id="OO00911" available="false">
 <price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
@@ -150592,7 +150592,7 @@ _x000D_
 <name_ua>Металеве кільце для серветок Лист D4.5*2 см золото 992-343</name_ua>
 <name_ru>Металлическое кольцо для салфеток Лист D4.5*2 см золото 992-343</name_ru>
 <description_ua>Металеве кільце для серветок Лист D4.5*2 см золото</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">аксесуари для сервірування</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -152397,7 +152397,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007728" available="true">
+<offer id="RI007728" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -152407,7 +152407,7 @@ _x000D_
 <name_ua>Набір кухлів порцелянових Coffe 380 мл 3 шт.  905-210</name_ua>
 <name_ru>Набор кружек порцелянових Coffe 380 мл 3 шт.  905-210</name_ru>
 <description_ua>Набор кружек порцелянових Coffe 380 мл 3 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Чашка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -153943,7 +153943,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI005756" available="true">
+<offer id="RI005756" available="false">
 <price>150</price>
 <currencyId>UAH</currencyId>
 <categoryId>1147</categoryId>
@@ -153953,7 +153953,7 @@ _x000D_
 <name_ua>Гірлянда Дюралайт 6 м, 30 лампочок/1м  8 режимів  770-242</name_ua>
 <name_ru>Гирлянда Дюралайт 6 м, 30 лампочек/1м 8 режимов 770-242</name_ru>
 <description_ua>Гірлянда Дюралайт 6м, 30 лампочок/1м (різнокольорові), прозора трубка, 8 режимів. Для внутрішнього вживання.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Гирлянда</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -160468,7 +160468,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007978" available="true">
+<offer id="RI007978" available="false">
 <price>300</price>
 <currencyId>UAH</currencyId>
 <categoryId>1159</categoryId>
@@ -161865,7 +161865,7 @@ _x000D_
 <description_ua>Дерев’яна підставка із ручкою – практичний і стильний аксесуар для подачі та сервірування. Виготовлена з натурального дерева, вона поєднує міцність, довговічність і привабливий зовнішній вигляд. Підставка чудово підходить для подачі закусок, сирів, випічки або як декоративний елемент для кухні та святкового столу. Завдяки ручці її легко переносити та подавати гостям. Додайте природного шарму та практичності вашому сервіруванню разом із дерев’яною підставкою із ручкою.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000002428" available="true">
+<offer id="MN000002428" available="false">
 <price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
@@ -161875,7 +161875,7 @@ _x000D_
 <name_ua>Металеве кільце для серветок Конвалія, 7.2*4*5 см (992-341)</name_ua>
 <name_ru>Металлическое кольцо для салфеток Ландыш, 7.2*4*5 см (992-341)</name_ru>
 <description_ua>Серветниця металева — це зручний та естетичний аксесуар для сервірування столу, який допоможе підтримувати порядок і додасть інтер’єру завершеного вигляду. Ідеально підходить для кухні, кафе чи ресторану.&amp;nbsp;Серветниця стане не лише практичним елементом сервірування, а й стильним акцентом на вашому столі. Обирайте якість і комфорт для щоденного використання!</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EA03844" available="true">
 <price>299</price>
@@ -164205,7 +164205,7 @@ _x000D_
 <description_ua>Новий рік — довгоочікуване зимове свято, оточене приємними клопотами та відчуттям казки. Кожна, навіть найнезначніша деталь є невід'ємною частиною майбутнього торжества. Порадуйте друзів, колег, рідних та близьких, подарувавши їм шматочок зимового чарівництва. Наповніть новорічний інтер'єр легкістю та чарівництвом! Новорічні кулі створять святковий настрій. Вони перетворять ялинку або стануть чудовим окремим декором.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02306" available="true">
+<offer id="RE02306" available="false">
 <price>90</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -164215,7 +164215,7 @@ _x000D_
 <name_ua>Набір ялинкових прикрас Янгол BonaDi 2 шт. (113-A83)</name_ua>
 <name_ru>Набор елочных украшений Ангел BonaDi 2 шт. (113-A83)</name_ru>
 <description_ua>Новий рік — довгоочікуване зимове свято, оточене приємними клопотами та відчуттям казки. Кожна, навіть найнезначніша деталь є невід'ємною частиною майбутнього торжества. Порадуйте друзів, колег, рідних та близьких, подарувавши їм шматочок зимового чарівництва. Наповніть новорічний інтер'єр легкістю та чарівництвом! Новорічні кулі створять святковий настрій. Вони перетворять ялинку або стануть чудовим окремим декором.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02320" available="true">
 <price>155</price>
@@ -166626,7 +166626,7 @@ _x000D_
 <description_ua>Декоративна підвіска Ельф з Птахом 10 см рожевий з шампанню</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI006736" available="true">
+<offer id="RI006736" available="false">
 <price>1097</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -166636,7 +166636,7 @@ _x000D_
 <name_ua>Декоративна статуетка Сніговик з лісовими друзями 12.5*10*16.5 см K07-744</name_ua>
 <name_ru>Декоративная статуэтка Снеговик с лесными друзьями 12.5*10*16.5 см K07-744</name_ru>
 <description_ua>Декоративна статуетка Сніговик з лісовими друзями 12.5*10*16.5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI006872" available="true">
 <price>1664</price>
@@ -167046,7 +167046,7 @@ _x000D_
 <description_ua>Новорічна фігура Хлопчик на велосипеді в рожевому светрі 54 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI007300" available="true">
+<offer id="RI007300" available="false">
 <price>3924</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -167056,9 +167056,9 @@ _x000D_
 <name_ua>Новорічна декоративна фігура Ведмідь 50 см 113-C47</name_ua>
 <name_ru>Новогодняя декоративная фигура Медведь 50 см 113-C47</name_ru>
 <description_ua>Новорічна декоративна фігура Ведмідь 50 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RI007299" available="true">
+<offer id="RI007299" available="false">
 <price>3708</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -167068,7 +167068,7 @@ _x000D_
 <name_ua>Новорічна декоративна фігура Ведмідь 84 см  113-C48</name_ua>
 <name_ru>Новогодняя декоративная фигура Медведь 84 см  113-C48</name_ru>
 <description_ua>Новорічна декоративна фігура Ведмідь 84 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI007287" available="false">
 <price>585</price>
@@ -173083,7 +173083,7 @@ _x000D_
 <description_ua>Набір ялинкових прикрас з LED підсвічуванням 15 см 2 шт. шампань</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OO00397" available="true">
+<offer id="OO00397" available="false">
 <price>225</price>
 <currencyId>UAH</currencyId>
 <categoryId>1113</categoryId>
@@ -216348,7 +216348,7 @@ _x000D_
 <description_ua>Набір плічок 10 шт для важкого одягу пластикових кольорових 8695green — охайне зберігання одягу та порядок у шафі чи передпокої. Набір кольорових пластикових плічок для важкого одягу 10 шт. Мають широке плече, яка не продавлює важкі речі, а також светри. Гачок в даній моделі не поворотний, що робить його більш міцним. Поверхня плічок глянсова без зачепів. Вішалки зберігають форму плечей і не розтягують тканину, витримують верхній одяг та костюми. Гладка поверхня не чіпляє речі й не залишає слідів. Єдиний стиль вішалок робить гардероб візуально охайним. Колір: зелений Матеріал: пластик Артикул: 8695green Не перевантажуйте вішалку понад вказане навантаження; зберігайте в сухому місці.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="8695grey" available="false">
+<offer id="8695grey" available="true">
 <price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
@@ -216436,7 +216436,7 @@ _x000D_
 <description_ua>Набір плічок 35 см для штанів та спідниць металевих 10 шт — охайне зберігання одягу та порядок у шафі чи передпокої. Вішалки для штанів і спідниць металеві 35 см. Прищіпки покриті силіконом, що запобігає ковзанню, а також виключає пошкодження речей. Робоча ширина регулюється. Металеві частини хромовані. Вішалки зберігають форму плечей і не розтягують тканину, витримують верхній одяг та костюми. Гладка поверхня не чіпляє речі й не залишає слідів. Єдиний стиль вішалок робить гардероб візуально охайним. Матеріал: силікон Не перевантажуйте вішалку понад вказане навантаження; зберігайте в сухому місці.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="PB573" available="true">
+<offer id="PB573" available="false">
 <price>320</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
@@ -216448,7 +216448,7 @@ _x000D_
 <name_ua>Набір плічок для штанів металевих хромованих 10 шт 30 см PB573</name_ua>
 <name_ru>Набор плечиков для брюк металлических хромированных 10 шт 30 см PB573</name_ru>
 <description_ua>Набір плічок для штанів металевих хромованих 10 шт 30 см — охайне зберігання одягу та порядок у шафі чи передпокої. Вішалки для штанів і спідниць металеві 30 см. Прищіпки покриті силіконом, що запобігає ковзанню, а також виключає пошкодження речей. Робоча ширина регулюється. Металеві частини хромовані. Вішалки зберігають форму плечей і не розтягують тканину, витримують верхній одяг та костюми. Гладка поверхня не чіпляє речі й не залишає слідів. Єдиний стиль вішалок робить гардероб візуально охайним. Матеріал: силікон Не перевантажуйте вішалку понад вказане навантаження; зберігайте в сухому місці.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="2512" available="true">
 <price>1112</price>
@@ -218578,7 +218578,7 @@ _x000D_
 <description_ua>Об'єм: 1,0 л Матеріал: скло Екологічно чистий матеріал</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02161" available="false">
+<offer id="RU02161" available="true">
 <price>785</price>
 <currencyId>UAH</currencyId>
 <categoryId>1036</categoryId>
@@ -219643,7 +219643,7 @@ _x000D_
 <description_ua>Віночок зі скребком Матеріал: функціональної частини: нержавіюча сталь із силіконовим покриттям Матеріал ручки: пластик Розмір: 27х6, 5х6, 5 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02597" available="true">
+<offer id="RU02597" available="false">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1072</categoryId>
@@ -219655,7 +219655,7 @@ _x000D_
 <description_ua>Зручність у використанні Довгий термін служби Матеріал функціональної частини: нейлон Матеріал ручки: силікон Розмір: 31х10,5 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02598" available="true">
+<offer id="RU02598" available="false">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1072</categoryId>
@@ -219667,7 +219667,7 @@ _x000D_
 <description_ua>Зручність у використанні Довгий термін служби Матеріал функціональної частини: нейлон Матеріал ручки: силікон Розмір: 31х10,5 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02599" available="true">
+<offer id="RU02599" available="false">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1072</categoryId>
@@ -221751,7 +221751,7 @@ _x000D_
 <description_ua>Наколінники налокітники Helikon-tex захисні LOW-PROFILE PROTECTIVE PAD INSERTS OC-LPI-NE - зручні у використанні низькопрофільні захисні вставки з неопрену товщиною 6 мм. Для захисту колін або ліктів, їх з легкістю можна помістити в спеціальні кишені для захисних накладок. Особливості: - Виготовлений з 6-міліметрового неопрену, ламінованого з одного боку нейлоном; - Призначені як захисні вставки на коліна або лікті. Виробник: Helikon-tex, Польща.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK02791" available="false">
+<offer id="OK02791" available="true">
 <price>1169</price>
 <currencyId>UAH</currencyId>
 <categoryId>1007</categoryId>
@@ -222571,7 +222571,7 @@ _x000D_
 <description_ua>Регульоване сидіння для ванної Prima Nova металевий каркас — м’який і теплий аксесуар, який робить користування санвузлом комфортнішим. Сидіння на ванну Prima Nova має металевий каркас та пластиковий трап зверху. Конструкцію можна відрегулювати по ширині в діапазоні від 42,5 до 65 см. На ручках є гумові накладки. Витримує навантаження до 120 кг. Накладка фіксується на кришці й не сповзає, легко знімається для прання. Приємний на дотик матеріал не холодить і не ковзає. Підходить до більшості стандартних кришок унітаза. Матеріал: пластик Країна виробництва: Туреччина Догляд: ручне прання або машинне в делікатному режимі за 30°, сушити в розправленому вигляді.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="PB2058" available="false">
+<offer id="PB2058" available="true">
 <price>860</price>
 <currencyId>UAH</currencyId>
 <categoryId>1206</categoryId>
@@ -222583,7 +222583,7 @@ _x000D_
 <description_ua>Cидіння для ванни R-plastic пластик — м’який і теплий аксесуар, який робить користування санвузлом комфортнішим. Сидіння на ванну R-plastic має металеву фарбовану основу. Трап виготовлений з дерева, яке в відшліфоване, але лакофарбового покриття не має. Витримує навантаження до 110 кг. Накладка фіксується на кришці й не сповзає, легко знімається для прання. Приємний на дотик матеріал не холодить і не ковзає. Підходить до більшості стандартних кришок унітаза. Матеріал: пластик Країна виробництва: Україна Догляд: ручне прання або машинне в делікатному режимі за 30°, сушити в розправленому вигляді.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="PB2057" available="true">
+<offer id="PB2057" available="false">
 <price>962</price>
 <currencyId>UAH</currencyId>
 <categoryId>1206</categoryId>
@@ -222593,7 +222593,7 @@ _x000D_
 <name_ua>Cидіння на ванну R-plastic дерево PB2057</name_ua>
 <name_ru>Сидение на ванную R-plastic дерево PB2057</name_ru>
 <description_ua>Cидіння на ванну R-plastic дерево — м’який і теплий аксесуар, який робить користування санвузлом комфортнішим. Сидіння на ванну R-plastic має металеву фарбовану основу. Трап виготовлений з дерева, яке в відшліфоване, але лакофарбового покриття не має. Витримує навантаження до 110 кг. Накладка фіксується на кришці й не сповзає, легко знімається для прання. Приємний на дотик матеріал не холодить і не ковзає. Підходить до більшості стандартних кришок унітаза. Матеріал: метал Країна виробництва: Україна Догляд: ручне прання або машинне в делікатному режимі за 30°, сушити в розправленому вигляді.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02240" available="true">
 <price>1784</price>
@@ -224546,7 +224546,7 @@ _x000D_
 <description_ua>Килимок в передпокій повстяний К506 120x180x0.5 см сірий — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимки в передпокій вологопоглинаючі з повстяним покриттям 120x180. Мають видавлений візерунок, гумова основа високої якості, не має токсичних запахів і не ковзає. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 120×180 см Колір: сірий Матеріал: льон Країна виробництва: Україна Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="3005/brown" available="true">
+<offer id="3005/brown" available="false">
 <price>1885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -224558,7 +224558,7 @@ _x000D_
 <name_ua>Килимок вхідний "Ребро Великий"120x180 см 3005/brown</name_ua>
 <name_ru>Коврик входной "Ребро Большой"120x180 см 3005/brown</name_ru>
 <description_ua>Килимок вхідний "Ребро Великий"120x180 см 3005/brown — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Брудозахисний килимок з покриттям з поліаміду та гумовою основою. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 120×180 см Колір: коричневий Матеріал: поліамід Країна виробництва: Китай Артикул: 3005/brown Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="3005/grey" available="true">
 <price>1885</price>
@@ -225209,7 +225209,7 @@ _x000D_
 <description_ua>Килимок вхідний гумовий 114*57 "ромб преміум" — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок придверний гумовий Ромб 114*57. Виконаний з високоякісної гуми, що збільшує його термін служби і не дає ковзати навіть в найскладніших умовах. Найкраще підходить для зовнішнього застосування. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 114×34 см та 114×57 см Країна виробництва: Україна Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="PB1273" available="true">
+<offer id="PB1273" available="false">
 <price>310</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -225221,7 +225221,7 @@ _x000D_
 <name_ua>Килимок вхідний гумовий 37x58 к17</name_ua>
 <name_ru>Килимок вхідний гумовий 37x58 к17 PB1273</name_ru>
 <description_ua>Килимок вхідний гумовий 37x58 к17 — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок придверний гумовий К17. Виконаний з якісної гуми, не ковзає. Найкраще підходить для зовнішнього застосування. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 40×60 см та 37×58 см Країна виробництва: Україна Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="22" available="true">
 <price>472</price>
@@ -225520,7 +225520,7 @@ _x000D_
 <description_ua>Килимок вхідний 40*60 см еластична гума Legs — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок придверний гумовий з візерунком у вигляді лап. З боків є бортик, для затримки води. Зроблений із якісної еластичної гуми, не ковзає. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 40×60 см Країна виробництва: Україна Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="PB1930" available="true">
+<offer id="PB1930" available="false">
 <price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -225532,7 +225532,7 @@ _x000D_
 <name_ua>Килимок вхідний гумовий 40*60 см Africa 1.4 кг PB1930</name_ua>
 <name_ru>Коврик входной резиновый 40*60 см Africa 1.4 кг PB1930</name_ru>
 <description_ua>Килимок вхідний гумовий 40*60 см Africa 1.4 кг — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок придверний гумовий з візерунком. Добре чистить взуття та затримує воду. Зроблений із якісної еластичної гуми, не ковзає. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 40×60 см Країна виробництва: Україна Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="PB417" available="true">
 <price>310</price>
@@ -236699,7 +236699,7 @@ _x000D_
 <description_ua>Шторка для душу тканинна з люверсами 180*180 см 200/capuchino — практичне рішення для ванної кімнати, яке захищає підлогу та стіни від бризок і водночас задає настрій інтер’єру. Щільна та м'яка штора для ванної кімнати однотонна, виготовлена ​​з поліестеру, має водовідштовхувальне просочення. Кріпиться на карниз за допомогою люверсів. Можливе прання у пральній машині. Шторка швидко сохне, не вбирає запахи та легко очищується звичайною губкою. Верхній край з отворами розрахований на стандартні кільця, тому повісити її можна за кілька хвилин на будь-який карниз. Щільний матеріал не липне до тіла під час душу та зберігає форму після багаторазового прання. Розмір: 180×180 см Колір: капучино Матеріал: поліестер Країна виробництва: Китай Артикул: 200/capuchino Догляд: протирати вологою губкою або прати за температури до 30°, сушити в розправленому вигляді. Перед покупкою звірте ширину та висоту з розмірами вашого карниза.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="200/grey" available="false">
+<offer id="200/grey" available="true">
 <price>1028</price>
 <currencyId>UAH</currencyId>
 <categoryId>1234</categoryId>
@@ -242639,7 +242639,7 @@ _x000D_
 <description_ua>Функціональна ванночка Bimbo BM-60530 — зручне рішення для щоденного купання немовляти. Модель виконана у практичному складному форматі, що дозволяє швидко скласти її після використання та зекономити простір у ванній кімнаті або при зберіганні. Вбудований електронний датчик температури допомагає контролювати воду, забезпечуючи оптимальні умови для безпечного купання. У комплект входить м’який матрац, який підтримує дитину та сприяє правильному положенню тіла під час водних процедур. Завдяки продуманому клапану зливу воду легко видалити без необхідності піднімати ванночку. Розкладні ніжки забезпечують стійкість і надійність конструкції навіть при активному використанні. Переваги: компактне складання для зручного зберігання; електронний контроль температури води; м’який матрац для комфорту малюка; швидкий та зручний злив води; стійка конструкція з розкладними ніжками; безпечні матеріали без шкідливих домішок.&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK01003" available="false">
+<offer id="OK01003" available="true">
 <price>798</price>
 <currencyId>UAH</currencyId>
 <categoryId>1272</categoryId>
@@ -263592,7 +263592,7 @@ _x000D_
 <description_ua>Декоративний вінок із засніженої хвої, шишок та червоних ягід 40 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI005887" available="true">
+<offer id="RI005887" available="false">
 <price>1090</price>
 <currencyId>UAH</currencyId>
 <categoryId>1225</categoryId>
@@ -263602,7 +263602,7 @@ _x000D_
 <name_ua>Новорічний декоративний вінок з натуральних матеріалів 42 см  NY27-738</name_ua>
 <name_ru>Новогодний декоративный венок из натуральных материалов 42 см. NY27-738</name_ru>
 <description_ua>Новорічний декоративний вінок з натуральних матеріалів 42 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI005871" available="true">
 <price>11201</price>
@@ -264120,7 +264120,7 @@ _x000D_
 <description_ua>Декоративна підвісна куля з хвої в інею 14 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI005934" available="true">
+<offer id="RI005934" available="false">
 <price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>1349</categoryId>
@@ -264130,7 +264130,7 @@ _x000D_
 <name_ua>Декоративна гірлянда з шишок та гілок 130 см NY27-740</name_ua>
 <name_ru>Декоративная гирлянда из шишек и веток 130 см NY27-740</name_ru>
 <description_ua>Декоративна гірлянда з шишок та гілок 130 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI005933" available="true">
 <price>150</price>
@@ -275482,7 +275482,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху4103-Сірий-37" available="true">
+<offer id="UV-беззадниканамеху4103-Сірий-37" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -275493,9 +275493,9 @@ _x000D_
 <name_ua>Жіночі галоші без задника на меху 4103 Сірий розмір 37</name_ua>
 <name_ru>Женские галоши без задника на меху 4103 Серый размер 37</name_ru>
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху4103-Сірий-38" available="true">
+<offer id="UV-беззадниканамеху4103-Сірий-38" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -275506,9 +275506,9 @@ _x000D_
 <name_ua>Жіночі галоші без задника на меху 4103 Сірий розмір 38</name_ua>
 <name_ru>Женские галоши без задника на меху 4103 Серый размер 38</name_ru>
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху4103-Сірий-39" available="true">
+<offer id="UV-беззадниканамеху4103-Сірий-39" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -275519,9 +275519,9 @@ _x000D_
 <name_ua>Жіночі галоші без задника на меху 4103 Сірий розмір 39</name_ua>
 <name_ru>Женские галоши без задника на меху 4103 Серый размер 39</name_ru>
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху4103-Сірий-40" available="true">
+<offer id="UV-беззадниканамеху4103-Сірий-40" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -275532,9 +275532,9 @@ _x000D_
 <name_ua>Жіночі галоші без задника на меху 4103 Сірий розмір 40</name_ua>
 <name_ru>Женские галоши без задника на меху 4103 Серый размер 40</name_ru>
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху4103-Синій-37" available="true">
+<offer id="UV-беззадниканамеху4103-Синій-37" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -275545,9 +275545,9 @@ _x000D_
 <name_ua>Жіночі галоші без задника на меху 4103 Синій розмір 37</name_ua>
 <name_ru>Женские галоши без задника на меху 4103 Синий размер 37</name_ru>
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху4103-Синій-38" available="true">
+<offer id="UV-беззадниканамеху4103-Синій-38" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -275558,9 +275558,9 @@ _x000D_
 <name_ua>Жіночі галоші без задника на меху 4103 Синій розмір 38</name_ua>
 <name_ru>Женские галоши без задника на меху 4103 Синий размер 38</name_ru>
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху4103-Синій-39" available="true">
+<offer id="UV-беззадниканамеху4103-Синій-39" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -275571,9 +275571,9 @@ _x000D_
 <name_ua>Жіночі галоші без задника на меху 4103 Синій розмір 39</name_ua>
 <name_ru>Женские галоши без задника на меху 4103 Синий размер 39</name_ru>
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху4103-Синій-40" available="true">
+<offer id="UV-беззадниканамеху4103-Синій-40" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -275584,7 +275584,7 @@ _x000D_
 <name_ua>Жіночі галоші без задника на меху 4103 Синій розмір 40</name_ua>
 <name_ru>Женские галоши без задника на меху 4103 Синий размер 40</name_ru>
 <description_ua>Жіночі галоші без задника на меху 4103 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="UV-беззадникаС-100-Коричневий-36" available="false">
 <price>430</price>
@@ -277367,7 +277367,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Шоколадний-36" available="true">
+<offer id="UV-смехом7002-Шоколадний-36" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277378,9 +277378,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Шоколадний розмір 36</name_ua>
 <name_ru>Женские галоши с мехом 7002 Шоколад размер 36</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Шоколадний-37" available="true">
+<offer id="UV-смехом7002-Шоколадний-37" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277391,9 +277391,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Шоколадний розмір 37</name_ua>
 <name_ru>Женские галоши с мехом 7002 Шоколад размер 37</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Шоколадний-38" available="true">
+<offer id="UV-смехом7002-Шоколадний-38" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277404,9 +277404,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Шоколадний розмір 38</name_ua>
 <name_ru>Женские галоши с мехом 7002 Шоколад размер 38</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Шоколадний-39" available="true">
+<offer id="UV-смехом7002-Шоколадний-39" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277417,9 +277417,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Шоколадний розмір 39</name_ua>
 <name_ru>Женские галоши с мехом 7002 Шоколад размер 39</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Шоколадний-40" available="true">
+<offer id="UV-смехом7002-Шоколадний-40" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277430,9 +277430,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Шоколадний розмір 40</name_ua>
 <name_ru>Женские галоши с мехом 7002 Шоколад размер 40</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Шоколадний-41" available="true">
+<offer id="UV-смехом7002-Шоколадний-41" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277443,9 +277443,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Шоколадний розмір 41</name_ua>
 <name_ru>Женские галоши с мехом 7002 Шоколад размер 41</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Капучино-36" available="true">
+<offer id="UV-смехом7002-Капучино-36" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277456,9 +277456,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Капучино розмір 36</name_ua>
 <name_ru>Женские галоши с мехом 7002 Капучино размер 36</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Капучино-37" available="true">
+<offer id="UV-смехом7002-Капучино-37" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277469,9 +277469,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Капучино розмір 37</name_ua>
 <name_ru>Женские галоши с мехом 7002 Капучино размер 37</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Капучино-38" available="true">
+<offer id="UV-смехом7002-Капучино-38" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277482,9 +277482,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Капучино розмір 38</name_ua>
 <name_ru>Женские галоши с мехом 7002 Капучино размер 38</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Капучино-39" available="true">
+<offer id="UV-смехом7002-Капучино-39" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277495,9 +277495,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Капучино розмір 39</name_ua>
 <name_ru>Женские галоши с мехом 7002 Капучино размер 39</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Капучино-40" available="true">
+<offer id="UV-смехом7002-Капучино-40" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277508,9 +277508,9 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Капучино розмір 40</name_ua>
 <name_ru>Женские галоши с мехом 7002 Капучино размер 40</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002-Капучино-41" available="true">
+<offer id="UV-смехом7002-Капучино-41" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -277521,7 +277521,7 @@ _x000D_
 <name_ua>Жіночі галоші с мехом 7002 Капучино розмір 41</name_ua>
 <name_ru>Женские галоши с мехом 7002 Капучино размер 41</name_ru>
 <description_ua>Жіночі галоші с мехом 7002 — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею. Таке взуття незамінне в міжсезоння: його зручно вдягати поверх звичайного взуття або теплої шкарпетки, воно не сковує рухів і підходить на кожен день — для прогулянок, поїздок на дачу, роботи у дворі чи походу в магазин у негоду. Простий догляд: достатньо сполоснути водою та протерти насухо, галоші швидко сохнуть і не втрачають зовнішній вигляд навіть при частому використанні.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="UV-В-38мех-Чорний-37" available="true">
 <price>451</price>
@@ -278705,7 +278705,7 @@ _x000D_
 <description_ua>Чоловічі галоші МГ-03 мех черные — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600черные-Чорний-36" available="false">
+<offer id="UV-беззадниканамеху600черные-Чорний-36" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278718,7 +278718,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 черные — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600черные-Чорний-37" available="false">
+<offer id="UV-беззадниканамеху600черные-Чорний-37" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278731,7 +278731,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 черные — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600черные-Чорний-38" available="false">
+<offer id="UV-беззадниканамеху600черные-Чорний-38" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278744,7 +278744,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 черные — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600черные-Чорний-39" available="false">
+<offer id="UV-беззадниканамеху600черные-Чорний-39" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278757,7 +278757,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 черные — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600черные-Чорний-40" available="false">
+<offer id="UV-беззадниканамеху600черные-Чорний-40" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278770,7 +278770,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 черные — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600черные-Чорний-41" available="false">
+<offer id="UV-беззадниканамеху600черные-Чорний-41" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278783,7 +278783,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 черные — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600т.синий-Темно-синій-36" available="false">
+<offer id="UV-беззадниканамеху600т.синий-Темно-синій-36" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278796,7 +278796,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 т.синий — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600т.синий-Темно-синій-37" available="false">
+<offer id="UV-беззадниканамеху600т.синий-Темно-синій-37" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278809,7 +278809,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 т.синий — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600т.синий-Темно-синій-38" available="false">
+<offer id="UV-беззадниканамеху600т.синий-Темно-синій-38" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278822,7 +278822,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 т.синий — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600т.синий-Темно-синій-39" available="false">
+<offer id="UV-беззадниканамеху600т.синий-Темно-синій-39" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278835,7 +278835,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 т.синий — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600т.синий-Темно-синій-40" available="false">
+<offer id="UV-беззадниканамеху600т.синий-Темно-синій-40" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278848,7 +278848,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника на меху 600 т.синий — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-беззадниканамеху600т.синий-Темно-синій-41" available="false">
+<offer id="UV-беззадниканамеху600т.синий-Темно-синій-41" available="true">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -278926,7 +278926,7 @@ _x000D_
 <description_ua>Жіночі галоші без задника ГП-42 черный мех — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="UV-607черный-Чорний-36" available="false">
+<offer id="UV-607черный-Чорний-36" available="true">
 <price>298</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -278952,7 +278952,7 @@ _x000D_
 <description_ua>Жіночі галоші ГП-37 черные пустые — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="UV-смехом605черный-Чорний-36" available="false">
+<offer id="UV-смехом605черный-Чорний-36" available="true">
 <price>492</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -278965,7 +278965,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 605 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом605черный-Чорний-37" available="false">
+<offer id="UV-смехом605черный-Чорний-37" available="true">
 <price>492</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -278978,7 +278978,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 605 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом605черный-Чорний-38" available="false">
+<offer id="UV-смехом605черный-Чорний-38" available="true">
 <price>492</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -278991,7 +278991,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 605 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом605черный-Чорний-39" available="false">
+<offer id="UV-смехом605черный-Чорний-39" available="true">
 <price>492</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -279004,7 +279004,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 605 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом605черный-Чорний-40" available="false">
+<offer id="UV-смехом605черный-Чорний-40" available="true">
 <price>492</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -279017,7 +279017,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 605 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом605черный-Чорний-41" available="false">
+<offer id="UV-смехом605черный-Чорний-41" available="true">
 <price>492</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -279030,7 +279030,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 605 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002черный-Чорний-36" available="false">
+<offer id="UV-смехом7002черный-Чорний-36" available="true">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -279043,7 +279043,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 7002 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002черный-Чорний-37" available="false">
+<offer id="UV-смехом7002черный-Чорний-37" available="true">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -279056,7 +279056,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 7002 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002черный-Чорний-38" available="false">
+<offer id="UV-смехом7002черный-Чорний-38" available="true">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -279069,7 +279069,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 7002 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002черный-Чорний-39" available="false">
+<offer id="UV-смехом7002черный-Чорний-39" available="true">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -279082,7 +279082,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 7002 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002черный-Чорний-40" available="false">
+<offer id="UV-смехом7002черный-Чорний-40" available="true">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -279095,7 +279095,7 @@ _x000D_
 <description_ua>Жіночі галоші с мехом 7002 черный — зручне та практичне взуття для дощової та слизької погоди. Еластичний матеріал не пропускає вологу, легка вага не обтяжує крок, рифлена підошва забезпечує надійне зчеплення з мокрою і слизькою поверхнею.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="UV-смехом7002черный-Чорний-41" available="false">
+<offer id="UV-смехом7002черный-Чорний-41" available="true">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1029</categoryId>
@@ -327025,7 +327025,7 @@ _x000D_
 <description_ua>Матеріал: натуральна шкіра Сумка&amp;nbsp;ділова через плече&amp;nbsp; Розміри: висота 21 см, ширина 18 см, ширина дна 7 см Наявність регульованого плечового ременя Призначення: для чоловіків Наявність кишень Колір: чорний</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005414" available="false">
+<offer id="MN000005414" available="true">
 <price>1425</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -409687,7 +409687,7 @@ _x000D_
 <description_ua>Призначення: Призначені для гри у футбол у спортивних залах та на твердих покриттях. Матеріал: Поліуретан, гума</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="AC000916" available="true">
+<offer id="AC000916" available="false">
 <price>1837</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
@@ -409701,7 +409701,7 @@ _x000D_
 <name_ua>Сороконіжки футбольні дитячі SP-Sport 782-1-1 розмір 37 блакитний</name_ua>
 <name_ru>Сороконожки футбольные детские SP-Sport 782-1-1 размер 37 голубой</name_ru>
 <description_ua>Призначення: Призначені для гри у футбол у спортивних залах та на твердих покриттях. Матеріал: Поліуретан, гума</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="AC000917" available="true">
 <price>1837</price>
@@ -447254,7 +447254,7 @@ _x000D_
 <description_ua>Опис Це не просто тренувальні ласти, а інструмент, який допомагає розкрити потенціал кожного плавця. У дитячих командах вони використовуються для навчання правильному положенню стопи та координації рухів, а дорослі спортсмени цінують їх за можливість розвинути силу ніг, збільшити швидкість та підвищити ефективність тренувань. Однією з ключових переваг цих ласт є їх зручна конструкція із закритою п'ятою. Вона забезпечує надійну фіксацію стопи, запобігаючи зісковзування та натирання навіть при тривалих заняттях. Короткий лопатове полотно дає можливість зберігати природну амплітуду рухів, а не перевантажувати м'язи, як це буває з довгими ластами. Завдяки цьому плавець відчуває потужний, але при цьому контрольований гребок, що сприяє зміцненню гомілок та стоп. Виготовлені з високоякісного 100% силікону, який відрізняється еластичністю, м'якістю та довговічністю. Цей матеріал не викликає подразнення, швидко адаптується до форми стопи та стійкий до дії хлорованої води. Призначення Ласти створені спеціально для тренувань у басейні та підходять як для дорослих, так і для дітей. Вони чудово підходять для спортивних секцій, дитячих команд, а також любителів плавання, які прагнуть покращити свою техніку. Переваги: Дозволяють розвивати силу м'язів, підвищувати швидкість рухів і покращувати координацію, роблячи заняття у воді ще більш ефективними та захоплюючими. Доступні в різних розмірах, що дозволяє підібрати ідеальний варіант як для дорослих, так і для дітей. Не натирають шкіру та адаптуються до стопи. Зручно носити з собою у спортивній сумці або зберігати в шафі, не займаючи багато місця. Характеристики ВидЛасти ТипТренувальні КолодкаІз закритою п'ятою Вікова групаДля дорослих, Для дітей РівеньДля початківців та любителів ПризначенняДля тренувань МатеріалСилікон Країна виробникКитай</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DD3140" available="false">
+<offer id="DD3140" available="true">
 <price>913</price>
 <currencyId>UAH</currencyId>
 <categoryId>1079</categoryId>
@@ -447721,7 +447721,7 @@ _x000D_
 <description_ua>Вигляд: аква-комплекти Наявність хвилевідбійника: є Матеріал загубника: силикон Тип клапана для водовідведення: випускний Країна виробник: китай Матеріал обтюратора: силікон Матеріал лінз: термостекло Колір: кольори в асортименті Комплектація набору: Маска: 1 шт Трубка: 1 шт Ластини: 1 пара Чохол 1 шт Підводний світ - про нього написано багато книг, знято фільмів та мультфільмів, але завжди є бажання побачити цю красу на власні очі. Для цього ідеально підходить цей набір для підводного плавання. Трубка, ласти, маска з термосклом – і мешканці підводного царства стануть вашими близькими друзями. Це один із головних аксесуарів відпустки, які необхідно мати при собі! Маска використовується для захисту очей від попадання води під час плавання, має анатомічну форму. Трубка допомагає дихати під час плавання у поверхневих кулях води без необхідності піднімати голову для вдиху. Легке та практичне кріплення трубки до маски здійснюється за допомогою замка. Плавання з ластами покращує та стабілізує положення тіла у воді Особливості: анатомічна маска надійна фіксація не пропускає воду безпечні матеріали Характеристики Вид Аква-комплекти В комплекті Маска: 1 шт Трубка: 1 шт Ласти: 1 пара Чохол Наявність хвилевідбійника Є Тип клапана для водовідведення Випускний Матеріал загубника Силікон Матеріал обтюратора Силікон Матеріал лінз Термоскло Країна виробник Китай</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DE02192" available="false">
+<offer id="DE02192" available="true">
 <price>2474</price>
 <currencyId>UAH</currencyId>
 <categoryId>1182</categoryId>
@@ -471037,7 +471037,7 @@ _x000D_
 <description_ua>Об'єм: 2,8 л Сучасний дизайн Високоякісна нержавіюча сталь Можливе використання на всіх типах плит Пластикова ручка, що не нагрівається.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02171" available="true">
+<offer id="RU02171" available="false">
 <price>1266</price>
 <currencyId>UAH</currencyId>
 <categoryId>1036</categoryId>
@@ -544060,7 +544060,7 @@ _x000D_
 <description_ua>Опис Дитяча форма із символікою збірної України&amp;nbsp; складається зі шортів, футболки та гетр. Футболка виготовлена з високоякісного поліестеру, що забезпечує відмінну вентиляцію та комфорт під час активних навантажень. Матеріал має властивості швидкого висихання, що допомагає підтримувати оптимальний температурний режим тіла під час гри. Дизайн футболки включає емблему збірної України на грудях, що додає естетичної привабливості та символічності. Шорти також виготовлені з поліестеру та сприяють свободі рухів завдяки просторому крою. Вони оснащені еластичним поясом для зручної посадки та фіксації на талії. На бічній частині шорту є емблема збірної України, що робить їх ідеальними для спортивних тренувань та ігор. Гетри в комплекті з ігровою формою забезпечують додатковий захист та комфорт для ніг під час гри. Вони виготовлені з високоякісного матеріалу, що забезпечує хорошу вентиляцію та повітропроникність. Призначення Дитяча форма із символікою збірної України призначена для активних ігор та тренувань молодих футбольних шанувальників, забезпечуючи комфорт та стиль під час спортивних заходів. Переваги: Використання високоякісних матеріалів гарантує довговічність та стійкість до зношування в умовах активного використання. Наявність різних розмірів дозволяє вибрати відповідний варіант як для дітей, так і для підлітків, що робить форму доступною для широкого кола користувачів. Характеристики Вид Форма футбольна Комплектація Футболка / Шорти / Гетри Стать Жіноча, Чоловіча Вікова група Для дітей Клуби та збірні Ukraine Наявність номера Без номера Матеріал Поліестер Склад тканини Поліестер 100% Країна виробник Китай</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DE08025" available="true">
+<offer id="DE08025" available="false">
 <price>608</price>
 <currencyId>UAH</currencyId>
 <categoryId>1008</categoryId>
@@ -544073,7 +544073,7 @@ _x000D_
 <name_ua>Форма футбольна дитяча комплект футболка шорти та гетри з символікою збірної УКРАЇНА SP-Sport 3900-16B-ETM1721 M жовтий</name_ua>
 <name_ru>Форма футбольная детская комплект футболка шорты и гетры с символикой сборной УКРАИНА SP-Sport 3900-16B-ETM1721 M желтый</name_ru>
 <description_ua>Опис Дитяча форма із символікою збірної України&amp;nbsp; складається зі шортів, футболки та гетр. Футболка виготовлена з високоякісного поліестеру, що забезпечує відмінну вентиляцію та комфорт під час активних навантажень. Матеріал має властивості швидкого висихання, що допомагає підтримувати оптимальний температурний режим тіла під час гри. Дизайн футболки включає емблему збірної України на грудях, що додає естетичної привабливості та символічності. Шорти також виготовлені з поліестеру та сприяють свободі рухів завдяки просторому крою. Вони оснащені еластичним поясом для зручної посадки та фіксації на талії. На бічній частині шорту є емблема збірної України, що робить їх ідеальними для спортивних тренувань та ігор. Гетри в комплекті з ігровою формою забезпечують додатковий захист та комфорт для ніг під час гри. Вони виготовлені з високоякісного матеріалу, що забезпечує хорошу вентиляцію та повітропроникність. Призначення Дитяча форма із символікою збірної України призначена для активних ігор та тренувань молодих футбольних шанувальників, забезпечуючи комфорт та стиль під час спортивних заходів. Переваги: Використання високоякісних матеріалів гарантує довговічність та стійкість до зношування в умовах активного використання. Наявність різних розмірів дозволяє вибрати відповідний варіант як для дітей, так і для підлітків, що робить форму доступною для широкого кола користувачів. Характеристики Вид Форма футбольна Комплектація Футболка / Шорти / Гетри Стать Жіноча, Чоловіча Вікова група Для дітей Клуби та збірні Ukraine Наявність номера Без номера Матеріал Поліестер Склад тканини Поліестер 100% Країна виробник Китай</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DE08026" available="true">
 <price>608</price>
@@ -571322,7 +571322,7 @@ _x000D_
 <description_ua>Матеріал верху: поліуретан. Матеріал підошви: гума. Розмір: 40-45. Колір: блакитно-помаранчевий. Призначення: для ігор і тренувань із міні-футболу. Чоловічі футзалки MARATON виконані з міцного поліуретану з посиленням у шкарпетці та п'ятковій зоні. Бічна панель і язичок виконані з мембрани, яка забезпечує постійну циркуляцію повітря і допомагає зберегти ноги сухими та прохолодними під час гри. Амортизувальна підошва з якісної гуми мінімізує ударне навантаження та сприяє збереженню стабільного положення стопи. Вона має характерний для футзального взуття круглий малюнок, який допомагає гравцеві маневрувати на майданчику. Використання футзалок для гри на твердих поверхнях забезпечує безпеку гравця. Кросівки фіксують гомілковостопний суглоб і знижують ударне навантаження на коліна. Грати в них можна і на вулиці, на синтетичному полі з низьким ворсом. Дизайн футзалок вирізняється функціональністю та класичним футбольним стилем. Переваги взуття для міні-футболу: Посилений верх. Дихаюча мембрана, що дихає. Підошва, що амортизує. Високий рівень безпеки. Класичний футбольний стиль. Характеристики Вид Взуття для залу Вікова група Для дорослих Матеріал верху Поліуретан (PU) Матеріал підошви Гума (RB) Країна виробник Китай</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DE11667" available="true">
+<offer id="DE11667" available="false">
 <price>1598</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
@@ -571334,7 +571334,7 @@ _x000D_
 <name_ua>Футзалки взуття для міні-футболу MARATON 230510-3 розмір 43 блакитний-оранжевий</name_ua>
 <name_ru>Футзалки обувь для мини-футбола MARATON 230510-3 размер 43 голубой-оранжевый</name_ru>
 <description_ua>Матеріал верху: поліуретан. Матеріал підошви: гума. Розмір: 40-45. Колір: блакитно-помаранчевий. Призначення: для ігор і тренувань із міні-футболу. Чоловічі футзалки MARATON виконані з міцного поліуретану з посиленням у шкарпетці та п'ятковій зоні. Бічна панель і язичок виконані з мембрани, яка забезпечує постійну циркуляцію повітря і допомагає зберегти ноги сухими та прохолодними під час гри. Амортизувальна підошва з якісної гуми мінімізує ударне навантаження та сприяє збереженню стабільного положення стопи. Вона має характерний для футзального взуття круглий малюнок, який допомагає гравцеві маневрувати на майданчику. Використання футзалок для гри на твердих поверхнях забезпечує безпеку гравця. Кросівки фіксують гомілковостопний суглоб і знижують ударне навантаження на коліна. Грати в них можна і на вулиці, на синтетичному полі з низьким ворсом. Дизайн футзалок вирізняється функціональністю та класичним футбольним стилем. Переваги взуття для міні-футболу: Посилений верх. Дихаюча мембрана, що дихає. Підошва, що амортизує. Високий рівень безпеки. Класичний футбольний стиль. Характеристики Вид Взуття для залу Вікова група Для дорослих Матеріал верху Поліуретан (PU) Матеріал підошви Гума (RB) Країна виробник Китай</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DE11668" available="true">
 <price>1598</price>
