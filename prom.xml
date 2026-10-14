@@ -54106,7 +54106,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір">Синій + чорний</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="I000103" available="true">
+<offer id="I000103" available="false">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1272</categoryId>
@@ -54118,7 +54118,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <name_ru>Зонт-трость полуавтомат мужской d110 см 10 сп D10537</name_ru>
 <description>Парасолька-тростина напівавтомат чоловіча d110 см 10 сп</description>
 <description_ua>Парасолька-тростина напівавтомат чоловіча d110 см 10 сп</description_ua>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">0.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>

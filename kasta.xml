@@ -211363,7 +211363,7 @@ _x000D_
 <description_ua>Довжина панелі — 50 см, ширина — 50 см, висота — 3 см. Декоративна панель зі штучної зелені — стильне рішення для вертикального або горизонтального озеленення будь-якого простору. Реалістичне листя різних відтінків і текстур створює ефект живої рослинності, додаючи інтер’єру свіжості та природної гармонії. Фітомодуль має міцну пластикову основу з кліпсами по краях, завдяки чому кілька елементів легко з’єднуються між собою у велику зелену стіну. Підходить для оформлення інтер’єрів, вітрин, фотозон, терас, зон відпочинку, кафе, ресторанів і офісів. Може використовуватись у приміщенні або на вулиці під накриттям, не вимагає догляду, не вицвітає та зберігає колір протягом тривалого часу. Ідеальний варіант для тих, хто хоче створити атмосферу природи без зайвих зусиль.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU01673" available="false">
+<offer id="RU01673" available="true">
 <price>496</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -379750,7 +379750,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="NN000564" available="true">
-<price>48</price>
+<price>45</price>
 <currencyId>UAH</currencyId>
 <categoryId>1367</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i112986810-987b21cd0bfd244e2c84c2a90e45ca38-1755721524843.jpg</picture>
@@ -392249,7 +392249,7 @@ _x000D_
 <description_ua>Кран кульовий перехідний зі стрічки на трубку 16мм 4.2*10см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="I000103" available="true">
+<offer id="I000103" available="false">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1255</categoryId>
@@ -392259,7 +392259,7 @@ _x000D_
 <name_ua>Парасолька-тростина напівавтомат чоловічий d110 см 10 сп D10537</name_ua>
 <name_ru>Зонт-трость полуавтомат мужской d110 см 10 сп D10537</name_ru>
 <description_ua>Парасолька-тростина напівавтомат чоловіча d110 см 10 сп</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="UD00351" available="true">
 <price>379</price>
