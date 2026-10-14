@@ -167612,7 +167612,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02638" available="true">
-<price>389</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71524621-39def5aa3ff07f9f3cded33fc8401e1c-1712490771824.jpg</picture>
@@ -366054,7 +366054,7 @@ _x000D_
 <description_ua>Пергамент для випічки силіконізований — це спеціальний папір, покритий тонким шаром силікону, призначений для випікання й приготування страв у духовці. Такий пергамент забезпечує рівномірне пропікання, не дає продуктам прилипати до форми та полегшує очищення посуду після випікання. Переваги силіконізованого пергаменту: має антипригарне покриття — випічка не прилипає термостійкий — витримує високі температури без горіння рівномірно пропускає тепло — тісто запікається акуратно зменшує потребу в додатковому змащуванні форми полегшує миття деко та форм універсальний для різних видів випічки Для чого використовувати: випікання печива, кексів, пирогів, тартів випічка листкового чи дріжджового тіста запікання овочів, риби чи м’яса (якщо дозволяє формат) застилання форми чи дека перед випіканням вистилання для випікання кондитерських виробів</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000209" available="true">
+<offer id="NN000209" available="false">
 <price>66</price>
 <currencyId>UAH</currencyId>
 <categoryId>1211</categoryId>
@@ -366064,7 +366064,7 @@ _x000D_
 <name_ua>Шпажки бамбукові 45шт/уп R89124-40 40см*4мм</name_ua>
 <name_ru>Шпажки бамбуковые 45шт/уп R89124-40 40см*4мм</name_ru>
 <description_ua>Шпажки бамбукові, набір 45 штук в упаковці – це універсальний та екологічний аксесуар, що ідеально підходить для сервірування страв, приготування закусок, канапе, фруктів, шашличків та десертів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS07270" available="true">
 <price>63</price>
@@ -426553,7 +426553,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="AC002008" available="true">
-<price>503</price>
+<price>956</price>
 <currencyId>UAH</currencyId>
 <categoryId>1474</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i117791908-9e09ea182586a36b634e5594fe26b0d8-1760874990047.jpg</picture>
@@ -426568,7 +426568,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="AC002009" available="true">
-<price>503</price>
+<price>956</price>
 <currencyId>UAH</currencyId>
 <categoryId>1474</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i117791908-9e09ea182586a36b634e5594fe26b0d8-1760874990047.jpg</picture>
