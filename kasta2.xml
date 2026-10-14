@@ -13447,7 +13447,7 @@
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02174" available="true">
-<price>357</price>
+<price>1039</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70949661-036ef2a26c635c6bfebe4519814f0175-1731662285976.jpg</picture>
@@ -19681,7 +19681,7 @@
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="SA001353" available="true">
-<price>245</price>
+<price>974</price>
 <currencyId>UAH</currencyId>
 <categoryId>1134</categoryId>
 <picture>https://cdn.27.ua/sc--media--prod/default/8a/d6/ba/8ad6ba07-bfdc-409d-9f28-1977c7a68041.jpg</picture>
@@ -24157,7 +24157,7 @@
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE12296" available="true">
-<price>428</price>
+<price>1260</price>
 <currencyId>UAH</currencyId>
 <categoryId>1134</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91566926-f339e15bc09b1841c7d85573c6d4c18b-1728459017976.jpg</picture>
@@ -51508,7 +51508,7 @@
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00301" available="false">
+<offer id="OK00301" available="true">
 <price>398</price>
 <currencyId>UAH</currencyId>
 <categoryId>1134</categoryId>
@@ -51538,7 +51538,7 @@
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00302" available="false">
+<offer id="OK00302" available="true">
 <price>538</price>
 <currencyId>UAH</currencyId>
 <categoryId>1134</categoryId>
@@ -51553,7 +51553,7 @@
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="AN/898-214-1" available="false">
+<offer id="AN/898-214-1" available="true">
 <price>645</price>
 <currencyId>UAH</currencyId>
 <categoryId>1134</categoryId>

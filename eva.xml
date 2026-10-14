@@ -49386,7 +49386,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02480" available="true">
-<price>458</price>
+<price>212</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71445120-41eb9665bbed97accd504c3b9faa8e00.jpg</picture>
@@ -49399,7 +49399,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RE02478" available="false">
+<offer id="RE02478" available="true">
 <price>324</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -49860,7 +49860,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02596" available="true">
-<price>375</price>
+<price>779</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71499884-8e9c8a336bb208e07edc2b533f5d507b.jpg</picture>
@@ -50544,7 +50544,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="AN/182-180" available="true">
-<price>450</price>
+<price>779</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71499884-8e9c8a336bb208e07edc2b533f5d507b.jpg</picture>
@@ -50572,7 +50572,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="AN/182-984/6" available="true">
-<price>779</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71445505-19af644c076798cbc529d4a44f087d93.jpg</picture>
@@ -50586,7 +50586,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="AN/182-978/4" available="true">
-<price>449</price>
+<price>714</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71445513-7ec0d88c1d3edac515d32f207666676a.jpg</picture>
@@ -50866,7 +50866,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="AO/NY15-815" available="true">
-<price>600</price>
+<price>450</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71499936-38d48f74f30c9343de143fc40cc72358.jpg</picture>
@@ -51705,7 +51705,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="AO/118-781" available="false">
+<offer id="AO/118-781" available="true">
 <price>779</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
@@ -171020,7 +171020,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02174" available="true">
-<price>357</price>
+<price>1039</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70949661-036ef2a26c635c6bfebe4519814f0175-1731662285976.jpg</picture>
@@ -171797,7 +171797,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02496" available="true">
-<price>177</price>
+<price>714</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71445513-7ec0d88c1d3edac515d32f207666676a.jpg</picture>
@@ -171834,7 +171834,7 @@ _x000D_
 <description_ua>Новорічний декор є невід'ємним атрибутом зимових свят. Елегантний та естетичний декор додасть елегантності та вишуканості інтер'єру, а також подарує святковий настрій.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02444" available="false">
+<offer id="RE02444" available="true">
 <price>779</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -171930,7 +171930,7 @@ _x000D_
 <description_ua>Тематична іграшка використовується для декору, прикраси ялинки, на гілках новорічного дерева – створюючи відповідний настрій. В іграшці передбачено наскрізний отвір під нитку, що використовується для традиційного закріплення новорічної іграшки на гілці. Пухнаста іграшка, яка додасть унікального стилю вашому святу.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RE02597" available="false">
+<offer id="RE02597" available="true">
 <price>779</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -171954,7 +171954,7 @@ _x000D_
 <description_ua>Іграшки на ялинку чудово поєднуються з будь-якими ялинковими прикрасами та допомагають наповнити будинок атмосферою затишку та свята. Кулі для ялинки підходять для новорічної ялинки; інтер'єру; хвойних композицій; вінків і просто як шикарний подарунок. Бажаємо щасливого Нового року та Різдва. Ялинкові кулі немов створені для того, щоб новорічний настрій оселився у вашому будинку. Кульки на ялинку завжди будуть класичним рішенням у святковому декорі – вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна прикрашати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч. Лише 1 яскрава новорічна іграшка для прикраси ялинки або декорування інтер'єру допоможе швидко, просто і зі смаком одягнути Вашу ялинку, а також послужить чудовим новорічним подарунком родичам, друзям, колегам. Ялинкові прикраси виконані в одній кольоровій гамі та текстурі, завдяки чому кулі будуть чудово виглядати на Вашій лісовій красуні, поблискуючи у світлі новорічної гірлянди. Іграшки на ялинку чудово поєднуються з будь-якими ялинковими прикрасами та допомагають наповнити будинок атмосферою затишку та свята. Кулі для ялинки підходять для новорічної ялинки; інтер'єру; хвойних композицій; вінків і просто як шикарний подарунок. Бажаємо щасливого Нового року та Різдва.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02590" available="false">
+<offer id="RE02590" available="true">
 <price>1299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -172137,7 +172137,7 @@ _x000D_
 <description_ua>Новорічний декор є невід'ємним атрибутом зимових свят. Елегантний та естетичний декор додасть елегантності та вишуканості інтер'єру, а також подарує святковий настрій.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02753" available="false">
+<offer id="RE02753" available="true">
 <price>324</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -292878,7 +292878,7 @@ _x000D_
 <description_ua>Чашка дитяча "Kindergarten" 370 мл&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="R93223" available="false">
+<offer id="R93223" available="true">
 <price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
