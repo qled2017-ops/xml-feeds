@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-15 09:22">
+<yml_catalog date="2026-10-15 19:14">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -711,7 +711,7 @@
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Чорний</param>
 </offer>
-<offer id="KD03213" available="false">
+<offer id="KD03213" available="true">
 <price>179</price>
 <currencyId>UAH</currencyId>
 <categoryId>1005</categoryId>
@@ -2353,7 +2353,7 @@
 <param name="Колір">Блакитний</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="EA02852" available="false">
+<offer id="EA02852" available="true">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1028</categoryId>
@@ -4596,7 +4596,7 @@ LED-підсвічування</param>
 <param name="Тип поставки">Набір</param>
 <param name="Ширина в упаковці (см)">12,1</param>
 </offer>
-<offer id="OO00815" available="false">
+<offer id="OO00815" available="true">
 <price>438</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -4905,7 +4905,7 @@ LED-підсвічування</param>
 <param name="Колір">бузковий</param>
 <param name="Ширина в упаковці (см)">16</param>
 </offer>
-<offer id="DE04633" available="false">
+<offer id="DE04633" available="true">
 <price>129</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -5794,7 +5794,7 @@ LED-підсвічування</param>
 <param name="Колір">Білий</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="stoldarkbrown" available="false">
+<offer id="stoldarkbrown" available="true">
 <price>549.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1060</categoryId>
@@ -6578,7 +6578,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">20</param>
 <param name="Ширина, см">60</param>
 </offer>
-<offer id="DE04811" available="false">
+<offer id="DE04811" available="true">
 <price>472</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -9689,7 +9689,7 @@ LED-підсвічування</param>
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="AO/G-bag/Obay" available="false">
+<offer id="AO/G-bag/Obay" available="true">
 <price>1199</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -9725,7 +9725,7 @@ LED-підсвічування</param>
 <param name="Колір">Сірий</param>
 <param name="Ширина в упаковці (см)">32</param>
 </offer>
-<offer id="AO/yy593-6" available="false">
+<offer id="AO/yy593-6" available="true">
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -10512,7 +10512,7 @@ LED-підсвічування</param>
 <param name="Колір">зелений</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="manikur12black" available="false">
+<offer id="manikur12black" available="true">
 <price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1152</categoryId>
@@ -10552,7 +10552,7 @@ LED-підсвічування</param>
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">16</param>
 </offer>
-<offer id="AO/SG412-4" available="false">
+<offer id="AO/SG412-4" available="true">
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -11586,7 +11586,7 @@ LED-підсвічування</param>
 <param name="Температурний режим">Для середніх температур</param>
 <param name="Колір">синій</param>
 </offer>
-<offer id="NI00188" available="false">
+<offer id="NI00188" available="true">
 <price>1013</price>
 <currencyId>UAH</currencyId>
 <categoryId>1025</categoryId>
@@ -11618,7 +11618,7 @@ LED-підсвічування</param>
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Синій</param>
 </offer>
-<offer id="IT04434" available="false">
+<offer id="IT04434" available="true">
 <price>246</price>
 <currencyId>UAH</currencyId>
 <categoryId>1172</categoryId>
@@ -11934,7 +11934,7 @@ LED-підсвічування</param>
 <param name="Колір">червоний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="IT00782" available="false">
+<offer id="IT00782" available="true">
 <price>144</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -12240,7 +12240,7 @@ LED-підсвічування</param>
 <param name="Колір">сріблястий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="VK01927" available="false">
+<offer id="VK01927" available="true">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -14108,7 +14108,7 @@ LED-підсвічування</param>
 <param name="Форма">Фігурні</param>
 <param name="Колір">Синій</param>
 </offer>
-<offer id="VK00080" available="false">
+<offer id="VK00080" available="true">
 <price>655</price>
 <currencyId>UAH</currencyId>
 <categoryId>1164</categoryId>
@@ -14324,7 +14324,7 @@ LED-підсвічування</param>
 <param name="Колір">Хакі</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="RE03758" available="false">
+<offer id="RE03758" available="true">
 <price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1044</categoryId>
@@ -15577,7 +15577,7 @@ _x000D_
 <param name="Колір">чорний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="П-404243" available="false">
+<offer id="П-404243" available="true">
 <price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1044</categoryId>
@@ -16951,7 +16951,7 @@ _x000D_
 <param name="Колір">Рожевий</param>
 <param name="Ширина в упаковці (см)">30</param>
 </offer>
-<offer id="AO/obay/turquois/rabbit" available="false">
+<offer id="AO/obay/turquois/rabbit" available="true">
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -17991,7 +17991,7 @@ _x000D_
 <param name="Ширина в упаковці (см)">20</param>
 <param name="Ширина, см">60</param>
 </offer>
-<offer id="RZ00651" available="false">
+<offer id="RZ00651" available="true">
 <price>999</price>
 <currencyId>UAH</currencyId>
 <categoryId>1041</categoryId>
@@ -19722,7 +19722,7 @@ _x000D_
 <param name="Колір">чорний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="MS 0848-P1" available="false">
+<offer id="MS 0848-P1" available="true">
 <price>1299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1200</categoryId>
@@ -19919,7 +19919,7 @@ _x000D_
 <param name="Колір корпуса">Білий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="AE001749" available="false">
+<offer id="AE001749" available="true">
 <price>799.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1203</categoryId>
@@ -25520,7 +25520,7 @@ _x000D_
 <param name="Колір">бежевий</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="YS5089-1" available="false">
+<offer id="YS5089-1" available="true">
 <price>1335</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -26245,7 +26245,7 @@ _x000D_
 <param name="Колір">бежевий</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="YS3703-1" available="true">
+<offer id="YS3703-1" available="false">
 <price>1365</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -26255,7 +26255,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (YS3703-1) сірий</name_ua>
 <name_ru>Сумка сумка через плечо (YS3703-1) серый</name_ru>
 <description_ua>Матеріал: Екошкіра  Розміри: висота 15см, ширина 21см.  Колір: Сірий</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Висота в упаковці (см)">10</param>
 <param name="Гарантія">14 днів</param>
@@ -37181,7 +37181,7 @@ _x000D_
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="OK06902" available="false">
+<offer id="OK06902" available="true">
 <price>999</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -54232,7 +54232,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000002996" available="true">
+<offer id="MN000002996" available="false">
 <price>575</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -54242,7 +54242,7 @@ _x000D_
 <name_ua>Ємність керамічна 13*13*12 см, 600 мл Гарбуз (304-079)</name_ua>
 <name_ru>Емкость керамическая 13*13*12 см, 600 мл Тыква (304-079)</name_ru>
 <description_ua>Придбання ємностей для зберігання - це чудовий спосіб забезпечити ефективне зберігання різних товарів. BonaDi радий запропонувати вам широкий асортимент якісних ємностей для зберігання, які відповідатимуть вашим вимогам і допоможуть поліпшити організацію зберігання ваших товарів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Банка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -54397,7 +54397,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT03766" available="true">
+<offer id="IT03766" available="false">
 <price>575</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -54407,7 +54407,7 @@ _x000D_
 <name_ua>Ємність керамічна 13*13*12см, 600мл Гарбуз (304-079) Помаранчевий</name_ua>
 <name_ru>Емкость керамическая 13*13*12см, 600мл Тыква (304-079) Оранжевый</name_ru>
 <description_ua>Матеріал: Кераміка Колір: Помаранчевий Фабрика: 304 Розміри: 13*13*12см, 600мл Упаковка: коричневий картон Кількість в упаковці: 1</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Банка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -67422,7 +67422,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000003168" available="true">
+<offer id="MN000003168" available="false">
 <price>788</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -67432,7 +67432,7 @@ _x000D_
 <name_ua>Блюдо порцелянове для риби із золотом, 30 см (988-394)</name_ua>
 <name_ru>Блюдо фарфоровое для рыбы с золотом, 30 см (988-394)</name_ru>
 <description_ua>Салатники, блюда, менажниці - це не лише практичні предмети сервірування, а й елементи декору, які можуть перетворити ваш стіл. Вони допоможуть створити затишну та стильну атмосферу, додаючи нотку елегантності до ваших страв. Використовуйте наші блюда, салатники, менажниці та для прикраси вашого столу чи навіть ресторану або кафе.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">блюдо</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -67482,7 +67482,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MN000003172" available="true">
+<offer id="MN000003172" available="false">
 <price>810</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -67492,7 +67492,7 @@ _x000D_
 <name_ua>Блюдо порцелянове для риби із золотом, 35 см (988-395)</name_ua>
 <name_ru>Блюдо фарфоровое для рыбы с золотом, 35 ​​см (988-395)</name_ru>
 <description_ua>Салатники, блюда, менажниці - це не лише практичні предмети сервірування, а й елементи декору, які можуть перетворити ваш стіл. Вони допоможуть створити затишну та стильну атмосферу, додаючи нотку елегантності до ваших страв. Використовуйте наші блюда, салатники, менажниці та для прикраси вашого столу чи навіть ресторану або кафе.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">блюдо</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -68217,7 +68217,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT03803" available="true">
+<offer id="IT03803" available="false">
 <price>788</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -68227,7 +68227,7 @@ _x000D_
 <name_ua>Блюдо порцелянове для риби із золотом, 30см (988-394) Білий із золотом</name_ua>
 <name_ru>Блюдо фарфоровое для рыбы с золотом, 30см (988-394) Белый с золотом</name_ru>
 <description_ua>Матеріал: Порцеляна Колір: Білий із золотом Фабрика: 988 Розміри: 15*30*2.5см Упаковка: біла картонна коробка Кількість в упаковці: 1 Колекція: Грация Кількість дизайнів: 1</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">блюдо</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -68292,7 +68292,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT03808" available="true">
+<offer id="IT03808" available="false">
 <price>810</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -68302,7 +68302,7 @@ _x000D_
 <name_ua>Блюдо порцелянове для риби із золотом, 35см (988-395) Білий із золотом</name_ua>
 <name_ru>Блюдо фарфоровое для рыбы с золотом, 35см (988-395) Белый с золотом</name_ru>
 <description_ua>Матеріал: Порцеляна Колір: Білий із золотом Фабрика: 988 Розміри: 18.5*35*3см Упаковка: біла картонна коробка Кількість в упаковці: 1 Колекція: Грация Кількість дизайнів: 1</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">блюдо</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -69507,7 +69507,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RS01611" available="true">
+<offer id="RS01611" available="false">
 <price>1220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
@@ -69517,7 +69517,7 @@ _x000D_
 <name_ua>Фруктівниця скляна на нозі Scandi сірий димчастий із золотим обідком D26*11см 992-054</name_ua>
 <name_ru>Фруктовка стеклянная на ноге Scandi серый дымчатый с золотым ободком D26*11см 992-054</name_ru>
 <description_ua>Фруктівниця скляна на нозі Scandi, колір - сірий димчастий із золотим обідком D26*11см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">аксесуари для сервірування</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -74727,7 +74727,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OS01346" available="true">
+<offer id="OS01346" available="false">
 <price>275</price>
 <currencyId>UAH</currencyId>
 <categoryId>1113</categoryId>
@@ -74737,7 +74737,7 @@ _x000D_
 <name_ua>Декоративний набір (6 шт) Гарбузів у сітці, колір - відтінки осені (824-093)</name_ua>
 <name_ru>Декоративний набор (6 шт) Тыкв в сетке, цвет - оттенки осени (824-093)</name_ru>
 <description_ua>Матеріал: Комбіновані матеріали Колір: Різнокольоровий Розміри: 7*8см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -81164,7 +81164,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OS01419" available="true">
+<offer id="OS01419" available="false">
 <price>6210</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -81174,7 +81174,7 @@ _x000D_
 <name_ua>Декоративна ваза Еріда 61см, колір - срібло (438-144)</name_ua>
 <name_ru>Декоративная ваза Эрида 61см, цвет – серебро (438-144)</name_ru>
 <description_ua>Матеріал: Алюміній Колір: Срібло Розміри: 28*61см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Ваза</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -83744,7 +83744,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI005652" available="true">
+<offer id="RI005652" available="false">
 <price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>1082</categoryId>
@@ -83754,7 +83754,7 @@ _x000D_
 <name_ua>Набір ялинок новорічних  38 см з декором із шишок та ягід 743-247</name_ua>
 <name_ru>Набор новогодних елок 38 см с декором из шишек и ягод 743-247</name_ru>
 <description_ua>Набор новогодних елок с декором из шишек 38 см 2 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">набір</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -85469,7 +85469,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OS00234" available="true">
+<offer id="OS00234" available="false">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>1082</categoryId>
@@ -85479,7 +85479,7 @@ _x000D_
 <name_ua>Набір (2шт) Ялинка новорічна 38см з декором із шишок та ягід (743-247)</name_ua>
 <name_ru>Набор (2шт) Елка новогодняя 38см с декором из шишек и ягод (743-247)</name_ru>
 <description_ua>Матеріал: Натуральні матеріали Колір: Коричневий Розміри: 38см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">ялинка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -86894,7 +86894,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RS00895" available="true">
+<offer id="RS00895" available="false">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>1082</categoryId>
@@ -86904,7 +86904,7 @@ _x000D_
 <name_ua>Ялинки новорічні 2 шт 38 см з декором із шишок та ягід коричневий 743-247</name_ua>
 <name_ru>Елки новогодние 2 шт 38 см с декором из шишек и ягод коричневий 743-247</name_ru>
 <description_ua>Ялинка новорічна 38см з декором із шишок та ягід</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">деко</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -92427,7 +92427,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RE15255" available="true">
+<offer id="RE15255" available="false">
 <price>178</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -92437,7 +92437,7 @@ _x000D_
 <name_ua>Ялинкова прикраса фігурна BonaDi (NY15-355)</name_ua>
 <name_ru>Елочное украшение фигурное BonaDi (NY15-355)</name_ru>
 <description_ua>Тематичні новорічні іграшки використовуються для святкового декору, прикраси новорічної ялинки, гілочок тощо, створюючи відповідний настрій. В іграшці передбачено отвір та гарна стрічка. Завдяки надійній упаковці, Ви можете бути впевненими у збереженні під час транспортування.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Елочная игрушка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -111080,7 +111080,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006247" available="true">
+<offer id="RI006247" available="false">
 <price>342</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -111090,7 +111090,7 @@ _x000D_
 <name_ua>Новорічна м'яка іграшка Гномик 17 см, 3 дизайни 822-179</name_ua>
 <name_ru>Новогодняя мягкая игрушка Гномик 17 см, 3 дизайна 822-179</name_ru>
 <description_ua>Новорічна м'яка іграшка Гномик 17 см, 3 дизайни</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -112055,7 +112055,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006397" available="true">
+<offer id="RI006397" available="false">
 <price>2232</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -112065,7 +112065,7 @@ _x000D_
 <name_ua>Набір новорічних іграшок Діти у совиних шапках 40 см 2 шт. 822-329</name_ua>
 <name_ru>Набор новогодних игрушек Дети в совиных шапках 40 см 2 шт. 822-329</name_ru>
 <description_ua>Набір новорічних іграшок Діти у совиних шапках 40 см 2 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -112730,7 +112730,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006425" available="true">
+<offer id="RI006425" available="false">
 <price>525</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -112740,7 +112740,7 @@ _x000D_
 <name_ua>Декоративна підвіска Оленя з янголятком 8.5*4.5*10.5 см  бежевий з рожевим K07-541</name_ua>
 <name_ru>Декоративная подвеска Оленя с ангелочком 8.5*4.5*10.5 см бежевый с рожевим K07-541</name_ru>
 <description_ua>Декоративна підвіска "Олень з янголятком" - це витончений елемент святкового декору, що поєднує атмосферу зимової казки і ніжність різдвяних мотивів. Фігурка оленя виконана з акуратною деталізацією: плавні лінії силуету, витончені роги та легка текстура вовни створюють відчуття затишку та тепла. Поруч розміщується маленький янголятко - символ захисту, доброти і чаклунства.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -114680,7 +114680,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI006741" available="true">
+<offer id="RI006741" available="false">
 <price>1500</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -114690,7 +114690,7 @@ _x000D_
 <name_ua>Декоративна Ялинка на барабані 15*11.5*31 см 894-017</name_ua>
 <name_ru>Декоративная Елка на барабане 15*11.5*31 см 894-017</name_ru>
 <description_ua>Декоративна Ялинка на барабані 15*11.5*31 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -119465,7 +119465,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007335" available="true">
+<offer id="RI007335" available="false">
 <price>1798</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -119475,7 +119475,7 @@ _x000D_
 <name_ua>Новорічна фігура Ведмедика 33 см  NY27-781</name_ua>
 <name_ru>Новогодняя фигура Мишки 33 см NY27-781</name_ru>
 <description_ua>Новорічна фігура Ведмедика 33 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -119977,7 +119977,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT00161" available="true">
+<offer id="IT00161" available="false">
 <price>225</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -119991,7 +119991,7 @@ _x000D_
 Фабрика:773
 Розміри:10.2*10.2*20смУпаковка:коричневий картонКількість в упаковці:4Кількість у ящику:16Колекція:Прозорий лід
 Кількість дизайнів:1</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -121811,7 +121811,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT00302" available="true">
+<offer id="IT00302" available="false">
 <price>822</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -121825,7 +121825,7 @@ _x000D_
 Колір:Білий з червоним
 Фабрика:822
 Розміри:10*7*17смУпаковка:коричневий картонКількість в упаковці:3Кількість у ящику:72Кількість дизайнів:3</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -121902,7 +121902,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="IT00307" available="true">
+<offer id="IT00307" available="false">
 <price>1790</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -121915,7 +121915,7 @@ _x000D_
 Матеріал:Комбіновані матеріали
 Колір:Червоний
 Розміри:20*13*55смУпаковка:коричневий картонКількість в упаковці:2Кількість у ящику:12Кількість дизайнів:2</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Статуэтка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -128534,7 +128534,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OS00837" available="true">
+<offer id="OS00837" available="false">
 <price>875</price>
 <currencyId>UAH</currencyId>
 <categoryId>1033</categoryId>
@@ -128544,7 +128544,7 @@ _x000D_
 <name_ua>Ліхтарик на 2 свічки у формі будиночка, колір - сірий (730-121)</name_ua>
 <name_ru>Фонарик на 2 свечи в форме домика, цвет - серый (730-121)</name_ru>
 <description_ua>Матеріал: Скло, Метал Колір: Сірий Розміри: 20*10.5*28см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Подсвечник</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -150462,7 +150462,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OO00813" available="true">
+<offer id="OO00813" available="false">
 <price>1220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
@@ -150472,7 +150472,7 @@ _x000D_
 <name_ua>Фруктівниця скляна на нозі Scandi сірий із золотим обідком D26*11 см 992-054</name_ua>
 <name_ru>Фруктовница стеклянная на ноге Scandi серый с золотым ободком D26*11 см 992-054</name_ru>
 <description_ua>Фруктівниця скляна на нозі Scandi, колір - сірий димчастий із золотим обідком D26*11 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">аксесуари для сервірування</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -152938,7 +152938,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI007781" available="true">
+<offer id="RI007781" available="false">
 <price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -152948,7 +152948,7 @@ _x000D_
 <name_ua>Набір кухлів порцелянових  Дама з собачкою 380 мл 4 шт. 335-21</name_ua>
 <name_ru>Набор кружек порцелянових Дама с собачкой 380 мл 4 шт. 335-21</name_ru>
 <description_ua>Набір кухлів порцелянових Дама з собачкою 380 мл 4 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">Чашка</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -158143,7 +158143,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK05196" available="true">
+<offer id="OK05196" available="false">
 <price>810</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -158153,7 +158153,7 @@ _x000D_
 <name_ua>Блюдо порцелянове для риби із золотом 35 см 988-395</name_ua>
 <name_ru>Блюдо фарфоровое для рыбы с золотом 35 см 988-395</name_ru>
 <description_ua>Блюдо порцелянове для риби із золотом 18,5*35*3 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">блюдо</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -158218,7 +158218,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK05202" available="true">
+<offer id="OK05202" available="false">
 <price>788</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -158228,7 +158228,7 @@ _x000D_
 <name_ua>Блюдо порцелянове для риби із золотом 15*30*2,5 см 988-394</name_ua>
 <name_ru>Блюдо фарфоровое для рыбы с золотом 15*30*2,5 см 988-394</name_ru>
 <description_ua>Блюдо порцелянове для риби із золотом 15*30*2,5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вид">блюдо</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -162657,7 +162657,7 @@ _x000D_
 <description_ua>Сьогодні вази перестали бути лише функціональним предметом зберігання квітів і стали важливим елементом декору. Особливою популярністю користуються вироби з кераміки, і все це завдяки великій різноманітності кольорів та текстур. Зусиллями талановитих майстрів створюються ємності різних форм та дизайну, тому не проблема підібрати та замовити вази керамічні під будь-який інтер'єр. Переваги керамічних ваз Керамічні вази можна назвати унікальним предметом інтер'єру, тому що велика кількість текстур, дизайнів і кольорів дозволяє підібрати абсолютно ексклюзивну модель. Керамічні вази можуть бути прикрашені різними візерунками та малюнками, тому їх можна використовувати в якості додаткових акцентів в інтер'єрі. Кераміка міцніша, ніж скло, тому вази можуть витримувати великі навантаження і прослужити значно довше. Плюс цього матеріалу полягає у здатності зберігати тепло, що дуже важливо, коли потрібно поставити квіти, що потребують певної температури. Не забуваємо про те, що кераміка – це природний, тобто екологічний матеріал, тому він безпечний для людини та рослин. Мити виріб можна навіть у звичайній воді, тому повернути йому початковий вигляд досить просто. Вази з кераміки відрізняються універсальністю, тому вони гармонійно виглядатимуть як на кухні, так і у вітальні, передпокої або в інших кімнатах.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN00000917" available="true">
+<offer id="MN00000917" available="false">
 <price>688</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -162667,7 +162667,7 @@ _x000D_
 <name_ua>Ваза керамічна 22 см, колір - бежевий (733-493)</name_ua>
 <name_ru>Ваза керамическая 22 см, цвет - бежевый (733-493)</name_ru>
 <description_ua>Сьогодні вази перестали бути лише функціональним предметом зберігання квітів і стали важливим елементом декору. Особливою популярністю користуються вироби з кераміки, і все це завдяки великій різноманітності кольорів та текстур. Зусиллями талановитих майстрів створюються ємності різних форм та дизайну, тому не проблема підібрати та замовити вази керамічні під будь-який інтер'єр. Переваги керамічних ваз Керамічні вази можна назвати унікальним предметом інтер'єру, тому що велика кількість текстур, дизайнів і кольорів дозволяє підібрати абсолютно ексклюзивну модель. Керамічні вази можуть бути прикрашені різними візерунками та малюнками, тому їх можна використовувати в якості додаткових акцентів в інтер'єрі. Кераміка міцніша, ніж скло, тому вази можуть витримувати великі навантаження і прослужити значно довше. Плюс цього матеріалу полягає у здатності зберігати тепло, що дуже важливо, коли потрібно поставити квіти, що потребують певної температури. Не забуваємо про те, що кераміка – це природний, тобто екологічний матеріал, тому він безпечний для людини та рослин. Мити виріб можна навіть у звичайній воді, тому повернути йому початковий вигляд досить просто. Вази з кераміки відрізняються універсальністю, тому вони гармонійно виглядатимуть як на кухні, так і у вітальні, передпокої або в інших кімнатах.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="MN00000939" available="true">
 <price>1300</price>
@@ -166049,7 +166049,7 @@ _x000D_
 <description_ua>М'яка новорічна іграшка Ведмедик з гірляндою,&amp;nbsp;з LED підсвічуванням&amp;nbsp;21*13*56 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI006270" available="true">
+<offer id="RI006270" available="false">
 <price>1287</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -166059,7 +166059,7 @@ _x000D_
 <name_ua>М'яка іграшка Дівчинка-янгол 55 см білий зі сріблом 877-294</name_ua>
 <name_ru>Мягкая игрушка Девочка-ангел 55 см белый с серебром 877-294</name_ru>
 <description_ua>М'яка іграшка Дівчинка-янгол 55 см білий зі сріблом</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI006282" available="true">
 <price>3224</price>
@@ -166374,7 +166374,7 @@ _x000D_
 <description_ua>Декоративна статуетка «Ангел» - це витончений та символічний елемент декору, який привносить у простір атмосферу світла, гармонії та спокою. Фігура ангела виконана з акуратним опрацюванням деталей: ніжні риси обличчя, витончені крила та плавні лінії створюють відчуття легкості та шляхетності.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI006412" available="true">
+<offer id="RI006412" available="false">
 <price>1430</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -166384,7 +166384,7 @@ _x000D_
 <name_ua>Набір м'яких новорічних іграшок Сніговик 35 см 2 шт. 778-247</name_ua>
 <name_ru>Набор мягких новогодних игрушек Снеговик 35 см 2 шт. 778-247</name_ru>
 <description_ua>Набір м'яких новорічних іграшок Сніговик 35 см 2 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI006448" available="true">
 <price>449</price>
@@ -169018,7 +169018,7 @@ _x000D_
 <description_ua>Підставка для торта Сицилійський лимон D27.5*12 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE01868" available="false">
+<offer id="RE01868" available="true">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1113</categoryId>
@@ -173083,7 +173083,7 @@ _x000D_
 <description_ua>Набір ялинкових прикрас з LED підсвічуванням 15 см 2 шт. шампань</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OO00397" available="false">
+<offer id="OO00397" available="true">
 <price>225</price>
 <currencyId>UAH</currencyId>
 <categoryId>1113</categoryId>
@@ -174666,7 +174666,7 @@ _x000D_
 <description_ua>Набір (3 шт) кухоль порцелянових Pets Рудий кіт 450 мл білий 311-121-3</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="992-208-4" available="false">
+<offer id="992-208-4" available="true">
 <price>580</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -178532,7 +178532,7 @@ _x000D_
 <description_ua>Банка для печива керамічна 850мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02354" available="true">
+<offer id="KD02354" available="false">
 <price>563</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -178543,7 +178543,7 @@ _x000D_
 <name_ua>Ємність для зберігання S 450мл KP-15S WHITE/WOOD</name_ua>
 <name_ru>Емкость для хранения S 450 мл KP-15 S WHITE/WOOD</name_ru>
 <description_ua>Місткість для зберігання S 450 мл KP-15 S WHITE/WOOD Практична ємність для зберігання МВМ MY HOME стане в нагоді для організації порядку на кухонних полицях. Місткість має оригінальний сучасний зовнішній вигляд, служитиме не лише контейнером, а й елементом декору. Виготовлена із високоякісної кераміки, герметично закривається бамбуковою кришкою. Прекрасна альтернатива прозорим банкам та пластиковим пакетам. Підійде для зберігання чаю, кави, круп, борошна, сухофруктів, горіхів тощо.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02355" available="true">
 <price>699</price>
@@ -179171,7 +179171,7 @@ _x000D_
 <description_ua>Складна миска МВМ MY HOME допоможе вирішити низку побутових потреб. Не створить жодного дискомфорту навіть у маленькому просторі, адже швидко складається до максимально компактного розміру. Плоску миску можна легко помістити у будь-яку вільну нішу. Виготовлена з міцного поліпропілену та гуми. Аксесуар максимально універсальний, тому знайде своє застосування у будь-якому куточку будинку та за його межами. Миска відмінно підійде для збирання, зберігання побутової хімії, збирання врожаю або очищення продуктів. Ви зможете взяти її з собою в поїздку або пікнік, не турбуючись зайняти зайве місце в багажнику автомобіля.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02461" available="true">
+<offer id="KD02461" available="false">
 <price>856</price>
 <currencyId>UAH</currencyId>
 <categoryId>1118</categoryId>
@@ -179190,7 +179190,7 @@ _x000D_
 <name_ua>Салатниця-миска S KP-25 S SS</name_ua>
 <name_ru>Салатница-миска S KP-25 S SS</name_ru>
 <description_ua>Універсальна салатниця МВМ MY HOME стане в нагоді для приготування улюблених страв. Миска має лаконічний дизайн, легко очищається, проста у догляді та зручна у використанні. Виготовлена із високоякісної, стійкої до корозії нержавіючої сталі. Чи не вступає в реакцію з рідиною, не впливає на смак продуктів. Салатницю можна використовувати для змішування інгредієнтів, зберігання очищених овочів, приготування заготовок, салатів та інших потреб.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02462" available="true">
 <price>973</price>
@@ -179812,7 +179812,7 @@ _x000D_
 <description_ua>Висота 10 см, довжина 26 см Матеріали: МДФ</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD01763" available="false">
+<offer id="KD01763" available="true">
 <price>687</price>
 <currencyId>UAH</currencyId>
 <categoryId>1113</categoryId>
@@ -180663,7 +180663,7 @@ _x000D_
 <name_ua>Набір (2 шт) новорічних скляних прикрас Сосулька 12 см (009NB)</name_ua>
 <name_ru>Набор (2 шт) новогодних стеклянных украшений Сосулька 12 см (009NB)</name_ru>
 <description_ua>Скляні іграшки є невід'ємним атрибутом новорічних свят. Елегантні та естетичні кулі цієї колекції виконані зі скла, прикрашені додатковими матеріалами. Іграшки нададуть елегантності та вишуканості декору інтер'єру, а також подарують святковий настрій. Ялинкова іграшка «Бурулька», 6х12см ідеальний подарунок для ваших рідних і близьких.</description_ua>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK07783" available="true">
 <price>121</price>
@@ -185465,7 +185465,7 @@ _x000D_
 <description_ua>Компактний та дуже місткий органайзер для прикрас МВМ MY HOME – це справжня знахідка для жінок та дівчат. З таким помічником Ви можете зберігати усі улюблені ювелірні вироби в одному місці. Органайзер поділений на спеціальні відсіки та кишеньки для окремого зберігання кілець, сережок, ланцюжків та інших речей. Аксесуар має лаконічний сучасний дизайн, зручну форму, щільно закривається кришкою і фіксується кнопкою. Виготовлений із штучної шкіри, не вимагає спеціального догляду, легко миється. Можна придбати собі чи на подарунок.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD01576" available="true">
+<offer id="KD01576" available="false">
 <price>424</price>
 <currencyId>UAH</currencyId>
 <categoryId>1179</categoryId>
@@ -185479,7 +185479,7 @@ _x000D_
 <description_ua>Легка, зручна та практична у використанні ящик для зберігання МВМ MY HOME TH-07 стане незамінним аксесуаром у будинку. Підійде для зберігання речей у ванній, вітальні чи дитячій кімнаті. Такий аксесуар можна наповнити одягом, дитячими іграшками, книгами та іншими речами. Завдяки картонній основі органайзер добре тримає форму. Ручки дозволяють переносити його по кімнаті, а кришка на липучці надійно фіксує речі зранку. При необхідності органайзер легко складається та займає мінімум місця.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD01577" available="true">
+<offer id="KD01577" available="false">
 <price>669</price>
 <currencyId>UAH</currencyId>
 <categoryId>1179</categoryId>
@@ -185492,7 +185492,7 @@ _x000D_
 <name_ua>Ящик для зберігання з кришкою M TH-07 M GRAY</name_ua>
 <name_ru>Ящик для хранения с крышкой M TH-07 M GRAY</name_ru>
 <description_ua>Легка, зручна та практична у використанні ящик для зберігання МВМ MY HOME TH-07 стане незамінним аксесуаром у будинку. Підійде для зберігання речей у ванній, вітальні чи дитячій кімнаті. Такий аксесуар можна наповнити одягом, дитячими іграшками, книгами та іншими речами. Завдяки картонній основі органайзер добре тримає форму. Ручки дозволяють переносити його по кімнаті, а кришка на липучці надійно фіксує речі зранку. При необхідності органайзер легко складається та займає мінімум місця.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD01578" available="true">
 <price>744</price>
@@ -186664,7 +186664,7 @@ _x000D_
 <description_ua>Світлодіодне дерево (1000 міні-LED, колір лампочок - теплий білий, постійне світіння), 120см, колір - білий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS00753" available="false">
+<offer id="RS00753" available="true">
 <price>15340</price>
 <currencyId>UAH</currencyId>
 <categoryId>1147</categoryId>
@@ -195559,7 +195559,7 @@ _x000D_
 <description_ua>Висота 15 см. Діаметр найширшої вази - 14 см. Цей унікальний набір керамічних ваз — не просто предмет декору, а справжнє висловлювання, що втілене у формі. Чотири самостійні вази, які разом утворюють слово LOVE, поєднують у собі сучасний концептуальний дизайн та ніжну мінімалістичну естетику. Кожна літера має м’яку рифлену текстуру та вишуканий матовий відтінок слонової кістки, що робить їх приємними не лише для очей, а й на дотик. Завдяки продуманій конструкції, кожна деталь слова є функціональною ємністю, що дозволяє створювати неповторні флористичні композиції — від поодиноких тендітних квітів до каскадів сухоцвітів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS07641" available="false">
+<offer id="RS07641" available="true">
 <price>721</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -196333,7 +196333,7 @@ _x000D_
 <description_ua>Цей розкішний набір ялинкових іграшок включає 32 різноманітних прикрас, виготовлених із пластику високої якості. Іграшки представлені у різних розмірах — від мініатюрних до виразних, що дозволяє створити та гармонійний декор на ялинці. До набору входять прикраси різної текстури та стилю. Іграшки різних розмірів дозволяють рівномірно заповнити ялинку, створюючи ефект багатошаровості та об'єму. Цей набір ідеально підходить для прикрашання великої ялинки, додаючи вашому простору чарівної атмосфери та справжнього різдвяного дива.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK08818" available="true">
+<offer id="OK08818" available="false">
 <price>1523</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -196344,7 +196344,7 @@ _x000D_
 <name_ua>Набір ялинкових іграшок Новорічний еліксир 70 шт (9125-030)</name_ua>
 <name_ru>Набор елочных игрушек Новогодний эликсир 70 шт (9125-030)</name_ru>
 <description_ua>Цей розкішний набір ялинкових іграшок включає 70 різноманітних прикрас, виготовлених із пластику високої якості. Іграшки представлені у різних розмірах — від мініатюрних до виразних, що дозволяє створити та гармонійний декор на ялинці. До набору входять прикраси різної текстури та стилю. Іграшки різних розмірів дозволяють рівномірно заповнити ялинку, створюючи ефект багатошаровості та об'єму. Цей набір ідеально підходить для прикрашання великої ялинки, додаючи вашому простору чарівної атмосфери та справжнього різдвяного дива.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK08826" available="true">
 <price>655</price>
@@ -199390,7 +199390,7 @@ _x000D_
 <description_ua>Штучна трава - це вражаючий декоративний елемент, який може перетворити будь-яке просторе відкрите місце або внутрішнє приміщення. Штучна трава виготовлена з високоякісних синтетичних матеріалів, які відмінно імітують природну траву, забезпечуючи при цьому тривалість та стійкість до погодних умов. У порівнянні з природною травою, штучна трава не вимагає регулярного поливу, обрізання або додаткового догляду. Вона залишається завжди зеленою та привабливою без додаткових зусиль.Травка має захист від ультрафіолетового випромінювання та дренажну структуру,що сприяє віттоку води. Ціна вказана за відрізок 100*100 см. Мінімальне замовлення - 10 кв.м. Довжина рулона - 2 500 см. Ширина рулона - 200 см.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KU00221" available="false">
+<offer id="KU00221" available="true">
 <price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -199462,7 +199462,7 @@ _x000D_
 <description_ua>Штучна гірлянда довжиною 195 см — ефектний елемент декору. Гнучка основа дозволяє легко інтегрувати її у флористичні композиції, настінні інсталяції або сервірування столу. Вона чудово підходить для оформлення HoReCa-просторів — від затишних кав’ярень до вітрин ресторанів. Ідеальне рішення для декораторів, які прагнуть додати сезону яскравого акценту з нотками природної елегантності.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KU00226" available="false">
+<offer id="KU00226" available="true">
 <price>402</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -200663,7 +200663,7 @@ _x000D_
 <description_ua>Штучна гілка "Золоте листя" висотою 32 см вирізняється яскравими жовто-помаранчевими відтінками листя, яке надає композиціям тепла та сонячного сяйва. Добре поєднується з іншими штучними квітами та гілками.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KU00446" available="false">
+<offer id="KU00446" available="true">
 <price>117</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -202848,7 +202848,7 @@ _x000D_
 <description_ua>В наборі 50 штук. Діаметр - 3 см. Набір декоративних жолудів з пластику імітує природні форми та кольори, що робить їх ідеальними для осіннього декору чи створення тематичних композицій. Жолуді мають реалістичне забарвлення з плавними переходами кольорів і текстуровану "шапочку", що додає їм натурального вигляду. Вони виготовлені з міцного пластику, що забезпечує довговічність і стійкість до механічних пошкоджень. Такий набір стане відмінним рішенням для декорування вінків, квіткових композицій або святкових столів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KU00259" available="false">
+<offer id="KU00259" available="true">
 <price>215</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
@@ -203818,7 +203818,7 @@ _x000D_
 <description_ua>Довжина - 46 см. Намисто з черепами на Хелловін – це стильний і зухвалий аксесуар, який додає образу моторошного шарму. Воно виготовлене з легкого пластику, імітуючи маленькі черепи, нанизані на міцний шнур. Це ідеальний аксесуар для завершення хелловінського костюма, привертаючи увагу і створюючи атмосферу таємничості та жаху.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK06289" available="false">
+<offer id="OK06289" available="true">
 <price>82</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
@@ -204120,7 +204120,7 @@ _x000D_
 <description_ua>Висота - 10 см, ширина - 4 см, довжина - 8 см. В упаковці 12 шт. Батарейки у комплекті. Світлодіодна підвіска у вигляді скелета — стильний і яскравий елемент для святкування Хелловіну. З одного боку підвіска біла, а з іншого — чорна, що дозволяє створювати різні варіанти декору. Завдяки зеленому підсвічуванню вона створює ефектну атмосферу та стане чудовою прикрасою для будинку, вхідних дверей або тематичної фотозони. Легка у використанні та безпечна, ця підвіска стане улюбленим елементом декору на святі.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KU00637" available="true">
+<offer id="KU00637" available="false">
 <price>234</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
@@ -204131,9 +204131,9 @@ _x000D_
 <name_ua>Світлодіодні свічки (LED) "Крипта жаху", 20 см Фіолетовий (9242-015)</name_ua>
 <name_ru>Светодиодные свечи (LED) "Крипта ужаса", 20 см Фиолетовый (9242-015)</name_ru>
 <description_ua>Висота - 20 см, діаметр - 2,5 см. Батарейки у комплекті. Свічки LED — ідеальний акцент для створення моторошної, але атмосферної подачі в декорі. Свічки випромінюють м’яке тепле світло, що чудово пасує до тематичних вечірок, вітрин, фотозон і святкового сервірування. Оригінальний дизайн робить їх справжнім хелловінським must-have. Можна використовувати багаторазово.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KU00638" available="true">
+<offer id="KU00638" available="false">
 <price>234</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
@@ -204143,7 +204143,7 @@ _x000D_
 <name_ua>Світлодіодні свічки (LED) "Крипта жаху", 20 см Помаранчевий (9242-015)</name_ua>
 <name_ru>Светодиодные свечи (LED) "Крипта ужаса", 20 см Оранжевый (9242-015)</name_ru>
 <description_ua>Висота - 20 см, діаметр - 2,5 см. Батарейки у комплекті. Свічки LED — ідеальний акцент для створення моторошної, але атмосферної подачі в декорі. Свічки випромінюють м’яке тепле світло, що чудово пасує до тематичних вечірок, вітрин, фотозон і святкового сервірування. Оригінальний дизайн робить їх справжнім хелловінським must-have. Можна використовувати багаторазово.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KU00639" available="true">
 <price>1404</price>
@@ -206103,7 +206103,7 @@ _x000D_
 <description_ua>Довжина панелі — 60 см, ширина — 40 см, висота — 5 см. Декоративна панель зі штучної зелені — стильне рішення для вертикального або горизонтального озеленення будь-якого простору. Реалістичне листя різних відтінків і текстур створює ефект живої рослинності, додаючи інтер’єру свіжості та природної гармонії. Фітомодуль має міцну пластикову основу з кліпсами по краях, завдяки чому кілька елементів легко з’єднуються між собою у велику зелену стіну. Підходить для оформлення інтер’єрів, вітрин, фотозон, терас, зон відпочинку, кафе, ресторанів і офісів. Може використовуватись у приміщенні або на вулиці під накриттям, не вимагає догляду, не вицвітає та зберігає колір протягом тривалого часу. Ідеальний варіант для тих, хто хоче створити атмосферу природи без зайвих зусиль.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000001931" available="true">
+<offer id="MN000001931" available="false">
 <price>117</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -214200,7 +214200,7 @@ _x000D_
 <description_ua>Довжина: 5 м. Тип живлення: батарейки. Додайте казкової атмосфери до вашого святкового асортименту з гірляндою "Роса". Ця стильна гірлянда довжиною 5 метрів, оснащена білими LED-ліхтариками, створює ефект яскравих крапельок роси, що мерехтять у темряві. Легка та гнучка конструкція дозволяє з легкістю обвивати гірлянду навколо будь-яких предметів – від ялинки до меблів або декоративних композицій. Гірлянда "Роса" ідеально підходить для внутрішнього використання, додаючи яскравих кольорів і святкового настрою у будь-який куточок. Енергоощадні LED-лампочки забезпечують довговічність та безпеку, дозволяючи насолоджуватися казковим сяйвом протягом усього сезону.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK07185" available="true">
+<offer id="OK07185" available="false">
 <price>74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1147</categoryId>
@@ -214212,7 +214212,7 @@ _x000D_
 <name_ua>Гірлянда Роса 30 LED біла 3 м (9133-002)</name_ua>
 <name_ru>Гирлянда Роса 30 LED белая 3 м (9133-002)</name_ru>
 <description_ua>Довжина: 3 м. Тип живлення: батарейки. Додайте казкової атмосфери до вашого святкового асортименту з гірляндою "Роса". Ця стильна гірлянда довжиною 3 метри, оснащена теплими LED-ліхтариками, створює ефект яскравих крапельок роси, що мерехтять у темряві. Легка та гнучка конструкція дозволяє з легкістю обвивати гірлянду навколо будь-яких предметів – від ялинки до меблів або декоративних композицій. Гірлянда "Роса" ідеально підходить для внутрішнього використання, додаючи яскравих кольорів і святкового настрою у будь-який куточок. Енергоощадні LED-лампочки забезпечують довговічність та безпеку, дозволяючи насолоджуватися казковим сяйвом протягом усього сезону.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK07186" available="true">
 <price>74</price>
@@ -218578,7 +218578,7 @@ _x000D_
 <description_ua>Об'єм: 1,0 л Матеріал: скло Екологічно чистий матеріал</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02161" available="true">
+<offer id="RU02161" available="false">
 <price>785</price>
 <currencyId>UAH</currencyId>
 <categoryId>1036</categoryId>
@@ -219643,7 +219643,7 @@ _x000D_
 <description_ua>Віночок зі скребком Матеріал: функціональної частини: нержавіюча сталь із силіконовим покриттям Матеріал ручки: пластик Розмір: 27х6, 5х6, 5 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02597" available="false">
+<offer id="RU02597" available="true">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1072</categoryId>
@@ -219655,7 +219655,7 @@ _x000D_
 <description_ua>Зручність у використанні Довгий термін служби Матеріал функціональної частини: нейлон Матеріал ручки: силікон Розмір: 31х10,5 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02598" available="false">
+<offer id="RU02598" available="true">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1072</categoryId>
@@ -219667,7 +219667,7 @@ _x000D_
 <description_ua>Зручність у використанні Довгий термін служби Матеріал функціональної частини: нейлон Матеріал ручки: силікон Розмір: 31х10,5 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02599" available="false">
+<offer id="RU02599" available="true">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1072</categoryId>
@@ -222777,7 +222777,7 @@ _x000D_
 <description_ua>Практичний килимок для ванни допоможе вирішити побутові питання та впорядкувати простір. Є у приємних нейтральних відтінках, має лаконічний дизайн та чудово доповнить сучасні інтер'єри. Неймовірно м'який і приємний на дотик. Підходить для приміщень із підвищеною вологістю. Виготовлений з високоякісної бавовни, служитиме багато років. Прання рекомендоване у прохолодній воді з м'яким миючим засобом. Двосторонній килимок неймовірно зручний, адже його можна використовувати з обох боків. Щільність матеріалу 2400 г/м2. Створіть атмосферу затишку за допомогою стильного килимка.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02252" available="false">
+<offer id="KD02252" available="true">
 <price>1248</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -223971,7 +223971,7 @@ _x000D_
 <description_ua>Набір килимків для ванної та туалету 50x80см 40x50cм Prima 2459/brown — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір килимків для ванної 50*80 см та туалету 40*50 см. Килимки виготовлені з м’якого приємного матеріалу, легко перуться та швидко сохнуть, на нижній бік нанесена м'яка гумова основа. Килимок під унітаз із вирізом. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 50×80 см та 40×50 см Колір: коричневий Матеріал: льон Артикул: 2459/brown Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="Softmicro/07000" available="true">
+<offer id="Softmicro/07000" available="false">
 <price>1843</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -230213,7 +230213,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;Залізо,&amp;nbsp;Скло Колір:&amp;nbsp;Золотий Розміри:&amp;nbsp;38*38*61см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OS01508" available="true">
+<offer id="OS01508" available="false">
 <price>3830</price>
 <currencyId>UAH</currencyId>
 <categoryId>1210</categoryId>
@@ -230223,7 +230223,7 @@ _x000D_
 <name_ua>Приставний металевий столик Mute зі стільницею із сірого загартованого скла, 61см, колір - золото (TY1-235)</name_ua>
 <name_ru>Приставной металлический столик Mute со столешницей из серого закаленного стекла, 61см, цвет – золото (TY1-235)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;Залізо,&amp;nbsp;Скло Колір:&amp;nbsp;Золотий Розміри:&amp;nbsp;46*28*61см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01510" available="true">
 <price>9960</price>
@@ -230263,7 +230263,7 @@ _x000D_
 <description_ua>Дверна ручка Grip на квадратній розетці – практичне та сучасне рішення для оформлення інтер'єру у стилі мінімалізм чи модерн. Лаконічна геометрія, чіткі лінії та стриманий дизайн роблять універсальним вибором для житлових та комерційних приміщень. Ручка виготовлена із якісного металу, що забезпечує надійність у повсякденному використанні та довговічність. Є в 2 кольорах: BLACK та MN. Покриття стійке до зношування, подряпин та відбитків пальців, завдяки чому виріб зберігає привабливий вигляд протягом тривалого часу. Завдяки ергономічній формі ручка зручно лежить у руці та забезпечує плавне відчинення дверей. Монтаж на розетці виглядає акуратно та сучасно, а також підходить для більшості стандартних міжкімнатних дверей. Це практичний та стильний вибір для тих, хто цінує функціональність, довговічність та продуманий дизайн у кожній деталі інтер'єру.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02647" available="false">
+<offer id="KD02647" available="true">
 <price>937</price>
 <currencyId>UAH</currencyId>
 <categoryId>1212</categoryId>
@@ -230560,7 +230560,7 @@ _x000D_
 <description_ua>Ручка на розетці Z-1320/E20 цинковий сплав Z-1320/E20 - уособлення сили повсякденного дизайну. Це мінімалізм, який зараз дуже затребуваний. Стриманості та лаконічності цієї моделі не позичати. Ручка чудова у своїй простоті. Добре виглядає, її зручно тримати в руці. Z-1320/E20 виділяють візуально м'які кути та фаски, ергономічні розміри, оздоблення в актуальних відтінках. Відчувається надійність, затишок, тепло.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02677" available="true">
+<offer id="KD02677" available="false">
 <price>1602</price>
 <currencyId>UAH</currencyId>
 <categoryId>1212</categoryId>
@@ -230572,7 +230572,7 @@ _x000D_
 <name_ua>Ручка для дверей на розетці STYLE Z-1220 SN/CP</name_ua>
 <name_ru>Ручка для дверей на розетке STYLE Z-1220 SN/CP</name_ru>
 <description_ua>Ручка на розетці STYLE Z-1220 цинковий сплав Баланс форм, поєднання кольорів та стриманість стилю захоплюють сучасні класичні дизайни. Ручка для дверей на розетці STYLE упевнено вписується в ці перспективи. Зручний вигин із внутрішньої сторони створює ергономічну рукоятку. Той випадок, коли хизуватися можна не лише стилем Z-1220, а й відчувати тактильне задоволення при кожному дотику. До ручки можна підібрати стильні накладки під WC або циліндр.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02678" available="true">
 <price>822</price>
@@ -232130,7 +232130,7 @@ _x000D_
 <description_ua>Накладка із цинкового сплаву кругла. Підійде для тих, хто дотримується традиційних цінностей та традицій в оформленні інтер'єру. E9 стане яскравою деталлю у загальному вигляді вашого будинку. Накладка призначена для встановлення на циліндровий механізм замку, надаючи двері більш естетичному вигляду. MVM – це якісні аксесуари за вигідними цінами.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02851" available="false">
+<offer id="KD02851" available="true">
 <price>607</price>
 <currencyId>UAH</currencyId>
 <categoryId>1213</categoryId>
@@ -236699,7 +236699,7 @@ _x000D_
 <description_ua>Шторка для душу тканинна з люверсами 180*180 см 200/capuchino — практичне рішення для ванної кімнати, яке захищає підлогу та стіни від бризок і водночас задає настрій інтер’єру. Щільна та м'яка штора для ванної кімнати однотонна, виготовлена ​​з поліестеру, має водовідштовхувальне просочення. Кріпиться на карниз за допомогою люверсів. Можливе прання у пральній машині. Шторка швидко сохне, не вбирає запахи та легко очищується звичайною губкою. Верхній край з отворами розрахований на стандартні кільця, тому повісити її можна за кілька хвилин на будь-який карниз. Щільний матеріал не липне до тіла під час душу та зберігає форму після багаторазового прання. Розмір: 180×180 см Колір: капучино Матеріал: поліестер Країна виробництва: Китай Артикул: 200/capuchino Догляд: протирати вологою губкою або прати за температури до 30°, сушити в розправленому вигляді. Перед покупкою звірте ширину та висоту з розмірами вашого карниза.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="200/grey" available="true">
+<offer id="200/grey" available="false">
 <price>1028</price>
 <currencyId>UAH</currencyId>
 <categoryId>1234</categoryId>
@@ -241832,7 +241832,7 @@ _x000D_
 <description_ua>Важко уявити святкування Різдва без одного з головних його символів – вінка. Традиційна різдвяна прикраса виготовляється з гілок хвойних дерев, а в його центр встановлюються чотири свічки. Однак сучасна інтерпретація не обмежується лише хвойними виробами, існує маса варіацій виконання цього традиційного святкового декору. Використовувати різдвяні вінки можна в прикрашанні полиці над каміном або святкового столу, а якщо Ви власник гарного приватного будинку – обов'язково розмістіть святковий декор на вхідних дверях.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02255" available="true">
+<offer id="RE02255" available="false">
 <price>1334</price>
 <currencyId>UAH</currencyId>
 <categoryId>1225</categoryId>
@@ -241842,7 +241842,7 @@ _x000D_
 <name_ua>Вінок Elisey Ялиновий ягідний (001NF)</name_ua>
 <name_ru>Венок Elisey Еловый ягодный (001NF)</name_ru>
 <description_ua>Важко уявити святкування Різдва без одного з головних його символів – вінка. Традиційна різдвяна прикраса виготовляється з гілок хвойних дерев, а в його центр встановлюються чотири свічки. Однак сучасна інтерпретація не обмежується лише хвойними виробами, існує маса варіацій виконання цього традиційного святкового декору. Використовувати різдвяні вінки можна в прикрашанні полиці над каміном або святкового столу, а якщо Ви власник гарного приватного будинку – обов'язково розмістіть святковий декор на вхідних дверях.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS00690" available="false">
 <price>800</price>
@@ -249556,7 +249556,7 @@ _x000D_
 <description_ua>Довжина – 13 см, ширина – 7 см, висота – 9 см. Ця витончена скринька для прикрас – справжній маніфест класичної елегантності та розкоші, що перетворює зберігання ваших улюблених дрібничок на естетичне задоволення. Виготовлена з масивного прозорого скла. Овальна форма виробу підкреслена благородним золотистим обрамленням, яке надійно скріплює корпус і кришку вишуканою фурнітурою, додаючи дизайну вінтажного шарму. Прозорість матеріалу дозволяє милуватися вмістом скриньки, перетворюючи ваші каблучки чи намиста на частину декоративної композиції, а надійна кришка на завісах забезпечує зручність та збереження ваших скарбів. Така скринька стане не лише практичним органайзером, а й дорогоцінним акцентом вашого будуара чи туалетного столика.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU01694" available="false">
+<offer id="RU01694" available="true">
 <price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>1306</categoryId>
@@ -256901,7 +256901,7 @@ _x000D_
 <description_ua>Безпечна, надійна та екологічно чиста запальничка з електричною дугою замість полум'я. Запальничка легко заряджається за допомогою micro-USB (входить до комплекту) через порт від ноутбука, комп'ютера або блока живлення. З іншого боку запальнички є ніж, штопор та відкривачка. З цією запальничкою Ви легко розпалите: конфорки, свічки, сигарети та інше. Також Ви зможете використовувати її для розпалювання мангалу на природі. Запальничка дуже просто підпалює папір. Чудовий аксесуар для подарунка! Світлодіодний індикатор інформує, коли батарея запальнички розряджена. Для повної зарядки пристрою потрібно 1,5-2 години. Елемент займання: електродуга Індикатор заряду акумулятора Інтерфейс входу зарядного пристрою: micro USB</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02236" available="false">
+<offer id="KD02236" available="true">
 <price>737</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -256914,7 +256914,7 @@ _x000D_
 <description_ua>Стильний килимок МВМ MY HOME допоможе оформити інтер'єр ванної кімнати та забезпечить максимальний комфорт Вашим ніжкам. Виріб неймовірно ніжний, м'який і приємний на дотик. Підходить для приміщень із підвищеною вологістю. Простий у догляді та легко чиститься від плям. Виготовлений з високоякісної бавовни, служитиме багато років. Прання рекомендоване у прохолодній воді з м'яким миючим засобом. Щільність матеріалу 1200 г/м2. Створюйте затишний простір разом із зручним та красивим килимком.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD02237" available="false">
+<offer id="KD02237" available="true">
 <price>737</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -256941,7 +256941,7 @@ _x000D_
 <description_ua>Стильний килимок МВМ MY HOME допоможе оформити інтер'єр ванної кімнати та забезпечить максимальний комфорт Вашим ніжкам. Виріб неймовірно ніжний, м'який і приємний на дотик. Підходить для приміщень із підвищеною вологістю. Простий у догляді та легко чиститься від плям. Виготовлений з високоякісної бавовни, служитиме багато років. Прання рекомендоване у прохолодній воді з м'яким миючим засобом. Щільність матеріалу 1200 г/м2. Створюйте затишний простір разом із зручним та красивим килимком.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02239" available="false">
+<offer id="KD02239" available="true">
 <price>737</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -259590,7 +259590,7 @@ _x000D_
 <description_ua>Маленький аксесуар, який створить особливу атмосферу у Вашій кухні. Оригінальна ємність MVM MY HOME допоможе зберігати продукти, не втрачаючи їхньої свіжості та смакових властивостей. Ємність&amp;nbsp;має лаконічний дизайн, привабливий зовнішній вигляд, зручний у використанні. Виготовлена із високоякісної кераміки, щільно закривається бамбуковою кришкою. Місткість можна наповнити сипучими напоями, цукром, борошном, крупами, сухофруктами або горіхами.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02402" available="true">
+<offer id="KD02402" available="false">
 <price>638</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -259606,7 +259606,7 @@ _x000D_
 <name_ua>Ємність для зберігання 600 мл KP-19 WHITE</name_ua>
 <name_ru>Емкость для хранения 600 мл KP-19 WHITE</name_ru>
 <description_ua>Оригінальна ємність для зберігання МВМ MY HOME сподобається поціновувачам класичного керамічного посуду. Має привабливий дизайн, щільно закривається кришкою. Банк оснащений вушками, тому його легко переносити і тримати в руках. Вдала альтернатива прозорим банкам та пластиковим пакетам. Місткість можна наповнити чаєм, кавою, крупами, цукром, борошном, сухофруктами, горіхами і т.д.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02353" available="true">
 <price>899</price>
@@ -260735,7 +260735,7 @@ _x000D_
 <description_ua>Маленький складний друшляк МВМ MY HOME – це зручний та компактний аксесуар, який стане чудовим помічником на Вашій кухні. Друшляк у складеному вигляді займає мінімум місця, тому легко поміститься на полиці і оптимізує простір. Виготовлений із міцного поліпропілену та гуми. Об'єм 1,5л. Легко складається, має дрібні отвори для зливу води, оснащений ручкою. Знадобиться для очищення, фруктів, овочів, ягід. Допоможе промити макарони та злити воду з дрібних круп. Підходить для різних температур.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02299" available="true">
+<offer id="KD02299" available="false">
 <price>383</price>
 <currencyId>UAH</currencyId>
 <categoryId>1217</categoryId>
@@ -260754,7 +260754,7 @@ _x000D_
 <name_ua>Друшляк двошаровий KP-56 T/GREEN</name_ua>
 <name_ru>Дуршлаг двухслойный KP-56 T/GREEN</name_ru>
 <description_ua>Універсальний двошаровий друшляк МВМ MY HOME – сучасний гаджет, який не буде зайвим на кухні. Друшляк, має зручну конструкцію, продуману до дрібниць. Ручки дозволяють легко тримати його навіть із гарячим вмістом, а додаткова миска для зціджування допоможе уникнути зайвого бруду та вологи на кухонній стільниці. Вимити свіжі фрукти, овочі чи зелень, промити макарони, розморозити чи охолодити напівфабрикати – все це буде легко зробити за наявності такого помічника.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02304" available="true">
 <price>207</price>
@@ -262112,7 +262112,7 @@ _x000D_
 <description_ua>Органайзер для компактного зберігання миючих засобів та аксесуарів. Дозволить утримувати всі необхідні предмети для миття посуду та стільниць у порядку та під рукою, а раковину – акуратною та чистою. Численні дренажні отвори на дні та стінках контейнера зберігають природну вентиляцію повітря, дозволяючи губкам швидко сохнути та мінімізуючи зростання бактерій. Виготовлена із двох роздільних частин. Гнучка підвіска з ґудзиками забезпечує надійну, нековзну фіксацію на змішувач або гачок. А зовнішній кошик із міцного пластику, що відповідає за збереження форми контейнера, легко знімається, що дозволяє легко підтримувати її в чистоті. Рекомендується мити вручну без використання абразивних миючих засобів. Має гладкі та приємні на дотик поверхні. Матеріал: ABS пластик та TPR гума. Розмір: 170х148х63 мм.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02276" available="true">
+<offer id="KD02276" available="false">
 <price>178</price>
 <currencyId>UAH</currencyId>
 <categoryId>1127</categoryId>
@@ -266493,7 +266493,7 @@ _x000D_
 <description_ua>Оригінальна підставка для зубних щіток МВМ MY HOME із колекції Cute cat має гарний, привабливий дизайн, виконана у вигляді милого кошеня. Такий яскравий аксесуар допоможе привчити дитину чистити зубки із задоволенням. Вдало доповнить інтер'єр і стане окрасою ванної кімнати. Підставка виготовлена з високоякісної кераміки, не втрачає яскравого візерунка і добре зберігається у вологому приміщенні довгий час.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02082" available="true">
+<offer id="KD02082" available="false">
 <price>746</price>
 <currencyId>UAH</currencyId>
 <categoryId>1260</categoryId>
@@ -266508,7 +266508,7 @@ _x000D_
 <name_ua>Органайзер для зубних щіток та пасти CRIMEA 275 мл BA-12 GRAY</name_ua>
 <name_ru>Органайзер для зубных щеток и пасты CRIMEA 275 мл BA-12 GRAY</name_ru>
 <description_ua>Компактний органайзер для зубних щіток та пасти МВМ MY HOME серії "CRIMEA" допоможе організувати порядок у ванній кімнаті, тримати щітки всієї родини в одному місці. Аксесуар має оригінальний сучасний дизайн, успішно доповнить інтер'єр. Виготовлений з надійної піщаної смоли, не тьмяніє і не псується з часом. Підійде шанувальникам красивих класичних аксесуарів. Стане невід'ємною частиною створення комфортного простору.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02083" available="false">
 <price>475</price>
@@ -267541,7 +267541,7 @@ _x000D_
 <description_ua>Патч, що клеїться для власника MVM з артикулом BP-19. Він знадобиться Вам, якщо Ви вирішили змінити місце фіксації аксесуарів. Спосіб монтажу: 1. Знежирити поверхню 2. Зніміть захисну плівку та приклейте патч 3. Залишіть на 24 години 4. Зафіксуйте аксесуар на патчі Увага: не використовуйте повторно. Матеріал: поліпропілен.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02142" available="true">
+<offer id="KD02142" available="false">
 <price>184</price>
 <currencyId>UAH</currencyId>
 <categoryId>1356</categoryId>
@@ -267560,7 +267560,7 @@ _x000D_
 <name_ua>Патч клейкий до аксесуарів BP-26 PATCH-7 T</name_ua>
 <name_ru>Патч клеящийся к аксессуарам BP-26 PATCH-7 T</name_ru>
 <description_ua>Патч для аксесуарів з артикулом BP-26. У комплекті йде 2 патчі однакового розміру для фіксації кутової полиці BP-26 з обох боків. Патч знадобиться, якщо Ви вирішили закріпити аксесуар або змінити місце його попередньої фіксації. Спосіб монтажу: 1. Знежирити поверхню 2. Зніміть захисну плівку та приклейте патч 3. Залишіть на 24 години 4. Зафіксуйте аксесуар на патчі Застереження: не використовуйте повторно. Матеріал: поліпропілен.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02143" available="true">
 <price>197</price>
@@ -268645,7 +268645,7 @@ _x000D_
 <description_ua>Кошик для походів у магазин, пікнік, зберігання речей та організації порядку в будинку. Підходить для овочів та фруктів, книг та журналів, миючих засобів, дитячих іграшок або приладдя з ванної кімнати. Аксесуар виготовлений із високоякісного поліпропілену, який відрізняється міцністю та стійкістю до впливу зовнішніх факторів. Кошик підходить для використання при температурі від -5°С до +50°С.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD01579" available="true">
+<offer id="KD01579" available="false">
 <price>806</price>
 <currencyId>UAH</currencyId>
 <categoryId>1179</categoryId>
@@ -270977,7 +270977,7 @@ _x000D_
 <description_ua>Набір кавовий порцеляновий:&amp;nbsp;4 чашки 240 мл 4 блюдця&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK03737" available="true">
+<offer id="OK03737" available="false">
 <price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>1216</categoryId>
@@ -270987,7 +270987,7 @@ _x000D_
 <name_ua>Кавовий сервіз 2 чашки 2 блюдця 541-140</name_ua>
 <name_ru>Кофейный сервиз 2 чашки 2 блюдца 541-140</name_ru>
 <description_ua>Кавовий сервіз 2 чашки 2 блюдця&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK03740" available="true">
 <price>300</price>
@@ -272870,7 +272870,7 @@ _x000D_
 <description_ua>Чайник заварювальний порцеляновий Ніжність 600 мл із золотим кантом</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI007900" available="true">
+<offer id="RI007900" available="false">
 <price>300</price>
 <currencyId>UAH</currencyId>
 <categoryId>1215</categoryId>
@@ -272880,7 +272880,7 @@ _x000D_
 <name_ua>Чайник керамічний з об'ємним малюнком Тоскана 1 л  875-391</name_ua>
 <name_ru>Чайник керамический с объемным рисунком Тоскана 1л 875-391</name_ru>
 <description_ua>Чайник керамічний з об'ємним малюнком Тоскана 1 л</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI007901" available="true">
 <price>475</price>
@@ -284627,7 +284627,7 @@ _x000D_
 <description_ua>Кавовий набір порцеляновий: 6 чашок 240мл + 6 блюдець</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS01695" available="true">
+<offer id="RS01695" available="false">
 <price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>1216</categoryId>
@@ -284637,7 +284637,7 @@ _x000D_
 <name_ua>Кавовий сервіз 4 предмети: 2 чашки + 2 блюдця 541-140</name_ua>
 <name_ru>Кофейный сервиз 4 предмета: 2 чашки + 2 блюдца 541-140</name_ru>
 <description_ua>Кавовий сервіз 4 предмети: 2 чашки + 2 блюдця</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS01696" available="true">
 <price>300</price>
@@ -307977,7 +307977,7 @@ _x000D_
 <description_ua>Висота — 30 см, ширина — 17 см. Створіть максимально моторошний, ефектний та страхітливий образ із культового фільму жахів за допомогою цієї маски з ефектом «крові»! Виріб виконаний у класичному стилі — з білим витягнутим обличчям та відкритим ротом, проте додатково щедро декорований червоними бризками, що імітують плями крові. Маска доповнена пришитим чорним тканинним капюшоном, який зручно ховає шию та волосся. Вона легка, комфортна для носіння і стане ідеальним вибором для вечірки на Гелловін, тематичної фотосесії чи створення найстрашнішого костюма! Цей елемент образу підійде як для тематичної вечірки, так і для фотосесії чи виступу — він легко комбінується з іншими аксесуарами колекції та підходить і дорослим, і дітям старшого віку. Зручний у використанні, не викликає дискомфорту при тривалому носінні і легко зберігається до наступного свята.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="5108-030" available="true">
+<offer id="5108-030" available="false">
 <price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>1209</categoryId>
@@ -307987,7 +307987,7 @@ _x000D_
 <vendorCode>5108-030</vendorCode>
 <name_ua>Капелюх відьми карнавальний, 38 см (5108-030)</name_ua>
 <description_ua>Ціна вказана за 1 капелюх. Мінімальне замовлення — 12 шт. Загальний діаметр — 38 см, внутрішній діаметр (отвору для голови) — 20 см. Створіть яскравий, чарівний та незабутній образ для наймістичнішої ночі року за допомогою цього ефектного капелюха відьми! Головний убір виконаний у насиченому помаранчевому кольорі з принтом чорного павутиння та доповнений широкими полями й довгою чорною вуаллю у блискучі зірочки. Він легкий, зручний у носінні та чудово тримає форму. Цей стильний аксесуар стане ідеальним завершенням костюма чаклунки на гелловінську вечірку, тематичне свято чи фотосесію! Цей елемент образу підійде як для тематичної вечірки, так і для фотосесії чи виступу — він легко комбінується з іншими аксесуарами колекції та підходить і дорослим, і дітям старшого віку. Зручний у використанні, не викликає дискомфорту при тривалому носінні і легко зберігається до наступного свята.</description_ua>
-<quantity_in_stock>24</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="5108-055" available="true">
 <price>197</price>
@@ -308317,7 +308317,7 @@ _x000D_
 <name_ua>Новорічна підвіска Ангелятко з ялинкою (2007-026)</name_ua>
 <name_ru>Новогодняя подвеска Ангелочек с елкой (2007-026)</name_ru>
 <description_ua>Тематична іграшка використовуються для декору, прикраси ялинки, на гілках новорічного дерева - створюючи відповідний настрій. В іграшці передбачено отвір отвір під нитка, використовується для традиційного закріплення новорічної іграшки на гілці. Виготовлено з полістоуну. Штучний камінь полістоун стійкий не лише до впливу води, але також не вступає в реакцію з повітрям, слабкими різними кислот, лугів. Він не піддається фарбуванню харчовими соками, напоями, несприйнятливий до нафтопродуктів, шампунів і інших продуктів побутовий промисловості. Завдяки надійної упаковці, Ви можете бути впевненими в збереження при транспортуванні.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE01777" available="true">
 <price>410</price>
@@ -308329,7 +308329,7 @@ _x000D_
 <name_ua>Набір іграшок Новорічна казка (0446j)</name_ua>
 <name_ru>Набор игрушек Новогодняя сказка (0446j)</name_ru>
 <description_ua>Тематична іграшка використовується для декору, прикраси ялинки, на гілках новорічного дерева – створюючи відповідний настрій. В іграшці передбачено наскрізний отвір під нитку, що використовується для традиційного закріплення новорічної іграшки на гілці. Пухнаста іграшка, яка додасть унікального стилю вашому святу.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE01756" available="true">
 <price>143</price>
@@ -308341,7 +308341,7 @@ _x000D_
 <name_ua>Новорічна підвіска Пташка в лозі (2007-060)</name_ua>
 <name_ru>Новогодняя подвеска Птичка в лозе (2007-060)</name_ru>
 <description_ua>Підвіски є однією з найпопулярніших категорій в асортименті – універсальний подарунок підходить для людей будь-якої статі, віку та достатку. Часто виступають як символ кохання, оберега.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE01739" available="true">
 <price>186</price>
@@ -308353,7 +308353,7 @@ _x000D_
 <name_ua>Новорічна підвіска Ангелочок з шапочкою (2007-025)</name_ua>
 <name_ru>Новогодняя подвеска Ангелочек с шапочкой (2007-025)</name_ru>
 <description_ua>Тематична іграшка використовується для декору, прикраси ялинки, на гілках новорічного дерева – створюючи відповідний настрій. В іграшці передбачено отвір під нитку, що використовується для традиційного закріплення новорічної іграшки на гілці. Виготовлено із полістоуну. Штучний камінь полістоун стійкий як впливу води, але й вступає у реакцію з повітрям, слабкими розчинами кислот, лугів. Він не піддається фарбуванню харчовими соками, напоями, несприйнятливим до нафтопродуктів, шампунів та інших продуктів побутової промисловості. Завдяки надійній упаковці, Ви можете бути впевненими у безпеці при транспортуванні.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE01783" available="true">
 <price>410</price>
@@ -308365,7 +308365,7 @@ _x000D_
 <name_ua>Набір іграшок Морозні візерунки (0448j)</name_ua>
 <name_ru>Набор игрушек Морозные узоры (0448j)</name_ru>
 <description_ua>Тематична іграшка використовується для декору, прикраси ялинки, на гілках новорічного дерева – створюючи відповідний настрій. В іграшці передбачено наскрізний отвір під нитку, що використовується для традиційного закріплення новорічної іграшки на гілці. Пухнаста іграшка, яка додасть унікального стилю вашому святу.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02091" available="true">
 <price>129</price>
@@ -308474,7 +308474,7 @@ _x000D_
 <name_ua>Набір новорічних прикрас Крокембуш 17 см 3 шт. (6017-073)</name_ua>
 <name_ru>Набор новогодних украшений Крокембуш 17 см 3 шт. (6017-073)</name_ru>
 <description_ua>Новорічний декор є невід'ємним атрибутом зимових свят. Елегантний та естетичний декор додасть елегантності та вишуканості інтер'єру, а також подарує святковий настрій.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02411" available="true">
 <price>584</price>
@@ -309860,7 +309860,7 @@ _x000D_
 <description_ua>Висота - 8 см, діаметр - 3 см. В упаковці 12 шт. Батарейки у комплекті. Свічки LED — ідеальний акцент для створення моторошної, але атмосферної подачі в декорі. Свічки випромінюють холодне синє світло та тепле помаранчеве, що чудово пасує до тематичних вечірок, вітрин, фотозон і святкового сервірування. Оригінальний дизайн робить їх справжнім хелловінським must-have. Можна використовувати багаторазово. Цей аксесуар допоможе швидко й недорого перетворити будь-яке приміщення на атмосферну локацію напередодні Хелловіна — він однаково доречний і для домашньої вечірки, і для оформлення кафе, магазину чи офісу. Легко поєднується з іншим тематичним декором, не потребує складного монтажу і займає мало місця при зберіганні між святами.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="9242-015" available="true">
+<offer id="9242-015" available="false">
 <price>234</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
@@ -309871,7 +309871,7 @@ _x000D_
 <vendorCode>9242-015</vendorCode>
 <name_ua>Світлодіодні свічки (LED) "Крипта жаху", 20 см * Рандомний  вибір дизайну (9242-015)</name_ua>
 <description_ua>Висота - 20 см, діаметр - 2,5 см. Батарейки у комплекті. Свічки LED — ідеальний акцент для створення моторошної, але атмосферної подачі в декорі. Свічки випромінюють м’яке тепле світло, що чудово пасує до тематичних вечірок, вітрин, фотозон і святкового сервірування. Оригінальний дизайн робить їх справжнім хелловінським must-have. Можна використовувати багаторазово. Цей аксесуар допоможе швидко й недорого перетворити будь-яке приміщення на атмосферну локацію напередодні Хелловіна — він однаково доречний і для домашньої вечірки, і для оформлення кафе, магазину чи офісу. Легко поєднується з іншим тематичним декором, не потребує складного монтажу і займає мало місця при зберіганні між святами.</description_ua>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="9242-016" available="true">
 <price>117</price>
@@ -310444,7 +310444,7 @@ _x000D_
 <description_ua>Висота — 55 см, ширина 50 см. Створіть справжню атмосферу містичного жаху та загадковості на Гелловін за допомогою цієї ефектної підвісної декорації. Виріб виконаний у вигляді моторошного привида у чорному балахоні з реалістичною маскою та скелетними руками, який чудово лякає і водночас привертає увагу. Така прикраса ідеально підійде для оформлення вхідної зони, кімнати, вечірки чи створення атмосферної фотозони. Додайте своєму святу яскравих емоцій та незабутнього містичного стилю! Цей аксесуар допоможе швидко й недорого перетворити будь-яке приміщення на атмосферну локацію напередодні Хелловіна — він однаково доречний і для домашньої вечірки, і для оформлення кафе, магазину чи офісу. Легко поєднується з іншим тематичним декором, не потребує складного монтажу і займає мало місця при зберіганні між святами.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="9406-014" available="true">
+<offer id="9406-014" available="false">
 <price>253</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
@@ -310454,7 +310454,7 @@ _x000D_
 <vendorCode>9406-014</vendorCode>
 <name_ua>Декоративний підвісний привид, 70 см * Рандомний вибір дизайну (9406-014)</name_ua>
 <description_ua>Висота — 70 см, ширина — 64 см. Створіть по—справжньому моторошну та захопливу атмосферу завдяки цьому ефектному підвісному привиду. Виріб виконаний у вигляді постаті у струменистому вбранні з культовою лячною маскою та деталізованими кістлявими руками. Декор чудово підійде для оформлення дверних проходів, стін, тераси або створення атмосферної фотозони на Гелловін. Пориньте у містичну ніч та здивуйте своїх гостей незабутнім святковим оформленням! Цей аксесуар допоможе швидко й недорого перетворити будь-яке приміщення на атмосферну локацію напередодні Хелловіна — він однаково доречний і для домашньої вечірки, і для оформлення кафе, магазину чи офісу. Легко поєднується з іншим тематичним декором, не потребує складного монтажу і займає мало місця при зберіганні між святами.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="9406-015" available="true">
 <price>206</price>
@@ -311058,7 +311058,7 @@ _x000D_
 <description_ua>Блюдо для запікання Porland 602922/T Turquoise 17 см порцелянове — форма для запікання та випікання в духовці. Порцелянова страва для запікання Porland 602922/T Turquoise 17 см Porland — світовий лідер у виробництві виробів із фарфору, заснований у Туреччині. Найважливішою особливістю порцеляни Porland можна назвати сировину та тугоплавку глазур Feldspatic. Матеріал добувають із ретельно відібраного каоліну й алюмінію. Предмети з матеріалу ALUMILITE дійсно є унікальними. Ця тверда пастоподібний фарфор має стійку кольорову глазур. Якість порцеляни Porland підтверджена сертифікатом якості Британського інституту стандартів. Переваги посуду Porland: інноваційний склад глазурі захищає від подряпин; не вицвітає й зберігає насиченість фарб; можна використовувати в мікрохвильовій печі; можна мити в посудомийній машині. Матеріал рівномірно розподіляє тепло, страви пропікаються без підгоряння. Підходить для духовки та мікрохвильової печі (див. характеристики), у такій формі можна подавати страву на стіл. Форма: Овальна Матеріал: Порцеляна Діаметр: 17 мм Колір: Бірюзовий Тематика декору, малюнка: Без декору Підходить для миття в посудомийній машині: Так Використання в мікрохвильовій печі: Так Зберігання в холодильнику: Так Зберігання в морозильній камері: Так Країна виробник: Туреччина Багаторівнева: Ні Артикул: 602922/T Догляд: не ставити гарячу форму на холодну поверхню, уникати різкого перепаду температури.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02266" available="false">
+<offer id="RU02266" available="true">
 <price>282</price>
 <currencyId>UAH</currencyId>
 <categoryId>1285</categoryId>
@@ -315764,7 +315764,7 @@ _x000D_
 <description_ua>Матеріал: меланж тканина&amp;nbsp; Сумка через плече&amp;nbsp;для ноутбука&amp;nbsp; Розміри: висота 29 см, ширина 39 см, ширина дна 6 см Наявність регульованого плечового ременя Призначення: унісекс Колір: чорний</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005673" available="true">
+<offer id="MN000005673" available="false">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1148</categoryId>
@@ -316891,7 +316891,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина&amp;nbsp; Сумка дорожня розширювана з&amp;nbsp;роздільним відділенням для вологих та сухих речей Розміри: висота 28 + 10 см, довжина 46 см, ширина дна 21 см Призначення: жіноча Наявність довгих ручок,&amp;nbsp;наявність регульованого плечового ременя Є відділ для взуття Колір: бузковий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000004084" available="true">
+<offer id="MN000004084" available="false">
 <price>1005</price>
 <currencyId>UAH</currencyId>
 <categoryId>1144</categoryId>
@@ -321540,7 +321540,7 @@ _x000D_
 <description_ua>Матеріал: екошкіра&amp;nbsp; Тип сумки: крос - боді Розміри: висота 11 см, ширина 19 см, ширина бічна 7 см Призначення: жіноча Наявність плечового ременя, наявність короткої ручки Колір: чорний</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000003617" available="false">
+<offer id="MN000003617" available="true">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -322158,7 +322158,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина&amp;nbsp; Сумка барсетка WEPOWER&amp;nbsp;через плече горизонтальна Розміри:&amp;nbsp;висота 26 см, ширина 38 см, ширина дна 14 см Наявність регульованого плечового ременя Призначення: чоловіча Водовідштовхувальна Сумка містить кишені Колір: сірий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000004218" available="false">
+<offer id="MN000004218" available="true">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -322184,7 +322184,7 @@ _x000D_
 <description_ua>Матеріал: водонепроникна&amp;nbsp;композитна мембранна тканина&amp;nbsp; Сумка - месенджер WEPOWER нагрудна високого класу Розміри:&amp;nbsp;висота 31 см, ширина 20 см, ширина дна 10 см Наявність регульованого плечового ременя, наявність ручки Призначення: чоловіча Водонепроникна Колір: бежевий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000004222" available="true">
+<offer id="MN000004222" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -322265,7 +322265,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Сумка WEPOWER через плече&amp;nbsp; Розміри:&amp;nbsp;висота 30 см, ширина 26 см, ширина дна 10 см Наявність регульованого плечового ременя Призначення: унісекс Водовідштовхувальна Колір: зелена</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000004230" available="true">
+<offer id="MN000004230" available="false">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -322883,7 +322883,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Сумка через плече для мобільного телефона Розміри:&amp;nbsp;висота 13 см, ширина 18 см, ширина бічна 6 см Наявність регульованого плечового ременя Призначення: жіноча Колір: чорний</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000004316" available="true">
+<offer id="MN000004316" available="false">
 <price>585</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -326356,7 +326356,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Сумка велика містка на плече Розміри: висота 26 см, ширина 35.5 см, ширина бічна 11.5 см Наявність довгих ручок Наявність бокових кишень Призначення: для жінок Колір: червона</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000004928" available="true">
+<offer id="MN000004928" available="false">
 <price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -327917,7 +327917,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;водонепроникна мембрана&amp;nbsp; Сумка - слінг нагрудна&amp;nbsp; Розміри: висота 29 см, ширина 18 см, ширина дна 6 см Наявність регульованого плечового ременя Є отвір для навушників Призначення: для чоловіків Колір: сірий</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000005721" available="true">
+<offer id="MN000005721" available="false">
 <price>555</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -327929,7 +327929,7 @@ _x000D_
 <name_ua>Сумка - слінг нагрудна через плече водонепроникна мембрана синій (LJL06-2)</name_ua>
 <name_ru>Сумка – слинг нагрудная через плечо водонепроницаемая мембрана синий (LJL06-2)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;водонепроникна мембрана&amp;nbsp; Сумка - слінг нагрудна&amp;nbsp; Розміри: висота 29 см, ширина 18 см, ширина дна 6 см Наявність регульованого плечового ременя Є отвір для навушників Призначення: для чоловіків Колір: синій</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="MN000005722" available="false">
 <price>555</price>
@@ -329049,7 +329049,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Сумка через плече високоякісна, модна Розміри: висота 28 см, ширина 31 см, ширина бічна 11 см Наявність чималої кількості кишень Наявність довгих ручок, плечового ременя Призначення: для жінок Колір: червоний</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000006145" available="true">
+<offer id="MN000006145" available="false">
 <price>735</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -329062,7 +329062,7 @@ _x000D_
 <name_ua>Сумка жіноча через плече високоякісна, модна біла (Y9662-3)</name_ua>
 <name_ru>Сумка женская через плечо высококачественная, модная белая (Y9662-3)</name_ru>
 <description_ua>Матеріал: нейлонова тканина Сумка через плече високоякісна, модна Розміри: висота 28 см, ширина 31 см, ширина бічна 11 см Наявність чималої кількості кишень Наявність довгих ручок, плечового ременя Призначення: для жінок Колір: білий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="MN000006146" available="true">
 <price>735</price>
@@ -329549,7 +329549,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 24 см, ширина 26 см, ширина бічна 10 см Наявність довгих ручок Призначення: для жінок Колір: чорний</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000006187" available="true">
+<offer id="MN000006187" available="false">
 <price>1155</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -329575,7 +329575,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 24 см, ширина 26 см, ширина бічна 10 см Наявність довгих ручок Призначення: для жінок Колір: карамельний</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000006189" available="true">
+<offer id="MN000006189" available="false">
 <price>1155</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -329588,7 +329588,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 24 см, ширина 26 см, ширина бічна 10 см Наявність довгих ручок Призначення: для жінок Колір: коричневий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000006191" available="true">
+<offer id="MN000006191" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -329599,9 +329599,9 @@ _x000D_
 <name_ua>Сумка клатч жіноча через плече стильна бежева (K1616-5)</name_ua>
 <name_ru>Сумка клатч женская через плечо стильная бежевая (K1616-5)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 16 см, ширина 24 см, ширина бічна 6 см Наявність регульованого плечевого ременя, довжина 120 см Призначення: для жінок Колір: бежевий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000006192" available="true">
+<offer id="MN000006192" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -329613,9 +329613,9 @@ _x000D_
 <name_ua>Сумка клатч жіноча через плече стильна коричнева (K1616-4)</name_ua>
 <name_ru>Сумка клатч женская через плечо стильная коричневая (K1616-4)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 16 см, ширина 24 см, ширина бічна 6 см Наявність регульованого плечевого ременя, довжина 120 см Призначення: для жінок Колір: коричнева</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000006193" available="true">
+<offer id="MN000006193" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -329629,9 +329629,9 @@ _x000D_
 <name_ua>Сумка клатч жіноча через плече стильна чорна (K1616-3)</name_ua>
 <name_ru>Сумка клатч женская через плечо стильная черная (K1616-3)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 16 см, ширина 24 см, ширина бічна 6 см Наявність регульованого плечевого ременя, довжина 120 см Призначення: для жінок Колір: чорний</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000006194" available="true">
+<offer id="MN000006194" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -329642,7 +329642,7 @@ _x000D_
 <name_ua>Сумка клатч жіноча через плече стильна капучино (K1616-2)</name_ua>
 <name_ru>Сумка клатч женская через плечо стильная капучино (K1616-2)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;Екошкіра просунутий PU&amp;nbsp; Сумка через плече стильна Розміри: висота 16 см, ширина 24 см, ширина бічна 6 см Наявність регульованого плечевого ременя, довжина 120 см Призначення: для жінок Колір: капучино</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="MN000006195" available="true">
 <price>1065</price>
@@ -331249,7 +331249,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра просунута PU Сумка через плече базова, стильна Розміри: висота 19 см, ширина 22 см, ширина боковая 10 см. Наявність регульованого плечового ременя Призначення: для жінок Колір: блакитна</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000006347" available="true">
+<offer id="MN000006347" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331260,9 +331260,9 @@ _x000D_
 <name_ua>Сумка жіноча через плече базова стильна латте (C2721-2)</name_ua>
 <name_ru>Сумка женская через плечо базовая стильная латте (C2721-2)</name_ru>
 <description_ua>Матеріал: Екошкіра просунута PU Сумка через плече базова, стильна Розміри: висота 17.5 см, ширина 26 см, ширина боковая 10 см. Наявність регульованого плечового ременя Призначення: для жінок Колір: латте</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000006348" available="true">
+<offer id="MN000006348" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331273,7 +331273,7 @@ _x000D_
 <name_ua>Сумка жіноча через плече базова стильна чорна (C2721-3)</name_ua>
 <name_ru>Сумка женская через плечо базовая стильная черная (C2721-3)</name_ru>
 <description_ua>Матеріал: Екошкіра просунута PU Сумка через плече базова, стильна Розміри: висота 17.5 см, ширина 26 см, ширина боковая 10 см. Наявність регульованого плечового ременя Призначення: для жінок Колір: чорний</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="MN000006349" available="true">
 <price>960</price>
@@ -331354,7 +331354,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра просунута PU + замша Сумка через плече стильна, якісна Розміри: висота 20 см, ширина 29 см, ширина боковая 9.5 см. Наявність регульованого плечового ременя Призначення: для жінок Колір: коричнево - чорна</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="EA03855" available="false">
+<offer id="EA03855" available="true">
 <price>1485</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331436,7 +331436,7 @@ _x000D_
 <description_ua>Чоловіча сумка через плече виготовлена зі штучної шкіри. Практична модель із лаконічним дизайном підходить для повсякденного використання, роботи, прогулянок і поїздок. Сумка оснащена регульованим плечовим ременем і додатковою ручкою, завдяки чому її можна зручно носити через плече або в руці. Місткий формат дозволяє розмістити необхідні особисті речі. Модель вирізняється практичним дизайном і зручною конструкцією, тому підходить для повсякденного та ділового образу. Характеристики: Матеріал: штучна шкіра. Розмір: 25 × 21 × 7 см. Тип: сумка через плече. Модель: кросбоді. Призначення: чоловіча.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EA03865" available="false">
+<offer id="EA03865" available="true">
 <price>1455</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331452,7 +331452,7 @@ _x000D_
 <description_ua>Чоловіча сумка через плече виготовлена з натуральної шкіри. Компактна модель із лаконічним дизайном підходить для повсякденного використання, роботи, прогулянок і поїздок. Сумка оснащена регульованим плечовим ременем, який дозволяє зручно носити її через плече. Компактний розмір робить модель зручною для зберігання необхідних особистих речей. Практична конструкція та стриманий дизайн роблять сумку підходящою для повсякденного та ділового образу. Характеристики: Матеріал: натуральна шкіра. Розмір: 20 × 13 × 5 см. Тип: сумка через плече. Модель: кросбоді. Призначення: чоловіча.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EA03866" available="false">
+<offer id="EA03866" available="true">
 <price>1455</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -334181,7 +334181,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 12.5cm, ширина 21см. Колір: Бежевий</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="H6121-1" available="true">
+<offer id="H6121-1" available="false">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -334191,9 +334191,9 @@ _x000D_
 <name_ua>Сумка сумка через плече (H6121-1) хакі</name_ua>
 <name_ru>Сумка сумка через плечо (H6121-1) хаки</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 13.5cm, ширина 20см. Колір: Хакі</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="H6121-2" available="true">
+<offer id="H6121-2" available="false">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -334203,9 +334203,9 @@ _x000D_
 <name_ua>Сумка сумка через плече (H6121-2) хакі</name_ua>
 <name_ru>Сумка сумка через плечо (H6121-2) хаки</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 13.5cm, ширина 20см. Колір: Хакі</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="H6121-3" available="true">
+<offer id="H6121-3" available="false">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -334215,9 +334215,9 @@ _x000D_
 <name_ua>Сумка сумка через плече (H6121-3) хакі</name_ua>
 <name_ru>Сумка сумка через плечо (H6121-3) хаки</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 13.5cm, ширина 20см. Колір: Хакі</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="H6121-4" available="true">
+<offer id="H6121-4" available="false">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -334227,7 +334227,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (H6121-4) хакі</name_ua>
 <name_ru>Сумка сумка через плечо (H6121-4) хаки</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 13.5cm, ширина 20см. Колір: Хакі</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="H6121-5" available="true">
 <price>885</price>
@@ -334421,7 +334421,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 14.5cm, ширина 10，5 см. Колір: Хакі</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="H9069-4" available="false">
+<offer id="H9069-4" available="true">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -334541,7 +334541,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 9cm, ширина 22 см. Колір: Коричневий</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="H8399-1" available="false">
+<offer id="H8399-1" available="true">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -334769,7 +334769,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 16 cm, ширина 24см. Колір: Хакі</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="H3361-2" available="true">
+<offer id="H3361-2" available="false">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -334779,7 +334779,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (H3361-2) сірий</name_ua>
 <name_ru>Сумка сумка через плечо (H3361-2) серый</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 16 cm, ширина 24см. Колір: Сірий</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="H3361-3" available="true">
 <price>885</price>
@@ -335489,7 +335489,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 12.5cm, ширина 23 см. Колір: Сірий</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="Y3037-2" available="true">
+<offer id="Y3037-2" available="false">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -335499,7 +335499,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (Y3037-2) бежевий</name_ua>
 <name_ru>Сумка сумка через плечо (Y3037-2) бежевый</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 22cm, ширина 10 см. Колір: Бежевий</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="Y3037-3" available="true">
 <price>855</price>
@@ -335513,7 +335513,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 22cm, ширина 10 см. Колір: Сірий</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="Y3037-4" available="true">
+<offer id="Y3037-4" available="false">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -335523,7 +335523,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (Y3037-4) хакі</name_ua>
 <name_ru>Сумка сумка через плечо (Y3037-4) хаки</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 22cm, ширина 10 см. Колір: Хакі</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="Y6038-1" available="true">
 <price>855</price>
@@ -335621,7 +335621,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 26.5cm, ширина 24 см. Колір: Темно-сірий</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="Y9996-1" available="true">
+<offer id="Y9996-1" available="false">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -335631,7 +335631,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (Y9996-1) хакі</name_ua>
 <name_ru>Сумка сумка через плечо (Y9996-1) хаки</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 14cm, ширина 16 см. Колір: Хакі</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="Y9996-2" available="true">
 <price>855</price>
@@ -339305,7 +339305,7 @@ _x000D_
 <description_ua>Матеріал: екошкіра просунутий PU&amp;nbsp; Гаманець стильний, модний Розміри: висота 10 см, ширина 19.5 см, ширина бічна 3.5 см З відділеннями для карток З подвійною блискавкою Призначення: для жінок Колір: блакитний</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005596" available="false">
+<offer id="MN000005596" available="true">
 <price>495</price>
 <currencyId>UAH</currencyId>
 <categoryId>1187</categoryId>
@@ -343353,7 +343353,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак міський стильний Розміри: висота 40 см, ширина 30 см, ширина дна 13 см Наявність регульованих плечових ременів Рюкзак містить бокові кишені Призначення: жіночий Колір: кораловий</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="MN000005010" available="false">
+<offer id="MN000005010" available="true">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -343368,7 +343368,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак міський стильний Розміри: висота 39 см, ширина 28 см, ширина дна 15 см. Наявність регульованих плечових ременів Рюкзак містить бокові кишені. Призначення: жіночий Колір: різнокольоровий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005011" available="false">
+<offer id="MN000005011" available="true">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -343383,7 +343383,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак міський стильний Розміри: висота 39 см, ширина 28 см, ширина дна 15 см. Наявність регульованих плечових ременів Рюкзак містить бокові кишені. Призначення: жіночий Колір: різнокольоровий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005012" available="false">
+<offer id="MN000005012" available="true">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -343398,7 +343398,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак міський стильний Розміри: висота 39 см, ширина 28 см, ширина дна 15 см Наявність регульованих плечових ременів Рюкзак містить бокові кишені Призначення: жіночий Колір: різнобарвний</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005013" available="false">
+<offer id="MN000005013" available="true">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -349452,7 +349452,7 @@ _x000D_
 <description_ua>Практичний рюкзак для щоденного використання, навчання та подорожей. Має відділення для ноутбука. Виготовлений з водовідштовхувального матеріалу.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000003957" available="false">
+<offer id="MN000003957" available="true">
 <price>1230</price>
 <currencyId>UAH</currencyId>
 <categoryId>1144</categoryId>
@@ -349847,7 +349847,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="С238-13" available="false">
-<price>999</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1148</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i101334572-a97bb7653a1eddd56cc1aca5b144788e-1741607060856.jpg</picture>
@@ -349902,7 +349902,7 @@ _x000D_
 <description_ua>підходить для документів А4; підходить для ноутбука до&amp;nbsp;15-15,6"&amp;nbsp;дюймів; водонепроникний кейс для лептопу Матеріал: Mеланж тканина Розміри: висота&amp;nbsp;25.5 см.ширина&amp;nbsp;36.5 см&amp;nbsp;.дном ширина&amp;nbsp;6.5 см Представляємо Вам велику нейлоновусумку для ноутбука, макбука та планшета. Ця жіноча та чоловіча сумка містить окремі відділення для документів та аксесуарів, що дозволяє легко та зручно розмістити всі необхідні дрібниці та комп'ютерні гаджети. Даний кейс є відмінним вибором як для студентів, так і для професіоналів в офісі. Вона включає головне відділення для ноутбука&amp;nbsp;15-15,6"дюймів та зовнішню кишеню для заряджання, мишки та інших аксесуарів. Крім того, дана модна сумка також має легкий та плоский дизайн, який зручно носити через плече. Виготовлена з міцного та водонепроникного матеріалу, вона захистить ваші речі від вологи та дощу у будь-яких погодних умовах. Якщо ви шукаєте стильну, м'яку та молодіжну сумку для нетбука, то наш варіант є ідеальним вибором. Цей чохол-органайзер підійде як для підлітків до школи, так і для дорослих в офіс. Купуйте вже сьогодні та насолоджуйтесь своїм ідеальним вибором. Наш портфель-сумка для macbook призначений для дівчат та хлопців в офіс, на ділові зустрічі, а також його можна використовувати як дорожній для перельотів та подорожей, тим більше папка має спеціальне кріплення для валізи. Ця м'яка сумка ідеально підійде для найцікавіших особистостей. Одночасно в сумці можна розмістити ультрабук, документи формату А4, а також кишені для iPad Pro 13 дюймів, Apple gadgets та інших гаджетів та дрібниць для офісної роботи чи навчання. Тканинна папка з ручками також оснащена довгим плечовим ременем для зручного носіння. Ця сумка має стильний та вишуканий дизайн, виконаний з використанням матеріалів високої якості. Його головний відсік із блискавкою забезпечує легкий доступ усередину. Чохол для ноута буде чудовим презентом на будь-яку урочистість і для будь-якої людини, адже майже у кожного нашого часу є ноутбук, айпад або планшет. Подарувати сумку можна школяру на день народження, коханій вчительці на новий рік, студенту або дорослій людині для робочих поїздок.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="С196-1" available="false">
+<offer id="С196-1" available="true">
 <price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1148</categoryId>
@@ -353575,7 +353575,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:нейлонова тканина Розміри: Рюкзак,висота 43 см, ширина 27 cm Ширина дно 18 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK08379" available="false">
+<offer id="OK08379" available="true">
 <price>713</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -353589,7 +353589,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:нейлонова тканина Розміри: Рюкзак,висота 39 см, ширина 28 cm Ширина дно 15 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK08380" available="false">
+<offer id="OK08380" available="true">
 <price>713</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -353602,7 +353602,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:нейлонова тканина Розміри: Рюкзак,висота 39 см, ширина 28 cm Ширина дно 15 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK08381" available="false">
+<offer id="OK08381" available="true">
 <price>713</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -353615,7 +353615,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:нейлонова тканина Розміри: Рюкзак,висота 39 см, ширина 28 cm Ширина дно 15 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK08382" available="false">
+<offer id="OK08382" available="true">
 <price>713</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -355433,7 +355433,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал:тканина Оксфорд Розміри: висота 46 см, ширина 32 cm Ширина дно 14 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK08314" available="false">
+<offer id="OK08314" available="true">
 <price>1185</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -357727,7 +357727,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра PU Виробник: Китай Розміри висота 13,5 см, ширина 20 см.Ширина бічний 6,5 cм&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK08608" available="true">
+<offer id="OK08608" available="false">
 <price>630</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -357739,7 +357739,7 @@ _x000D_
 <name_ua>Жіноча сумка клатч через плече 6136-1</name_ua>
 <name_ru>Женская сумка клатч через плечо  6136-1</name_ru>
 <description_ua>Матеріал: Екошкіра PU Виробник: Китай Розміри висота 13,5 см, ширина 21,5 см.Ширина бічний 7,5 cм&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK08619" available="true">
 <price>1335</price>
@@ -360669,7 +360669,7 @@ _x000D_
 <description_ua>Серветка ПВХ для сервірування — це практичний і стильний аксесуар для кухні та столу, виготовлений із полівінілхлориду (ПВХ). Вона використовується як захисний елемент під посуд, прибори чи декоративні елементи, а також додає акуратний вигляд сервіровці. Переваги серветки ПВХ для сервірування: легка у догляді: поверхню просто протирати вологою серветкою водостійка: не вбирає рідину і не просочується захищає стіл: запобігає появі плям, подряпин та слідів від посуду стійка до бруду: легко очищується навіть після використання естетична: доповнює стиль сервірування столу довговічна: не зношується швидко Для чого використовувати: сервірувати стіл під тарілки, прибори, склянки захищати поверхню столу від гарячих посудин і плям підкладати під сервірувальні набори або декор використовувати під час прийому гостей, святкових обідів і вечерь створювати тематичні композиції на святковому столі</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN001337" available="false">
+<offer id="NN001337" available="true">
 <price>478</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -360681,7 +360681,7 @@ _x000D_
 <description_ua>Серветка ПВХ для сервірування — це практичний і стильний аксесуар для кухні та столу, виготовлений із полівінілхлориду (ПВХ). Вона використовується як захисний елемент під посуд, прибори чи декоративні елементи, а також додає акуратний вигляд сервіровці. Переваги серветки ПВХ для сервірування: легка у догляді: поверхню просто протирати вологою серветкою водостійка: не вбирає рідину і не просочується захищає стіл: запобігає появі плям, подряпин та слідів від посуду стійка до бруду: легко очищується навіть після використання естетична: доповнює стиль сервірування столу довговічна: не зношується швидко Для чого використовувати: сервірувати стіл під тарілки, прибори, склянки захищати поверхню столу від гарячих посудин і плям підкладати під сервірувальні набори або декор використовувати під час прийому гостей, святкових обідів і вечерь створювати тематичні композиції на святковому столі</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN001338" available="false">
+<offer id="NN001338" available="true">
 <price>478</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -361315,7 +361315,7 @@ _x000D_
 <description_ua>Тарілка дитяча пластикова — це практичний і безпечний посуд, виготовлений із високоякісного харчового пластику, такого як поліпропілен або полікарбонат, який не б’ється і підходить для дітей від 6 місяців.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01627" available="true">
+<offer id="OS01627" available="false">
 <price>1226</price>
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
@@ -361325,7 +361325,7 @@ _x000D_
 <name_ua>Посуд дитячий силіконовий 6пр/наб (MA-4906)</name_ua>
 <name_ru>Посуда детская силиконовая 6пр/наб (MA-4906)</name_ru>
 <description_ua>До набору входить: виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт Матеріал: силікон Упаковка: пакет</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01628" available="true">
 <price>1190</price>
@@ -379605,7 +379605,7 @@ _x000D_
 <description_ua>Подарунковий паперовий пакет – це стильне та зручне рішення для оформлення подарунків. Міцний папір забезпечує надійність, а елегантний дизайн додає святковості будь-якому презенту. Ідеально підходить для різних подій – від дня народження до офіційних урочистостей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000535" available="true">
+<offer id="NN000535" available="false">
 <price>58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1367</categoryId>
@@ -379615,9 +379615,9 @@ _x000D_
 <name_ua>Пакет подарунковий паперовий S "Best friends" 18*23*10см R98337-S</name_ua>
 <name_ru>Пакет подарочный бумажный S "Best friends" 18*23*10см R98337-S</name_ru>
 <description_ua>Подарунковий паперовий пакет – це стильне та зручне рішення для оформлення подарунків. Міцний папір забезпечує надійність, а елегантний дизайн додає святковості будь-якому презенту. Ідеально підходить для різних подій – від дня народження до офіційних урочистостей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000536" available="true">
+<offer id="NN000536" available="false">
 <price>58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1367</categoryId>
@@ -379627,9 +379627,9 @@ _x000D_
 <name_ua>Пакет подарунковий паперовий S "Best friends" 18*23*10см R98337-S</name_ua>
 <name_ru>Пакет подарочный бумажный S "Best friends" 18*23*10см R98337-S</name_ru>
 <description_ua>Подарунковий паперовий пакет – це стильне та зручне рішення для оформлення подарунків. Міцний папір забезпечує надійність, а елегантний дизайн додає святковості будь-якому презенту. Ідеально підходить для різних подій – від дня народження до офіційних урочистостей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000537" available="true">
+<offer id="NN000537" available="false">
 <price>58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1367</categoryId>
@@ -379639,9 +379639,9 @@ _x000D_
 <name_ua>Пакет подарунковий паперовий S "Best friends" 18*23*10см R98337-S</name_ua>
 <name_ru>Пакет подарочный бумажный S "Best friends" 18*23*10см R98337-S</name_ru>
 <description_ua>Подарунковий паперовий пакет – це стильне та зручне рішення для оформлення подарунків. Міцний папір забезпечує надійність, а елегантний дизайн додає святковості будь-якому презенту. Ідеально підходить для різних подій – від дня народження до офіційних урочистостей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000538" available="true">
+<offer id="NN000538" available="false">
 <price>58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1367</categoryId>
@@ -379651,7 +379651,7 @@ _x000D_
 <name_ua>Пакет подарунковий паперовий S "Best friends" 18*23*10см R98337-S</name_ua>
 <name_ru>Пакет подарочный бумажный S "Best friends" 18*23*10см R98337-S</name_ru>
 <description_ua>Подарунковий паперовий пакет – це стильне та зручне рішення для оформлення подарунків. Міцний папір забезпечує надійність, а елегантний дизайн додає святковості будь-якому презенту. Ідеально підходить для різних подій – від дня народження до офіційних урочистостей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000547" available="true">
 <price>49</price>
@@ -380291,7 +380291,7 @@ _x000D_
 <description_ua>Набір силіконових форм для випічки у вигляді ведмедиків Stenson MH-3037 — чудовий вибір для створення оригінальних десертів для дітей і дорослих. Завдяки харчовому силікону форми витримують високі температури, не вбирають запахи та забезпечують легке виймання випічки. Форми підходять для духовки, мікрохвильової печі та морозильної камери. Компактний розмір і милий дизайн роблять їх ідеальними для приготування порційних кексів, желе або домашніх ласощів. Характеристики: Тип: форма для випічки Форма: ведмедик Розмір: 17×15×3 см Матеріал: харчовий силікон Температурний режим: від -40°C до +230°C Використання в мікрохвильовці: так Конструкція: цільна Легко миється, займає мало місця при зберіганні</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN001384" available="true">
+<offer id="NN001384" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1116</categoryId>
@@ -380301,9 +380301,9 @@ _x000D_
 <name_ua>Формочки паперові для кексів "Orange" 12шт/уп d4.5*3см, R97450, Жовтий</name_ua>
 <name_ru>Формочки бумажные для кексов "Orange" 12шт/уп d4.5*3см, R97450, Желтый</name_ru>
 <description_ua>Формочки паперові для кексів — це практичний та зручний аксесуар для випікання, який допомагає надати десертам акуратну форму та привабливий вигляд. Вони ідеально підходять для приготування кексів, мафінів, капкейків та інших порційних виробів. Паперові формочки виготовлені з термостійкого харчового паперу, не потребують змащування та легко відокремлюються від готової випічки. Завдяки цьому кекси зберігають форму, не прилипають і виглядають естетично при подачі. Переваги: підходять для використання в духовці не потребують змащування легко знімаються з готової випічки забезпечують охайний зовнішній вигляд зручні для транспортування та сервірування економлять час на прибиранні Для чого використовувати: випікання кексів, мафінів, капкейків порційні десерти для свят і заходів домашня та професійна кондитерська справа</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN001385" available="true">
+<offer id="NN001385" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1116</categoryId>
@@ -380313,9 +380313,9 @@ _x000D_
 <name_ua>Формочки паперові для кексів "Orange" 12шт/уп d4.5*3см, R97450, Червоний</name_ua>
 <name_ru>Формочки бумажные для кексов "Orange" 12шт/уп d4.5*3см, R97450, Красный</name_ru>
 <description_ua>Формочки паперові для кексів — це практичний та зручний аксесуар для випікання, який допомагає надати десертам акуратну форму та привабливий вигляд. Вони ідеально підходять для приготування кексів, мафінів, капкейків та інших порційних виробів. Паперові формочки виготовлені з термостійкого харчового паперу, не потребують змащування та легко відокремлюються від готової випічки. Завдяки цьому кекси зберігають форму, не прилипають і виглядають естетично при подачі. Переваги: підходять для використання в духовці не потребують змащування легко знімаються з готової випічки забезпечують охайний зовнішній вигляд зручні для транспортування та сервірування економлять час на прибиранні Для чого використовувати: випікання кексів, мафінів, капкейків порційні десерти для свят і заходів домашня та професійна кондитерська справа</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN001386" available="true">
+<offer id="NN001386" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1116</categoryId>
@@ -380325,9 +380325,9 @@ _x000D_
 <name_ua>Формочки паперові для кексів "Orange" 12шт/уп d4.5*3см, R97450, Блакитний</name_ua>
 <name_ru>Формочки бумажные для кексов "Orange" 12шт/уп d4.5*3см, R97450, Голубой</name_ru>
 <description_ua>Формочки паперові для кексів — це практичний та зручний аксесуар для випікання, який допомагає надати десертам акуратну форму та привабливий вигляд. Вони ідеально підходять для приготування кексів, мафінів, капкейків та інших порційних виробів. Паперові формочки виготовлені з термостійкого харчового паперу, не потребують змащування та легко відокремлюються від готової випічки. Завдяки цьому кекси зберігають форму, не прилипають і виглядають естетично при подачі. Переваги: підходять для використання в духовці не потребують змащування легко знімаються з готової випічки забезпечують охайний зовнішній вигляд зручні для транспортування та сервірування економлять час на прибиранні Для чого використовувати: випікання кексів, мафінів, капкейків порційні десерти для свят і заходів домашня та професійна кондитерська справа</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN001387" available="true">
+<offer id="NN001387" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1116</categoryId>
@@ -380337,9 +380337,9 @@ _x000D_
 <name_ua>Формочки паперові для кексів "Orange" 12шт/уп d4.5*3см, R97450, Зелений</name_ua>
 <name_ru>Формочки бумажные для кексов "Orange" 12шт/уп d4.5*3см, R97450, Зеленый</name_ru>
 <description_ua>Формочки паперові для кексів — це практичний та зручний аксесуар для випікання, який допомагає надати десертам акуратну форму та привабливий вигляд. Вони ідеально підходять для приготування кексів, мафінів, капкейків та інших порційних виробів. Паперові формочки виготовлені з термостійкого харчового паперу, не потребують змащування та легко відокремлюються від готової випічки. Завдяки цьому кекси зберігають форму, не прилипають і виглядають естетично при подачі. Переваги: підходять для використання в духовці не потребують змащування легко знімаються з готової випічки забезпечують охайний зовнішній вигляд зручні для транспортування та сервірування економлять час на прибиранні Для чого використовувати: випікання кексів, мафінів, капкейків порційні десерти для свят і заходів домашня та професійна кондитерська справа</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN001388" available="true">
+<offer id="NN001388" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1116</categoryId>
@@ -380349,9 +380349,9 @@ _x000D_
 <name_ua>Формочки паперові для кексів "Orange" 12шт/уп d4.5*3см, R97450, Фіолетовий</name_ua>
 <name_ru>Формочки бумажные для кексов "Orange" 12шт/уп d4.5*3см, R97450, Фиолетовый</name_ru>
 <description_ua>Формочки паперові для кексів — це практичний та зручний аксесуар для випікання, який допомагає надати десертам акуратну форму та привабливий вигляд. Вони ідеально підходять для приготування кексів, мафінів, капкейків та інших порційних виробів. Паперові формочки виготовлені з термостійкого харчового паперу, не потребують змащування та легко відокремлюються від готової випічки. Завдяки цьому кекси зберігають форму, не прилипають і виглядають естетично при подачі. Переваги: підходять для використання в духовці не потребують змащування легко знімаються з готової випічки забезпечують охайний зовнішній вигляд зручні для транспортування та сервірування економлять час на прибиранні Для чого використовувати: випікання кексів, мафінів, капкейків порційні десерти для свят і заходів домашня та професійна кондитерська справа</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN001389" available="true">
+<offer id="NN001389" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1116</categoryId>
@@ -380361,9 +380361,9 @@ _x000D_
 <name_ua>Формочки паперові для кексів "Orange" 12шт/уп d4.5*3см, R97450, Рожевий</name_ua>
 <name_ru>Формочки бумажные для кексов "Orange" 12шт/уп d4.5*3см, R97450, Розовый</name_ru>
 <description_ua>Формочки паперові для кексів — це практичний та зручний аксесуар для випікання, який допомагає надати десертам акуратну форму та привабливий вигляд. Вони ідеально підходять для приготування кексів, мафінів, капкейків та інших порційних виробів. Паперові формочки виготовлені з термостійкого харчового паперу, не потребують змащування та легко відокремлюються від готової випічки. Завдяки цьому кекси зберігають форму, не прилипають і виглядають естетично при подачі. Переваги: підходять для використання в духовці не потребують змащування легко знімаються з готової випічки забезпечують охайний зовнішній вигляд зручні для транспортування та сервірування економлять час на прибиранні Для чого використовувати: випікання кексів, мафінів, капкейків порційні десерти для свят і заходів домашня та професійна кондитерська справа</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN001390" available="true">
+<offer id="NN001390" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1116</categoryId>
@@ -380373,7 +380373,7 @@ _x000D_
 <name_ua>Формочки паперові для кексів "Orange" 12шт/уп d4.5*3см, R97450, Чорний</name_ua>
 <name_ru>Формочки бумажные для кексов "Orange" 12шт/уп d4.5*3см, R97450, Черный</name_ru>
 <description_ua>Формочки паперові для кексів — це практичний та зручний аксесуар для випікання, який допомагає надати десертам акуратну форму та привабливий вигляд. Вони ідеально підходять для приготування кексів, мафінів, капкейків та інших порційних виробів. Паперові формочки виготовлені з термостійкого харчового паперу, не потребують змащування та легко відокремлюються від готової випічки. Завдяки цьому кекси зберігають форму, не прилипають і виглядають естетично при подачі. Переваги: підходять для використання в духовці не потребують змащування легко знімаються з готової випічки забезпечують охайний зовнішній вигляд зручні для транспортування та сервірування економлять час на прибиранні Для чого використовувати: випікання кексів, мафінів, капкейків порційні десерти для свят і заходів домашня та професійна кондитерська справа</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN001391" available="true">
 <price>114</price>
@@ -381582,7 +381582,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь, пластик Упаковка:&amp;nbsp;блістер Розміри:&amp;nbsp;12/24.17/28.5см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02344" available="true">
+<offer id="OS02344" available="false">
 <price>390</price>
 <currencyId>UAH</currencyId>
 <categoryId>1278</categoryId>
@@ -381592,7 +381592,7 @@ _x000D_
 <name_ua>Ножі кухонні "Flecks" 2пр/наб (R97601)</name_ua>
 <name_ru>Ножи кухонные "Flecks" 2пр/наб (R97601)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь, пластик Упаковка:&amp;nbsp;блістер Розміри:&amp;nbsp;14*36см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02360" available="true">
 <price>385</price>
@@ -385315,7 +385315,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;порцеляна Об'єм:&amp;nbsp;320мл Упаковка:&amp;nbsp;подарункова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02094" available="true">
+<offer id="OS02094" available="false">
 <price>598</price>
 <currencyId>UAH</currencyId>
 <categoryId>1216</categoryId>
@@ -385325,7 +385325,7 @@ _x000D_
 <name_ua>Чашки на підставці "Just for you!" 5пр/наб (R93952)</name_ua>
 <name_ru>Чашки на подставке "Just for you!" 5пр/наб (R93952)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;кераміка, метал Об'єм:&amp;nbsp;220мл Упаковка:&amp;nbsp;коробка Kraft</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02101" available="true">
 <price>490</price>
@@ -385375,7 +385375,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;кераміка Об'єм:&amp;nbsp;230мл Упаковка:&amp;nbsp;коробка з кришкою ПВХ</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02106" available="true">
+<offer id="OS02106" available="false">
 <price>565</price>
 <currencyId>UAH</currencyId>
 <categoryId>1216</categoryId>
@@ -385384,7 +385384,7 @@ _x000D_
 <vendorCode>OS02106</vendorCode>
 <name_ua>Чашки "Paint" 4пр/наб (R37264)</name_ua>
 <description_ua>Матеріал:&amp;nbsp;порцеляна Об'єм:&amp;nbsp;350мл Упаковка:&amp;nbsp;подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02179" available="true">
 <price>522</price>
@@ -386545,7 +386545,7 @@ _x000D_
 <description_ua>Матеріал: нержавіюча сталь Упаковка: пакет Розміри:&amp;nbsp;20см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02673" available="true">
+<offer id="OS02673" available="false">
 <price>188</price>
 <currencyId>UAH</currencyId>
 <categoryId>1198</categoryId>
@@ -386555,7 +386555,7 @@ _x000D_
 <name_ua>Набір столових ложок SS "Chess" 6шт/наб (R82978)</name_ua>
 <name_ru>Набор столовых ложек SS "Chess" 6шт/наб (R82978)</name_ru>
 <description_ua>Матеріал: нержавіюча сталь Упаковка: пакет Розміри:&amp;nbsp;19.8см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02675" available="true">
 <price>198</price>
@@ -389251,7 +389251,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;порцеляна Розміри:&amp;nbsp;8" (20.5*20.5*3.5см) Упаковка:&amp;nbsp;біла коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02515" available="true">
+<offer id="OS02515" available="false">
 <price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -389261,7 +389261,7 @@ _x000D_
 <name_ua>Салатник скляний 2пр/наб (R10622)</name_ua>
 <name_ru>Салатник стеклянный 2пр/наб (R10622)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;скло Упаковка:&amp;nbsp;кольорова коробка Розміри:&amp;nbsp;d10/15см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02516" available="true">
 <price>212</price>
@@ -389287,7 +389287,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;скло Упаковка:&amp;nbsp;кольорова коробка Об'єм/Розміри:&amp;nbsp;220мл/5.5*11см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02518" available="true">
+<offer id="OS02518" available="false">
 <price>248</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -389297,7 +389297,7 @@ _x000D_
 <name_ua>Салатник скляний 2пр/наб (R10425)</name_ua>
 <name_ru>Салатник стеклянный 2пр/наб (R10425)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;скло Упаковка:&amp;nbsp;кольорова коробка Об'єм/Розміри:&amp;nbsp;300мл/5.5*11.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02519" available="true">
 <price>248</price>
@@ -391527,7 +391527,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;порцеляна Упаковка:&amp;nbsp;коробка з кришкою ПВХ Розміри:&amp;nbsp;9.5*9.5*4см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02699" available="true">
+<offer id="OS02699" available="false">
 <price>195</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
@@ -391537,7 +391537,7 @@ _x000D_
 <name_ua>Набір соусниць порцелянових 3шт/наб (R90579)</name_ua>
 <name_ru>Набор фарфоровых соусниц 3шт/наб (R90579)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;порцеляна Упаковка:&amp;nbsp;коробка з кришкою ПВХ Розміри:&amp;nbsp;7.5*7*3см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02701" available="true">
 <price>192</price>
@@ -394978,7 +394978,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000818" available="true">
+<offer id="NN000818" available="false">
 <price>170</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -394988,9 +394988,9 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 4шт/наб, R90713, Червоний</name_ua>
 <name_ru>Елочные шарики 6см 4шт/наб, R90713, Красный</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000819" available="true">
+<offer id="NN000819" available="false">
 <price>170</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -395000,7 +395000,7 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 4шт/наб, R90713, Рожевий</name_ua>
 <name_ru>Елочные шарики 6см 4шт/наб, R90713, Розовый</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000820" available="false">
 <price>170</price>
@@ -395891,7 +395891,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN001023" available="true">
+<offer id="NN001023" available="false">
 <price>1388</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -395901,7 +395901,7 @@ _x000D_
 <name_ua>Ялинкові кульки 3см "Блискітки" 200шт/уп, 9192R-3, Червоний</name_ua>
 <name_ru>Елочные шарики 3см "Блестки" 200шт/уп, 9192R-3, Красный</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN001024" available="true">
 <price>1388</price>
@@ -396527,7 +396527,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN001087" available="true">
+<offer id="NN001087" available="false">
 <price>1687</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -396537,7 +396537,7 @@ _x000D_
 <name_ua>Ялинкові кульки 6см "Мат" 100шт/уп, 9190W-6</name_ua>
 <name_ru>Елочные шарики 6см "Мат" 100шт/уп, 9190W-6</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN001089" available="true">
 <price>1687</price>
@@ -427131,7 +427131,7 @@ _x000D_
 <description_ua>Контейнер харчовий "Грація" 800 мл — це практичний пластиковий контейнер із герметичною кришкою, виготовлений із безпечного для здоров’я харчового пластику, ідеальний для зберігання та транспортування їжі. Він має компактні розміри, щільне закриття, що зберігає свіжість продуктів і запобігає витоку рідин, а також зручний для використання на роботі, у подорожах чи для зберігання в холодильнику.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000615" available="true">
+<offer id="NN000615" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1475</categoryId>
@@ -427141,7 +427141,7 @@ _x000D_
 <name_ua>Контейнер харчовий "Прайм" 400мл 11*11*5.5см PB-888</name_ua>
 <name_ru>Контейнер пищевой "Прайм" 400мл 11*11*5.5см PB-888</name_ru>
 <description_ua>Контейнер харчовий — це практичний пластиковий контейнер із герметичною кришкою, виготовлений із безпечного для здоров’я харчового пластику, ідеальний для зберігання та транспортування їжі. Він має компактні розміри, щільне закриття, що зберігає свіжість продуктів і запобігає витоку рідин, а також зручний для використання на роботі, у подорожах чи для зберігання в холодильнику.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NA00381" available="true">
 <price>1944</price>
@@ -431265,7 +431265,7 @@ _x000D_
 <description_ua>Коробка складана для зберігання речей 32*16*10см/16*16*10см/16*16*10см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06648" available="true">
+<offer id="RS06648" available="false">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1043</categoryId>
@@ -431275,9 +431275,9 @@ _x000D_
 <name_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см PB-963GR</name_ua>
 <name_ru>Корзина-органайзер для хранения овощей и фруктов Модуль 15л 34.7*29.8*24.3см PB-963GR</name_ru>
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06649" available="true">
+<offer id="RS06649" available="false">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1043</categoryId>
@@ -431287,9 +431287,9 @@ _x000D_
 <name_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см білий PB-963GR</name_ua>
 <name_ru>Корзина-органайзер для хранения овощей и фруктов Модуль 15л 34.7*29.8*24.3см белый PB-963GR</name_ru>
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06650" available="true">
+<offer id="RS06650" available="false">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1043</categoryId>
@@ -431299,9 +431299,9 @@ _x000D_
 <name_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см рожевий PB-963GR</name_ua>
 <name_ru>Корзина-органайзер для хранения овощей и фруктов Модуль 15л 34.7*29.8*24.3см розовый PB-963GR</name_ru>
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06651" available="true">
+<offer id="RS06651" available="false">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1043</categoryId>
@@ -431311,9 +431311,9 @@ _x000D_
 <name_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см сірий PB-963GR</name_ua>
 <name_ru>Корзина-органайзер для хранения овощей и фруктов Модуль 15л 34.7*29.8*24.3см серый PB-963GR</name_ru>
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06652" available="true">
+<offer id="RS06652" available="false">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1043</categoryId>
@@ -431323,9 +431323,9 @@ _x000D_
 <name_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см фуксія PB-963GR</name_ua>
 <name_ru>Корзина-органайзер для хранения овощей и фруктов Модуль 15л 34.7*29.8*24.3см фуксия PB-963GR</name_ru>
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06653" available="true">
+<offer id="RS06653" available="false">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1043</categoryId>
@@ -431335,7 +431335,7 @@ _x000D_
 <name_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см чорний PB-963GR</name_ua>
 <name_ru>Корзина-органайзер для хранения овощей и фруктов Модуль 15л 34.7*29.8*24.3см черный PB-963GR</name_ru>
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS06654" available="true">
 <price>300</price>
@@ -442218,7 +442218,7 @@ _x000D_
 <description_ua>Матеріал: поліестер. Сезон: весна, літо. Призначення: для носіння під шоломом. ОписМотоцикліст може бути одягнений по-різному, але виїжджати на трасу без шолома не має права. Перед поїздкою під нього надягають балаклаву підшоломник – недорогий, але важливий елемент екіпірування. Модель, яку можете купити в нашому магазині, зшита з поліестеру – зносостійкого, практичного та недорого матеріалу. Вона закриває обличчя, голову та шию, відкритими залишаються лише очі. ПризначенняМотошолом може врятувати життя під час падіння на трасі, але в ньому буває некомфортно без підшоломника балаклави. Мотоекіпірування з поліестеру рятує від протягів, які виникають при швидкій їзді на дорозі. Підшоломники купують не лише байкери: головний убір можна одягати під захист голови сноубордиста, велосипедиста, будівельника. Також балаклаву придбають з гігієнічних міркувань. Вона добре відводить піт від голови в літню спеку, зігріває, коли на вулиці холодно. Переваги: Байкеру в балаклаві зручніше одягати та знімати мотошолом. Вуха в ній щільно притиснуті до голови. Підшоломник добре тримає форму, не розтягується після першого прання. Поліестерове мотоекіпірування можна прати в різних режимах, з іншою білизною. Екіпірування зшите таким чином, що не ускладнює дихання. Ефективно відводить вологу, досить швидко сохне. Характеристики Вид Балаклави Стать Жіноча, Чоловіча Вікова група Для дорослих Сезон&amp;nbsp;Весна, Літо Матеріал&amp;nbsp;поліестер Країна виробник Китай</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DE00079" available="false">
+<offer id="DE00079" available="true">
 <price>278</price>
 <currencyId>UAH</currencyId>
 <categoryId>1117</categoryId>
@@ -443480,7 +443480,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь,&amp;nbsp;пластик Упаковка:&amp;nbsp;чохол поліестер Розміри:&amp;nbsp;24см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02365" available="true">
+<offer id="OS02365" available="false">
 <price>420</price>
 <currencyId>UAH</currencyId>
 <categoryId>1511</categoryId>
@@ -443492,7 +443492,7 @@ _x000D_
 <name_ua>Ніж складаний "Folders" (WL-2516/R42214-24)</name_ua>
 <name_ru>Нож складной "Folders" (WL-2516/R42214-24)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь, дерево Упаковка:&amp;nbsp;чохол, поліестер Розміри:&amp;nbsp;24см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02368" available="true">
 <price>400</price>
@@ -443508,7 +443508,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь, дерево Упаковка:&amp;nbsp;чохол, поліестер Розміри:&amp;nbsp;25см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02372" available="true">
+<offer id="OS02372" available="false">
 <price>340</price>
 <currencyId>UAH</currencyId>
 <categoryId>1511</categoryId>
@@ -443520,7 +443520,7 @@ _x000D_
 <name_ua>Ніж складаний "Edge" (WL-2517/R42213-20)</name_ua>
 <name_ru>Нож складной "Edge" (WL-2517/R42213-20)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь, дерево Упаковка:&amp;nbsp;чохол, поліестер Розміри:&amp;nbsp;20см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS06301" available="true">
 <price>5310</price>
@@ -449823,7 +449823,7 @@ _x000D_
 <description_ua>Вішалка-стійка для одягу 62*37*70/130 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="I000196" available="true">
+<offer id="I000196" available="false">
 <price>925</price>
 <currencyId>UAH</currencyId>
 <categoryId>1177</categoryId>
@@ -449833,7 +449833,7 @@ _x000D_
 <name_ua>Вішалка-стійка для одягу 62*37*130 см R29746</name_ua>
 <name_ru>Вешалка-стойка для одежды 62*37*130 см R29746</name_ru>
 <description_ua>Вішалка-стійка для одягу 62*37*130 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="I000197" available="true">
 <price>900</price>
@@ -454169,7 +454169,7 @@ _x000D_
 <description_ua>Посуд дитячий силіконовий "Ведмедик" 6пр/наб (виделка, ложка, чашка-поїлка, слинявчик, тарілки 2шт).</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KA001074" available="true">
+<offer id="KA001074" available="false">
 <price>1226</price>
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
@@ -454181,9 +454181,9 @@ _x000D_
 <name_ua>Посуд дитячий силіконовий 6 приборів в наборі (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт) MA-4906 жовтий.</name_ua>
 <name_ru>Посуда детская силиконовая 6 приборов в наборе (вилка, ложка, чашка с соломинкой, слюнявчик, тарелки 2шт) MA-4906 желтая.</name_ru>
 <description_ua>Посуд дитячий силіконовий 6пр/наб (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA001075" available="true">
+<offer id="KA001075" available="false">
 <price>1226</price>
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
@@ -454193,9 +454193,9 @@ _x000D_
 <name_ua>Посуд дитячий силіконовий 6 предмктів в наборі (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт) MA-4906 фіолетовий.</name_ua>
 <name_ru>Посуда детская силиконовая 6 предметов в наборе  (вилка, ложка, чашка с соломинкой, слюнявчик, тарелки 2шт) MA-4906 фиолетовая.</name_ru>
 <description_ua>Посуд дитячий силіконовий 6пр/наб (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA001076" available="true">
+<offer id="KA001076" available="false">
 <price>1226</price>
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
@@ -454205,9 +454205,9 @@ _x000D_
 <name_ua>Посуд дитячий силіконовий 6 приборів в наборі (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт) MA-4906 бірюзовий.</name_ua>
 <name_ru>Посуда детская силиконовая 6приборов в наборе (вилка, ложка, чашка с соломинкой, слюнявчик, тарелки 2шт) MA-4906 бирюзовая.</name_ru>
 <description_ua>Посуд дитячий силіконовий 6пр/наб (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA001077" available="true">
+<offer id="KA001077" available="false">
 <price>1226</price>
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
@@ -454217,9 +454217,9 @@ _x000D_
 <name_ua>Посуд дитячий силіконовий 6 предметів в наборі (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт) MA-4906 світло-рожевий.</name_ua>
 <name_ru>Посуда детская силиконовая 6 предметов в наборе  (вилка, ложка, чашка с соломинкой, слюнявчик, тарелки 2шт) MA-4906 светло-розовая.</name_ru>
 <description_ua>Посуд дитячий силіконовий 6пр/наб (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA001078" available="true">
+<offer id="KA001078" available="false">
 <price>1226</price>
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
@@ -454229,9 +454229,9 @@ _x000D_
 <name_ua>Посуд дитячий силіконовий 6 приборів в наборі (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт) MA-4906 рожевий.</name_ua>
 <name_ru>Посуда детская силиконовая 6 приборов в наборе (вилка, ложка, чашка с соломинкой, слюнявчик, тарелки 2шт) MA-4906 розовая.</name_ru>
 <description_ua>Посуд дитячий силіконовий 6пр/наб (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA001079" available="true">
+<offer id="KA001079" available="false">
 <price>1226</price>
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
@@ -454241,7 +454241,7 @@ _x000D_
 <name_ua>Посуд дитячий силіконовий 6 приборів в наборі (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт) MA-4906 салатовий.</name_ua>
 <name_ru>Посуда детская силиконовая 6 приборов в наборе (вилка, ложка, чашка с соломинкой, слюнявчик, тарелки 2шт) MA-4906 салатовая.</name_ru>
 <description_ua>Посуд дитячий силіконовий 6пр/наб (виделка, ложка, чашка з соломинкою, слинявчик, тарілки 2шт).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="X3057" available="true">
 <price>897</price>
@@ -468242,7 +468242,7 @@ _x000D_
 <description_ua>Килимок антипригарний силіконовий Stenson. Розмір: 37,5 х30х1, 3см. Розмір рулону для транспортування: 4х4х32см. Не використовувати на відкритому вогні, електроплитах. Не застосовувати гострі предмети</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00471" available="true">
+<offer id="II00471" available="false">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1116</categoryId>
@@ -468252,7 +468252,7 @@ _x000D_
 <name_ua>Формочки паперові для кексів "Orange" 12 шт. 4.5*3 см жовтий R97450</name_ua>
 <name_ru>Формочки бумажные для кексов "Orange" 12 шт. 4.5*3 см желтый R97450</name_ru>
 <description_ua>Формочки паперові для кексів "Orange" 12 шт. 4.5*3 см жовтий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II00472" available="true">
 <price>87</price>
@@ -471037,7 +471037,7 @@ _x000D_
 <description_ua>Об'єм: 2,8 л Сучасний дизайн Високоякісна нержавіюча сталь Можливе використання на всіх типах плит Пластикова ручка, що не нагрівається.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02171" available="false">
+<offer id="RU02171" available="true">
 <price>1266</price>
 <currencyId>UAH</currencyId>
 <categoryId>1036</categoryId>
@@ -473376,7 +473376,7 @@ _x000D_
 <description_ua>Набір соусниць порцелянових 21*10.5*5.5 см 2 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01071" available="true">
+<offer id="II01071" available="false">
 <price>195</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
@@ -473386,7 +473386,7 @@ _x000D_
 <name_ua>Набір соусниць порцелянових  24*7.5*4 см 3 шт.  R90579</name_ua>
 <name_ru>Набор фарфоровых соусниц 24*7.5*4 см 3 шт. R90579</name_ru>
 <description_ua>Набір соусниць порцелянових 24*7.5*4 см 3 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01073" available="true">
 <price>200</price>
@@ -474744,7 +474744,7 @@ _x000D_
 <description_ua>Термос-поїлка дитячий з трубочкою 500мл виготовлений з нержавіючої сталі та пластику.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KA001058" available="true">
+<offer id="KA001058" available="false">
 <price>652</price>
 <currencyId>UAH</currencyId>
 <categoryId>1156</categoryId>
@@ -474756,9 +474756,9 @@ _x000D_
 <name_ua>Термос-поїлка дитячий з трубочкою 500мл  MT-4930 фіолетовий.</name_ua>
 <name_ru>Термос-поилка  детский с трубочкой 500мл  MT-4930 фиолетовый.</name_ru>
 <description_ua>Термос-поїлка дитячий з трубочкою 500мл виготовлений з нержавіючої сталі та пластику.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA001059" available="true">
+<offer id="KA001059" available="false">
 <price>652</price>
 <currencyId>UAH</currencyId>
 <categoryId>1156</categoryId>
@@ -474770,9 +474770,9 @@ _x000D_
 <name_ua>Термос-поїлка дитячий з трубочкою 500мл  MT-4930 бірюзовий.</name_ua>
 <name_ru>Термос-поилка  детский с трубочкой 500мл  MT-4930 бирюзовый.</name_ru>
 <description_ua>Термос-поїлка дитячий з трубочкою 500мл виготовлений з нержавіючої сталі та пластику.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA001060" available="true">
+<offer id="KA001060" available="false">
 <price>652</price>
 <currencyId>UAH</currencyId>
 <categoryId>1156</categoryId>
@@ -474784,9 +474784,9 @@ _x000D_
 <name_ua>Термос-поїлка дитячий з трубочкою 500мл  MT-4930 рожевий.</name_ua>
 <name_ru>Термос-поилка  детский с трубочкой 500мл  MT-4930 розовый.</name_ru>
 <description_ua>Термос-поїлка дитячий з трубочкою 500мл виготовлений з нержавіючої сталі та пластику.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA001061" available="true">
+<offer id="KA001061" available="false">
 <price>652</price>
 <currencyId>UAH</currencyId>
 <categoryId>1156</categoryId>
@@ -474798,7 +474798,7 @@ _x000D_
 <name_ua>Термос-поїлка дитячий з трубочкою 500мл  MT-4930 блакитний.</name_ua>
 <name_ru>Термос-поилка  детский с трубочкой 500мл  MT-4930 голубой.</name_ru>
 <description_ua>Термос-поїлка дитячий з трубочкою 500мл виготовлений з нержавіючої сталі та пластику.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01660" available="true">
 <price>180</price>
@@ -518605,7 +518605,7 @@ _x000D_
 <description_ua>Матеріал: ABS-пластик, термопластична гума (TPR). Колір: в асортименті. Довжина: 35 см. Вага: 83, 150 г. Призначення: для занять художньою гімнастикою. Булави для художньої гімнастики SP-Sport C-0963 призначені для спортсменок 12-16 років. Вони виготовлені відповідно до вимог федерації художньої гімнастики та можуть використовуватися під час тренувань і змагань. Форма булав традиційна – довга ручка з потовщенням (голівкою) на кінці. Кульки на ручках запобігають вислизанню булави після кидка. Виробництво булав здійснюється методом формового лиття під тиском. Завдяки цьому булави в парі ретельно відкалібровані та мають однакову вагу. Запас міцності булав забезпечує сердечник з ударостійкого ABS-пластика. Для підвищення безпеки голова й кінчик кульки на рукояті виготовлені з термопластичної гуми (TPR). Завдяки такому рішенню знижується ризик травм і страх упустити булаву. Будучи шорстким на дотик, ABS-пластик зумовлює надійність хвата, а його низькі амортизаційні властивості не дають змоги булаві далеко відскочити під час падіння. Переваги булав для художньої гімнастики SP-Sport C-0963: Матеріал високої якості, що забезпечує довговічність. Ретельно відкалібрована вага дає чудовий баланс. Мінімальний відскік Характеристики Вид Булави гімнастичні Комплектація 2 шт Довжина 45 см Вага Вага однієї булави 180г Матеріал ABS-пластик / Термопластична гума (TPR) Країна виробник Китай</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DE05539" available="false">
+<offer id="DE05539" available="true">
 <price>636</price>
 <currencyId>UAH</currencyId>
 <categoryId>1492</categoryId>
@@ -519525,7 +519525,7 @@ _x000D_
 <description_ua>Теплі та зручні рукавички для підлітків, створені для комфортного носіння в холодну пору року. Внутрішня підкладка з вовни ягняти забезпечує відмінне збереження тепла, а м’який вовняний верх — приємне відчуття при носінні.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KA000740" available="true">
+<offer id="KA000740" available="false">
 <price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>1552</categoryId>
@@ -519535,7 +519535,7 @@ _x000D_
 <name_ua>Плоскогубці 150мм R32141-150</name_ua>
 <name_ru>Плоскогубцы 150мм R32141-150</name_ru>
 <description_ua>Плоскогубці&amp;nbsp;150мм виготовлені зі сталі та пластику.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="MA01539" available="true">
 <price>274</price>
@@ -522886,7 +522886,7 @@ _x000D_
 <description_ua>Насадки для кондитерського шприца/мішка 23 предмети 23*14 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00549" available="true">
+<offer id="II00549" available="false">
 <price>150</price>
 <currencyId>UAH</currencyId>
 <categoryId>1310</categoryId>
@@ -522896,7 +522896,7 @@ _x000D_
 <name_ua>Насадки для кондитерського шприца/мішка 6 предметів 11*17*4.5 см R97511</name_ua>
 <name_ru>Насадки для кондитерского шприца/мешка 6 предметов 11*17*4.5 см R97511</name_ru>
 <description_ua>Насадки для кондитерського шприца/мішка 6 предметів 11*17*4.5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II00551" available="true">
 <price>202</price>
@@ -523615,7 +523615,7 @@ _x000D_
 <description_ua>Опис Чоловічі баскетбольні компресійні шорти виготовлені з поліестеру, який відрізняється зносостійкістю, легкістю та гарною повітропроникністю. Цей матеріал ефективно відводить вологу від тіла, забезпечуючи комфорт навіть за тривалих фізичних навантажень. Модель має анатомічний крій, що дозволяє їм надійно облягати тіло, підтримуючи м'язи та зменшуючи вібрацію під час руху. Широка гумка на поясі гарантує, що шорти будуть надійно зафіксовані на місці, не ковзаючи і не стискаючи. Це особливо важливо для спортсменів, яким необхідна свобода рухів та впевненість у тому, що екіпірування не підведе у найвідповідальніший момент. Одним із ключових елементів цих шортів є плоскі шви, які мінімізують ризик натирань і подразнень шкіри. Такі шви роблять шорти практично непомітними на тілі, що сприяє підвищеному комфорту при носінні. Призначення Компресійні шорти призначені для активних занять баскетболом та іншими видами спорту, що потребують інтенсивної фізичної активності та підтримки м'язів. Забезпечують оптимальну компресію, яка сприяє покращенню кровообігу, зниженню втоми та мінімізації ризику травм. Переваги: Допомагають стабілізувати м'язи та суглоби, що сприяє зниженню ризику розтягувань та травм. Мають сучасний та спортивний вигляд, що дозволяє їм не тільки виконувати функціональну роль, а й бути стильним елементом спортивного одягу. Не вимагають складного догляду, що робить їх зручними для регулярного використання. Просто періть їх у машині за низької температури і вони будуть виглядати як нові. Швидко сохнуть. Характеристики ВидШорти компресійні ПоясЕластичний пояс ТехнологіїАдаптиваційна здатність Свобода руху Запобігає натирання Еластична тканина СтатьЧоловіча Вікова групаДля дорослих /11років + МатеріалПоліестер / Еластан Країна виробникКитай</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DD1922" available="false">
+<offer id="DD1922" available="true">
 <price>468</price>
 <currencyId>UAH</currencyId>
 <categoryId>1507</categoryId>
@@ -534879,7 +534879,7 @@ _x000D_
 <description_ua>Матеріал: шкіра. Розмір: S-2XL. Колір: в ассортименті Призначення: для силового тренінгу. Атлетичний пояс дає змогу розвинути неймовірну міць, не піддаючи свою спину ризику травм. Розроблений із таким розрахунком, щоби забезпечити максимальну підтримку спини, він користується широкою популярністю серед атлетів із різним рівнем підготовки. У ділянці спини пояс має розширення з м'якою підкладкою всередині, завдяки чому надійно стабілізує поперековий відділ хребта, який найбільш схильний до травм. Водночас сам пояс має оптимальну ширину, щоби підтримувати черевну порожнину, але не чинити неприємного тиску на неї. Пояс складається з декількох шарів натуральної шкіри, обробленої різними способами і прошитої подвійним швом. Завдяки такій конструкції він має високу міцність і стійкість до зносу. Водночас, він досить гнучкий, щоби щільно охоплювати талію. Характеристики Вид Пояси атлетичні Підкладка М'яка підкладкова шкіра Спорт Тяжка атлетика, Бодібілдінг, Пауерліфтинг, Тренажерний зал Шви Армовані шви ЗастібкаКласична сталева пряжка Стать Жіноча, Чоловіча Призначення Зниження навантаження на хребет, Підтримка м'язів живота та спини Матеріал Шкіра Країна виробник Пакістан</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DE14088" available="false">
+<offer id="DE14088" available="true">
 <price>131</price>
 <currencyId>UAH</currencyId>
 <categoryId>1146</categoryId>
@@ -578916,6 +578916,21 @@ _x000D_
 <name_ua>Набір ялинкових прикрас Птахи - 3 шт - 7.5см на прищіпці (172-907 )</name_ua>
 <name_ru>Набор елочных украшений Птицы - 3 шт - 7.5см на прищепке (172-907 )</name_ru>
 <description_ua>Новорічний декор є невід'ємним атрибутом зимових свят. Елегантний та естетичний декор додасть елегантності та вишуканості інтер'єру, а також подарує святковий настрій.&amp;nbsp;</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="OK04148" available="false">
+<price>530</price>
+<currencyId>UAH</currencyId>
+<categoryId>1204</categoryId>
+<picture>https://images.prom.ua/5892801084_w640_h640_5892801084.jpg</picture>
+<picture>https://images.prom.ua/5892801085_w640_h640_5892801085.jpg</picture>
+<picture>https://images.prom.ua/5892801086_w640_h640_5892801086.jpg</picture>
+<picture>https://images.prom.ua/5892801081_w640_h640_5892801081.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>OK04148</vendorCode>
+<name_ua>Жіноча сумка через плече чорний 6928-2</name_ua>
+<name_ru>Женская сумка через плечо черный 6928-2</name_ru>
+<description_ua>Матеріал: Екошкіра PU Виробник: Китай Розміри висота 15 см, ширина 20 см.Ширина бічний 6 cм&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 </offers>
