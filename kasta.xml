@@ -3198,7 +3198,7 @@
 <param name="Колір">блакитний</param>
 <param name="Ширина в упаковці (см)">25</param>
 </offer>
-<offer id="IT04478" available="true">
+<offer id="IT04478" available="false">
 <price>179</price>
 <currencyId>UAH</currencyId>
 <categoryId>1058</categoryId>
@@ -3210,7 +3210,7 @@
 <name_ua>Очисник для мийки та зливу WILD Tornado Sink &amp; Drain Cleaner</name_ua>
 <name_ru>Очиститель для мойки и слива WILD Tornado Sink &amp; Drain Cleaner</name_ru>
 <description_ua>Попрощайтеся з неприємними скупченнями води та неприємними запахами, що виходять із вашої мийки за допомогою очисника для миття та зливу WILD Tornado Sink&amp;Drain Cleaner. Ваша кухня та ванні кімнати будуть чистими завдяки новому потужному очищувальному порошку, який усуває запахи та запобігає засміченню стоків.   Особливості:  Легко розчиняє жир, волосся, олії, паперові вироби з мила.  Ідеально підходить для використання на трубах, у туалетах, раковинах, ваннах та в інших головних зливних лініях.  Використовує її високу щільність для зчеплення з трубами та усунення перешкод для зливання.  Цеплюється за труби та усуває дренажні перешкоди.  Некорозійна, некаутична й без запаху формула.  Характеристики:  Очисник стоку.  Порошкуватий.  Колір: Білий.  Маса: 100 г.  Матеріал пляшки: Пластик  Склад: лужний розчинник у порошку, поверхнево-активна речовина.  Увага! Заводське пакування та відтінок товару можуть бути змінені виробником без попередження.&amp;nbsp;</description_ua>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Різновид">Механічні</param>
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
@@ -6067,7 +6067,7 @@ LED-підсвічування</param>
 <param name="Колір">Білий</param>
 <param name="Ширина в упаковці (см)">30</param>
 </offer>
-<offer id="AC004703" available="false">
+<offer id="AC004703" available="true">
 <price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -6090,7 +6090,7 @@ LED-підсвічування</param>
 <param name="Країна-виробник товару">Україна</param>
 <param name="Колір">Бежевий</param>
 </offer>
-<offer id="AC004704" available="false">
+<offer id="AC004704" available="true">
 <price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -6113,7 +6113,7 @@ LED-підсвічування</param>
 <param name="Країна-виробник товару">Україна</param>
 <param name="Колір">Бежевий</param>
 </offer>
-<offer id="AC004705" available="false">
+<offer id="AC004705" available="true">
 <price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -6136,7 +6136,7 @@ LED-підсвічування</param>
 <param name="Країна-виробник товару">Україна</param>
 <param name="Колір">Бежевий</param>
 </offer>
-<offer id="AC004706" available="false">
+<offer id="AC004706" available="true">
 <price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1027</categoryId>
@@ -17069,7 +17069,7 @@ _x000D_
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="yy156-7-black" available="false">
+<offer id="yy156-7-black" available="true">
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -17191,7 +17191,7 @@ _x000D_
 <param name="Тип поставки">Один предмет</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="AC003095" available="false">
+<offer id="AC003095" available="true">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1028</categoryId>
@@ -18518,7 +18518,7 @@ _x000D_
 <param name="Колір">рожевий</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="С689-3-Rose" available="false">
+<offer id="С689-3-Rose" available="true">
 <price>1199.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1148</categoryId>
@@ -160778,7 +160778,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE04255" available="true">
-<price>299</price>
+<price>169</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78404955-f3ccdd27d2000e3f9255a7e3e2c48800-1708887244692.jpg</picture>
