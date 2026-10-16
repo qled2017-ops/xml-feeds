@@ -392249,7 +392249,7 @@ _x000D_
 <description_ua>Кран кульовий перехідний зі стрічки на трубку 16мм 4.2*10см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="I000103" available="false">
+<offer id="I000103" available="true">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1255</categoryId>
