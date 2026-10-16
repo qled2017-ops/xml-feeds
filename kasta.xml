@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-16 09:20">
+<yml_catalog date="2026-10-16 19:14">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -32599,7 +32599,7 @@ _x000D_
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="OK06702" available="true">
+<offer id="OK06702" available="false">
 <price>238</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -32610,7 +32610,7 @@ _x000D_
 <name_ua>Жіночі рукавички з штучної шкіри розмір 6,5 чорні R-104</name_ua>
 <name_ru>Женские перчатки из искусственной кожи размер 6,5 черные R-104</name_ru>
 <description_ua>Виробник: Китай  Матеріал:Штучна шкіра з махра&amp;nbsp;Розмір 6,5</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Декорування">Однотонні моделі</param>
 <param name="Для кого">Для жінок</param>
 <param name="Кількість вантажних місць">1</param>
@@ -32624,7 +32624,7 @@ _x000D_
 <param name="Тип">Низький</param>
 <param name="Колір">Чорний</param>
 </offer>
-<offer id="OK06703" available="true">
+<offer id="OK06703" available="false">
 <price>238</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -32635,7 +32635,7 @@ _x000D_
 <name_ua>Жіночі рукавички з штучної шкіри розмір 7 чорні R-104</name_ua>
 <name_ru>Женские перчатки из искусственной кожи размер 7 черные R-104</name_ru>
 <description_ua>Виробник: Китай  Матеріал:Штучна шкіра з махра&amp;nbsp;Розмір 7</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Декорування">Однотонні моделі</param>
 <param name="Для кого">Для жінок</param>
 <param name="Кількість вантажних місць">1</param>
@@ -32649,7 +32649,7 @@ _x000D_
 <param name="Тип">Низький</param>
 <param name="Колір">Чорний</param>
 </offer>
-<offer id="OK06704" available="true">
+<offer id="OK06704" available="false">
 <price>238</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -32660,7 +32660,7 @@ _x000D_
 <name_ua>Жіночі рукавички з штучної шкіри розмір 7,5 чорні R-104</name_ua>
 <name_ru>Женские перчатки из искусственной кожи размер 7,5 черные R-104</name_ru>
 <description_ua>Виробник: Китай  Матеріал:Штучна шкіра з махра&amp;nbsp;Розмір 7,5</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Декорування">Однотонні моделі</param>
 <param name="Для кого">Для жінок</param>
 <param name="Кількість вантажних місць">1</param>
@@ -32674,7 +32674,7 @@ _x000D_
 <param name="Тип">Низький</param>
 <param name="Колір">Чорний</param>
 </offer>
-<offer id="OK06705" available="true">
+<offer id="OK06705" available="false">
 <price>238</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -32685,7 +32685,7 @@ _x000D_
 <name_ua>Жіночі рукавички з штучної шкіри розмір 8 чорні R-104</name_ua>
 <name_ru>Женские перчатки из искусственной кожи размер 8 черные R-104</name_ru>
 <description_ua>Виробник: Китай  Матеріал:Штучна шкіра з махра&amp;nbsp;Розмір 8</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Декорування">Однотонні моделі</param>
 <param name="Для кого">Для жінок</param>
 <param name="Кількість вантажних місць">1</param>
@@ -32699,7 +32699,7 @@ _x000D_
 <param name="Тип">Низький</param>
 <param name="Колір">Чорний</param>
 </offer>
-<offer id="OK06706" available="true">
+<offer id="OK06706" available="false">
 <price>238</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -32710,7 +32710,7 @@ _x000D_
 <name_ua>Жіночі рукавички з штучної шкіри розмір 8,5 чорні R-104</name_ua>
 <name_ru>Женские перчатки из искусственной кожи размер 8,5 черные R-104</name_ru>
 <description_ua>Виробник: Китай  Матеріал:Штучна шкіра з махра&amp;nbsp;Розмір 8,5</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Декорування">Однотонні моделі</param>
 <param name="Для кого">Для жінок</param>
 <param name="Кількість вантажних місць">1</param>
@@ -267452,7 +267452,7 @@ _x000D_
 <description_ua>Клейкий патч МВМ MY HOME до полиці з тримачем для фена BP-33 та полиці з трьома ємностями KP-12. Якщо Ви вирішили перемістити полицю в інше місце, придбайте додатковий патч і прикріпіть згідно з інструкцією. Спосіб монтажу: 1. Знежирити поверхню 2. Зніміть захисну плівку та приклейте патч 3. Залишіть на 24 години 4. Зафіксуйте аксесуар на патчі Застереження: не використовуйте повторно.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02136" available="true">
+<offer id="KD02136" available="false">
 <price>123</price>
 <currencyId>UAH</currencyId>
 <categoryId>1356</categoryId>
@@ -267464,7 +267464,7 @@ _x000D_
 <name_ua>Патч клейкий до аксесуарів BP-27 PATCH-8 T</name_ua>
 <name_ru>Патч клеящийся к аксессуарам BP-27 PATCH-8 T</name_ru>
 <description_ua>Клейкий патч МВМ MY HOME для тримача для душової лійки BP-27. Якщо Ви вирішили перемістити тримач в інше місце, придбайте додатковий патч та прикріпіть згідно з інструкцією. Спосіб монтажу: 1. Знежирити поверхню 2. Зніміть захисну плівку та приклейте патч 3. Залишіть на 24 години 4. Зафіксуйте аксесуар на патчі Застереження: не використовуйте повторно.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02137" available="true">
 <price>197</price>
@@ -326980,7 +326980,7 @@ _x000D_
 <description_ua>Матеріал: полотно Сумка великої місткості для покупок Розміри: висота 38 см, ширина 33 см Наявність регульованого плечового ременя Призначення: для жінок Сумка на блискавці Колір: чорно - білий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005408" available="true">
+<offer id="MN000005408" available="false">
 <price>1155</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331354,7 +331354,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра просунута PU + замша Сумка через плече стильна, якісна Розміри: висота 20 см, ширина 29 см, ширина боковая 9.5 см. Наявність регульованого плечового ременя Призначення: для жінок Колір: коричнево - чорна</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="EA03855" available="true">
+<offer id="EA03855" available="false">
 <price>1485</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331436,7 +331436,7 @@ _x000D_
 <description_ua>Чоловіча сумка через плече виготовлена зі штучної шкіри. Практична модель із лаконічним дизайном підходить для повсякденного використання, роботи, прогулянок і поїздок. Сумка оснащена регульованим плечовим ременем і додатковою ручкою, завдяки чому її можна зручно носити через плече або в руці. Місткий формат дозволяє розмістити необхідні особисті речі. Модель вирізняється практичним дизайном і зручною конструкцією, тому підходить для повсякденного та ділового образу. Характеристики: Матеріал: штучна шкіра. Розмір: 25 × 21 × 7 см. Тип: сумка через плече. Модель: кросбоді. Призначення: чоловіча.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EA03865" available="true">
+<offer id="EA03865" available="false">
 <price>1455</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -331452,7 +331452,7 @@ _x000D_
 <description_ua>Чоловіча сумка через плече виготовлена з натуральної шкіри. Компактна модель із лаконічним дизайном підходить для повсякденного використання, роботи, прогулянок і поїздок. Сумка оснащена регульованим плечовим ременем, який дозволяє зручно носити її через плече. Компактний розмір робить модель зручною для зберігання необхідних особистих речей. Практична конструкція та стриманий дизайн роблять сумку підходящою для повсякденного та ділового образу. Характеристики: Матеріал: натуральна шкіра. Розмір: 20 × 13 × 5 см. Тип: сумка через плече. Модель: кросбоді. Призначення: чоловіча.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EA03866" available="true">
+<offer id="EA03866" available="false">
 <price>1455</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -348590,7 +348590,7 @@ _x000D_
 <description_ua>Практичний рюкзак для щоденного використання, навчання та подорожей. Має відділення для ноутбука.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="8306-1" available="true">
+<offer id="8306-1" available="false">
 <price>1185</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -349195,7 +349195,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 23cm, ширина 25 см. Колір: Бежевий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="HY6339-4" available="false">
+<offer id="HY6339-4" available="true">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -356129,7 +356129,7 @@ _x000D_
 <description_ua>Матеріал: тканина Виробник: Китай Розміри висота 14 см, ширина 30 см.Ширина бічний 7cм&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK04142" available="true">
+<offer id="OK04142" available="false">
 <price>765</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -356144,7 +356144,7 @@ _x000D_
 <name_ua>Жіноча сумка через плече чорний 9815-2</name_ua>
 <name_ru>Женская сумка через плечо черный 9815-2</name_ru>
 <description_ua>Матеріал: Екошкіра PU Виробник: Китай Розміри висота 12,5 см, ширина 19 см.Ширина бічний 6,5 cм&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK04143" available="true">
 <price>765</price>

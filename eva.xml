@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-16 09:20">
+<yml_catalog date="2026-10-16 19:14">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -193301,7 +193301,7 @@ _x000D_
 <description_ua>Клейкий патч МВМ MY HOME до полиці з тримачем для фена BP-33 та полиці з трьома ємностями KP-12. Якщо Ви вирішили перемістити полицю в інше місце, придбайте додатковий патч і прикріпіть згідно з інструкцією. Спосіб монтажу: 1. Знежирити поверхню 2. Зніміть захисну плівку та приклейте патч 3. Залишіть на 24 години 4. Зафіксуйте аксесуар на патчі Застереження: не використовуйте повторно.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02136" available="true">
+<offer id="KD02136" available="false">
 <price>123</price>
 <currencyId>UAH</currencyId>
 <categoryId>1161</categoryId>
@@ -193313,7 +193313,7 @@ _x000D_
 <name_ua>Патч клейкий до аксесуарів BP-27 PATCH-8 T</name_ua>
 <name_ru>Патч клеящийся к аксессуарам BP-27 PATCH-8 T</name_ru>
 <description_ua>Клейкий патч МВМ MY HOME для тримача для душової лійки BP-27. Якщо Ви вирішили перемістити тримач в інше місце, придбайте додатковий патч та прикріпіть згідно з інструкцією. Спосіб монтажу: 1. Знежирити поверхню 2. Зніміть захисну плівку та приклейте патч 3. Залишіть на 24 години 4. Зафіксуйте аксесуар на патчі Застереження: не використовуйте повторно.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02137" available="true">
 <price>197</price>
