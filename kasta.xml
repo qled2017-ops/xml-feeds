@@ -6538,7 +6538,7 @@ LED-підсвічування</param>
 <param name="Колір">Червоний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="UD00297" available="true">
+<offer id="UD00297" available="false">
 <price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1136</categoryId>
@@ -6552,7 +6552,7 @@ LED-підсвічування</param>
 Проста установка без свердління та електроінструментів&amp;nbsp;  Не займає багато місця, поміститься у будь-якій кімнаті.  Таку вішалку для одягу можна перемістити в іншу кімнату.&amp;nbsp;   Характеристики:&amp;nbsp;  
  Матеріал: метал, пластик, текстиль&amp;nbsp;  Розмір: 60*29,5*171 см  
 Кількість полиць: 5</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Різновид">Полиці</param>
 <param name="Висота в упаковці (см)">30</param>
