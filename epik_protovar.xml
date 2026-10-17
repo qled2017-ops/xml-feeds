@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-16 11:07">
+<yml_catalog date="2026-10-17 07:36">
   <offers>
     <offer id="MR05014" available="false">
       <price>1890</price>
@@ -28765,7 +28765,7 @@
     <offer id="MR28575" available="false">
       <price>223</price>
     </offer>
-    <offer id="MR28576" available="true">
+    <offer id="MR28576" available="false">
       <price>223</price>
     </offer>
     <offer id="MR28577" available="false">
@@ -32597,7 +32597,7 @@
     <offer id="MR30381" available="false">
       <price>3300</price>
     </offer>
-    <offer id="MR30382" available="true">
+    <offer id="MR30382" available="false">
       <price>3300</price>
     </offer>
     <offer id="MR30383" available="false">
@@ -33174,7 +33174,7 @@
     <offer id="MR30658" available="false">
       <price>254</price>
     </offer>
-    <offer id="MR30666" available="false">
+    <offer id="MR30666" available="true">
       <price>730</price>
     </offer>
     <offer id="MR30667" available="true">
@@ -36691,7 +36691,7 @@
     <offer id="MR32385" available="true">
       <price>275</price>
     </offer>
-    <offer id="MR32386" available="true">
+    <offer id="MR32386" available="false">
       <price>275</price>
     </offer>
     <offer id="MR32387" available="true">
@@ -205906,7 +205906,7 @@
     <offer id="AM0011457" available="true">
       <price>678</price>
     </offer>
-    <offer id="OK007197" available="false">
+    <offer id="OK007197" available="true">
       <price>1001</price>
     </offer>
     <offer id="OK007198" available="false">
@@ -221026,7 +221026,7 @@
     <offer id="RI0002428" available="true">
       <price>552</price>
     </offer>
-    <offer id="RI0002429" available="true">
+    <offer id="RI0002429" available="false">
       <price>552</price>
     </offer>
     <offer id="RI0002430" available="true">
