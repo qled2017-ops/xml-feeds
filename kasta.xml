@@ -4444,7 +4444,7 @@ LED-підсвічування</param>
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">синій</param>
 </offer>
-<offer id="EA03797" available="true">
+<offer id="EA03797" available="false">
 <price>369</price>
 <currencyId>UAH</currencyId>
 <categoryId>1080</categoryId>
