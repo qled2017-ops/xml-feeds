@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-19 09:33">
+<yml_catalog date="2026-10-19 19:29">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -332514,6 +332514,18 @@ _x000D_
 <name_ua>Набір ялинкових прикрас Птахи - 3 шт - 7.5см на прищіпці (172-907 )</name_ua>
 <name_ru>Набор елочных украшений Птицы - 3 шт - 7.5см на прищепке (172-907 )</name_ru>
 <description_ua>Новорічний декор є невід'ємним атрибутом зимових свят. Елегантний та естетичний декор додасть елегантності та вишуканості інтер'єру, а також подарує святковий настрій.&amp;nbsp;</description_ua>
+<quantity_in_stock>0</quantity_in_stock>
+</offer>
+<offer id="MN000001213" available="false">
+<price>2242</price>
+<currencyId>UAH</currencyId>
+<categoryId>1073</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123781911-918cc426547a7c009466b728844388eb-1767543840616.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>MN000001213</vendorCode>
+<name_ua>Ваза скляна Serenite H-28 см. (35223)</name_ua>
+<name_ru>Ваза стеклянная Serenite H-28 см. (35223)</name_ru>
+<description_ua>Скляна ваза з сірим відтінком з колекції SERENITE. Елегантна форма дозволить квітам виглядати чудово. Виготовлена з красивого, товстого і нестандартного скла, вона підкреслює красу живих і штучних квітів, гілок або декоративних композицій. Переваги: високоякісне міцне скло прозорий / напівпрозорий дизайн підходить для живих і декоративних квітів легко миється та не втрачає блиску універсальний стиль</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 </offers>
