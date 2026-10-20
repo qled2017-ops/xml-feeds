@@ -585,7 +585,7 @@
 <category id="1577" rz_id="4675014.0">Штанги</category>
 </categories>
 <offers>
-<offer id="VK01250" available="true">
+<offer id="VK01250" available="false">
 <price>80</price>
 <currencyId>UAH</currencyId>
 <categoryId>1000</categoryId>
