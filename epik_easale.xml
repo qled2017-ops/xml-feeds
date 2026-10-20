@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-19 12:36">
+<yml_catalog date="2026-10-20 07:36">
   <offers>
     <offer id="AM0016591" available="true">
       <price>783</price>
@@ -41659,7 +41659,7 @@
     <offer id="RS00799" available="true">
       <price>683</price>
     </offer>
-    <offer id="RS00800" available="true">
+    <offer id="RS00800" available="false">
       <price>1170</price>
     </offer>
     <offer id="RS00801" available="true">
@@ -44770,7 +44770,7 @@
     <offer id="KS01714" available="true">
       <price>129</price>
     </offer>
-    <offer id="RO00834" available="true">
+    <offer id="RO00834" available="false">
       <price>234</price>
     </offer>
     <offer id="RO00835" available="true">
@@ -45079,7 +45079,7 @@
     <offer id="RO00884" available="true">
       <price>158</price>
     </offer>
-    <offer id="RO00886" available="true">
+    <offer id="RO00886" available="false">
       <price>225</price>
     </offer>
     <offer id="LI000282" available="true">
@@ -45100,7 +45100,7 @@
     <offer id="LI000285" available="true">
       <price>281</price>
     </offer>
-    <offer id="RO00888" available="true">
+    <offer id="RO00888" available="false">
       <price>731</price>
     </offer>
     <offer id="LI000286" available="true">
@@ -48420,7 +48420,7 @@
     <offer id="AS00462" available="true">
       <price>292</price>
     </offer>
-    <offer id="AS00463" available="true">
+    <offer id="AS00463" available="false">
       <price>105</price>
     </offer>
     <offer id="AS00464" available="true">
@@ -48660,7 +48660,7 @@
     <offer id="LI000511" available="false">
       <price>146</price>
     </offer>
-    <offer id="LI000512" available="true">
+    <offer id="LI000512" available="false">
       <price>146</price>
     </offer>
     <offer id="LI000513" available="true">
@@ -50034,7 +50034,7 @@
     <offer id="AS00641" available="true">
       <price>1014</price>
     </offer>
-    <offer id="AS00642" available="true">
+    <offer id="AS00642" available="false">
       <price>702</price>
     </offer>
     <offer id="AS00643" available="true">
@@ -50055,7 +50055,7 @@
     <offer id="AS00648" available="true">
       <price>1053</price>
     </offer>
-    <offer id="AS00649" available="true">
+    <offer id="AS00649" available="false">
       <price>897</price>
     </offer>
     <offer id="AS00650" available="true">
@@ -79634,7 +79634,7 @@
       <price>449</price>
       <price_old>700</price_old>
     </offer>
-    <offer id="FFS00181" available="false">
+    <offer id="FFS00181" available="true">
       <price>449</price>
       <price_old>600</price_old>
     </offer>
@@ -84567,7 +84567,7 @@
     <offer id="FFR00400" available="true">
       <price>599</price>
     </offer>
-    <offer id="FFR00401" available="false">
+    <offer id="FFR00401" available="true">
       <price>649</price>
     </offer>
     <offer id="FFR00402" available="true">
@@ -88639,7 +88639,7 @@
     <offer id="FFM0000441" available="true">
       <price>379</price>
     </offer>
-    <offer id="FFM0000453" available="true">
+    <offer id="FFM0000453" available="false">
       <price>299</price>
     </offer>
     <offer id="FFM0000456" available="true">
@@ -89929,7 +89929,7 @@
     <offer id="FFU00120" available="false">
       <price>229</price>
     </offer>
-    <offer id="FFU00121" available="false">
+    <offer id="FFU00121" available="true">
       <price>229</price>
     </offer>
     <offer id="FFU00122" available="true">
@@ -90456,7 +90456,7 @@
     <offer id="FFM0000592" available="true">
       <price>299</price>
     </offer>
-    <offer id="FFM0000594" available="true">
+    <offer id="FFM0000594" available="false">
       <price>399</price>
     </offer>
     <offer id="FFM0000595" available="true">
@@ -92659,7 +92659,7 @@
     <offer id="FFS00268" available="true">
       <price>500</price>
     </offer>
-    <offer id="FFS00270" available="true">
+    <offer id="FFS00270" available="false">
       <price>599</price>
     </offer>
     <offer id="FFS00271" available="true">
