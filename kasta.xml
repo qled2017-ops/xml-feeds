@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-19 19:29">
+<yml_catalog date="2026-10-20 09:23">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -3781,7 +3781,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="VK01575" available="true">
-<price>50</price>
+<price>26</price>
 <currencyId>UAH</currencyId>
 <categoryId>1063</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92899134-91b7df00a85791d9bfac0dc5db5db8c5-1730459318685.jpg</picture>
@@ -22620,7 +22620,7 @@ _x000D_
 <param name="Колір">хакі</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="YS520-5" available="true">
+<offer id="YS520-5" available="false">
 <price>1395</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -22630,7 +22630,7 @@ _x000D_
 <name_ua>Сумка сумка-клатч через плече (YS520-5) хакі</name_ua>
 <name_ru>Сумка сумка-клатч через плечо (YS520-5) хаки</name_ru>
 <description_ua>Матеріал: Екошкіра  Розміри: висота 20см, ширина 28см.  Колір: Хакі</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Висота в упаковці (см)">10</param>
 <param name="Гарантія">14 днів</param>
@@ -49086,7 +49086,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="834-832grey" available="true">
+<offer id="834-832grey" available="false">
 <price>245</price>
 <currencyId>UAH</currencyId>
 <categoryId>1009</categoryId>
@@ -136215,7 +136215,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02761" available="true">
-<price>714</price>
+<price>549</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71605122-d98b7fd0f869d4e81e73a25410b04f8b.jpg</picture>
@@ -137879,7 +137879,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE12373" available="true">
-<price>1689</price>
+<price>1299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91709073-c4d3cefded41b8d93e7df2616926ca78-1728761039097.jpg</picture>
@@ -161033,7 +161033,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI007945" available="true">
-<price>549</price>
+<price>463</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
 <picture>https://cdn.27.ua/sc--media--prod/default/de/86/56/de8656e3-25b8-47fe-91a1-7361f88ab862.jpg</picture>
@@ -163164,7 +163164,7 @@ _x000D_
 <description_ua>Бренд Mechanix Wear® займається розробкою та виготовленням захисних рукавичок, а також інших товарів у даній сфері. Модель Coldwork™ Winter Utility виготовлена з водо та вітро непроникної еластичної тканини SoftShell. Долоня виконана з водовідштовхуючої синтетичної шкіри, яка не ковзає. Тильна сторона долоні захищена SoftShell та має вставки з флісу. Для кращого збереження тепла використаний PrimaLoft® Gold: долоня утеплена матеріалом щільністю 60 г/м2, а всі інші зони - 40 г/м2. Синтетична шкіра дозволяє користуватися смартфоном та іншими сенсорними пристроями, не знімаючи рукавичок. Для професійного захисту рук рекомендується використовувати перевірені сертифіковані рукавички. Такі вироби можуть забезпечити захист рук і пальців в критичній ситуації. Дана модель сертифікована відповідно до міжнародного стандарту EN 388:2016 - 3222X, що підійде для використання в під час ремонтних робіт, роботи з інструментами та обладнанням тощо. Рекомендовані виробником сфери використання: прибирання снігу благоустрій будинку експлуатація обладнання робота в морозильній камері технічне обслуговування та ремонт</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EE01360" available="true">
+<offer id="EE01360" available="false">
 <price>1689</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -163179,7 +163179,7 @@ _x000D_
 <name_ua>Рукавички Mechanix ColdWork FastfFit Gloves Розмір S</name_ua>
 <name_ru>Перчатки Mechanix ColdWork FastfFit Gloves Размер S</name_ru>
 <description_ua>Зимові рукавички Cold Work FastFit® від Mechanix Wear – це професійні захисні рукавички, призначені для людей, які працюють при низьких температурах. Надійно захищають від холоду, вітру та дощу. Також вони забезпечують максимальну функціональність і повну свободу рухів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EE01349" available="true">
 <price>1956</price>
@@ -165954,7 +165954,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="910-213" available="true">
-<price>909</price>
+<price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i90260832-756f3a627578b661caafa894e9326b4e-1726495889660.jpg</picture>
@@ -165990,7 +165990,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="877-171-2" available="true">
-<price>1169</price>
+<price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i90666195-05ea85e2b401157331d196a91beeb305-1726676873035.jpg</picture>
@@ -166939,7 +166939,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI006984" available="true">
-<price>1039</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
 <picture>https://bonadi.com.ua/img/goods/ny_collection/stat_other/218_440.jpg</picture>
@@ -167853,7 +167853,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01726" available="true">
-<price>324</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70231511-94b67401e1bd43e576ab08bec7f0c612.jpg</picture>
@@ -168551,7 +168551,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE04239" available="true">
-<price>909</price>
+<price>584</price>
 <currencyId>UAH</currencyId>
 <categoryId>1113</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78365524-f3ccdd27d2000e3f9255a7e3e2c48800-1708706220633.jpg</picture>
@@ -184738,7 +184738,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="9170-016" available="true">
-<price>299</price>
+<price>103</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
 <picture>https://elisey.ua/files/products/n26a57fd75ade11ef8a1b002590e9c1ad.540x540w.jpeg</picture>
@@ -203007,7 +203007,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="8108-025" available="true">
-<price>324</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72032460-14bdb81963eed867ec8ffce640ea6767.jpg</picture>
@@ -203504,7 +203504,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OK03027" available="true">
-<price>249</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
 <picture>https://elisey.ua/files/products/nee7210c9033f11ef8a19002590e9c1ad.540x540w.jpeg</picture>
@@ -223176,7 +223176,7 @@ _x000D_
 <description_ua>Килимок для ванної і туалету 40x60 см Vonaldi 2518/light green — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок для ванної кімнати ТМ "Vonaldi" 40*60 см. Зроблений з поліпропіленової нитки, на нижній бік якої нанесено м'яку силіконову основу. Можливе прання при температурі до 30 °. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 40×60 см Колір: салатовий Матеріал: поліпропілен Торгова марка: Vonaldi Артикул: 2518/light green Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="00173/s" available="true">
+<offer id="00173/s" available="false">
 <price>852</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -223190,7 +223190,7 @@ _x000D_
 <name_ua>Набір килимків для ванної та туалету Vonaldi 80*50 см та 40*50 см 00173/s вишневий</name_ua>
 <name_ru>Набор ковриков для ванной и туалета Vonaldi 80*50 см и 40*50 см 00173/s темная вишня</name_ru>
 <description_ua>Набір килимків для ванної та туалету Vonaldi 80*50 см та 40*50 см 00173/s — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір для ванної та туалету турецького виробника ТМ "Vonaldi" складається з двох прямокутних килимків з візерунком 50*80 см та 50*40 см. Менший килимок має виріз під унітаз. Виготовлені з поліпропіленової нитки, на нижній бік якої нанесено м'яку силіконову основу. Можливе прання при температурі до 30°. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 80×50 см та 40×50 см Колір: вишневий Матеріал: поліпропілен Країна виробництва: Туреччина Торгова марка: Vonaldi Артикул: 00173/s Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="00184/s" available="true">
 <price>852</price>
@@ -223928,7 +223928,7 @@ _x000D_
 <description_ua>Набір килимків Воналді Еліт 60x100 см 28334187 — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір килимків для ванної та туалету Vonaldi Еліт 60x100 см турецького виробництва. Ця модель знижена в ціні, через відбиток етикетки на гумову основу, лицьова сторона не має пошкоджень. Виконані з поліпропіленової синтетичної тканини, на нижню сторону нанесена м'яка гумова основа. Має високий ворс. Килимок під унітаз із вирізом. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 60×100 см Матеріал: поліпропілен Артикул: 28334187 Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="Pirlanta/01297" available="true">
+<offer id="Pirlanta/01297" available="false">
 <price>1843</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -223941,7 +223941,7 @@ _x000D_
 <name_ua>Набір килимків в ванну і туалет Pirlanta 100*60 +50*60 см з високим ворсом 01297 Brown Pirlanta/01297</name_ua>
 <name_ru>Набор ковриков для ванной и туалета Pirlanta 100*60 +50*60 см с высоким ворсом 01297 Brown Pirlanta/01297</name_ru>
 <description_ua>Набір килимків в ванну і туалет Pirlanta 100*60 +50*60 см з високим ворсом 01297 Brown Pirlanta/01297 — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір килимків для ванної та туалету провідного турецького виробника ТМ "Vonaldi" серії "Pirlanta". Виготовлені з поліпропіленової синтетичної нитки 3-х відтінків, що надає килимкам перламутровий відблиск. Густий і високий ворс забезпечує неповторну м'якість при дотику, а також дозволяє вбирати велику кількість води. На нижню сторону нанесено м'яку латексну основу, яка не дає ковзати. У комплекті два прямокутні килимки розміром 60*100 см і 50*60 см. Можливе прання при температурі до 30°. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 100×60 см та 50×60 см Колір: коричневий Матеріал: поліпропілен Артикул: Pirlanta/01297 Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="2459/blue-grey" available="true">
 <price>915</price>
@@ -224055,7 +224055,7 @@ _x000D_
 <description_ua>Килимок для ванної 50*80 см Classic Vonaldi 00201/alone blue — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок для ванної або туалету турецького виробника ТМ "Vonaldi" виготовлений з поліпропіленової нитки, на нижню сторону якої нанесена м'яка силіконова основа. Можливе прання при температурі до 30 °. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 50×80 см Колір: синій Матеріал: поліпропілен Країна виробництва: Туреччина Торгова марка: Vonaldi Артикул: 00201/alone blue Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="01339/alone grey" available="true">
+<offer id="01339/alone grey" available="false">
 <price>592</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -224067,7 +224067,7 @@ _x000D_
 <name_ua>Килимок для ванної 50*80 см Classic Vonaldi 01339/alone grey</name_ua>
 <name_ru>Коврик для ванной 50*80 см Classic Vonaldi 01339/alone grey</name_ru>
 <description_ua>Килимок для ванної 50*80 см Classic Vonaldi 01339/alone grey — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок для ванної або туалету турецького виробника ТМ "Vonaldi" виготовлений з поліпропіленової нитки, на нижню сторону якої нанесена м'яка силіконова основа. Можливе прання при температурі до 30 °. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 50×80 см Колір: сірий Матеріал: поліпропілен Країна виробництва: Туреччина Торгова марка: Vonaldi Артикул: 01339/alone grey Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="00185/120 beige" available="true">
 <price>1102</price>
@@ -224097,7 +224097,7 @@ _x000D_
 <description_ua>Килимок для ванної 80*120 см Classic Vonaldi 00201/120 blue — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок для ванної або туалету турецького виробника ТМ "Vonaldi" виготовлений з поліпропіленової нитки, на нижню сторону якої нанесена м'яка силіконова основа. Можливе прання при температурі до 30 °. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 80×120 см Колір: синій Матеріал: поліпропілен Країна виробництва: Туреччина Торгова марка: Vonaldi Артикул: 00201/120 blue Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="01339/120 grey" available="true">
+<offer id="01339/120 grey" available="false">
 <price>1102</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -224109,7 +224109,7 @@ _x000D_
 <name_ua>Килимок для ванної 80*120 см Classic Vonaldi 01339/120 grey</name_ua>
 <name_ru>Коврик для ванной 80*120 см Classic Vonaldi 01339/120 grey</name_ru>
 <description_ua>Килимок для ванної 80*120 см Classic Vonaldi 01339/120 grey — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок для ванної або туалету турецького виробника ТМ "Vonaldi" виготовлений з поліпропіленової нитки, на нижню сторону якої нанесена м'яка силіконова основа. Можливе прання при температурі до 30 °. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 80×120 см Колір: сірий Матеріал: поліпропілен Країна виробництва: Туреччина Торгова марка: Vonaldi Артикул: 01339/120 grey Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="00185/toilet beige" available="true">
 <price>342</price>
@@ -224546,7 +224546,7 @@ _x000D_
 <description_ua>Килимок в передпокій повстяний К506 120x180x0.5 см сірий — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимки в передпокій вологопоглинаючі з повстяним покриттям 120x180. Мають видавлений візерунок, гумова основа високої якості, не має токсичних запахів і не ковзає. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 120×180 см Колір: сірий Матеріал: льон Країна виробництва: Україна Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="3005/brown" available="false">
+<offer id="3005/brown" available="true">
 <price>1885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -225105,7 +225105,7 @@ _x000D_
 <description_ua>Килимок вхідний з бортом 60x90 см 2151/12 — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимки в передпокій влагопоглинаючі з бортом 60*90 см. Мають видавлений узор, гумова основа не дає ковзати. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 60×90 см Матеріал: льон Країна виробництва: Китай Артикул: 2151/12 Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="2151/13" available="true">
+<offer id="2151/13" available="false">
 <price>642</price>
 <currencyId>UAH</currencyId>
 <categoryId>1207</categoryId>
@@ -225118,7 +225118,7 @@ _x000D_
 <name_ua>Килимок вхідний з бортом 60x90 см 2151/13</name_ua>
 <name_ru>Коврик придверный с бортом 60x90 см 2151/13</name_ru>
 <description_ua>Килимок вхідний з бортом 60x90 см 2151/13 — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимки в передпокій влагопоглинаючі з бортом 60*90 см. Мають видавлений узор, гумова основа не дає ковзати. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 60×90 см Матеріал: льон Країна виробництва: Китай Артикул: 2151/13 Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="2151/09" available="false">
 <price>890</price>
@@ -236944,7 +236944,7 @@ _x000D_
 <description_ua>Штора для ванної тканинна Миранда Camomile 180*200 см — практичне рішення для ванної кімнати, яке захищає підлогу та стіни від бризок і водночас задає настрій інтер’єру. Штора для ванної кімнати Міранда. Тканина має склад 100% поліестеру та водовідштовхувальне просочення. Нанесений якісний візерунок. Отвори під кільця зроблені з пластикових заклепок, що робить її більш довговічною. Нижній край підшитий та виконує призначення додаткового обтяжувача. Дозволене ручне та машинне прання. Кілець у комплекті немає. Шторка швидко сохне, не вбирає запахи та легко очищується звичайною губкою. Верхній край з отворами розрахований на стандартні кільця, тому повісити її можна за кілька хвилин на будь-який карниз. Щільний матеріал не липне до тіла під час душу та зберігає форму після багаторазового прання. Розмір: 180×200 см Матеріал: поліестер Країна виробництва: Туреччина Торгова марка: Miranda Догляд: протирати вологою губкою або прати за температури до 30°, сушити в розправленому вигляді. Перед покупкою звірте ширину та висоту з розмірами вашого карниза.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="PB329" available="true">
+<offer id="PB329" available="false">
 <price>660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1234</categoryId>
@@ -236954,7 +236954,7 @@ _x000D_
 <name_ua>Штора для ванної тканинна Миранда Circle beige 180*200 см PB329</name_ua>
 <name_ru>Штора для ванной тканевая Миранда Circle beige 180*200 см PB329</name_ru>
 <description_ua>Штора для ванної тканинна Миранда Circle beige 180*200 см — практичне рішення для ванної кімнати, яке захищає підлогу та стіни від бризок і водночас задає настрій інтер’єру. Штора для ванної кімнати Міранда. Тканина має склад 100% поліестеру та водовідштовхувальне просочення. Нанесений якісний візерунок. Отвори під кільця зроблені з пластикових заклепок, що робить її більш довговічною. Нижній край підшитий та виконує призначення додаткового обтяжувача. Дозволене ручне та машинне прання. Кілець у комплекті немає. Шторка швидко сохне, не вбирає запахи та легко очищується звичайною губкою. Верхній край з отворами розрахований на стандартні кільця, тому повісити її можна за кілька хвилин на будь-який карниз. Щільний матеріал не липне до тіла під час душу та зберігає форму після багаторазового прання. Розмір: 180×200 см Колір: бежевий Матеріал: поліестер Країна виробництва: Туреччина Торгова марка: Miranda Догляд: протирати вологою губкою або прати за температури до 30°, сушити в розправленому вигляді. Перед покупкою звірте ширину та висоту з розмірами вашого карниза.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="PB328" available="true">
 <price>660</price>
@@ -248453,7 +248453,7 @@ _x000D_
 <description_ua>Килимок захищає як обладнання, так і поверхню, на якій воно розміщене.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE04723" available="true">
+<offer id="RE04723" available="false">
 <price>1868</price>
 <currencyId>UAH</currencyId>
 <categoryId>1308</categoryId>
@@ -248464,7 +248464,7 @@ _x000D_
 <vendorCode>RE04723</vendorCode>
 <name_ua>Кобура A-Line 5СУ1+  для ПМ/Форт</name_ua>
 <description_ua>Так звана "оперативка" має плечові лямки виготовлені з синтетичної стрічки. Плавно регулюється під індивідуальний розмір за допомогою текстильної застібки (липучка).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE04724" available="true">
 <price>2401</price>
@@ -248477,7 +248477,7 @@ _x000D_
 <description_ua>Виготовлена зі шкіри та трикотажу. Одна з «фішок» даної системи - це її модульність.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE04725" available="true">
+<offer id="RE04725" available="false">
 <price>1868</price>
 <currencyId>UAH</currencyId>
 <categoryId>1308</categoryId>
@@ -248489,9 +248489,9 @@ _x000D_
 <name_ua>Кобура A-Line 1КП2+2М кобура для Форт-14</name_ua>
 <name_ru>Кобура A-Line  1КП2+2М кобура для Форт-14</name_ru>
 <description_ua>Що в свою чергу забезпечує максимально щільне прилягання деталей виробу в ній.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RE04726" available="true">
+<offer id="RE04726" available="false">
 <price>1868</price>
 <currencyId>UAH</currencyId>
 <categoryId>1308</categoryId>
@@ -248501,7 +248501,7 @@ _x000D_
 <name_ua>Кобура A-Line 6СУ10 кобура для ПМ/Форт</name_ua>
 <name_ru>Кобура A-Line  6СУ10 кобура для ПМ/Форт</name_ru>
 <description_ua>Виготовлена з щільного нейлону. Одна з «фішок» даної системи - це її модульність.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK02524" available="true">
 <price>480</price>
@@ -262980,7 +262980,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01698" available="true">
-<price>249</price>
+<price>155</price>
 <currencyId>UAH</currencyId>
 <categoryId>1224</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70136602-14c33460456a1b1b93b0020513d84c70.jpg</picture>
@@ -269977,7 +269977,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01665" available="true">
-<price>828</price>
+<price>637</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70105428-0ed1191da5472a7d4d1da21a48f349e0.jpg</picture>
@@ -294262,7 +294262,7 @@ _x000D_
 <description_ua>Країна імпорту: Польща Ціна вказана за 1пуч. (Як на фото, 6 гілочок) Висота загальна 45см Висота верхівки-бутона - 10-14см Матеріал натуральні рослини</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="ST00032" available="true">
+<offer id="ST00032" available="false">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
@@ -294273,7 +294273,7 @@ _x000D_
 <name_ua>Сухоцвіт "Okra" в  блискітках золота (895-2)</name_ua>
 <name_ru>Сухоцвет "Okra" в блестках золотая (895-2)</name_ru>
 <description_ua>Країна імпорту: Польща Ціна вказана за 1пуч. (Як на фото, 6 гілочок) Висота загальна 45см Висота верхівки-бутона - 10-14см Матеріал натуральні рослини</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="ST00045" available="true">
 <price>850</price>
@@ -308773,7 +308773,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OK03028" available="true">
-<price>249</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
 <picture>https://elisey.ua/files/products/nee7210c6033f11ef8a19002590e9c1ad.540x540w.jpeg</picture>
@@ -316599,7 +316599,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Сумка дорожня&amp;nbsp;спортивна великої ємності для зберігання речей, для фітнесу Розміри: висота 28 см, довжина 50 см, ширина дна 20 см Призначення: унісекс Наявність довгих ручок, наявність регульованого плечового ременя Тканина водонепроникна Є відділ для взуття Колір: синій</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000004020" available="true">
+<offer id="MN000004020" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1144</categoryId>
@@ -316811,7 +316811,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина&amp;nbsp; Комплект сумка - тоут дорожня розширюваної ємкості з косметичкою Розміри: висота 33 см, довжина 39 см, ширина дна 20 см Призначення: жіноча З роздільним відділенням для вологих та сухих речей Наявність довгих ручок Колір: чорний</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000004071" available="true">
+<offer id="MN000004071" available="false">
 <price>1395</price>
 <currencyId>UAH</currencyId>
 <categoryId>1144</categoryId>
@@ -327280,7 +327280,7 @@ _x000D_
 <description_ua>Матеріал: водонепроникна та ізносостійка тканина Сумка барсетка&amp;nbsp;спортивна через плече Розміри: висота 23 см, ширина 28 см, ширина бічна 8 см Наявність регульованого плечового ременя Призначення: для чоловіків Колір: чорний</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005633" available="true">
+<offer id="MN000005633" available="false">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -327294,7 +327294,7 @@ _x000D_
 <name_ua>Сумка чоловіча спортивна через плече модна чорна (D22-1)</name_ua>
 <name_ru>Сумка мужская спортивная через плечо модная черная (D22-1)</name_ru>
 <description_ua>Матеріал: водонепроникна та ізносостійка тканина Сумка барсетка&amp;nbsp;спортивна через плече Розміри: висота 25 см, ширина 20 см, ширина бічна 9 см Наявність регульованого плечового ременя Призначення: для чоловіків Колір: чорний</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="MN000005634" available="true">
 <price>855</price>
@@ -333401,7 +333401,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 13 cm, ширина 21 см. Колір: Бежевий</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="Y8117-3" available="true">
+<offer id="Y8117-3" available="false">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -333411,7 +333411,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (Y8117-3) зелений</name_ua>
 <name_ru>Сумка сумка через плечо (Y8117-3) зелёный</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 15.5 см, ширина 22 см. Колір: Зелений</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="B1794-2" available="true">
 <price>795</price>
@@ -333593,7 +333593,7 @@ _x000D_
 <description_ua>Матеріал: Екошкіра Розміри: висота 26 см, ширина 34 см. Колір: Коричневий</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="H3272-2" available="true">
+<offer id="H3272-2" available="false">
 <price>885</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -333603,7 +333603,7 @@ _x000D_
 <name_ua>Сумка сумка через плече (H3272-2) червоний</name_ua>
 <name_ru>Сумка сумка через плечо (H3272-2) красный</name_ru>
 <description_ua>Матеріал: Екошкіра Розміри: висота 26 см, ширина 34 см. Колір: Червоний</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="H3272-3" available="true">
 <price>885</price>
@@ -343267,7 +343267,7 @@ _x000D_
 <description_ua>Матеріал: нейлонова тканина Рюкзак&amp;nbsp;щоденний для подорожей, ноутбука Розміри: висота 43 см, ширина 35 см, ширина дна 15 см Наявність регульованих плечових ременів Рюкзак містить бокові кишені Призначення: жіночий Колір: бежевий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005001" available="true">
+<offer id="MN000005001" available="false">
 <price>1020</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -344108,7 +344108,7 @@ _x000D_
 <description_ua>Матеріал: тканина Оксфорд Рюкзак&amp;nbsp;для подорожей, повсякденний для студентів коледжу Розміри: висота 43 см, ширина 27 см, ширина дна 13 см Наявність регульованих плечових ременів Рюкзак містить бокові кишені Призначення: для жінок Колір: салатовий</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000005119" available="true">
+<offer id="MN000005119" available="false">
 <price>1155</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -352465,7 +352465,7 @@ _x000D_
 <description_ua>Сучасна чоловіча сумка-слінг — практичний аксесуар для тих, хто цінує мобільність і комфорт. Завдяки ергономічному дизайну та зручному розміщенню на тілі, сумка ідеально підходить для міського ритму життя, прогулянок, подорожей чи занять спортом. Виготовлена з міцної нейлонової тканини, що забезпечує довговічність, легкість та водовідштовхувальні властивості. Характеристики: Матеріал: нейлонова тканина Розміри: висота – 30 см, ширина – 16 см, глибина – 7 см Тип: слінг / через плече Особливості: Регульований ремінь Основне відділення на блискавці Легка вага Спортивний дизайн із сучасним виглядом Компактна й містка, ця модель чудово підходить для зберігання телефону, гаманця, ключів та інших дрібниць, які мають бути під рукою.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EE01913" available="true">
+<offer id="EE01913" available="false">
 <price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -352476,7 +352476,7 @@ _x000D_
 <name_ua>Чоловіча сумка слінг через плече спортивна X112-2 Blue</name_ua>
 <name_ru>Мужская сумка слинг через плечо спортивная X112-2 Blue</name_ru>
 <description_ua>Сучасна чоловіча сумка-слінг — практичний аксесуар для тих, хто цінує мобільність і комфорт. Завдяки ергономічному дизайну та зручному розміщенню на тілі, сумка ідеально підходить для міського ритму життя, прогулянок, подорожей чи занять спортом. Виготовлена з міцної нейлонової тканини, що забезпечує довговічність, легкість та водовідштовхувальні властивості. Характеристики: Матеріал: нейлонова тканина Розміри: висота – 30 см, ширина – 16 см, глибина – 7 см Тип: слінг / через плече Особливості: Регульований ремінь Основне відділення на блискавці Легка вага Спортивний дизайн із сучасним виглядом Компактна й містка, ця модель чудово підходить для зберігання телефону, гаманця, ключів та інших дрібниць, які мають бути під рукою.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EE01916" available="false">
 <price>465</price>
@@ -352491,7 +352491,7 @@ _x000D_
 <description_ua>Сучасна чоловіча сумка-слінг — практичний аксесуар для тих, хто цінує мобільність і комфорт. Завдяки ергономічному дизайну та зручному розміщенню на тілі, сумка ідеально підходить для міського ритму життя, прогулянок, подорожей чи занять спортом. Виготовлена з міцної нейлонової тканини, що забезпечує довговічність, легкість та водовідштовхувальні властивості. Характеристики: Матеріал: нейлонова тканина Розміри: висота – 30 см, ширина – 16 см, глибина – 7 см Тип: слінг / через плече Особливості: Регульований ремінь Основне відділення на блискавці Легка вага Спортивний дизайн із сучасним виглядом Компактна й містка, ця модель чудово підходить для зберігання телефону, гаманця, ключів та інших дрібниць, які мають бути під рукою.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EE01918" available="true">
+<offer id="EE01918" available="false">
 <price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>1204</categoryId>
@@ -352502,7 +352502,7 @@ _x000D_
 <name_ua>Чоловіча сумка слінг через плече спортивна X112-4 Black</name_ua>
 <name_ru>Мужская сумка слинг через плечо спортивная X112-4 Black</name_ru>
 <description_ua>Сучасна чоловіча сумка-слінг — практичний аксесуар для тих, хто цінує мобільність і комфорт. Завдяки ергономічному дизайну та зручному розміщенню на тілі, сумка ідеально підходить для міського ритму життя, прогулянок, подорожей чи занять спортом. Виготовлена з міцної нейлонової тканини, що забезпечує довговічність, легкість та водовідштовхувальні властивості. Характеристики: Матеріал: нейлонова тканина Розміри: висота – 30 см, ширина – 16 см, глибина – 7 см Тип: слінг / через плече Особливості: Регульований ремінь Основне відділення на блискавці Легка вага Спортивний дизайн із сучасним виглядом Компактна й містка, ця модель чудово підходить для зберігання телефону, гаманця, ключів та інших дрібниць, які мають бути під рукою.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EE01971" available="true">
 <price>1155</price>
@@ -354495,7 +354495,7 @@ _x000D_
 <description_ua>Виробник: Китай Матеріал: Тканина нейлон Розміри: висота 37 см, довжина 47 см дном Ширина 13 cm&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK06184" available="true">
+<offer id="OK06184" available="false">
 <price>960</price>
 <currencyId>UAH</currencyId>
 <categoryId>1144</categoryId>
@@ -358610,7 +358610,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13701" available="true">
-<price>485</price>
+<price>443</price>
 <currencyId>UAH</currencyId>
 <categoryId>1139</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i95534839-88ff25718a571565fec8b5806e3abd45-1734784599145.jpg</picture>
@@ -381228,7 +381228,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI003396" available="true">
-<price>279</price>
+<price>209</price>
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/5a57fdf2-f662-11e9-9b02-305a3a7701f3-00000002000.jpg</picture>
@@ -386774,7 +386774,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE03185" available="true">
-<price>567</price>
+<price>549</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i73551305-a33772c61d1835af0e8dcb80a16e2b48.jpg</picture>
@@ -495526,7 +495526,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DD3049" available="true">
-<price>2010</price>
+<price>1546</price>
 <currencyId>UAH</currencyId>
 <categoryId>1205</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i105121546-cbffc415ebd47fcabe7adb04e5b01dd9-1745838181835.jpg</picture>
@@ -503200,7 +503200,7 @@ _x000D_
 <description_ua>Розмір: S-4XL Матеріал: бавовна Склад тканини: бавовна 100% Колір: в асортименті Призначення: для повсякденного носіння та занять спортом Призначення Поло з довгим рукавом LIDONG LD-501 - універсальний одяг, створений для забезпечення комфорту та стилю у повсякденному житті. Опис LIDONG LD-501 - це поло з довгими рукавами, виконане з високоякісної бавовни, яка забезпечує максимальний комфорт при носінні. Модель відрізняється стильним дизайном та увагою до деталей, що робить його відмінним вибором як для повсякденного, так і для спортивного носіння. Довгі рукави LD-501 надають додатковий рівень тепла та захисту у прохолодні дні, що робить його ідеальним вибором для осені та весни. Застібка на ґудзиках дозволяє регулювати комфортну посадку залежно від ваших уподобань. Переваги: Забезпечує високий рівень комфорту та довговічності, гарантуючи надійність та стійкість навіть при активному використанні. Легко переться та піддається догляду, що робить поло практичним та зручним для використання у повсякденному житті. Бавовна дозволяє шкірі "дихати", що допомагає підтримувати комфортну температуру тіла навіть у спеку. Має міцні шви та довговічне оздоблення, що збільшує його термін служби та знижує ризик вицвітання або деформації. Характеристики ВидПоло ФасонДовгий рукав СтатьУнісекс МатеріалБавовна Склад тканиниБавовна 100% Країна виробникКитай</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="DD1619" available="false">
+<offer id="DD1619" available="true">
 <price>810</price>
 <currencyId>UAH</currencyId>
 <categoryId>1124</categoryId>
@@ -524141,7 +524141,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DD2888" available="true">
-<price>630</price>
+<price>649</price>
 <currencyId>UAH</currencyId>
 <categoryId>1507</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i104513015-6030a9cd378b091ed8b58ea29fd44496-1745071596690.jpg</picture>
@@ -524155,7 +524155,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DD2889" available="true">
-<price>630</price>
+<price>649</price>
 <currencyId>UAH</currencyId>
 <categoryId>1507</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i104513015-6030a9cd378b091ed8b58ea29fd44496-1745071596690.jpg</picture>
@@ -524169,7 +524169,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DD2890" available="true">
-<price>630</price>
+<price>649</price>
 <currencyId>UAH</currencyId>
 <categoryId>1507</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i104513015-6030a9cd378b091ed8b58ea29fd44496-1745071596690.jpg</picture>
@@ -524183,7 +524183,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DD2892" available="true">
-<price>630</price>
+<price>649</price>
 <currencyId>UAH</currencyId>
 <categoryId>1507</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i104513015-6030a9cd378b091ed8b58ea29fd44496-1745071596690.jpg</picture>
