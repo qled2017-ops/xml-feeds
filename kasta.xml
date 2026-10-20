@@ -204510,7 +204510,7 @@ _x000D_
 <description_ua>Довжина - 44 см, ширина - 20 см. Яскравий аксесуар для завершення будь-якого костюма. Легкий і безпечний, чудово підійде для вечірок, фотосесій і створення моторошної атмосфери. Стане помітним акцентом на святі та підкреслить ваш образ.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KU00680" available="true">
+<offer id="KU00680" available="false">
 <price>70</price>
 <currencyId>UAH</currencyId>
 <categoryId>1175</categoryId>
@@ -204521,7 +204521,7 @@ _x000D_
 <name_ua>Декор на Хелловін "Червоний тризуб", 50 см (9243-043)</name_ua>
 <name_ru>Декор на Хэллоуин "Красный трезубец", 50 см (9243-043)</name_ru>
 <description_ua>Довжина - 50 см, ширина - 11.5 см. Яскравий аксесуар для завершення будь-якого костюма. Легкий і безпечний, чудово підійде для вечірок, фотосесій і створення моторошної атмосфери. Стане помітним акцентом на святі та підкреслить ваш образ.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KU00681" available="true">
 <price>206</price>
