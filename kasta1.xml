@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-22 19:17">
+<yml_catalog date="2026-10-23 09:46">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -152205,7 +152205,7 @@ _x000D_
 <description_ua>Матеріал: 100% алюміній. Вага: 750г Набір складається із: - 3 каструлі: 1- об'єм: 3,8 л, розміри: 20,5 x 10,5 см 2- об'єм: 2,8 л, розміри: 19 x 8,5 см 3- об'єм: 1,9 л, розміри: 17 x 8,5 см - Універсальна кришка-миска: 18,5 х 3,5 см - Чайник: місткість: 0,95 л - Універсальна ручка-щипці.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK00670" available="true">
+<offer id="OK00670" available="false">
 <price>1798</price>
 <currencyId>UAH</currencyId>
 <categoryId>1161</categoryId>
@@ -152217,7 +152217,7 @@ _x000D_
 <name_ua>Набір посуду кухарський Mil-Tec KOCH-SET ST/STEEL 2 PERS. (14647000)</name_ua>
 <name_ru>Набор посуды кухонный Mil-Tec KOCH-SET ST/STEEL 2 PERS. (14647000)</name_ru>
 <description_ua>Посуд: нержавіюча сталь. Чашка: поліетилен. Вага: 670 г. До комплекту входять: -Глибока сковорода з ручкою - діаметр 17 см, глибина 3,5 см, об'єм 800 мл Середня -каструля з ручкою і кришкою - діаметр 17 см, глибина 7,6 см, об'єм 1200 мл - Маленький горщик з ручкою і кришкою - діаметр 14,5 см, глибина 7 см, об'єм 1000 мл - 2 × пластикових склянок - емкість 177 мл - Сумка для перенесення</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK00671" available="false">
 <price>1348</price>
