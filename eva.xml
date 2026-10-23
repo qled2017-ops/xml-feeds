@@ -1042,7 +1042,7 @@
 <param name="Форма сервірування страви">Кругла</param>
 <param name="Колір">Прозорий</param>
 </offer>
-<offer id="OL000363" available="true">
+<offer id="OL000363" available="false">
 <price>153.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -1052,7 +1052,7 @@
 <name_ua>Кухоль скляний Boss 500 мл димний 431150 (9418)</name_ua>
 <description>Кухоль&amp;nbsp;Boss 500 мл&amp;nbsp;виготовлений із якісного скла, застосовується в домашньому побуті для приготування та вживання гарячих напоїв - чаю, кави, тощо.</description>
 <description_ua>Кухоль&amp;nbsp;Boss 500 мл&amp;nbsp;виготовлений із якісного скла, застосовується в домашньому побуті для приготування та вживання гарячих напоїв - чаю, кави, тощо.</description_ua>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 <param name="Декорування">Однотонні моделі</param>
 <param name="Кількість в упаковці">1</param>
@@ -171574,7 +171574,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02401" available="true">
-<price>101</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71292419-0b26998821f71541f48ccd8ee2ea86c2.jpg</picture>

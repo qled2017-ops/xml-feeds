@@ -4556,7 +4556,7 @@
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Білий</param>
 </offer>
-<offer id="OL000363" available="true">
+<offer id="OL000363" available="false">
 <price>153</price>
 <currencyId>UAH</currencyId>
 <categoryId>1033</categoryId>
@@ -4568,7 +4568,7 @@
 <name_ru>Кружка стеклянная Boss 500 мл дымная 431150 (9418)</name_ru>
 <description>Кухоль&amp;nbsp;Boss 500 мл&amp;nbsp;виготовлений із якісного скла, застосовується в домашньому побуті для приготування та вживання гарячих напоїв - чаю, кави, тощо.</description>
 <description_ua>Кухоль&amp;nbsp;Boss 500 мл&amp;nbsp;виготовлений із якісного скла, застосовується в домашньому побуті для приготування та вживання гарячих напоїв - чаю, кави, тощо.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
