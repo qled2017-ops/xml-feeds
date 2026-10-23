@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-23 09:46">
+<yml_catalog date="2026-10-23 19:14">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -91590,7 +91590,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00314" available="false">
+<offer id="OK00314" available="true">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -91604,7 +91604,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00428" available="false">
+<offer id="OK00428" available="true">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -112548,7 +112548,7 @@ _x000D_
 <description_ua>Банка для печива керамічна 850мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02354" available="false">
+<offer id="KD02354" available="true">
 <price>563</price>
 <currencyId>UAH</currencyId>
 <categoryId>1062</categoryId>
@@ -113346,7 +113346,7 @@ _x000D_
 <description_ua>Складна миска МВМ MY HOME допоможе вирішити низку побутових потреб. Не створить жодного дискомфорту навіть у маленькому просторі, адже швидко складається до максимально компактного розміру. Плоску миску можна легко помістити у будь-яку вільну нішу. Виготовлена з міцного поліпропілену та гуми. Аксесуар максимально універсальний, тому знайде своє застосування у будь-якому куточку будинку та за його межами. Миска відмінно підійде для збирання, зберігання побутової хімії, збирання врожаю або очищення продуктів. Ви зможете взяти її з собою в поїздку або пікнік, не турбуючись зайняти зайве місце в багажнику автомобіля.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02461" available="false">
+<offer id="KD02461" available="true">
 <price>856</price>
 <currencyId>UAH</currencyId>
 <categoryId>1065</categoryId>
@@ -139715,7 +139715,7 @@ _x000D_
 <description_ua>UNIQUE UN-5302 виготовлений з високоякісної нержавіючої сталі, яка одночасно дуже легка та міцна у використанні. З внутрішньої сторони чайник має покриття з нержавіючої сталі, яке полегшує догляд за чайником та безпечне для здоров'я. Зручна ручка виготовлена з нейлону, а її конструкція розроблена так, що вона не нагрівається навіть після тривалого кип'ятіння води. Чайник оснащений спеціальним свистком, який повідомить про те, що вода закипіла. На ручці цієї моделі є спеціальний важіль, за допомогою якого легко і просто можна відкривати та закривати свисток. Також цей чайник підходить для всіх типів плит. А щоб чайник UNIQUE UN-5302 прослужив вам довго, необхідно перед першим використанням промити чайник у теплій воді з миючим засобом за допомогою м'якої губки. Щоб уникнути пошкоджень поверхні, не використовуйте для миття металеві губки, абразивні, їдкі матеріали, а також хлор- і кислотно-очищувачі. Матеріал ручки Нейлонова Наявність свистка Є Об'єм (л)2.5 Особливості Гучний свисток; Капсульне дно; Не нагріта нейлонова ручка Покриття Нержавіюча сталь Сумісність із джерелами тепла Усі види плит</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02161" available="true">
+<offer id="RU02161" available="false">
 <price>912</price>
 <currencyId>UAH</currencyId>
 <categoryId>1126</categoryId>
@@ -141786,7 +141786,7 @@ _x000D_
 <description_ua>Віночок зі скребком Матеріал: функціональної частини: нержавіюча сталь із силіконовим покриттям Матеріал ручки: пластик Розмір: 27х6, 5х6, 5 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02597" available="false">
+<offer id="RU02597" available="true">
 <price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
@@ -141798,7 +141798,7 @@ _x000D_
 <description_ua>Зручність у використанні Довгий термін служби Матеріал функціональної частини: нейлон Матеріал ручки: силікон Розмір: 31х10,5 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02598" available="false">
+<offer id="RU02598" available="true">
 <price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
@@ -141810,7 +141810,7 @@ _x000D_
 <description_ua>Зручність у використанні Довгий термін служби Матеріал функціональної частини: нейлон Матеріал ручки: силікон Розмір: 31х10,5 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02599" available="false">
+<offer id="RU02599" available="true">
 <price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
@@ -152296,7 +152296,7 @@ _x000D_
 <description_ua>Сучасне гнучке скло для поверхонь, яке дає змогу зберегти ідеальний стан кухонного, журнального, обіднього, робочого, дитячого столу; робочої поверхні кухні; підвіконня; комод; статі в місцях годування домашніх тварин Захищає від вологи, подряпин та бруду. Легко миється за допомогою неабразивних засобів. Поверхня силіконової скатертини гладка, але при цьому має антиковзний ефект. Рідке скло можна самостійно відрізати під потрібну форму та розмір. Товщина захисного покриття становить 1 мм, що дає змогу витримати нагрівання до 60 градусів. Зроблено із матеріалу, який не виділяє токсичних речовин. Склад: ПВХ</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02209" available="false">
+<offer id="KD02209" available="true">
 <price>197</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -152327,7 +152327,7 @@ _x000D_
 <description_ua>Компактний рушник з натуральної щільної бавовни стане незамінним предметом особистої гігієни. Має сучасний лаконічний дизайн. Є в універсальних пастельних відтінках. Приємне навпомацки, добре вбирає вологу, зберігає тепло і швидко сохне. Матеріал повністю екологічний та гіпоалергенний, тому чудово підходить навіть для маленьких дітей. Аксесуар простий у догляді, підходить для прання. Такий рушник буде стильним доповненням до Вашої ванної кімнати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02212" available="false">
+<offer id="KD02212" available="true">
 <price>1284</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -152343,7 +152343,7 @@ _x000D_
 <description_ua>Компактний рушник з натуральної щільної бавовни стане незамінним предметом особистої гігієни. Має сучасний лаконічний дизайн. Є в універсальних пастельних відтінках. Приємне навпомацки, добре вбирає вологу, зберігає тепло і швидко сохне. Матеріал повністю екологічний та гіпоалергенний, тому чудово підходить навіть для маленьких дітей. Аксесуар простий у догляді, підходить для прання. Такий рушник буде стильним доповненням до Вашої ванної кімнати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD02216" available="false">
+<offer id="KD02216" available="true">
 <price>197</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -152360,7 +152360,7 @@ _x000D_
 <description_ua>Компактний рушник з натуральної щільної бавовни стане незамінним предметом особистої гігієни. Має сучасний лаконічний дизайн. Є в універсальних пастельних відтінках. Приємне навпомацки, добре вбирає вологу, зберігає тепло і швидко сохне. Матеріал повністю екологічний та гіпоалергенний, тому чудово підходить навіть для маленьких дітей. Аксесуар простий у догляді, підходить для прання. Такий рушник буде стильним доповненням до Вашої ванної кімнати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD02217" available="false">
+<offer id="KD02217" available="true">
 <price>197</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -152393,7 +152393,7 @@ _x000D_
 <description_ua>Компактний рушник з натуральної щільної бавовни стане незамінним предметом особистої гігієни. Має сучасний лаконічний дизайн. Є в універсальних пастельних відтінках. Приємне навпомацки, добре вбирає вологу, зберігає тепло і швидко сохне. Матеріал повністю екологічний та гіпоалергенний, тому чудово підходить навіть для маленьких дітей. Аксесуар простий у догляді, підходить для прання. Такий рушник буде стильним доповненням до Вашої ванної кімнати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD02224" available="false">
+<offer id="KD02224" available="true">
 <price>197</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -162361,7 +162361,7 @@ _x000D_
 <description_ua>Стильний горщик для квітів МВМ MY HOME має універсальну форму, лаконічний дизайн, доповнений глянсовим покриттям. Виготовлений із високоякісної кераміки, не виділяє сторонніх запахів, не тьмяніє з часом. Підійде для вирощування різних рослин. Гармонійно доповнить класичні та сучасні інтер'єри. Прикрасити простір у будинку, офісі, громадському харчуванні тощо. Буде чудово виглядати на полиці, столі або підвіконні.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD01846" available="false">
+<offer id="KD01846" available="true">
 <price>789</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -163330,7 +163330,7 @@ _x000D_
 <description_ua>Хлібниця плетена сучасної форми. Корпус виробу виготовлений із лози.&amp;nbsp; Кошик плетений прямокутний з ручками ефектно виглядає в інтер'єрі і створює атмосферу затишку та гостинності. Можна використовувати для внутрішньої обстановки шаф та на відкритих полицях. Лоток для хліба у стилі Прованс стане прикрасою на святковому столі та у повсякденному житті. Кошик можна використовувати і для зберігання всіх видів фруктів, овочів, цукерок, горіхів, а матеріал, що дихає, дозволить довше зберегти свіжість продуктів.&amp;nbsp; Плетений кошик можна використовувати і для зберігання речей у ванній, ключів і дрібниць у передпокої. Підійде для зберігання дрібних іграшок у дитячій, організації зберігання ниток та будь-яких дрібних предметів: косметичка, скринька для жіночих прикрас, засобів гігієни та рукоділля!</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02300" available="true">
+<offer id="KD02300" available="false">
 <price>1731</price>
 <currencyId>UAH</currencyId>
 <categoryId>1099</categoryId>
@@ -163349,7 +163349,7 @@ _x000D_
 <name_ua>Набір автоматичних млинів для солі та перцю 2 шт. з підставкою KP-57 BLACK</name_ua>
 <name_ru>Набор автоматических мельниц для соли и перца 2 шт. с подставкой KP-57 BLACK</name_ru>
 <description_ua>Сучасний гаджет, який стане в нагоді на Вашій кухні. Набір автоматичних млинів для солі та перцю МВМ MY HOME допоможе отримати ідеально дрібні спеції однорідної консистенції. Млини виготовлені з якісних матеріалів, виглядають естетично, вдало доповнять інтер'єр. Працюють на батарейках. Для роботи потрібно 4 пальчикові батареї. Такий практичний аксесуар доповнить кількість улюблених кухонних гаджетів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02301" available="false">
 <price>768</price>
@@ -164820,7 +164820,7 @@ _x000D_
 <description_ua>Практична ємність МВМ MY HOME стане в нагоді в домашньому побуті. Має стильний зовнішній вигляд та успішно доповнить інтер'єр на кухонних полицях. Виготовлена із високоякісних матеріалів, герметично закривається кришкою. Підійде для зберігання спецій, круп, борошна, чаю, кави та інших сипких. Місткість допоможе зберегти смакові властивості та аромати продуктів усередині.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02368" available="false">
+<offer id="KD02368" available="true">
 <price>659</price>
 <currencyId>UAH</currencyId>
 <categoryId>1062</categoryId>
@@ -164854,7 +164854,7 @@ _x000D_
 <description_ua>Маленький аксесуар, який створить особливу атмосферу у Вашій кухні. Оригінальна ємність MVM MY HOME допоможе зберігати продукти, не втрачаючи їхньої свіжості та смакових властивостей. Ємність&amp;nbsp;має лаконічний дизайн, привабливий зовнішній вигляд, зручний у використанні. Виготовлена із високоякісної кераміки, щільно закривається бамбуковою кришкою. Місткість можна наповнити сипучими напоями, цукром, борошном, крупами, сухофруктами або горіхами.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02402" available="false">
+<offer id="KD02402" available="true">
 <price>638</price>
 <currencyId>UAH</currencyId>
 <categoryId>1062</categoryId>
@@ -166804,7 +166804,7 @@ _x000D_
 <description_ua>Функціональні терки МВМ MY HOME стануть надійними помічниками на кухні. З їх допомогою можна легко приготувати салат із улюблених продуктів, зробити овочеві заготовки для перших страв тощо. Тертки виготовлені з якісної нержавіючої сталі, яка не іржавіє при контакті з водою і не змінює смак продуктів. Оснащені зручними ручками, які зручно тримати у руці. Кутки, вкриті поліпропіленом, запобігають ковзанню по дошці або стільниці.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02298" available="false">
+<offer id="KD02298" available="true">
 <price>893</price>
 <currencyId>UAH</currencyId>
 <categoryId>1132</categoryId>
@@ -168172,7 +168172,7 @@ _x000D_
 <description_ua>Органайзер для компактного зберігання миючих засобів та аксесуарів. Дозволить утримувати всі необхідні предмети для миття посуду та стільниць у порядку та під рукою, а раковину – акуратною та чистою. Численні дренажні отвори на дні та стінках контейнера зберігають природну вентиляцію повітря, дозволяючи губкам швидко сохнути та мінімізуючи зростання бактерій. Виготовлена із двох роздільних частин. Гнучка підвіска з ґудзиками забезпечує надійну, нековзну фіксацію на змішувач або гачок. А зовнішній кошик із міцного пластику, що відповідає за збереження форми контейнера, легко знімається, що дозволяє легко підтримувати її в чистоті. Рекомендується мити вручну без використання абразивних миючих засобів. Має гладкі та приємні на дотик поверхні. Матеріал: ABS пластик та TPR гума. Розмір: 170х148х63 мм.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02276" available="false">
+<offer id="KD02276" available="true">
 <price>178</price>
 <currencyId>UAH</currencyId>
 <categoryId>1138</categoryId>
@@ -188068,7 +188068,7 @@ _x000D_
 <description_ua>Аромадифузор у стильному скляному флаконі – це гарний та практичний аксесуар, який наповнить Ваш будинок естетикою, створить атмосферу затишку та комфорту. Приємний фруктово-квітковий аромат ненав'язливо літатиме в повітрі і нагадає про сонячні літні дні у будь-яку пору року. Яскрава композиція із фруктів, гранату, квітів, цикламена, жасмину, фіалки та гвоздики заполонить кімнату. А розкриє букет сміливий запах у поєднанні дерева, кедра, мускусу та амбри. Ідеальний вибір для дому, салон краси, студії та ін.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD01792" available="true">
+<offer id="KD01792" available="false">
 <price>795</price>
 <currencyId>UAH</currencyId>
 <categoryId>1080</categoryId>
@@ -188080,7 +188080,7 @@ _x000D_
 <name_ua>Аромадифузор "Тереса" Білий мускус та тепла ваніль, 100 мл FR-10 COLOR</name_ua>
 <name_ru>Аромадиффузор "Тереса" Белый мускус и теплая ваниль, 100 мл FR-10 COLOR</name_ru>
 <description_ua>Ніжний ванільний запах і стильний дизайн поєдналися в гарному ароматіфузорі. Аромат білого мускусу та теплої ванілі стане поштовхом для мрій, наповнить будинок спокоєм та гармонією. В основі композиції легкий запах бергамоту, лимона, жасмину, секвої, а розкриває букет з вогником, що горить, ваніль і муксус. Створіть атмосферу затишку та релаксу разом із особливим теплим ароматом.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD01793" available="true">
 <price>1386</price>
@@ -191900,7 +191900,7 @@ _x000D_
 <description_ua>Матеріал: Кераміка Фабрика: 851 Розміри: 10.5*9.5*17.5см Упаковка: коричневий картон Кількість в упаковці: 1 Кількість у ящику: 24 Кількість дизайнів: 1</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02050" available="true">
+<offer id="KD02050" available="false">
 <price>734</price>
 <currencyId>UAH</currencyId>
 <categoryId>1084</categoryId>
@@ -191916,7 +191916,7 @@ _x000D_
 <name_ua>Диспенсер для рідкого мила BOSTON 230 мл BA-04 WHITE</name_ua>
 <name_ru>Диспенсер для жидкого мыла BOSTON 230 мл BA-04 WHITE</name_ru>
 <description_ua>Вишуканий сучасний аксесуар МВМ MY HOME серії «BOSTON» сподобається поціновувачам оригінальних речей. Диспенсер для рідкого мила лаконічний та вдало доповнить простір у ванній кімнаті. Компактний настільний дозатор можна використовувати для порційного дозування рідкого мила, гелю, шампуню або миючого засобу. Виготовлений із високоякісного довговічного матеріалу – непрозорої смоли. Диспенсер – чудова альтернатива пластиковим баночкам, що додасть вишуканості та зробить приміщення особливим.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD02053" available="true">
 <price>819</price>
@@ -192038,7 +192038,7 @@ _x000D_
 <description_ua>Витончений діспенсер для рідкого мила МВМ MY HOME стане не тільки практичним аксесуаром для санвузла, але й цікавим предметом інтер'єру. Такий компактний настільний дозатор можна використовувати для порційного дозування рідкого мила, гелю, шампуню або миючого засобу. З його допомогою Ви позбавитеся візуального шуму і створюєте затишний простір у ванній кімнаті. Виготовлений з високоякісної кераміки, має сучасний дизайн з приємним глянцевим відтінком, що переливається на світі. Простий у догляді, зручний у користуванні.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02068" available="false">
+<offer id="KD02068" available="true">
 <price>747</price>
 <currencyId>UAH</currencyId>
 <categoryId>1084</categoryId>
@@ -192388,7 +192388,7 @@ _x000D_
 <description_ua>Компактний органайзер для зубних щіток та пасти МВМ MY HOME серії "CRIMEA" допоможе організувати порядок у ванній кімнаті, тримати щітки всієї родини в одному місці. Аксесуар має оригінальний сучасний дизайн, успішно доповнить інтер'єр. Виготовлений з надійної піщаної смоли, не тьмяніє і не псується з часом. Підійде шанувальникам красивих класичних аксесуарів. Стане невід'ємною частиною створення комфортного простору.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD02083" available="false">
+<offer id="KD02083" available="true">
 <price>475</price>
 <currencyId>UAH</currencyId>
 <categoryId>1110</categoryId>
@@ -192663,7 +192663,7 @@ _x000D_
 <description_ua>Стильний та багатофункціональний аксесуар інтер'єру, який допоможе організувати порядок на кухні, вбиральні, у ванній кімнаті або у шафі. А правильно продуманий дизайн у деталях забезпечує надійну фіксацію речей на гачку. Самоклеючий гачок MVM виготовлений з нержавіючої сталі марки AISI 304. Стійкий до корозії, перепадів температур та вологості матеріал. Простий у догляді. Монтується за допомогою двосторонньої клейкої стрічки. Це унікальна технологія адгезивна для легкого, надійного, безпечного і при цьому прихованого кріплення на вертикальній поверхні без застосування інструментів. Витримує навантаження 2,5 кг. Розмір: 45х27мм.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02128" available="false">
+<offer id="KD02128" available="true">
 <price>554</price>
 <currencyId>UAH</currencyId>
 <categoryId>1158</categoryId>
@@ -192677,7 +192677,7 @@ _x000D_
 <description_ua>Стильний та багатофункціональний аксесуар інтер'єру, який допоможе організувати порядок на кухні, вбиральні, у ванній кімнаті або у шафі. А правильно продуманий дизайн у деталях забезпечує надійну фіксацію речей на гачку. Самоклеючий гачок MVM виготовлений з нержавіючої сталі марки AISI 304. Стійкий до корозії, перепадів температур та вологості матеріал. Простий у догляді. Монтується за допомогою двосторонньої клейкої стрічки. Це унікальна технологія адгезивна для легкого, надійного, безпечного і при цьому прихованого кріплення на вертикальній поверхні без застосування інструментів. Витримує навантаження до 5 кг. Розмір: 100х50х27 мм.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD02129" available="false">
+<offer id="KD02129" available="true">
 <price>554</price>
 <currencyId>UAH</currencyId>
 <categoryId>1158</categoryId>
@@ -193395,7 +193395,7 @@ _x000D_
 <description_ua>Патч, що клеїться для власника MVM з артикулом BP-19. Він знадобиться Вам, якщо Ви вирішили змінити місце фіксації аксесуарів. Спосіб монтажу: 1. Знежирити поверхню 2. Зніміть захисну плівку та приклейте патч 3. Залишіть на 24 години 4. Зафіксуйте аксесуар на патчі Увага: не використовуйте повторно. Матеріал: поліпропілен.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02142" available="false">
+<offer id="KD02142" available="true">
 <price>184</price>
 <currencyId>UAH</currencyId>
 <categoryId>1161</categoryId>
@@ -194286,7 +194286,7 @@ _x000D_
 <description_ua>Органайзер для зберігання МВМ MY HOME – справжня знахідка для аматорів. З таким аксесуаром речі завжди будуть на своїх місцях. Розділений на п'ять секцій, місткий та неймовірно зручний у використанні. Скринька на картонній основі відмінно тримає форму, а при необхідності легко складається і займає мінімум місця. Органайзер для зберігання можна наповнити шкарпетками, білизною, рушниками, дитячим одягом або іншими тканинними виробами чи побутовими дрібницями.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD01596" available="false">
+<offer id="KD01596" available="true">
 <price>497</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -194660,7 +194660,7 @@ _x000D_
 <description_ua>Плетений кошик – стильний та функціональний аксесуар для будинку, який допоможе створити затишок та тримати дрібні речі на своїх місцях. Виготовлений із високоякісного екологічного матеріалу, міцний та довговічний. Має стильний сучасний дизайн та компактні розміри, що дозволяють розмістити його на столі, полиці чи підставці. Оснащений зручною петелькою, завдяки якій його за необхідності можна підвісити на гачок та заощадити місце. Кошик відмінно підійде для зберігання косметики, фурнітури, прикрас, канцелярії, дитячих іграшок та чогось іншого.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD01606" available="false">
+<offer id="KD01606" available="true">
 <price>356</price>
 <currencyId>UAH</currencyId>
 <categoryId>1087</categoryId>
@@ -241563,7 +241563,7 @@ _x000D_
 <description_ua>Універсальний тренажер CHEST MASTER SP-Sport FI-1544 дозволяє опрацьовувати одразу кілька груп м'язів, допомагаючи не лише підтягнути фігуру, а й покращити тонус тіла. Принцип його роботи дуже простий: для тренування стегон і сідниць достатньо затиснути тренажер між ніг і стискати його, відчуваючи, як працюють м'язи. Для опрацювання грудей тренажер розташовують між долонями і стискають, включаючи в роботу м'язи рук, плечового пояса і грудей. Регулярні тренування з цим аксесуаром допоможуть зробити м'язи більш пружними, покращити витривалість та силу. Виготовлений із міцного пластику, тренажер відрізняється довговічністю та надійністю. Матеріал стійкий до деформацій, що дозволяє використовувати аксесуари в інтенсивному режимі без ризику пошкоджень. Призначення Тренажер призначений для ефективного тренування м'язів стегон, сідниць та грудей у домашніх умовах. Підходить як для новачків, так і для досвідчених спортсменів. Переваги: Зручний у використанні вдома, в офісі або навіть у поїздках. Створює помірне навантаження на м'язи, допомагаючи підтримувати їх у тонусі. Сприяє зміцненню серцево-судинної системи. Може використовуватись як доповнення до інших видів тренувань. Ідеальний для тих, хто хоче займатися фітнесом, але не має часу на відвідування спортзалу.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000384" available="true">
+<offer id="NN000384" available="false">
 <price>328</price>
 <currencyId>UAH</currencyId>
 <categoryId>1057</categoryId>
@@ -241573,9 +241573,9 @@ _x000D_
 <name_ua>Доріжка-раннер на стіл 35*180см M50085-04</name_ua>
 <name_ru>Дорожка-раннер на стол 35*180см M50085-04</name_ru>
 <description_ua>Доріжка-раннер на стіл — стильний текстильний аксесуар для сервірування та декору. Захищає поверхню столу від забруднень і подряпин, додаючи естетики та затишку інтер’єру. Підходить для щоденного використання або святкових подій. Легка в догляді та поєднується з різними стилями сервірування.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000385" available="true">
+<offer id="NN000385" available="false">
 <price>328</price>
 <currencyId>UAH</currencyId>
 <categoryId>1057</categoryId>
@@ -241585,7 +241585,7 @@ _x000D_
 <name_ua>Доріжка-раннер на стіл 35*180см M50085-08</name_ua>
 <name_ru>Дорожка-раннер на стол 35*180см M50085-08</name_ru>
 <description_ua>Доріжка-раннер на стіл — стильний текстильний аксесуар для сервірування та декору. Захищає поверхню столу від забруднень і подряпин, додаючи естетики та затишку інтер’єру. Підходить для щоденного використання або святкових подій. Легка в догляді та поєднується з різними стилями сервірування.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN001333" available="true">
 <price>492</price>
@@ -251673,7 +251673,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;алюміній, бакеліт Розміри:&amp;nbsp;d24*5см Упаковка: кольоровий вкладиш,&amp;nbsp;пакет</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01752" available="true">
+<offer id="OS01752" available="false">
 <price>998</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
@@ -251684,7 +251684,7 @@ _x000D_
 <vendorCode>OS01752</vendorCode>
 <name_ua>Сковорода литая антипригарная "Su-Chef" инд. дно (10358-28)</name_ua>
 <description_ua>Матеріал:&amp;nbsp;алюміній, бакеліт Розміри:&amp;nbsp;28*5.5см Упаковка: кольоровий вкладиш,&amp;nbsp;пакет</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01761" available="true">
 <price>890</price>
@@ -252546,7 +252546,7 @@ _x000D_
 <description_ua>Банка з бамбуковою кришкою 1.35 л 10*18 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01698" available="true">
+<offer id="OS01698" available="false">
 <price>860</price>
 <currencyId>UAH</currencyId>
 <categoryId>1062</categoryId>
@@ -252559,7 +252559,7 @@ _x000D_
 <name_ua>Диспенсер з обертом для кашів та снеків (R97081)</name_ua>
 <name_ru>Диспенсер с оборотом для каш и снеков (R97081)</name_ru>
 <description_ua>Матеріал: пластик, полістирол Розміри: 37*21см Об'єми: 5л (2,5/1,25/1,25л) Упаковка: кольорова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01711" available="true">
 <price>1342</price>
@@ -253324,7 +253324,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;пластик Упаковка:&amp;nbsp;без інд.пакування Об'єм/Розміри:&amp;nbsp;2.5л/17.8*25см*9см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS03206" available="true">
+<offer id="OS03206" available="false">
 <price>162</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -253335,7 +253335,7 @@ _x000D_
 <name_ua>Контейнер харчовий з ручками (NP-14)</name_ua>
 <name_ru>Контейнер пищевой с ручками (NP-14)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;пластик Упаковка:&amp;nbsp;без інд.пакування Об'єм/Розміри:&amp;nbsp;2.0л/14.6*22*11см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS03272" available="true">
 <price>142</price>
@@ -253977,7 +253977,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;скло, неіржавіюча сталь Упаковка:&amp;nbsp;кольорова коробка Об'єм:&amp;nbsp;350мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS03494" available="true">
+<offer id="OS03494" available="false">
 <price>478</price>
 <currencyId>UAH</currencyId>
 <categoryId>1063</categoryId>
@@ -253987,7 +253987,7 @@ _x000D_
 <name_ua>Чайник заварювальний "French press" (R93560-0.6)</name_ua>
 <name_ru>Заварочный чайник "French press" (R93560-0.6)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;скло, пластик Об'єм:&amp;nbsp;600мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01643" available="true">
 <price>2007</price>
@@ -254750,7 +254750,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;порцеляна Об'єм/Розміри:&amp;nbsp;160мл/14см Упаковка: подарункова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01872" available="true">
+<offer id="OS01872" available="false">
 <price>782</price>
 <currencyId>UAH</currencyId>
 <categoryId>1064</categoryId>
@@ -254761,7 +254761,7 @@ _x000D_
 <name_ua>Чашка з блюдцем новорічна "Time for gifts" 2пр/наб (R36237)</name_ua>
 <name_ru>Чашка с блюдцем новогодняя "Time for gifts" 2пр/наб (R36237)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;кераміка Об'єм/Розміри:&amp;nbsp;180мл/10*6/14.5см Упаковка: подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01873" available="true">
 <price>782</price>
@@ -254923,7 +254923,7 @@ _x000D_
 <description_ua>Матеріал: фарфор Об'єм: 370мл Упаковка: подарункова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02000" available="true">
+<offer id="OS02000" available="false">
 <price>652</price>
 <currencyId>UAH</currencyId>
 <categoryId>1064</categoryId>
@@ -254933,7 +254933,7 @@ _x000D_
 <name_ua>Чашка новорічна "Winter forest" (R36283)</name_ua>
 <name_ru>Чашка новогодняя "Winter forest" (R36283)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;кераміка Об'єм/Розмір:&amp;nbsp;420мл/9.5*6.5см Упаковка: подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02001" available="true">
 <price>618</price>
@@ -256377,7 +256377,7 @@ _x000D_
 <description_ua>Матеріал: порцеляна Розміри: 17" (45.5*20*17.5см) Упаковка: біла коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01723" available="true">
+<offer id="OS01723" available="false">
 <price>1208</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -256387,7 +256387,7 @@ _x000D_
 <name_ua>Блюдо великоднє "Bloom &amp; Bunny" (R40703)</name_ua>
 <name_ru>Блюдо пасхальное "Bloom &amp; Bunny" (R40703)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;кераміка Розміри:&amp;nbsp;33*18*8см Упаковка:&amp;nbsp;кольорова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01760" available="true">
 <price>1024</price>
@@ -257331,7 +257331,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;скло Розміри:&amp;nbsp;11.5*5см Упаковка:&amp;nbsp;кольорова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02169" available="true">
+<offer id="OS02169" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -257341,7 +257341,7 @@ _x000D_
 <name_ua>Набір салатників скляних "Wave" 6шт/наб (R89180)</name_ua>
 <name_ru>Набор стеклянных салатников "Wave" 6шт/наб (R89180)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;скло Об'єм/Розміри:&amp;nbsp;300мл/5.5*12см Упаковка:&amp;nbsp;кольорова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02215" available="true">
 <price>1553</price>
@@ -257687,7 +257687,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;скло Розміри:&amp;nbsp;13см Упаковка:&amp;nbsp;технічна картонна упаковка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02432" available="true">
+<offer id="OS02432" available="false">
 <price>1040</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -257699,7 +257699,7 @@ _x000D_
 <name_ua>Набір блюд керамічних "Pearl of the Ocean" 4шт (R35376-8)</name_ua>
 <name_ru>Набор блюд керамических "Pearl of the Ocean" 4шт (R35376-8)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;кераміка Упаковка:&amp;nbsp;кольорова коробка Розміри:&amp;nbsp;8"/20см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02434" available="true">
 <price>820</price>
@@ -260868,7 +260868,7 @@ _x000D_
 <description_ua>Ваза керамічна "Wavy" 22*8 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01931" available="true">
+<offer id="II01931" available="false">
 <price>868</price>
 <currencyId>UAH</currencyId>
 <categoryId>1073</categoryId>
@@ -260878,7 +260878,7 @@ _x000D_
 <name_ua>Ваза скляна "Nori" 10*25 см  R95330-L</name_ua>
 <name_ru>Ваза стеклянная "Nori" 10*25 см  R95330-L</name_ru>
 <description_ua>Ваза скляна "Nori" 10*25 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01929" available="true">
 <price>978</price>
@@ -264577,7 +264577,7 @@ _x000D_
 <description_ua>Підставка для зубних щіток — зручний аксесуар для організації простору у ванній кімнаті. Дозволяє зберігати щітки у вертикальному положенні, забезпечуючи гігієнічність і швидке висихання. Компактна, практична та легко миється — ідеальне рішення для щоденного використання.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06754" available="true">
+<offer id="RS06754" available="false">
 <price>78</price>
 <currencyId>UAH</currencyId>
 <categoryId>1158</categoryId>
@@ -264587,7 +264587,7 @@ _x000D_
 <name_ua>Гачок-вішалка на двері SS 5*6см R94663</name_ua>
 <name_ru>Крючок-вешалка на дверь SS 5*6см R94663</name_ru>
 <description_ua>Гачок-вішалка на двері SS 5*6см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS06759" available="true">
 <price>78</price>
@@ -266952,7 +266952,7 @@ _x000D_
 <description_ua>Ящик-трансформер 30*19.5см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06616" available="true">
+<offer id="RS06616" available="false">
 <price>348</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -266962,9 +266962,9 @@ _x000D_
 <name_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см жовтий PB-461</name_ua>
 <name_ru>Ящик универсальный Прозрачный 6.3л 19*27.5*16см желтый PB-461</name_ru>
 <description_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06617" available="true">
+<offer id="RS06617" available="false">
 <price>348</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -266974,9 +266974,9 @@ _x000D_
 <name_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см блакитний PB-461</name_ua>
 <name_ru>Ящик универсальный Прозрачный 6.3л 19*27.5*16см голубой PB-461</name_ru>
 <description_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06618" available="true">
+<offer id="RS06618" available="false">
 <price>348</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -266986,9 +266986,9 @@ _x000D_
 <name_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см червоний PB-461</name_ua>
 <name_ru>Ящик универсальный Прозрачный 6.3л 19*27.5*16см красный PB-461</name_ru>
 <description_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06619" available="true">
+<offer id="RS06619" available="false">
 <price>348</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -266998,7 +266998,7 @@ _x000D_
 <name_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см помаранчевий PB-461</name_ua>
 <name_ru>Ящик универсальный Прозрачный 6.3л 19*27.5*16см оранжевый PB-461</name_ru>
 <description_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS06620" available="true">
 <price>260</price>
@@ -291827,7 +291827,7 @@ _x000D_
 <description_ua>Контейнер харчовий з різьбленням 500 мл d11*8 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00907" available="true">
+<offer id="II00907" available="false">
 <price>90</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -291837,7 +291837,7 @@ _x000D_
 <name_ua>Контейнер харчовий "Прайм" 750 мл 11*11*9.5 см PB-796</name_ua>
 <name_ru>Контейнер пищевой "Прайм" 750 мл 11*11*9.5 см PB-796</name_ru>
 <description_ua>Контейнер харчовий "Прайм" 750 мл 11*11*9.5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II00908" available="true">
 <price>90</price>
@@ -292337,7 +292337,7 @@ _x000D_
 <description_ua>Об'єм: 2,8 л Сучасний дизайн Високоякісна нержавіюча сталь Можливе використання на всіх типах плит Пластикова ручка, що не нагрівається.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02171" available="false">
+<offer id="RU02171" available="true">
 <price>1278</price>
 <currencyId>UAH</currencyId>
 <categoryId>1126</categoryId>
@@ -344556,7 +344556,7 @@ _x000D_
 <description_ua>Елегантна настільна фоторамка Flora стане стильним акцентом у вашому інтер’єрі. Виготовлена з міцного металу, вона поєднує надійність і витонченість дизайну. Рамка розрахована на фотографію розміром 10×15 см та оснащена зручною ніжкою-підставкою для розміщення на столі, полиці чи тумбі. Поставляється у подарунковій коробці, що робить її чудовим варіантом для презенту. Ідеально підходить для дому, офісу чи робочого простору, додаючи тепла, гармонії та стилю у будь-яке приміщення.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="I000139" available="true">
+<offer id="I000139" available="false">
 <price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
@@ -344566,9 +344566,9 @@ _x000D_
 <name_ua>Парасолька напівавтомат 55 см 8сп чорний R30680</name_ua>
 <name_ru>Зонт полуавтомат 55 см 8сп черный R30680</name_ru>
 <description_ua>Парасолька напівавтомат 55 см 8сп коричневий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="I000136" available="true">
+<offer id="I000136" available="false">
 <price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
@@ -344578,9 +344578,9 @@ _x000D_
 <name_ua>Парасолька напівавтомат 55 см 8сп синій R30680</name_ua>
 <name_ru>Зонтик полуавтомат 55 см 8сп синий R30680</name_ru>
 <description_ua>Парасолька напівавтомат 55 см 8сп синій</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="I000138" available="true">
+<offer id="I000138" available="false">
 <price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
@@ -344590,9 +344590,9 @@ _x000D_
 <name_ua>Парасолька напівавтомат 55 см 8сп коричневий R30680</name_ua>
 <name_ru>Зонт полуавтомат 55 см 8сп коричневый R30680</name_ru>
 <description_ua>Парасолька напівавтомат 55 см 8сп коричневий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="I000137" available="true">
+<offer id="I000137" available="false">
 <price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
@@ -344602,9 +344602,9 @@ _x000D_
 <name_ua>Парасолька напівавтомат 55 см 8сп блакитний R30680</name_ua>
 <name_ru>Зонт полуавтомат 55 см 8сп голубой R30680</name_ru>
 <description_ua>Парасолька напівавтомат 55 см 8сп блакитний</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS07384" available="true">
+<offer id="RS07384" available="false">
 <price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
@@ -344614,9 +344614,9 @@ _x000D_
 <name_ua>Парасолька напівавтомат 55см 8сп R30680</name_ua>
 <name_ru>Зонтик полуавтомат 55см 8сп R30680</name_ru>
 <description_ua>Парасолька напівавтомат 55см 8сп</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS07385" available="true">
+<offer id="RS07385" available="false">
 <price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
@@ -344626,9 +344626,9 @@ _x000D_
 <name_ua>Парасолька напівавтомат 55см 8сп синій R30680</name_ua>
 <name_ru>Зонтик полуавтомат 55см 8сп синий R30680</name_ru>
 <description_ua>Парасолька напівавтомат 55см 8сп</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS07386" available="true">
+<offer id="RS07386" available="false">
 <price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
@@ -344638,9 +344638,9 @@ _x000D_
 <name_ua>Парасолька напівавтомат 55см 8сп коричневий R30680</name_ua>
 <name_ru>Зонтик полуавтомат 55см 8сп коричневый R30680</name_ru>
 <description_ua>Парасолька напівавтомат 55см 8сп</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS07387" available="true">
+<offer id="RS07387" available="false">
 <price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
@@ -344650,7 +344650,7 @@ _x000D_
 <name_ua>Парасолька напівавтомат 55см 8сп чорний R30680</name_ua>
 <name_ru>Зонтик полуавтомат 55см 8сп черный R30680</name_ru>
 <description_ua>Парасолька напівавтомат 55см 8сп</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE03565" available="true">
 <price>1039</price>
@@ -361792,7 +361792,7 @@ _x000D_
 <description_ua>Коробка складана для зберігання речей L 50*40*33см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06673" available="true">
+<offer id="RS06673" available="false">
 <price>562</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -361802,9 +361802,9 @@ _x000D_
 <name_ua>Коробка для зберігання речей Mesh з метал.каркасом 66л R100482</name_ua>
 <name_ru>Коробка для хранения вещей Mesh с металл.каркасом 66л R100482</name_ru>
 <description_ua>Коробка для зберігання речей Mesh з метал.каркасом 66л</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06674" available="true">
+<offer id="RS06674" available="false">
 <price>562</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -361814,9 +361814,9 @@ _x000D_
 <name_ua>Коробка для зберігання речей Mesh з метал.каркасом 66л червоний R100482</name_ua>
 <name_ru>Коробка для хранения вещей Mesh с металл.каркасом 66л красный R100482</name_ru>
 <description_ua>Коробка для зберігання речей Mesh з метал.каркасом 66л</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06675" available="true">
+<offer id="RS06675" available="false">
 <price>562</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -361826,9 +361826,9 @@ _x000D_
 <name_ua>Коробка для зберігання речей Mesh з метал.каркасом 66л жовтий R100482</name_ua>
 <name_ru>Коробка для хранения вещей Mesh с металл.каркасом 66л желтый R100482</name_ru>
 <description_ua>Коробка для зберігання речей Mesh з метал.каркасом 66л</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06689" available="true">
+<offer id="RS06689" available="false">
 <price>662</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -361838,9 +361838,9 @@ _x000D_
 <name_ua>Коробка складана для зберігання речей L Melanzh 50*40*32см R33662-L</name_ua>
 <name_ru>Коробка складная для хранения вещей L Melanzh 50*40*32см R33662-L</name_ru>
 <description_ua>Коробка складана для зберігання речей L Melanzh 50*40*32см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06708" available="true">
+<offer id="RS06708" available="false">
 <price>850</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -361850,9 +361850,9 @@ _x000D_
 <name_ua>Коробка складана для зберігання речей XL Melanzh 60*41*39см R33662-XL</name_ua>
 <name_ru>Коробка складная для хранения вещей XL Melanzh 60*41*39см R33662-XL</name_ru>
 <description_ua>Коробка складана для зберігання речей XL Melanzh 60*41*39см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06709" available="true">
+<offer id="RS06709" available="false">
 <price>850</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -361862,7 +361862,7 @@ _x000D_
 <name_ua>Коробка складана для зберігання речей XL Melanzh 60*41*39см бежевий R33662-XL</name_ua>
 <name_ru>Коробка складная для хранения вещей XL Melanzh 60*41*39см бежевый R33662-XL</name_ru>
 <description_ua>Коробка складана для зберігання речей XL Melanzh 60*41*39см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS06713" available="true">
 <price>640</price>
@@ -375481,7 +375481,7 @@ _x000D_
 <description_ua>Подушка-підкова ортопедична дорожня під шию "COMO" 30*25см кольору хакі&amp;nbsp;(коричневий, чорний, молочний , зелений), виготовлена з поліестру і поліуретану.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KA000167" available="true">
+<offer id="KA000167" available="false">
 <price>638</price>
 <currencyId>UAH</currencyId>
 <categoryId>1164</categoryId>
@@ -375494,9 +375494,9 @@ _x000D_
 <name_ua>Подушка-підкова ортопедична дорожня під шию "Soft" 30*25см R32610 синього кольору</name_ua>
 <name_ru>Подушка-подковая дорожная ортопедическая под шею "Soft" 30*25см R32610 синего цвета</name_ru>
 <description_ua>Подушка-підкова ортопедична дорожня під шию "Soft" 30*25см синього кольору, виготовлена з поліестру та поліуретану.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA000168" available="true">
+<offer id="KA000168" available="false">
 <price>638</price>
 <currencyId>UAH</currencyId>
 <categoryId>1164</categoryId>
@@ -375506,9 +375506,9 @@ _x000D_
 <name_ua>Подушка-підкова ортопедична дорожня під шию "Soft" 30*25см R32610 рожевого кольору</name_ua>
 <name_ru>Подушка-подковая дорожная ортопедическая под шею "Soft" 30*25см R32610 розового цвета</name_ru>
 <description_ua>Подушка-підкова ортопедична дорожня під шию "Soft" 30*25см рожевого кольору, виготовлена з поліестру та поліуретану.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA000169" available="true">
+<offer id="KA000169" available="false">
 <price>638</price>
 <currencyId>UAH</currencyId>
 <categoryId>1164</categoryId>
@@ -375518,9 +375518,9 @@ _x000D_
 <name_ua>Подушка-підкова ортопедична дорожня під шию "Soft" 30*25см R32610 сврого кольору</name_ua>
 <name_ru>Подушка-подковая дорожная ортопедическая под шею "Soft" 30*25см R32610 серого цвета</name_ru>
 <description_ua>Подушка-підкова ортопедична дорожня під шию "Soft" 30*25см сірого кольору, виготовлена з поліестру та поліуретану.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA000170" available="true">
+<offer id="KA000170" available="false">
 <price>638</price>
 <currencyId>UAH</currencyId>
 <categoryId>1164</categoryId>
@@ -375530,7 +375530,7 @@ _x000D_
 <name_ua>Подушка-підкова ортопедична дорожня під шию "Soft" 30*25см R32610 чорного кольору</name_ua>
 <name_ru>Подушка-подковая дорожная ортопедическая под шею "Soft" 30*25см R32610 черного цвета</name_ru>
 <description_ua>Подушка-підкова ортопедична дорожня під шию "Soft" 30*25см чорного кольору, виготовлена з поліестру та поліуретану.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="I000076" available="true">
 <price>492</price>
@@ -382101,7 +382101,7 @@ _x000D_
 <description_ua>Набір контейнерів харчових з різьбленням 2 шт. 1 л/1.5 л d12.5*15.5 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00967" available="true">
+<offer id="II00967" available="false">
 <price>210</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -382111,7 +382111,7 @@ _x000D_
 <name_ua>Набір контейнерів харчові з різьбленням 3 шт. 0.3/0.5/0.7 л NP-70с</name_ua>
 <name_ru>Набор пищевых контейнеров с резьбой 3 шт. 0.3/0.5/0.7 л NP-70с</name_ru>
 <description_ua>Набір контейнерів харчові з різьбленням 3 шт. 0.3/0.5/0.7 л</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01620" available="true">
 <price>682</price>

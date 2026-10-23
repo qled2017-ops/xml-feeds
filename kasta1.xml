@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-23 09:46">
+<yml_catalog date="2026-10-23 19:14">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -19006,7 +19006,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE13090" available="true">
+<offer id="DE13090" available="false">
 <price>1711</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
@@ -19022,7 +19022,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE13091" available="true">
+<offer id="DE13091" available="false">
 <price>1711</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
@@ -19038,7 +19038,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE13092" available="true">
+<offer id="DE13092" available="false">
 <price>1711</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
@@ -19070,7 +19070,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE13094" available="true">
+<offer id="DE13094" available="false">
 <price>1711</price>
 <currencyId>UAH</currencyId>
 <categoryId>1039</categoryId>
