@@ -125733,7 +125733,7 @@ _x000D_
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">22</param>
 </offer>
-<offer id="MTC-DG15187-42" available="false">
+<offer id="MTC-DG15187-42" available="true">
 <price>3585</price>
 <currencyId>UAH</currencyId>
 <categoryId>1205</categoryId>
@@ -125763,7 +125763,7 @@ _x000D_
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">22</param>
 </offer>
-<offer id="MTC-DG15187-43" available="false">
+<offer id="MTC-DG15187-43" available="true">
 <price>3585</price>
 <currencyId>UAH</currencyId>
 <categoryId>1205</categoryId>

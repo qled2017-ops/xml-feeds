@@ -48817,7 +48817,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02117" available="true">
-<price>225</price>
+<price>454</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70791600-71bf3948d8860f8bfb88a52065b6067a.jpg</picture>
@@ -127908,7 +127908,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE01775" available="true">
-<price>180</price>
+<price>389</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70258389-8b49c2ea064e5ce672dca447a259e6cc.jpg</picture>
@@ -145443,7 +145443,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OO00627" available="true">
-<price>584</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
 <picture>https://elisey.ua/files/products/na892ae44e88711ef8a24002590e9c1ad.540x540w.jpeg</picture>
@@ -150664,7 +150664,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OK07462" available="true">
-<price>596</price>
+<price>421</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
 <picture>https://elisey.ua/files/products/nff54ac5b78f611ef8a1e002590e9c1ad.540x540w.jpeg</picture>
@@ -239865,7 +239865,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OK07473" available="true">
-<price>676</price>
+<price>477</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
 <picture>https://elisey.ua/files/products/nf06c6dc377de11ef8a1e002590e9c1ad.540x540w.jpeg</picture>
