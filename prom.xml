@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-24 19:18">
+<yml_catalog date="2026-10-25 08:12">
 <shop>
 <name>Prom feed</name>
 <company>Prom feed</company>
@@ -410,6 +410,8 @@
 <category id="1412">Коригувальна білизна для жінок</category>
 <category id="1413">Тримери</category>
 <category id="1414">Запчастини для пральних машин</category>
+<category id="1415">Пластикові ємності</category>
+<category id="1416">Жіночі топи</category>
 </categories>
 <offers>
 <offer id="NN000234" available="true">
@@ -139873,6 +139875,32 @@ USB Type-C
 <param name="Тип поставки">Один предмет</param>
 <param name="Колір">Білий</param>
 </offer>
+<offer id="11782" available="true">
+<price>299</price>
+<currencyId>UAH</currencyId>
+<categoryId>1415</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i67282488-c2e4feb631d8a73e8088712123487c80.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i67282488-5678f2191478e6aa178170ba5e62f025.jpg</picture>
+<vendor>Консенсус</vendor>
+<vendorCode>11782</vendorCode>
+<name>Каністра пластикова для харчових продуктів з носиком (зливом) 10 л (для води, олії, автомобільна)</name>
+<name_ua>Каністра пластикова для харчових продуктів з носиком (зливом) 10 л (для води, олії, автомобільна)</name_ua>
+<name_ru>Канистра пластиковая для пищевых продуктов с носиком (сливом) 10 л (для воды, масла, автомобильная)</name_ru>
+<description>Каністра пластикова для харчових продуктів з носиком (зливом) 10 л (для води, олії, автомобільна) Каністра 10л, каністра підходить для пакування води, масел, тосолу, антифризу, незамерзаючої рідини, миючих засобів, побутової хімії.</description>
+<description_ua>Каністра пластикова для харчових продуктів з носиком (зливом) 10 л (для води, олії, автомобільна) Каністра 10л, каністра підходить для пакування води, масел, тосолу, антифризу, незамерзаючої рідини, миючих засобів, побутової хімії.</description_ua>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Залишки">100.0</param>
+<param name="Гарантія">14 днів</param>
+<param name="Додаткові характеристики;RU">Канистра пластиковая для пищевых продуктов с носиком (сливом) 10 л (для воды, масла, автомобильная)</param>
+<param name="Кількість вантажних місць">1</param>
+<param name="Кількість в упаковці">1</param>
+<param name="Об'єм, л">10</param>
+<param name="Розташування">Горизонтальні</param>
+<param name="Країна-виробник товару">Україна</param>
+<param name="Тип">Каністри харчові</param>
+<param name="Форма">Прямокутні</param>
+<param name="Колір">Білий</param>
+</offer>
 <offer id="AE000785" available="true">
 <price>299</price>
 <currencyId>UAH</currencyId>
@@ -143038,6 +143066,35 @@ USB-кабель.</param>
 <param name="Стиль">Повседневный</param>
 <param name="Колір">Черный</param>
 <param name="Ширина в упаковці (см)">25</param>
+</offer>
+<offer id="Корсетний топ Bohemia-ЧОР-M" available="true">
+<price>918</price>
+<currencyId>UAH</currencyId>
+<categoryId>1416</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i143440194-24a4202cb94268f99eabdb2b30225982-1785402272558.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i143440194-74853d2899d979bf472a9725a1485710-1785402278614.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i143440194-7201312a4c3e5eb79c708f5a00079e7a-1785402274918.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i143440194-22d839b5102d28c70a318335c489f9fd-1785402276035.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i143440194-37f7aca535413b2cf706900942c92518-1785402280758.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i143440194-943f2b0aa171125a8fa14703ebe05ac9-1785402257051.jpg</picture>
+<vendor>Без бренду</vendor>
+<vendorCode>Корсетний топ Bohemia-ЧОР</vendorCode>
+<name>Жіночий корсетний топ Bohemia з чашками, розмір M, чорний</name>
+<name_ua>Жіночий корсетний топ Bohemia з чашками, розмір M, чорний</name_ua>
+<name_ru>Женский корсетный топ Bohemia с чашками, размер M, черный</name_ru>
+<description>Жіночий корсетний топ Bohemia — стильна модель, яка підкреслює силует та створює елегантний образ. Формовані чашки забезпечують гарну підтримку, а декоративні корсетні шви візуально моделюють талію. Топ виконаний із поєднання щільної тканини та прозорої сітки, має регульовані бретелі та застібку на гачках у 4 ряди, що дозволяє підібрати комфортну посадку. Чудово поєднується зі спідницями, брюками та жакетами.</description>
+<description_ua>Жіночий корсетний топ Bohemia — стильна модель, яка підкреслює силует та створює елегантний образ. Формовані чашки забезпечують гарну підтримку, а декоративні корсетні шви візуально моделюють талію. Топ виконаний із поєднання щільної тканини та прозорої сітки, має регульовані бретелі та застібку на гачках у 4 ряди, що дозволяє підібрати комфортну посадку. Чудово поєднується зі спідницями, брюками та жакетами.</description_ua>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Залишки">100.0</param>
+<param name="null">Корсети</param>
+<param name="Декор">Однотонні</param>
+<param name="Додаткові характеристики;RU">Застежка: крючки</param>
+<param name="Додаткові характеристики">Застібка: гачки</param>
+<param name="Матеріал">Поліестер;Еластан</param>
+<param name="Розмір">M</param>
+<param name="Сarryover">N/D</param>
+<param name="Країна-виробник товару">Китай</param>
+<param name="Колір">Чорний</param>
 </offer>
 <offer id="Корегуючий боді з корсетним поясом.-ЧОР-3XL" available="true">
 <price>550</price>
