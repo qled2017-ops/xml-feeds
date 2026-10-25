@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-25 08:21">
+<yml_catalog date="2026-10-25 18:14">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -92395,7 +92395,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 <param name="Розмір">8</param>
 </offer>
-<offer id="OK02306" available="true">
+<offer id="OK02306" available="false">
 <price>1425</price>
 <currencyId>UAH</currencyId>
 <categoryId>1111</categoryId>
@@ -92408,7 +92408,7 @@ _x000D_
 <name_ua>Рукавиці Mil-Tec M Койот ASSAULT GLOVES DARK COYOTE (12519519-903-M)</name_ua>
 <name_ru>Перчатки Mil-Tec M Койот ASSAULT GLOVES DARK COYOTE (12519519-903-M)</name_ru>
 <description_ua>Матеріал:  50% нейлон, 30% еластан, 20% неопрен  Особливості: ідеальна посадка; неопренові вставки в області зап'ястя і кісточок; посилена долоня; вентиляційні отвори в області долоні; регульований пояс на липучці.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Кількість вантажних місць">1</param>
 <param name="Розмір">7</param>
 </offer>
@@ -154149,7 +154149,7 @@ _x000D_
 <description_ua>Матеріал: 100% бавовна. Одинарний трикотаж. Вага: 140-145 г/кв.м. Особливості: - Шорти боксери широкого крою; - Широкий еластичний пояс; - Застібка на кнопки.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK00765" available="true">
+<offer id="OK00765" available="false">
 <price>662</price>
 <currencyId>UAH</currencyId>
 <categoryId>1139</categoryId>
@@ -154161,7 +154161,7 @@ _x000D_
 <name_ua>Труси чоловічі Mil-Tec Боксери вільного крою XL Олива BOXER SHORTS OLIV (11201001-905-XL)</name_ua>
 <name_ru>Трусы мужские Mil-Tec Боксеры свободного кроя XL Олива BOXER SHORTS OLIV (11201001-905-XL)</name_ru>
 <description_ua>Матеріал: 100% бавовна. Одинарний трикотаж. Вага: 140-145 г/кв.м. Особливості: - Шорти боксери широкого крою; - Широкий еластичний пояс; - Застібка на кнопки.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK00766" available="true">
 <price>662</price>
@@ -156492,7 +156492,7 @@ _x000D_
 <description_ua>Протимоскітна сітка на капелюх або кепку – відмінний захист від комарів та інших комах в області голови та шиї -Виробник: Mil-Tec -Розмір: універсальний -Матеріал: 100% поліестер -Відмінний захист від комах -Осередки сітки діаметром 2 мм -Забезпечує хорошу видимість -Колір: Olive -Універсальний розмір, що підходить на будь-яку голову. -Максимально дихаюча -Захисна від комах -Не стискує рухів</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK03208" available="true">
+<offer id="OK03208" available="false">
 <price>2670</price>
 <currencyId>UAH</currencyId>
 <categoryId>1024</categoryId>
@@ -156506,7 +156506,7 @@ _x000D_
 <name_ua>Пончо тактовне Mil-Tec One size Олива Плащ-намет RipStop PONCHO PE R/S 780GR. OLIV (10630001)</name_ua>
 <name_ru>Пончо Mil-Tec One size Олива Плащ-шатер RipStop PONCHO PE R/S 780GR. OLIV (10630001)</name_ru>
 <description_ua>Матеріал: 100% поліестер, покриття з полівінілхлориду/ Водяний стовп: 5000 мм. Розміри: 210 х 150 см. Вага: 780г. Особливості: - Універсальне обладнання; - Захист від вологи, аварійний намет (1-2 пончо разом); - Як захисний брезент, брезент, тент тощо.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE00318" available="true">
 <price>3110</price>
@@ -180793,7 +180793,7 @@ _x000D_
 <description_ua>Матеріал: Корпус: полікарбонат, ABS пластик. Дрібні деталі: латунь, залізо, дзеркальне скло. Компас: Корпус з полікарбонату. Розміри в закритому стані: 12,5 х 7 х 2,5 см. Вага: 94 г. Особливості: - Картографічний компас, змочений рідиною; - Із подвійними шкалами та лупою; - Прозора основа зі шнуром; - Із захисною кришкою.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK03121" available="true">
+<offer id="OK03121" available="false">
 <price>457</price>
 <currencyId>UAH</currencyId>
 <categoryId>1275</categoryId>
@@ -180806,7 +180806,7 @@ _x000D_
 <name_ua>Компас Mil-Tec Картографічний з лінійкою ARTENKOMPASS (15798000)</name_ua>
 <name_ru>Компас Mil-Tec Картографический с линейкой ARTENKOMPASS (15798000)</name_ru>
 <description_ua>Матеріал: Корпус: полікарбонат; Дрібні деталі: латунь, залізо; Розміри: 10,9 х 6,2 см. Вага: 50г. Особливості: - Картографічний компас з рідиною; - Із подвійними шкалами та лупою; - Прозорий корпус зі шнуром.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK03128" available="true">
 <price>1648</price>
