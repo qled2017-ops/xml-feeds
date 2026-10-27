@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-26 18:48">
+<yml_catalog date="2026-10-27 08:21">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -3376,7 +3376,7 @@
 <param name="Ширина в упаковці (см)">5</param>
 </offer>
 <offer id="RE02142" available="true">
-<price>229</price>
+<price>126</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70795637-b78204a66edfd2d519b4d2ed3a8e28db.jpg</picture>
@@ -3613,7 +3613,7 @@
 <param name="Ширина в упаковці (см)">5</param>
 </offer>
 <offer id="RE02468" available="true">
-<price>399</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71444969-31b01a9bb9f15bbd1cd7c783cbd04927.jpg</picture>
@@ -3953,7 +3953,7 @@
 <param name="Ширина в упаковці (см)">17</param>
 </offer>
 <offer id="RE15251" available="true">
-<price>849</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i95570110-bba8cd9fa1ba55f0b2162bfb75e17843-1734939772708.jpg</picture>
@@ -4210,7 +4210,7 @@
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="9171-021-3" available="true">
-<price>299</price>
+<price>379</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i95573460-5c6c8fa5e2505577897cd93ef7c54f1b-1734944383389.jpg</picture>
@@ -4789,7 +4789,7 @@
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="RE12995" available="true">
-<price>449</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92559095-5c6c8fa5e2505577897cd93ef7c54f1b-1730024994936.jpg</picture>
@@ -5241,7 +5241,7 @@
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="RE02498" available="true">
-<price>250</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71445532-9be15d747837d70c9dd12ca1f9c2f6a1.jpg</picture>
@@ -5408,7 +5408,7 @@
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="RE02608" available="true">
-<price>249</price>
+<price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71500006-0fb44d3643a166441bf45335534b3be5.jpg</picture>
@@ -6090,7 +6090,7 @@ _x000D_
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="RE01763" available="true">
-<price>174</price>
+<price>179</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70248265-da0470b6dd772bb05b90ab59e3326d7e-1732101088779.jpg</picture>
@@ -6280,7 +6280,7 @@ _x000D_
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="RE02558" available="true">
-<price>927</price>
+<price>438</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71499280-daeca03888bafc9b552aa3d133082a46.jpg</picture>
@@ -6985,7 +6985,7 @@ _x000D_
 <param name="Ширина в упаковці (см)">21</param>
 </offer>
 <offer id="RE11083" available="true">
-<price>153</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>105853.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i89296159-f3ccdd27d2000e3f9255a7e3e2c48800-1724700532075.jpg</picture>
@@ -32433,7 +32433,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE01874" available="true">
-<price>799</price>
+<price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>112110.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70376645-948b3c4a590aeb219a505f58e4b5fb7e.jpg</picture>
@@ -48649,7 +48649,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE01937" available="true">
-<price>279</price>
+<price>150</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70434935-8d8267f8e5c1c0c475ae53701b92810b.jpg</picture>
@@ -48719,7 +48719,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02019" available="true">
-<price>299</price>
+<price>79</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70578170-7adeeb49f5ec9c98c405cb332f24ef7d.jpg</picture>
@@ -48873,7 +48873,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02110" available="true">
-<price>179</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70681690-d215d8982d317587bffc124a38fd25a4.jpg</picture>
@@ -48887,7 +48887,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02136" available="true">
-<price>519</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70792609-7a7054a931f734d7063aaef1029330ae.jpg</picture>
@@ -49055,7 +49055,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02211" available="true">
-<price>349</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70998791-24142bba30daea778837442e51700121-1729367749275.jpg</picture>
@@ -49615,7 +49615,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02470" available="true">
-<price>300</price>
+<price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71444987-af9d352a649c7c4b8b0c5ee66aaad96d.jpg</picture>
@@ -49725,7 +49725,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02671" available="true">
-<price>229</price>
+<price>60</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71532963-79001f94a5b43f4df9445d4e817f2078.jpg</picture>
@@ -49865,7 +49865,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02596" available="true">
-<price>779</price>
+<price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71499884-8e9c8a336bb208e07edc2b533f5d507b.jpg</picture>
@@ -50089,7 +50089,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02808" available="true">
-<price>249</price>
+<price>75</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71702333-4c8b2ee93380565543418cbdbe73bb20.jpg</picture>
@@ -50241,7 +50241,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE03237" available="true">
-<price>325</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74049641-60456c3c1b2e3db086811a9a6bc39a4b.jpg</picture>
@@ -50549,7 +50549,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="AN/182-180" available="true">
-<price>779</price>
+<price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71499884-8e9c8a336bb208e07edc2b533f5d507b.jpg</picture>
@@ -50605,7 +50605,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="AN/854-334" available="true">
-<price>250</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71445532-9be15d747837d70c9dd12ca1f9c2f6a1.jpg</picture>
@@ -50675,7 +50675,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RI006614" available="true">
-<price>512</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://bonadi.com.ua/img/goods/ny_collection/stat_other/890_247.jpg</picture>
@@ -91590,7 +91590,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00314" available="false">
+<offer id="OK00314" available="true">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -91604,7 +91604,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00428" available="false">
+<offer id="OK00428" available="true">
 <price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
@@ -101392,7 +101392,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE03146" available="true">
-<price>544</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i73165675-c441f17288435df0dbe011e86ba266ff.jpg</picture>
@@ -104419,7 +104419,7 @@ _x000D_
 <description_ua>Килимок для ванної і туалету 40x60 см Vonaldi 2518/red — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок для ванної кімнати ТМ "Vonaldi" 40*60 см. Зроблений з поліпропіленової нитки, на нижній бік якої нанесено м'яку силіконову основу. Можливе прання при температурі до 30 °. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 40×60 см Колір: червоний Матеріал: поліпропілен Торгова марка: Vonaldi Артикул: 2518/red Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="2518/beige" available="true">
+<offer id="2518/beige" available="false">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1056</categoryId>
@@ -104431,7 +104431,7 @@ _x000D_
 <name_ua>Килимок для ванної і туалету 40x60 см Vonaldi 2518/beige</name_ua>
 <name_ru>Коврик для ванной и туалета 40x60 см Vonaldi 2518/beige</name_ru>
 <description_ua>Килимок для ванної і туалету 40x60 см Vonaldi 2518/beige — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок для ванної кімнати ТМ "Vonaldi" 40*60 см. Зроблений з поліпропіленової нитки, на нижній бік якої нанесено м'яку силіконову основу. Можливе прання при температурі до 30 °. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 40×60 см Колір: бежевий Матеріал: поліпропілен Торгова марка: Vonaldi Артикул: 2518/beige Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="2518/light green" available="true">
 <price>255</price>
@@ -104712,7 +104712,7 @@ _x000D_
 <description_ua>Набір килимків для ванної Воналді 50x80+50x40 см 01271/s — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір для ванної та туалету турецького виробника ТМ "Vonaldi" складається з двох прямокутних килимків з візерунком 50*80 см та 50*40 см. Менший килимок має виріз під унітаз. Виготовлені з поліпропіленової нитки, на нижній бік якої нанесено м'яку силіконову основу. Можливе прання при температурі до 30°. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 50×80 см та 50×40 см Колір: коричневий Матеріал: поліпропілен Країна виробництва: Туреччина Торгова марка: Vonaldi Артикул: 01271/s Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="01339/s" available="true">
+<offer id="01339/s" available="false">
 <price>852</price>
 <currencyId>UAH</currencyId>
 <categoryId>1056</categoryId>
@@ -104724,7 +104724,7 @@ _x000D_
 <name_ua>Набір килимків для ванної Воналді 50x80+50x40 см 01339/s сірий</name_ua>
 <name_ru>Набор ковриков для ванной Воналди 50x80+50x40 см 01339/s серый</name_ru>
 <description_ua>Набір килимків для ванної Воналді 50x80+50x40 см 01339/s — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір для ванної та туалету турецького виробника ТМ "Vonaldi" складається з двох прямокутних килимків з візерунком 50*80 см та 50*40 см. Менший килимок має виріз під унітаз. Виготовлені з поліпропіленової нитки, на нижній бік якої нанесено м'яку силіконову основу. Можливе прання при температурі до 30°. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 50×80 см та 50×40 см Колір: сірий Матеріал: поліпропілен Країна виробництва: Туреччина Торгова марка: Vonaldi Артикул: 01339/s Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="02218/s" available="false">
 <price>852</price>
@@ -105096,7 +105096,7 @@ _x000D_
 <description_ua>Набір килимків для ванної Воналді 60x100+60x50 см 01339 — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір для ванної та туалету турецького виробника ТМ "Vonaldi" складається з двох прямокутних килимків з візерунком 60*100 см та 60*50 см. Менший килимок має виріз під унітаз. Виготовлені з поліпропіленової нитки, на нижній бік якої нанесено м'яку силіконову основу. Можливе прання при температурі до 30°. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 60×100 см та 60×50 см Колір: сірий Матеріал: поліпропілен Країна виробництва: Туреччина Артикул: 01339 Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="02270" available="true">
+<offer id="02270" available="false">
 <price>992</price>
 <currencyId>UAH</currencyId>
 <categoryId>1056</categoryId>
@@ -105109,7 +105109,7 @@ _x000D_
 <name_ua>Набір килимків для ванної Воналді 60x100+60x50 см 02270 рожевий</name_ua>
 <name_ru>Набор ковриков для ванной Воналди 60x100+60x50 см 02270 розовый</name_ru>
 <description_ua>Набір килимків для ванної Воналді 60x100+60x50 см 02270 — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір для ванної та туалету турецького виробника ТМ "Vonaldi" складається з двох прямокутних килимків з візерунком 60*100 см та 60*50 см. Менший килимок має виріз під унітаз. Виготовлені з поліпропіленової нитки, на нижній бік якої нанесено м'яку силіконову основу. Можливе прання при температурі до 30°. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 60×100 см та 60×50 см Колір: рожевий Матеріал: поліпропілен Країна виробництва: Туреччина Артикул: 02270 Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="02277" available="true">
 <price>946</price>
@@ -105257,7 +105257,7 @@ _x000D_
 <description_ua>Набір килимків для ванної та туалету 50x80см 40x50cм Prima 2459/brown — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Набір килимків для ванної 50*80 см та туалету 40*50 см. Килимки виготовлені з м’якого приємного матеріалу, легко перуться та швидко сохнуть, на нижній бік нанесена м'яка гумова основа. Килимок під унітаз із вирізом. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 50×80 см та 40×50 см Колір: коричневий Матеріал: льон Артикул: 2459/brown Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="Softmicro/07000" available="false">
+<offer id="Softmicro/07000" available="true">
 <price>1843</price>
 <currencyId>UAH</currencyId>
 <categoryId>1056</categoryId>
@@ -127883,7 +127883,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01734" available="true">
-<price>279</price>
+<price>149</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70231648-3510c712bc41910ccc30c07484d01874.jpg</picture>
@@ -128055,7 +128055,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02733" available="true">
-<price>1190</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71549764-f4932b63a856c702dbfd86fa120e8655.jpg</picture>
@@ -139715,7 +139715,7 @@ _x000D_
 <description_ua>UNIQUE UN-5302 виготовлений з високоякісної нержавіючої сталі, яка одночасно дуже легка та міцна у використанні. З внутрішньої сторони чайник має покриття з нержавіючої сталі, яке полегшує догляд за чайником та безпечне для здоров'я. Зручна ручка виготовлена з нейлону, а її конструкція розроблена так, що вона не нагрівається навіть після тривалого кип'ятіння води. Чайник оснащений спеціальним свистком, який повідомить про те, що вода закипіла. На ручці цієї моделі є спеціальний важіль, за допомогою якого легко і просто можна відкривати та закривати свисток. Також цей чайник підходить для всіх типів плит. А щоб чайник UNIQUE UN-5302 прослужив вам довго, необхідно перед першим використанням промити чайник у теплій воді з миючим засобом за допомогою м'якої губки. Щоб уникнути пошкоджень поверхні, не використовуйте для миття металеві губки, абразивні, їдкі матеріали, а також хлор- і кислотно-очищувачі. Матеріал ручки Нейлонова Наявність свистка Є Об'єм (л)2.5 Особливості Гучний свисток; Капсульне дно; Не нагріта нейлонова ручка Покриття Нержавіюча сталь Сумісність із джерелами тепла Усі види плит</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02161" available="true">
+<offer id="RU02161" available="false">
 <price>912</price>
 <currencyId>UAH</currencyId>
 <categoryId>1126</categoryId>
@@ -140796,7 +140796,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OO00571" available="true">
-<price>314</price>
+<price>379</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
 <picture>https://elisey.ua/files/products/n980e10c9dd7211ef8a24002590e9c1ad.540x540w.jpeg</picture>
@@ -140809,7 +140809,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OO00572" available="true">
-<price>314</price>
+<price>379</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
 <picture>https://elisey.ua/files/products/n980e10c7dd7211ef8a24002590e9c1ad.540x540w.jpeg</picture>
@@ -140887,7 +140887,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OO00696" available="true">
-<price>301</price>
+<price>379</price>
 <currencyId>UAH</currencyId>
 <categoryId>1102</categoryId>
 <picture>https://elisey.ua/files/products/n980e10d6dd7211ef8a24002590e9c1ad.540x540w.jpeg</picture>
@@ -141786,7 +141786,7 @@ _x000D_
 <description_ua>Віночок зі скребком Матеріал: функціональної частини: нержавіюча сталь із силіконовим покриттям Матеріал ручки: пластик Розмір: 27х6, 5х6, 5 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02597" available="false">
+<offer id="RU02597" available="true">
 <price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
@@ -141798,7 +141798,7 @@ _x000D_
 <description_ua>Зручність у використанні Довгий термін служби Матеріал функціональної частини: нейлон Матеріал ручки: силікон Розмір: 31х10,5 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02598" available="false">
+<offer id="RU02598" available="true">
 <price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
@@ -141810,7 +141810,7 @@ _x000D_
 <description_ua>Зручність у використанні Довгий термін служби Матеріал функціональної частини: нейлон Матеріал ручки: силікон Розмір: 31х10,5 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02599" available="false">
+<offer id="RU02599" available="true">
 <price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
@@ -142302,7 +142302,7 @@ _x000D_
 <description_ua>Керамічна підставка під ополоник Екологічно чистий, хімічно нейтральний матеріал – кераміка Елегантний сучасний дизайн Зручність та простота у використанні</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02677" available="true">
+<offer id="RU02677" available="false">
 <price>292</price>
 <currencyId>UAH</currencyId>
 <categoryId>1069</categoryId>
@@ -142312,7 +142312,7 @@ _x000D_
 <name_ua>Підставка під ополоник MR-20005-46 керамічна</name_ua>
 <name_ru>Подставка под половник MR-20005-46 керамическая</name_ru>
 <description_ua>Керамічна підставка під ополоник Екологічно чистий, хімічно нейтральний матеріал – кераміка Елегантний сучасний дизайн Зручність та простота у використанні</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RU02713" available="true">
 <price>288</price>
@@ -145135,7 +145135,7 @@ _x000D_
 <description_ua>Діаметр - 20 см. Ця керамічна десертна тарілка у формі тендітної квітки стане справжнім акцентом вашого сервірування, додаючи йому ніжності та весняного настрою. Виріб привертає увагу своїми плавними хвилястими краями, що імітують пелюстки, та витонченим рельєфним малюнком у центрі, схожим на сонячні промені. Тарілка виконана у приємній кремово-бежевій гамі з ефектом художньої глазурі, де тонкий теракотовий кант по краю підкреслює її унікальну форму. Завдяки невеликому заглибленню вона ідеально підходить для подачі тістечок, фруктів, закусок або сніданків. Високоякісна кераміка гарантує міцність, а глянцеве покриття полегшує догляд, роблячи тарілку практичним вибором для щоденного затишку та святкових моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02488" available="true">
+<offer id="RU02488" available="false">
 <price>258</price>
 <currencyId>UAH</currencyId>
 <categoryId>1068</categoryId>
@@ -145824,7 +145824,7 @@ _x000D_
 <description_ua>Додайте святкового настрою та бездоганного стилю вашій новорічній ялинці з набором куль із високоякісного пластику. Цей набір поєднує елегантність скляних прикрас з практичністю та міцністю пластику, що робить його ідеальним вибором для декору, який прослужить не один сезон.Цей набір ідеально підходить для оформлення святкової ялинки, вінків або для використання у створенні різдвяних композицій. Завдяки якісним матеріалам та безпечності, кулі збережуть свій вигляд на довгий час, додаючи святкову магію в кожен сезон.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK08780" available="true">
+<offer id="OK08780" available="false">
 <price>304</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -145835,7 +145835,7 @@ _x000D_
 <name_ua>Набір ялинкових куль Мить Чудес 2,5 см 40 шт золотий (6025-030)</name_ua>
 <name_ru>Набор елочных шаров Мгновение Чудес 2,5 см 40 шт золотой (6025-030)</name_ru>
 <description_ua>Додайте святкового настрою та бездоганного стилю вашій новорічній ялинці з набором куль із високоякісного пластику. Цей набір поєднує елегантність скляних прикрас з практичністю та міцністю пластику, що робить його ідеальним вибором для декору, який прослужить не один сезон.Цей набір ідеально підходить для оформлення святкової ялинки, вінків або для використання у створенні різдвяних композицій. Завдяки якісним матеріалам та безпечності, кулі збережуть свій вигляд на довгий час, додаючи святкову магію в кожен сезон.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK08781" available="true">
 <price>304</price>
@@ -148066,7 +148066,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="1976-07" available="true">
-<price>229</price>
+<price>90</price>
 <currencyId>UAH</currencyId>
 <categoryId>1095</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i90524258-c269af7933b7823739c12f8ae48f4003-1764947834050.jpg</picture>
@@ -149537,7 +149537,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OK03665" available="true">
-<price>664</price>
+<price>1999</price>
 <currencyId>UAH</currencyId>
 <categoryId>1100</categoryId>
 <picture>https://elisey.ua/files/products/n6a239467127911ef8a19002590e9c1ad.540x540w.jpeg</picture>
@@ -170554,7 +170554,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02124" available="true">
-<price>229</price>
+<price>190</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70791768-93a05b2956f96e9afe18938d547c8718.jpg</picture>
@@ -170905,7 +170905,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02146" available="true">
-<price>299</price>
+<price>87</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70795925-c9662465a75a48cc22594e897a47229c.jpg</picture>
@@ -171309,7 +171309,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02245" available="true">
-<price>229</price>
+<price>99</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71046892-f19e92b0c9ee70bfb604d20bef964704.jpg</picture>
@@ -172033,7 +172033,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02751" available="true">
-<price>244</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i111395272-1b07500b6379b7ce35877447a3e38da8-1764978885279.jpg</picture>
@@ -172215,7 +172215,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02838" available="true">
-<price>229</price>
+<price>136</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71751952-236849869830c8b8cc1fdcba2d9dbff3.jpg</picture>
@@ -177947,7 +177947,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE14817" available="true">
-<price>229</price>
+<price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94904084-1809867d5f7e0baa4b294a7b14cfecf6-1733943796446.jpg</picture>
@@ -178091,7 +178091,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="182-8526" available="true">
-<price>849</price>
+<price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i95570110-bba8cd9fa1ba55f0b2162bfb75e17843-1734939772708.jpg</picture>
@@ -178310,7 +178310,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01706" available="true">
-<price>329</price>
+<price>162</price>
 <currencyId>UAH</currencyId>
 <categoryId>1076</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70136728-66609dc5cb6765bcde298cab8da92265.jpg</picture>
@@ -261472,7 +261472,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE03547" available="true">
-<price>252</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i111396866-9847ad5694be65f52f6656958eeb86d6-1765899266725.jpg</picture>
@@ -263721,7 +263721,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01865" available="true">
-<price>279</price>
+<price>166</price>
 <currencyId>UAH</currencyId>
 <categoryId>1079</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i111394019-155cd28bb95a288b7c163dc6fc715243-1764801433550.jpg</picture>
@@ -292337,7 +292337,7 @@ _x000D_
 <description_ua>Об'єм: 2,8 л Сучасний дизайн Високоякісна нержавіюча сталь Можливе використання на всіх типах плит Пластикова ручка, що не нагрівається.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02171" available="false">
+<offer id="RU02171" available="true">
 <price>1278</price>
 <currencyId>UAH</currencyId>
 <categoryId>1126</categoryId>
@@ -344315,7 +344315,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01911" available="true">
-<price>279</price>
+<price>182</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70409437-488a47ef9d959b1e5f18954f51460c03.jpg</picture>
@@ -344832,7 +344832,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01859" available="true">
-<price>299</price>
+<price>186</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70259033-893f57955e3e2ff47c5f979e481f316a.jpg</picture>
@@ -345060,7 +345060,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02128" available="true">
-<price>193</price>
+<price>199</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70791861-b4f0eb1908ecf18e844259ce279e578b.jpg</picture>
@@ -345084,7 +345084,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02176" available="true">
-<price>363</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70949742-8946419cbbe018cb583741c3bfc614b5.jpg</picture>
@@ -345290,7 +345290,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02474" available="true">
-<price>134</price>
+<price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71445028-9d070b2f48d9889fc971dea48dd58ec9.jpg</picture>
@@ -345482,7 +345482,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="AN/12426" available="true">
-<price>1429</price>
+<price>518</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i91647321-6659f9cefca26cd543123f78da7923af-1728583659730.jpg</picture>
@@ -345542,7 +345542,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE15302" available="true">
-<price>151</price>
+<price>249</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i95614352-411216cb1b1ee357b4eb5a8274501ee9-1734967541868.jpg</picture>
@@ -356474,7 +356474,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE12479" available="true">
-<price>324</price>
+<price>144</price>
 <currencyId>UAH</currencyId>
 <categoryId>1076</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92025911-fec4e829d13b3b50a6530c1da4815264-1729010586730.jpg</picture>
@@ -356606,7 +356606,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01711" available="true">
-<price>229</price>
+<price>149</price>
 <currencyId>UAH</currencyId>
 <categoryId>1106</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70229009-f092c5f5d30c5aba8ea42b248bc99a2f.jpg</picture>
@@ -356619,7 +356619,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01802" available="true">
-<price>149</price>
+<price>99</price>
 <currencyId>UAH</currencyId>
 <categoryId>1106</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70295111-d0c9dcbbc9ea320ae974262ceba9d427.jpg</picture>
@@ -356849,7 +356849,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE03562" available="true">
-<price>299</price>
+<price>182</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74880152-5a3b2bacf3e35fe6267bff7dee1b5e08.jpg</picture>
@@ -377626,7 +377626,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE04935" available="true">
-<price>229</price>
+<price>149</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i86277151-23dc090c0cfa88d8a5f1e781aa914ba7-1719434127620.jpg</picture>
@@ -378560,7 +378560,7 @@ _x000D_
 <description_ua>Шапочка для плавання Light BIG - важливий елемент екіпіровки плавця. еластичність, шапочку легко одягати. Переваги шапочки для плавання: 100% силікон – забезпечує високу еластичність, не пропускає воду, щільно облягає голову. Збільшений розмір - спеціально призначений для людей з великим розміром голови і тих, хто відчуває дискомфорт, коли шапочка сильно здавлює голову. Ергономічна форма - забезпечує надійність та комфорт. Захист від хлору - захищає волосся та шкіру голови від впливу хлорованої води в басейні. Безпека - забезпечує безпеку під час занять плаванням, захищаючи від попадання волосся в очі та під деталі окулярів або купальника.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="SP-Sport PU-3BBs" available="true">
+<offer id="SP-Sport PU-3BBs" available="false">
 <price>122</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
@@ -378570,7 +378570,7 @@ _x000D_
 <name_ua>Шапочка для плавання текстильна з покриттям для дорослих SP-Sport PU-3BB срібна</name_ua>
 <name_ru>Шапочка для плавания текстильная с покрытием для взрослых SP-Sport PU-3BB серебро</name_ru>
 <description_ua>Тип: класична. Матеріал: силікон. Призначення: для захисту волосся від намокання під час плавання. Шапочка для плавання — екіпірування, яке захищає волосся і вуха від намокання. Вона виготовлена зі 100% силікону і стійка до впливу хлору. Силіконові шапочки легко надягають і знімають завдяки еластичності матеріалу. Силікон не прилипає до волосся і не псує його. Шапочка має універсальний розмір, вона добре тягнеться. Переваги шапочки для плавання: Призначена для дорослих. Яскравий дизайн. Захищає волосся і вуха від намокання. Легко знімається і надягається. Виготовлена з гіпоалергенного матеріалу. Характеристики Вид Шапочки для плавання Тип Класичні Матеріал Силікон Країна виробник Китай</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NI00039" available="true">
 <price>378</price>
@@ -383379,7 +383379,7 @@ _x000D_
 <description_ua>Миска 3.5 л SS d28 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OO00533" available="true">
+<offer id="OO00533" available="false">
 <price>1093</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -383391,7 +383391,7 @@ _x000D_
 <vendorCode>OO00533</vendorCode>
 <name_ua>Кружка з блюдцем English Garden 200 мл (9217-007)</name_ua>
 <description_ua>Об’єм кружки - 200 мл, діаметр – 10 см, довжина з ручкою – 11,5 см, висота – 6 см, діаметр блюдця – 15 см. Керамічний набір з чашкою, блюдцем та ложкою з оригінальним дизайном — відмінний варіант подарунка на будь-яке свято! Рідні та друзі будуть в захваті від такого чарівного набору! Набір виготовлений з високоякісної кераміки, що робить його відносно стійким до пошкоджень та подряпин. Об'єм кружки робить її ідеальною для кави, чаю, гарячого шоколаду та інших улюблених напоїв. Це чудовий вибір для роздрібних торговців, кафе, ресторанів та покупців, які цінують якість і стиль. Приєднуйтесь до нашої спільноти задоволених клієнтів і насолоджуйтеся кожним ковтком з наших керамічних наборів!</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="50805-МСТ6/sl" available="true">
 <price>162</price>
@@ -395337,7 +395337,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DE05095" available="true">
-<price>249</price>
+<price>156</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i86614926-231a9f50f19c9f29d54c04cdaad56e3e-1719584971754.jpg</picture>
@@ -395403,7 +395403,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE05112" available="true">
-<price>249</price>
+<price>122</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i86633929-5726470258a92937ca2954237588e866-1765113159839.jpg</picture>
@@ -395432,7 +395432,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="PL-5571" available="true">
-<price>249</price>
+<price>127</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i98941132-9b9c7e44a5a4b6563915d81fa3c3eb36-1739195883598.jpg</picture>
@@ -395444,7 +395444,7 @@ _x000D_
 <quantity_in_stock>1</quantity_in_stock>
 </offer>
 <offer id="CIMA PL-1668" available="true">
-<price>299</price>
+<price>190</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i98941667-6ab3d4b70062408d6e3a4d19fedf0b69-1739196644744.jpg</picture>
@@ -403847,7 +403847,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE03034" available="true">
-<price>299</price>
+<price>149</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72338998-7a12b2ae29030e29baf21c0af175afe3.jpg</picture>
@@ -404049,7 +404049,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="OK05152" available="true">
-<price>649</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
 <picture>https://bonadi.com.ua/img/goods/dishes_collection/oneplate/992_119.jpg</picture>
@@ -404709,7 +404709,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE02889" available="true">
-<price>599</price>
+<price>387</price>
 <currencyId>UAH</currencyId>
 <categoryId>1072</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71864963-d9ef01ca38eeb6127277f7a46073a9b1.jpg</picture>
