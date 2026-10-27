@@ -50229,7 +50229,7 @@
 <param name="Колір">графітовий</param>
 <param name="Вид">горщик</param>
 </offer>
-<offer id="cap2" available="false">
+<offer id="cap2" available="true">
 <price>79.0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
