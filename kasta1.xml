@@ -87813,7 +87813,7 @@ _x000D_
 <param name="Колір">оливковий</param>
 <param name="Ширина в упаковці (см)">12</param>
 </offer>
-<offer id="MtacOlive41" available="true">
+<offer id="MtacOlive41" available="false">
 <price>3899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1018</categoryId>
