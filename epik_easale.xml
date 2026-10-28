@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-27 06:37">
+<yml_catalog date="2026-10-28 06:42">
   <offers>
     <offer id="AM0016591" available="true">
       <price>783</price>
@@ -37434,10 +37434,10 @@
     <offer id="KS01003" available="false">
       <price>1190</price>
     </offer>
-    <offer id="KS01004" available="false">
+    <offer id="KS01004" available="true">
       <price>1190</price>
     </offer>
-    <offer id="KS01005" available="false">
+    <offer id="KS01005" available="true">
       <price>1190</price>
     </offer>
     <offer id="KS01006" available="false">
@@ -37491,7 +37491,7 @@
     <offer id="KS01022" available="true">
       <price>1190</price>
     </offer>
-    <offer id="KS01023" available="false">
+    <offer id="KS01023" available="true">
       <price>1190</price>
     </offer>
     <offer id="KS01024" available="true">
@@ -38572,7 +38572,7 @@
     <offer id="KS01230" available="true">
       <price>573</price>
     </offer>
-    <offer id="RO00379" available="true">
+    <offer id="RO00379" available="false">
       <price>157</price>
     </offer>
     <offer id="KS01231" available="true">
@@ -73999,7 +73999,7 @@
     <offer id="LI005007" available="true">
       <price>1495</price>
     </offer>
-    <offer id="LI005008" available="true">
+    <offer id="LI005008" available="false">
       <price>1177</price>
     </offer>
     <offer id="LI005009" available="true">
