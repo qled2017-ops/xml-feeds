@@ -18128,7 +18128,7 @@ _x000D_
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="311-105" available="false">
+<offer id="311-105" available="true">
 <price>880</price>
 <currencyId>UAH</currencyId>
 <categoryId>100943.0</categoryId>
