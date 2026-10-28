@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-27 08:21">
+<yml_catalog date="2026-10-28 08:29">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -5392,7 +5392,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Кількість вантажних місць">1</param>
 <param name="Вид">м'яч футбольний</param>
 </offer>
-<offer id="DE06466" available="true">
+<offer id="DE06466" available="false">
 <price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
