@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-31 08:32">
+<yml_catalog date="2026-10-31 18:27">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -213813,7 +213813,7 @@ _x000D_
 <description_ua>Темляк із плетеного паракорду - це декоративна прикраса, яка надає Вашому ножу якусь родзинку, вирізняючи його на краще з десятка подібних йому ножів. Це запасний шнур, який завжди під рукою. І водночас це гнучке продовження руків'я, за яке можна за лічені секунди дістати Ваш ніж з кишені штанів.&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE04531" available="true">
+<offer id="RE04531" available="false">
 <price>513</price>
 <currencyId>UAH</currencyId>
 <categoryId>1025</categoryId>
@@ -213822,7 +213822,7 @@ _x000D_
 <vendorCode>RE04531</vendorCode>
 <name_ua>Брелок Головне управління розвідки МО України</name_ua>
 <description_ua>Брелок "Головне управління розвідки МО України" - це не лише стильний аксесуар, а й символ підтримки та шанування праці розвідників, які віддано служать на користь національної безпеки. Цей брелок відзначається унікальним дизайном та високоякісним виконанням, щоб виражати прив'язаність до розвідувальної служби.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE04532" available="true">
 <price>513</price>
