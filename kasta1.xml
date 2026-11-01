@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-31 18:27">
+<yml_catalog date="2026-11-01 18:23">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -4444,7 +4444,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="NA02211" available="true">
+<offer id="NA02211" available="false">
 <price>1076</price>
 <currencyId>UAH</currencyId>
 <categoryId>1095</categoryId>
@@ -4732,7 +4732,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="OK00597" available="true">
+<offer id="OK00597" available="false">
 <price>182</price>
 <currencyId>UAH</currencyId>
 <categoryId>1109</categoryId>
@@ -5482,7 +5482,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Кількість вантажних місць">1</param>
 <param name="Вид">м'яч баскетбольний</param>
 </offer>
-<offer id="RI003374" available="true">
+<offer id="RI003374" available="false">
 <price>1502</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -6258,7 +6258,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="II02284" available="true">
+<offer id="II02284" available="false">
 <price>1889</price>
 <currencyId>UAH</currencyId>
 <categoryId>1125</categoryId>
@@ -8126,7 +8126,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MA00995" available="true">
+<offer id="MA00995" available="false">
 <price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>1097</categoryId>
@@ -8306,7 +8306,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="MA01010" available="true">
+<offer id="MA01010" available="false">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1097</categoryId>
@@ -9509,7 +9509,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE03690" available="true">
+<offer id="DE03690" available="false">
 <price>3443</price>
 <currencyId>UAH</currencyId>
 <categoryId>1025</categoryId>
@@ -9569,7 +9569,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE03720" available="true">
+<offer id="DE03720" available="false">
 <price>2664</price>
 <currencyId>UAH</currencyId>
 <categoryId>1025</categoryId>
@@ -9599,7 +9599,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE03731" available="true">
+<offer id="DE03731" available="false">
 <price>3716</price>
 <currencyId>UAH</currencyId>
 <categoryId>1025</categoryId>
@@ -9614,7 +9614,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE03737" available="true">
+<offer id="DE03737" available="false">
 <price>3716</price>
 <currencyId>UAH</currencyId>
 <categoryId>1025</categoryId>
@@ -11250,7 +11250,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="RI002175" available="true">
+<offer id="RI002175" available="false">
 <price>664</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
@@ -12255,7 +12255,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE05596" available="true">
+<offer id="DE05596" available="false">
 <price>343</price>
 <currencyId>UAH</currencyId>
 <categoryId>1095</categoryId>
