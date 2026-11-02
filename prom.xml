@@ -12595,7 +12595,7 @@ LED-підсвічування</param>
 <param name="Об'єм, мл">460</param>
 <param name="Тип поставки">Один предмет</param>
 </offer>
-<offer id="OS03641" available="true" in_stock="true">
+<offer id="OS03641" available="false" in_stock="true">
 <price>285</price>
 <currencyId>UAH</currencyId>
 <categoryId>1151</categoryId>
@@ -12607,7 +12607,7 @@ LED-підсвічування</param>
 <name_ru>Набор детского фраже силикон 2пр/наб (MA-4917-1)</name_ru>
 <description>Матеріал:&amp;nbsp;силікон Упаковка:&amp;nbsp;пакет Розміри:&amp;nbsp;9.5*3cм</description>
 <description_ua>Матеріал:&amp;nbsp;силікон Упаковка:&amp;nbsp;пакет Розміри:&amp;nbsp;9.5*3cм</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
