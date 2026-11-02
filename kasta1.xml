@@ -85992,7 +85992,7 @@ _x000D_
 <param name="Колір">Сірий</param>
 <param name="Ширина в упаковці (см)">5</param>
 </offer>
-<offer id="RE01338" available="true">
+<offer id="RE01338" available="false">
 <price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1142</categoryId>
