@@ -10211,7 +10211,7 @@ LED-підсвічування</param>
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Чорний</param>
 </offer>
-<offer id="IM08274" available="false" in_stock="true">
+<offer id="IM08274" available="true" in_stock="true">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -104858,7 +104858,7 @@ USB Type-C
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="RI006762" available="true" in_stock="true">
+<offer id="RI006762" available="false" in_stock="true">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1030</categoryId>
@@ -104870,7 +104870,7 @@ USB Type-C
 <name_ru>Набор декоративных подвесок Гриб 5*5.5 см 2 шт. K07-524</name_ru>
 <description>Опис набору декоративних підвісок "Гриб" 5×5.5 см, 2 шт., артикул K07-524 Милий та затишний набір із двох мініатюрних підвісних грибочків – справжня знахідка для осіннього, лісового та казкового декору. Розмір кожного гриба: 5 см завширшки × 5,5 см заввишки (без підвісу).</description>
 <description_ua>Опис набору декоративних підвісок "Гриб" 5×5.5 см, 2 шт., артикул K07-524 Милий та затишний набір із двох мініатюрних підвісних грибочків – справжня знахідка для осіннього, лісового та казкового декору. Розмір кожного гриба: 5 см завширшки × 5,5 см заввишки (без підвісу).</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
