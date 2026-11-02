@@ -2464,7 +2464,7 @@
 <param name="Країна-виробник товару">Китай</param>
 <param name="Колір">Білий</param>
 </offer>
-<offer id="NN000364" available="true">
+<offer id="NN000364" available="false">
 <price>335</price>
 <currencyId>UAH</currencyId>
 <categoryId>104056.0</categoryId>
