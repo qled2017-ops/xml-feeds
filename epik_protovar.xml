@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-31 06:55">
+<yml_catalog date="2026-11-02 06:31">
   <offers>
     <offer id="MR05014" available="false">
       <price>1890</price>
@@ -30998,7 +30998,7 @@
     <offer id="MR29576" available="false">
       <price>229</price>
     </offer>
-    <offer id="MR29578" available="true">
+    <offer id="MR29578" available="false">
       <price>229</price>
     </offer>
     <offer id="MR29581" available="true">
@@ -31487,7 +31487,7 @@
     <offer id="MR29789" available="true">
       <price>273</price>
     </offer>
-    <offer id="MR29790" available="true">
+    <offer id="MR29790" available="false">
       <price>312</price>
     </offer>
     <offer id="MR29791" available="false">
@@ -36280,7 +36280,7 @@
     <offer id="MR32178" available="false">
       <price>299</price>
     </offer>
-    <offer id="MR32179" available="false">
+    <offer id="MR32179" available="true">
       <price>215</price>
     </offer>
     <offer id="MR32180" available="false">
@@ -46314,7 +46314,7 @@
     <offer id="MR39028" available="false">
       <price>506</price>
     </offer>
-    <offer id="MR39030" available="true">
+    <offer id="MR39030" available="false">
       <price>176</price>
     </offer>
     <offer id="MR39031" available="false">
@@ -84398,7 +84398,7 @@
     <offer id="DR004905" available="false">
       <price>5799</price>
     </offer>
-    <offer id="DR004906" available="true">
+    <offer id="DR004906" available="false">
       <price>5799</price>
     </offer>
     <offer id="DR004907" available="false">
@@ -96177,7 +96177,7 @@
     <offer id="NA003985" available="true">
       <price>3849</price>
     </offer>
-    <offer id="NA003986" available="true">
+    <offer id="NA003986" available="false">
       <price>3738</price>
     </offer>
     <offer id="NA003987" available="false">
@@ -97635,7 +97635,7 @@
     <offer id="NA004059" available="false">
       <price>163</price>
     </offer>
-    <offer id="NA004060" available="true">
+    <offer id="NA004060" available="false">
       <price>281</price>
     </offer>
     <offer id="NA004061" available="true">
@@ -111151,7 +111151,7 @@
     <offer id="DR007401" available="false">
       <price>120</price>
     </offer>
-    <offer id="DR007402" available="true">
+    <offer id="DR007402" available="false">
       <price>185</price>
     </offer>
     <offer id="IR006931" available="false">
@@ -134567,7 +134567,7 @@
     <offer id="DR011011" available="false">
       <price>2435</price>
     </offer>
-    <offer id="DR011012" available="true">
+    <offer id="DR011012" available="false">
       <price>2465</price>
     </offer>
     <offer id="DR011013" available="true">
@@ -183516,7 +183516,7 @@
     <offer id="AM0003902" available="false">
       <price>682</price>
     </offer>
-    <offer id="AM0003903" available="false">
+    <offer id="AM0003903" available="true">
       <price>682</price>
     </offer>
     <offer id="AM0003904" available="false">
@@ -183684,7 +183684,7 @@
     <offer id="AM0003934" available="false">
       <price>999</price>
     </offer>
-    <offer id="AM0003935" available="true">
+    <offer id="AM0003935" available="false">
       <price>999</price>
     </offer>
     <offer id="AM0003936" available="true">
@@ -190732,7 +190732,7 @@
     <offer id="AM0006045" available="true">
       <price>680</price>
     </offer>
-    <offer id="AM0006046" available="false">
+    <offer id="AM0006046" available="true">
       <price>3154</price>
     </offer>
     <offer id="ВC000637" available="true">
@@ -205906,7 +205906,7 @@
     <offer id="AM0011457" available="true">
       <price>678</price>
     </offer>
-    <offer id="OK007197" available="false">
+    <offer id="OK007197" available="true">
       <price>1001</price>
     </offer>
     <offer id="OK007198" available="false">
@@ -215454,7 +215454,7 @@
     <offer id="RI0002117" available="true">
       <price>424</price>
     </offer>
-    <offer id="RI0002118" available="true">
+    <offer id="RI0002118" available="false">
       <price>312</price>
     </offer>
     <offer id="RI0002119" available="true">
