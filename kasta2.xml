@@ -6265,7 +6265,7 @@
 <description_ua>Горщик Ага кольору фуксія має класичну форму та ідеально підійде для декорування приміщень. Горщик доступний у різних розмірах та укомплектований підставкою.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11119" available="true">
+<offer id="RE11119" available="false">
 <price>204</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -6275,7 +6275,7 @@
 <name_ua>Підставка балконна Flora Агро Біла 100см</name_ua>
 <name_ru>Подставка балконная Flora Агро Белая 100см</name_ru>
 <description_ua>Підставка під балконну скриньку АГРО теракотового кольору прикрасить та доповнить ваш балкон, сад чи терасу. Має поверхню, стійку до природних впливів, що не тьмяніє на сонці, підходить для будинку та вулиці.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE11115" available="true">
 <price>93</price>
