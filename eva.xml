@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-04 08:24">
+<yml_catalog date="2026-11-04 19:01">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -115563,7 +115563,7 @@ _x000D_
 <description_ua>У зв'язці 12 шт. Довжина - 110 см. Штучна звисаюча гілка Гліцинії - це репліка природної гілки з усією її вродою. Листя на гілці має форму, текстуру і відтінки, подібні до натурального листя. Кожна деталь ретельно пророблена, а стебла надають гнучкості та можливості моделювання гілки в потрібному положенні. Штучна гілка є чудовою альтернативою живим рослинам, оскільки вона зберігає всю привабливість, має більш довговічні властивості та можливість використання у різних декоративних цілях. Чудово впишеться у декор будь-якого приміщення, букетів, композицій чи аранжування інтер'єру, додаючи природної свіжості та елегантності.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK06126" available="false">
+<offer id="OK06126" available="true">
 <price>984</price>
 <currencyId>UAH</currencyId>
 <categoryId>1082</categoryId>
@@ -297369,7 +297369,7 @@ _x000D_
 <description_ua>Коробка-органайзер для зберігання білизни 9 відділень 44*30*20 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="VK00079" available="false">
+<offer id="VK00079" available="true">
 <price>604</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
