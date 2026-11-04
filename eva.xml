@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-03 19:13">
+<yml_catalog date="2026-11-04 08:24">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -104050,7 +104050,7 @@ _x000D_
 <description_ua>Практичний килимок для ванни допоможе вирішити побутові питання та впорядкувати простір. Є у приємних нейтральних відтінках, має лаконічний дизайн та чудово доповнить сучасні інтер'єри. Неймовірно м'який і приємний на дотик. Підходить для приміщень із підвищеною вологістю. Виготовлений з високоякісної бавовни, служитиме багато років. Прання рекомендоване у прохолодній воді з м'яким миючим засобом. Двосторонній килимок неймовірно зручний, адже його можна використовувати з обох боків. Щільність матеріалу 2400 г/м2. Створіть атмосферу затишку за допомогою стильного килимка.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD02252" available="true">
+<offer id="KD02252" available="false">
 <price>1340</price>
 <currencyId>UAH</currencyId>
 <categoryId>1056</categoryId>
@@ -108104,7 +108104,7 @@ _x000D_
 <description_ua>Розмір тюбика - 12 см. Вага - 28,3 г. Аквагрим для карнавальних образів: монстр, відьма та ін. Змивається теплою водою з милом.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK07035" available="true">
+<offer id="OK07035" available="false">
 <price>170</price>
 <currencyId>UAH</currencyId>
 <categoryId>1060</categoryId>
@@ -108114,7 +108114,7 @@ _x000D_
 <name_ua>Фарба грим білий Seta Decor 13-611WT</name_ua>
 <name_ru>Краска грим белый Seta Decor 13-611WT</name_ru>
 <description_ua>Розмір тюбика - 12 см. Об'єм - 28,3 мл. Змивається теплою водою з милом. Аквагрим бїлий карнавальний. Фарба грим біла.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OK07051" available="true">
 <price>3292</price>
@@ -151778,7 +151778,7 @@ _x000D_
 <description_ua>Сучасна та практична річ для дому. Розпилювач для квітів МВМ MY HOME стане в нагоді у догляді за домашніми рослинами. Має стильний дизайн, зручний у використанні. За допомогою розпилювача ви зможете легко освіжити букет із живих квітів, вазони, розсаду, мікрозелень тощо. Виготовлений із високоякісного поліпропілену, не боїться подряпин.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KD01830" available="true">
+<offer id="KD01830" available="false">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>1149</categoryId>
@@ -151795,7 +151795,7 @@ _x000D_
 <name_ua>Розпилювач для квітів 20 см DH-FLOWERS-11 GREEN</name_ua>
 <name_ru>Распылитель для цветов 20 см DH-FLOWERS-11 GREEN</name_ru>
 <description_ua>Сучасна та практична річ для дому. Розпилювач для квітів МВМ MY HOME стане в нагоді у догляді за домашніми рослинами. Має стильний дизайн, зручний у використанні. За допомогою розпилювача ви зможете легко освіжити букет із живих квітів, вазони, розсаду, мікрозелень тощо. Виготовлений із високоякісного поліпропілену, не боїться подряпин.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD01831" available="true">
 <price>229</price>
@@ -167453,7 +167453,7 @@ _x000D_
 <description_ua>Декоративна статуетка MVM відрізняється оригінальним дизайном. Аксесуар можна придбати для подарунка діловим людям та творчим особистостям або порадувати себе чудовою річчю. Підійде поціновувачам естетики, сучасних скульптур, любителям мінімалізму. Ідеально доповнить інтер'єр. Загадкова маска стане справжньою окрасою вітальні, робочого кабінету чи будь-якого громадського місця. Статуетка виготовлена з надійної синтетичної смоли міцна та довговічна.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD01745" available="false">
+<offer id="KD01745" available="true">
 <price>747</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -167836,7 +167836,7 @@ _x000D_
 <description_ua>Вишукана статуетка МВМ MY HOME людина з мрією – це оригінальний елемент декору та універсальний подарунок з будь-якого приводу. Сучасний дизайн в ідеальному виконанні припаде до душі поціновувачам прекрасного. Такий аксесуар буде чудово виглядати у будь-якому куточку будинку. Статуетка виготовлена із якісної смоли. Прикрасити книжкову полицю, робочий стіл, тумбу чи інше місце у приміщенні.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD01775" available="false">
+<offer id="KD01775" available="true">
 <price>556</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -209535,7 +209535,7 @@ _x000D_
 <description_ua>Чайник із боросилікатного скла з бамбуковою кришкою 1000 мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="40010-08-15" available="false">
+<offer id="40010-08-15" available="true">
 <price>150</price>
 <currencyId>UAH</currencyId>
 <categoryId>1063</categoryId>
@@ -251358,7 +251358,7 @@ _x000D_
 <description_ua>Матеріал: неіржавіюча сталь Діаметр: d32*9см Упаковка: кольоровий вкладиш</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01616" available="true">
+<offer id="OS01616" available="false">
 <price>1593</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
@@ -251371,7 +251371,7 @@ _x000D_
 <name_ua>Пательня-сотейник з кришкою лита "Granite" інд. дно (10378-32)</name_ua>
 <name_ru>Сковорода с крышкой литая "Granite" инд. дно (10378-32)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;алюміній, скло, бакеліт Розміри:&amp;nbsp;32*7.2см Упаковка: кольоровий вкладиш</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01618" available="true">
 <price>1507</price>
@@ -253212,7 +253212,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;пластик Упаковка:&amp;nbsp;без інд.пакування Об'єм/Розміри:&amp;nbsp;3.6л/30*12*13.5см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02713" available="true">
+<offer id="OS02713" available="false">
 <price>190</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -253222,7 +253222,7 @@ _x000D_
 <name_ua>Набір контейнерів харчових з різьбленням 2пр/наб (NP-85о)</name_ua>
 <name_ru>Набор пищевых контейнеров с резьбой 2пр/наб (NP-85о)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;пластик Упаковка:&amp;nbsp;без інд.пакування Об'єми/Розміри:&amp;nbsp;1л/1.5л/d12.5*15.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02714" available="true">
 <price>188</price>
@@ -253273,7 +253273,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;пластик Упаковка:&amp;nbsp;без інд.пакування Об'єм/Розміри:&amp;nbsp;2.2л/30*12*8.5см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02868" available="false">
+<offer id="OS02868" available="true">
 <price>170</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -253490,7 +253490,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;пластик Упаковка:&amp;nbsp;плівка ПВХ Об'єм:&amp;nbsp;150мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS03297" available="true">
+<offer id="OS03297" available="false">
 <price>114</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -253501,7 +253501,7 @@ _x000D_
 <name_ua>Контейнер харчовий з ручками (NP-56)</name_ua>
 <name_ru>Контейнер пищевой с ручками (NP-56)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;пластик Упаковка:&amp;nbsp;без інд.пакування Об'єм/Розміри:&amp;nbsp;950мл/12*17.6*7.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS03475" available="true">
 <price>208</price>
@@ -253575,7 +253575,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь, нейлонова ручка Об'єм:&amp;nbsp;2.5л Упаковка: кольорова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01739" available="true">
+<offer id="OS01739" available="false">
 <price>925</price>
 <currencyId>UAH</currencyId>
 <categoryId>1126</categoryId>
@@ -253585,7 +253585,7 @@ _x000D_
 <name_ua>Чайник SS подвійне дно (MH-0310)</name_ua>
 <name_ru>Чайник SS двойное дно (MH-0310)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь, нейлонова ручка Об'єм:&amp;nbsp;2.5л Упаковка: кольорова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01741" available="true">
 <price>1002</price>
@@ -253791,7 +253791,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;скло,&amp;nbsp;пластик Упаковка:&amp;nbsp;кольорова коробка Об'єм:&amp;nbsp;350мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02081" available="true">
+<offer id="OS02081" available="false">
 <price>628</price>
 <currencyId>UAH</currencyId>
 <categoryId>1063</categoryId>
@@ -253802,7 +253802,7 @@ _x000D_
 <name_ua>Чайник заварювальний з металевим фільтром "Frozen" (R92187)</name_ua>
 <name_ru>Заварочный чайник с металлическим фильтром "Frozen" (R92187)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;скло Упаковка:&amp;nbsp;кольорова коробка Об'єм:&amp;nbsp;750мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02082" available="true">
 <price>470</price>
@@ -254724,7 +254724,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;кераміка, метал Об'єм:&amp;nbsp;250мл Упаковка:&amp;nbsp;кольорова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01870" available="true">
+<offer id="OS01870" available="false">
 <price>868</price>
 <currencyId>UAH</currencyId>
 <categoryId>1064</categoryId>
@@ -254735,7 +254735,7 @@ _x000D_
 <name_ua>Чашка з блюдцем новорічна "Christmas" 2пр/наб (R36279)</name_ua>
 <name_ru>Чашка с блюдцем новогодняя "Christmas" 2пр/наб (R36279)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;кераміка Об'єм:&amp;nbsp;220мл Упаковка: подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01871" available="true">
 <price>812</price>
@@ -254765,7 +254765,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;кераміка Об'єм/Розміри:&amp;nbsp;180мл/10*6/14.5см Упаковка: подарункова коробка</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OS01873" available="true">
+<offer id="OS01873" available="false">
 <price>782</price>
 <currencyId>UAH</currencyId>
 <categoryId>1064</categoryId>
@@ -254776,7 +254776,7 @@ _x000D_
 <name_ua>Чашка з блюдцем новорічна "Bambi" 2пр/наб (R36255)</name_ua>
 <name_ru>Чашка с блюдцем новогодняя "Bambi" 2пр/наб (R36255)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;кераміка Об'єм/Розміри:&amp;nbsp;180мл/10*6/14см Упаковка: подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01874" available="true">
 <price>798</price>
@@ -254791,7 +254791,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;кераміка Об'єм/Розміри:&amp;nbsp;180мл/10*6/14см Упаковка: подарункова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01875" available="true">
+<offer id="OS01875" available="false">
 <price>782</price>
 <currencyId>UAH</currencyId>
 <categoryId>1064</categoryId>
@@ -254802,7 +254802,7 @@ _x000D_
 <name_ua>Чашка з блюдцем новорічна "Santa" 2пр/наб (R36278)</name_ua>
 <name_ru>Чашка с блюдцем новогодняя "Santa" 2пр/наб (R36278)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;кераміка Об'єм/Розміри:&amp;nbsp;180мл/10*6/14см Упаковка: подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01876" available="true">
 <price>748</price>
@@ -254854,7 +254854,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;кераміка, метал Об'єм:&amp;nbsp;200мл Упаковка:&amp;nbsp;кольорова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01974" available="true">
+<offer id="OS01974" available="false">
 <price>432</price>
 <currencyId>UAH</currencyId>
 <categoryId>1064</categoryId>
@@ -254864,7 +254864,7 @@ _x000D_
 <name_ua>Чашка з блюдцем "Primavera" 2пр/наб (R33338)</name_ua>
 <name_ru>Чашка с блюдцем "Primavera" 2пр/наб (R33338)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;порцеляна Об'єм/Розміри:&amp;nbsp;160мл/14см Упаковка: подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01985" available="true">
 <price>545</price>
@@ -255069,7 +255069,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;порцеляна Об'єм/Розміри:&amp;nbsp;250мл/8*7.5см Упаковка:&amp;nbsp;подарункова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02181" available="true">
+<offer id="OS02181" available="false">
 <price>532</price>
 <currencyId>UAH</currencyId>
 <categoryId>1064</categoryId>
@@ -255079,7 +255079,7 @@ _x000D_
 <name_ua>Чашки на підставці новорічні "Christmas stories" 5пр/наб (R36330)</name_ua>
 <name_ru>Чашки на подставке новогодние "Christmas stories" 5пр/наб (R36330)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;порцеляна Об'єм/Розміри:&amp;nbsp;250мл/8*7.5см Упаковка:&amp;nbsp;подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS03487" available="true">
 <price>738</price>
@@ -255723,7 +255723,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;скло Упаковка:&amp;nbsp;біла коробка Об'єм:&amp;nbsp;350мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02545" available="true">
+<offer id="OS02545" available="false">
 <price>215</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -255733,7 +255733,7 @@ _x000D_
 <name_ua>Склянка з подвійною стінкою "Emoji" (R99929)</name_ua>
 <name_ru>Стакан с двойной стенкой "Emoji" (R99929)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;скло Упаковка:&amp;nbsp;біла коробка Об'єм:&amp;nbsp;250мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02593" available="true">
 <price>222</price>
@@ -255781,7 +255781,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;скло Упаковка:&amp;nbsp;біла коробка Об'єм:&amp;nbsp;380мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02635" available="true">
+<offer id="OS02635" available="false">
 <price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -255791,7 +255791,7 @@ _x000D_
 <name_ua>Чашка з подвійною стінкою "Queen" (R99928)</name_ua>
 <name_ru>Чашка с двойной стенкой "Queen" (R99928)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;скло Упаковка:&amp;nbsp;біла коробка Об'єм:&amp;nbsp;250мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02730" available="true">
 <price>218</price>
@@ -256715,7 +256715,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;порцеляна Розміри:&amp;nbsp;12" (30*24.5*7.5см) Упаковка:&amp;nbsp;біла коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01958" available="true">
+<offer id="OS01958" available="false">
 <price>2497</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -256725,7 +256725,7 @@ _x000D_
 <name_ua>Набір блюд порцелянових "Simple" 5шт (MC5371)</name_ua>
 <name_ru>Набор блюд фарфоровых "Simple" 5шт (MC5371)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;порцеляна Розміри:&amp;nbsp;9.75" Упаковка:&amp;nbsp;біла коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01960" available="true">
 <price>1985</price>
@@ -259151,7 +259151,7 @@ _x000D_
 <description_ua>Підставка-органайзер кухонна для кришок/дощечок/посуду 26.5*19*21.5см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS07492" available="true">
+<offer id="RS07492" available="false">
 <price>362</price>
 <currencyId>UAH</currencyId>
 <categoryId>1069</categoryId>
@@ -259161,9 +259161,9 @@ _x000D_
 <name_ua>Полиця настінна на липучках 5г 29.5*10*23.5см M50258</name_ua>
 <name_ru>Полка настенная на липучках 5г 29.5*10*23.5см M50258</name_ru>
 <description_ua>Полиця настінна на липучках 5г 29.5*10*23.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS07493" available="true">
+<offer id="RS07493" available="false">
 <price>362</price>
 <currencyId>UAH</currencyId>
 <categoryId>1069</categoryId>
@@ -259173,7 +259173,7 @@ _x000D_
 <name_ua>Полиця настінна на липучках 5г 29.5*10*23.5см чорний M50258</name_ua>
 <name_ru>Полка настенная на липучках 5г 29.5*10*23.5см черный M50258</name_ru>
 <description_ua>Полиця настінна на липучках 5г 29.5*10*23.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS07494" available="true">
 <price>375</price>
@@ -259401,7 +259401,7 @@ _x000D_
 <description_ua>Матеріал: кераміка Розміри:&amp;nbsp;d15см Упаковка: кольорова коробка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS01880" available="true">
+<offer id="OS01880" available="false">
 <price>840</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -259412,7 +259412,7 @@ _x000D_
 <name_ua>Менажниця порцелянова "Хвиля" (MC3851-11)</name_ua>
 <name_ru>Менажница фарфоровая "Волна" (MC3851-11)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;порцеляна, бамбук Розміри:&amp;nbsp;11" (29*29*13.5см) Упаковка:&amp;nbsp;кольорова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS01882" available="true">
 <price>2291</price>
@@ -259743,7 +259743,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;метал Розміри:&amp;nbsp;22*11см Упаковка:&amp;nbsp;пакет</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02287" available="true">
+<offer id="OS02287" available="false">
 <price>899</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -259754,7 +259754,7 @@ _x000D_
 <name_ua>Набір менажниць порцелянових "Strong" 3шт (MC4167-11)</name_ua>
 <name_ru>Набор фарфоровых менажниц "Strong" 3шт (MC4167-11)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;порцеляна Розміри:&amp;nbsp;11" (28*16*2см) Упаковка:&amp;nbsp;біла коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02288" available="true">
 <price>955</price>
@@ -261582,7 +261582,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000762" available="true">
+<offer id="NN000762" available="false">
 <price>96</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -261592,7 +261592,7 @@ _x000D_
 <name_ua>Іграшка-підвіска новорічна "Lollipop" 17см R33861 Білий/Червоний</name_ua>
 <name_ru>Игрушка-подвеска новогодняя "Lollipop" 17см R33861 Белый/Красный</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000763" available="true">
 <price>93</price>
@@ -261630,7 +261630,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000766" available="true">
+<offer id="NN000766" available="false">
 <price>123</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -261640,7 +261640,7 @@ _x000D_
 <name_ua>Іграшка-підвіска новорічна "Donut" 10см, R33890, Рожевий</name_ua>
 <name_ru>Игрушка-подвеска новогодняя "Donut" 10см, R33890, Розовый</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000767" available="true">
 <price>126</price>
@@ -261690,7 +261690,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000771" available="true">
+<offer id="NN000771" available="false">
 <price>129</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -261702,7 +261702,7 @@ _x000D_
 <name_ua>Іграшка-підвіска новорічна "Lamp" 10см, R96175</name_ua>
 <name_ru>Игрушка-подвеска новогодняя "Lamp" 10см, R96175</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000774" available="true">
 <price>141</price>
@@ -261993,7 +261993,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000873" available="true">
+<offer id="NN000873" available="false">
 <price>218</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262003,9 +262003,9 @@ _x000D_
 <name_ua>Ялинкові іграшки "Santa" 7см 4шт/наб, M47957, Червоний</name_ua>
 <name_ru>Елочные игрушки "Santa" 7см 4шт/наб, M47957, Красный</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000874" available="true">
+<offer id="NN000874" available="false">
 <price>218</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262015,9 +262015,9 @@ _x000D_
 <name_ua>Ялинкові іграшки "Santa" 7см 4шт/наб, M47957, Синій</name_ua>
 <name_ru>Елочные игрушки "Santa" 7см 4шт/наб, M47957, Синий</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000875" available="true">
+<offer id="NN000875" available="false">
 <price>218</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262027,7 +262027,7 @@ _x000D_
 <name_ua>Ялинкові іграшки "Santa" 7см 4шт/наб, M47957, Сріблястий</name_ua>
 <name_ru>Елочные игрушки "Santa" 7см 4шт/наб, M47957, Серебристый</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000876" available="true">
 <price>220</price>
@@ -262113,7 +262113,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000896" available="true">
+<offer id="NN000896" available="false">
 <price>248</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262123,7 +262123,7 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 6шт/наб, R96270</name_ua>
 <name_ru>Елочные шарики 6см 6шт/наб, R96270</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000897" available="true">
 <price>248</price>
@@ -262161,7 +262161,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>1000</quantity_in_stock>
 </offer>
-<offer id="NN000912" available="true">
+<offer id="NN000912" available="false">
 <price>332</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262171,9 +262171,9 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 12шт/наб, R90712, Рожевий</name_ua>
 <name_ru>Елочные шарики 6см 12шт/наб, R90712, Розовый</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000913" available="true">
+<offer id="NN000913" available="false">
 <price>332</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262183,7 +262183,7 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 12шт/наб, R90712, Блакитний</name_ua>
 <name_ru>Елочные шарики 6см 12шт/наб, R90712, Голубой</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000917" available="true">
 <price>302</price>
@@ -262293,7 +262293,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000938" available="true">
+<offer id="NN000938" available="false">
 <price>405</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262303,9 +262303,9 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 10шт/наб, M47928, Білий/Червоний</name_ua>
 <name_ru>Елочные шарики 6см 10шт/наб, M47928, Белый/Красный</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000939" available="true">
+<offer id="NN000939" available="false">
 <price>405</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262315,9 +262315,9 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 10шт/наб, M47928, Білий/Коричневий</name_ua>
 <name_ru>Елочные шарики 6см 10шт/наб, M47928, Белый/Коричневый</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000940" available="true">
+<offer id="NN000940" available="false">
 <price>405</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262327,9 +262327,9 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 10шт/наб, M47928, Білий/Синій</name_ua>
 <name_ru>Елочные шарики 6см 10шт/наб, M47928, Белый/Синий</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000941" available="true">
+<offer id="NN000941" available="false">
 <price>405</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262339,7 +262339,7 @@ _x000D_
 <name_ua>Ялинкові кульки 6см 10шт/наб, M47928, Білий/Зелений</name_ua>
 <name_ru>Елочные шарики 6см 10шт/наб, M47928, Белый/Зеленый</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN000945" available="true">
 <price>425</price>
@@ -262533,7 +262533,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN000996" available="true">
+<offer id="NN000996" available="false">
 <price>828</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262543,9 +262543,9 @@ _x000D_
 <name_ua>Ялинкові іграшки 21шт/наб, R90675</name_ua>
 <name_ru>Елочные игрушки 21шт/наб, R90675</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="NN000997" available="true">
+<offer id="NN000997" available="false">
 <price>828</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -262555,7 +262555,7 @@ _x000D_
 <name_ua>Ялинкові іграшки 21шт/наб, R90675</name_ua>
 <name_ru>Елочные игрушки 21шт/наб, R90675</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN001002" available="true">
 <price>1274</price>
@@ -263109,7 +263109,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN001057" available="true">
+<offer id="NN001057" available="false">
 <price>1561</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -263119,7 +263119,7 @@ _x000D_
 <name_ua>Ялинкові кульки 8см "Блискітки" 50шт/уп, 9191CH-8G</name_ua>
 <name_ru>Елочные шарики 8см "Блестки" 50шт/уп, 9191CH-8G</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN001058" available="true">
 <price>1591</price>
@@ -263433,7 +263433,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN001092" available="true">
+<offer id="NN001092" available="false">
 <price>1687</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -263443,7 +263443,7 @@ _x000D_
 <name_ua>Ялинкові кульки 6см "Мат" 100шт/уп, 9191CH-6M</name_ua>
 <name_ru>Елочные шарики 6см "Мат" 100шт/уп, 9191CH-6M</name_ru>
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NN001095" available="true">
 <price>1735</price>
@@ -263469,7 +263469,7 @@ _x000D_
 <description_ua>Іграшка-підвіска новорічна — стильний та яскравий декор, що створює особливу атмосферу свята у вашому домі. Вона легко кріпиться на ялинку, гірлянду чи інші елементи інтер’єру, додаючи тепла й затишку зимовим святам. Переваги: Універсальність — підходить для ялинки, інтер’єру, подарункового оформлення. Естетичність — красивий дизайн, що гармонійно доповнить святкове оздоблення. Легка вага — не обтяжує гілки ялинки. Якісні матеріали — довговічні, безпечні для дітей та домашніх тварин. Атмосферність — створює відчуття свята та теплих сімейних моментів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NN001097" available="true">
+<offer id="NN001097" available="false">
 <price>1701</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -263578,7 +263578,7 @@ _x000D_
 <description_ua>Загадкова новорічна фігурка Біла сова висотою 28 см (код 743-307) втілює символ мудрості та таємничості зимового лісу, де сніжно-біла сова з проникливим поглядом, пухнастим оперенням та граціозно розправленими крилами, наче охоронниця новорічних таємниць, наповнює дім атмосферою спокою, чарівництва та тихого шарму, ідеально підходячи для створення затишної атмосфери в холодні вечори. Ця висока фігурка, опрацьована з ретельною увагою до деталей — від реалістичної текстури пір’я та блискучих оченят до стійкої дерев’яної підставки та декоративних елементів снігу, — передає грацію та глибину, гармонійно вписуючись в будь-який інтер’єр. Виготовлена з високоякісних, екологічно чистих матеріалів з матовим покриттям, стійким до вицвітання, пилу та механічних пошкоджень, фігурка гарантує довговічність та збереження форми протягом багатьох сезонів. Біла сова стане чудовим акцентом для полиці у вітальні, каміна, святкового столу чи новорічної композиції, створюючи відчуття гармонії та казки в спальні чи дитячій кімнаті, посилюючи передчуття дива. Така фігурка не тільки прикрасить простір, але й слугуватиме символічним подарунком для любителів природи, колекціонерів чи тих, хто цінує символіку мудрості, нагадуючи про нічні польоти, сімейні традиції та ту тиху магію, яка робить Новий рік по-справжньому глибоким і незабутнім.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06890" available="true">
+<offer id="RS06890" available="false">
 <price>136</price>
 <currencyId>UAH</currencyId>
 <categoryId>1181</categoryId>
@@ -263588,9 +263588,9 @@ _x000D_
 <name_ua>Окуляри для зору діоптрії +4.0 чорний WL-2912</name_ua>
 <name_ru>Очки для зрения диоптрии +4.0 черный WL-2912</name_ru>
 <description_ua>Окуляри для зору діоптрії +4.0</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06891" available="true">
+<offer id="RS06891" available="false">
 <price>136</price>
 <currencyId>UAH</currencyId>
 <categoryId>1181</categoryId>
@@ -263600,9 +263600,9 @@ _x000D_
 <name_ua>Окуляри для зору діоптрії +4.0 коричневий WL-2912</name_ua>
 <name_ru>Очки для зрения диоптрии +4.0 коричневый WL-2912</name_ru>
 <description_ua>Окуляри для зору діоптрії +4.0</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06892" available="true">
+<offer id="RS06892" available="false">
 <price>136</price>
 <currencyId>UAH</currencyId>
 <categoryId>1181</categoryId>
@@ -263612,9 +263612,9 @@ _x000D_
 <name_ua>Окуляри для зору діоптрії +4.0 синій WL-2912</name_ua>
 <name_ru>Очки для зрения диоптрии +4.0 синий WL-2912</name_ru>
 <description_ua>Окуляри для зору діоптрії +4.0</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06893" available="true">
+<offer id="RS06893" available="false">
 <price>136</price>
 <currencyId>UAH</currencyId>
 <categoryId>1181</categoryId>
@@ -263624,7 +263624,7 @@ _x000D_
 <name_ua>Окуляри для зору діоптрії +4.0 червоний WL-2912</name_ua>
 <name_ru>Очки для зрения диоптрии +4.0 красный WL-2912</name_ru>
 <description_ua>Окуляри для зору діоптрії +4.0</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS06912" available="true">
 <price>315</price>
@@ -263710,7 +263710,7 @@ _x000D_
 <description_ua>Окуляри для зору WL-2912 призначені для корекції зору при далекозорості та представлені в декількох варіантах діоптрій. Модель оснащена пружинним шарніром, який забезпечує більш гнучку посадку дужок і робить окуляри зручними для повсякденного використання. Оправа виготовлена з легкого пластику, класична форма підходить для різних образів та забезпечує комфортну посадку. У лінійці представлені різні варіанти кольору оправи та діоптрій, тому можна підібрати відповідний варіант залежно від індивідуальної потреби. Окуляри підходять для використання вдома, на роботі, під час читання, роботи з документами та інших повсякденних занять, що потребують покращення зору на близькій відстані.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="EA03853" available="true">
+<offer id="EA03853" available="false">
 <price>136</price>
 <currencyId>UAH</currencyId>
 <categoryId>1181</categoryId>
@@ -263720,7 +263720,7 @@ _x000D_
 <name_ua>Окуляри для зору діоптрії WL-2912 Коричневий Синій +2,75</name_ua>
 <name_ru>Очки для зрения диоптрии WL-2912 Коричневый Синий +2,75</name_ru>
 <description_ua>Окуляри для зору WL-2912 призначені для корекції зору при далекозорості та представлені в декількох варіантах діоптрій. Модель оснащена пружинним шарніром, який забезпечує більш гнучку посадку дужок і робить окуляри зручними для повсякденного використання. Оправа виготовлена з легкого пластику, класична форма підходить для різних образів та забезпечує комфортну посадку. У лінійці представлені різні варіанти кольору оправи та діоптрій, тому можна підібрати відповідний варіант залежно від індивідуальної потреби. Окуляри підходять для використання вдома, на роботі, під час читання, роботи з документами та інших повсякденних занять, що потребують покращення зору на близькій відстані.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE01865" available="true">
 <price>166</price>
@@ -264255,7 +264255,7 @@ _x000D_
 <description_ua>Дозатор для рідкого мила 450мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS07413" available="true">
+<offer id="RS07413" available="false">
 <price>132</price>
 <currencyId>UAH</currencyId>
 <categoryId>1084</categoryId>
@@ -264265,7 +264265,7 @@ _x000D_
 <name_ua>Дозатор для рідкого мила 400мл R89565</name_ua>
 <name_ru>Дозатор для жидкого мыла 400мл R89565</name_ru>
 <description_ua>Дозатор для рідкого мила 400мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS07414" available="true">
 <price>185</price>
@@ -265779,7 +265779,7 @@ _x000D_
 <description_ua>Органайзер м`який для зберігання одягу 36*17*12см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06498" available="true">
+<offer id="RS06498" available="false">
 <price>205</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -265789,7 +265789,7 @@ _x000D_
 <name_ua>Коробка складана для зберігання речей BROWN 40*27*19см R33667-40</name_ua>
 <name_ru>Коробка складная для хранения вещей BROWN 40*27*19см R33667-40</name_ru>
 <description_ua>Коробка складана для зберігання речей BROWN 40*27*19см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS06499" available="true">
 <price>142</price>
@@ -266954,7 +266954,7 @@ _x000D_
 <description_ua>Ящик-трансформер 30*19.5см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06616" available="false">
+<offer id="RS06616" available="true">
 <price>348</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -266966,7 +266966,7 @@ _x000D_
 <description_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06617" available="false">
+<offer id="RS06617" available="true">
 <price>348</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -266978,7 +266978,7 @@ _x000D_
 <description_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06618" available="false">
+<offer id="RS06618" available="true">
 <price>348</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -266990,7 +266990,7 @@ _x000D_
 <description_ua>Ящик універсальний Прозорий 6.3л 19*27.5*16см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06619" available="false">
+<offer id="RS06619" available="true">
 <price>348</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -267290,7 +267290,7 @@ _x000D_
 <description_ua>Коробка складана для зберігання речей 32*16*10см/16*16*10см/16*16*10см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06648" available="false">
+<offer id="RS06648" available="true">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -267302,7 +267302,7 @@ _x000D_
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06649" available="false">
+<offer id="RS06649" available="true">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -267314,7 +267314,7 @@ _x000D_
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06650" available="false">
+<offer id="RS06650" available="true">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -267326,7 +267326,7 @@ _x000D_
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06651" available="false">
+<offer id="RS06651" available="true">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -267338,7 +267338,7 @@ _x000D_
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06652" available="false">
+<offer id="RS06652" available="true">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -267350,7 +267350,7 @@ _x000D_
 <description_ua>Кошик-органайзер для зберігання овочів та фруктів Модуль 15л 34.7*29.8*24.3см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RS06653" available="false">
+<offer id="RS06653" available="true">
 <price>460</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -267471,7 +267471,7 @@ _x000D_
 <description_ua>Кошик для білизни з ручками складаний 35*25*17см&amp;nbsp;&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06684" available="true">
+<offer id="RS06684" available="false">
 <price>515</price>
 <currencyId>UAH</currencyId>
 <categoryId>1086</categoryId>
@@ -267481,7 +267481,7 @@ _x000D_
 <name_ua>Коробка складана для зберігання речей L 50*40*33см R33659-L</name_ua>
 <name_ru>Коробка складная для хранения вещей L 50*40*33см R33659-L</name_ru>
 <description_ua>Коробка складана для зберігання речей L 50*40*33см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS06686" available="true">
 <price>532</price>
@@ -275362,7 +275362,7 @@ _x000D_
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь, дерево Упаковка:&amp;nbsp;чохол поліестер Розміри:&amp;nbsp;26см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS02080" available="true">
+<offer id="OS02080" available="false">
 <price>560</price>
 <currencyId>UAH</currencyId>
 <categoryId>1188</categoryId>
@@ -275374,7 +275374,7 @@ _x000D_
 <name_ua>Ніж туристичний "Tactical" (R42226/WL-780)</name_ua>
 <name_ru>Нож туристический "Tactical" (R42226/WL-780)</name_ru>
 <description_ua>Матеріал:&amp;nbsp;нержавіюча сталь,&amp;nbsp;пластик Упаковка:&amp;nbsp;чохол поліестер Розміри:&amp;nbsp;24см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="OS02365" available="true">
 <price>428</price>
@@ -278062,7 +278062,7 @@ _x000D_
 <description_ua>Лампа-ліхтар із підсвічуванням 12.5*5.5см (батарейки входять до комплекту).</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA000563" available="true">
+<offer id="KA000563" available="false">
 <price>982</price>
 <currencyId>UAH</currencyId>
 <categoryId>1112</categoryId>
@@ -278075,7 +278075,7 @@ _x000D_
 <name_ua>Лампа-лiхтар декоративна "Камiн" з LED підсвічуванням USB 13*30*30см (без батарейок) R96483</name_ua>
 <name_ru>Лампа-фонарь декоративная "Камин" с LED подсветкой USB 13*30*30см (без батареек) R96483</name_ru>
 <description_ua>Лампа-лiхтар декоративна "Камiн" з LED підсвічуванням USB 13*30*30см (без батарейок).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI000132" available="true">
 <price>90</price>
@@ -291054,7 +291054,7 @@ _x000D_
 <description_ua>Сковорода лита антипригар "Brand-Cheff" індукційне дно 26*5.2 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01752" available="true">
+<offer id="II01752" available="false">
 <price>998</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
@@ -291064,7 +291064,7 @@ _x000D_
 <name_ua>Сковорода лита антипригар "Su-Chef" індукційне дно 28*5.5 см 10358-28</name_ua>
 <name_ru>Сковорода литая антипригар "Su-Chef" индукционное дно 28*5.5 см 10358-28</name_ru>
 <description_ua>Сковорода лита антипригар "Su-Chef" індукційне дно 28*5.5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01753" available="true">
 <price>1168</price>
@@ -291757,7 +291757,7 @@ _x000D_
 <description_ua>Контейнер харчовий прозорий "Сонечко" 800 мл блакитний</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00892" available="false">
+<offer id="II00892" available="true">
 <price>75</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -291769,7 +291769,7 @@ _x000D_
 <description_ua>Контейнер харчовий з різьбою "Мокко" 500 мл 12.5*12.5*6 см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II00902" available="false">
+<offer id="II00902" available="true">
 <price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -291829,7 +291829,7 @@ _x000D_
 <description_ua>Контейнер харчовий з різьбленням 500 мл d11*8 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00907" available="false">
+<offer id="II00907" available="true">
 <price>90</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -291889,7 +291889,7 @@ _x000D_
 <description_ua>Контейнер харчовий з різьбленням 700 мл d12.5*9 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00912" available="true">
+<offer id="II00912" available="false">
 <price>114</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -291899,7 +291899,7 @@ _x000D_
 <name_ua>Контейнер харчовий з ручками 950 мл 12*17.6*7.5 см NP-56</name_ua>
 <name_ru>Контейнер пищевой с ручками 950 мл 12*17.6*7.5 см NP-56</name_ru>
 <description_ua>Контейнер харчовий з ручками 950 мл 12*17.6*7.5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II00913" available="true">
 <price>105</price>
@@ -292022,7 +292022,7 @@ _x000D_
 <description_ua>Контейнер харчовий з ручками 1.6 л 14.6*22*9 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00941" available="true">
+<offer id="II00941" available="false">
 <price>162</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -292032,7 +292032,7 @@ _x000D_
 <name_ua>Контейнер харчовий з ручками 2.0 л 14.6*22*11 см NP-14</name_ua>
 <name_ru>Контейнер пищевой с ручками 2.0 л 14.6*22*11 см NP-14</name_ru>
 <description_ua>Контейнер харчовий з ручками 2.0 л 14.6*22*11 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II00942" available="true">
 <price>170</price>
@@ -292046,7 +292046,7 @@ _x000D_
 <description_ua>Контейнер харчовий з ручками 2.5 л 17.8*25*9 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00957" available="true">
+<offer id="II00957" available="false">
 <price>190</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -292056,9 +292056,9 @@ _x000D_
 <name_ua>Ланч-бокс з ложкою/виделкою "Совушка" 1.0 л зелений PB-409</name_ua>
 <name_ru>Ланч-бокс с ложкой/вилкой "Совушка" 1.0 л зеленый PB-409</name_ru>
 <description_ua>Ланч-бокс з ложкою/виделкою "Совушка" 1.0 л зелений</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II00958" available="true">
+<offer id="II00958" available="false">
 <price>190</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -292068,7 +292068,7 @@ _x000D_
 <name_ua>Ланч-бокс з ложкою/виделкою "Совушка" 1.0 л рожевий PB-409</name_ua>
 <name_ru>Ланч-бокс с ложкой/вилкой "Совушка" 1.0 л розовый PB-409</name_ru>
 <description_ua>Ланч-бокс з ложкою/виделкою "Совушка" 1.0 л&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II00965" available="true">
 <price>220</price>
@@ -292268,7 +292268,7 @@ _x000D_
 <description_ua>Чайник SS 2.5 л одинарне дно</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01628" available="true">
+<offer id="II01628" available="false">
 <price>925</price>
 <currencyId>UAH</currencyId>
 <categoryId>1126</categoryId>
@@ -292278,7 +292278,7 @@ _x000D_
 <name_ua>Чайник SS 2.5 л подвійне дно  MH-0310</name_ua>
 <name_ru>Чайник SS 2.5 л двойное дно  MH-0310</name_ru>
 <description_ua>Чайник SS 2.5 л подвійне дно</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01629" available="true">
 <price>988</price>
@@ -292491,7 +292491,7 @@ _x000D_
 <description_ua>Заварник-графін "Fusion" 1.0 л з пружиною-ситом та бамбуковою кришкою</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01612" available="true">
+<offer id="II01612" available="false">
 <price>628</price>
 <currencyId>UAH</currencyId>
 <categoryId>1063</categoryId>
@@ -292501,7 +292501,7 @@ _x000D_
 <vendorCode>II01612</vendorCode>
 <name_ua>Заварник "Frozen" 750 мл R92187</name_ua>
 <description_ua>Заварник "Frozen" 750 мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01615" available="true">
 <price>655</price>
@@ -292515,7 +292515,7 @@ _x000D_
 <description_ua>Заварник-графін 1.5 л з пружиною-ситом та кришкою</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01617" available="true">
+<offer id="II01617" available="false">
 <price>840</price>
 <currencyId>UAH</currencyId>
 <categoryId>1063</categoryId>
@@ -292526,7 +292526,7 @@ _x000D_
 <name_ua>Чайник-заварник 2.0 л MS-0138</name_ua>
 <name_ru>Чайник-заварщик 2.0 л MS-0138</name_ru>
 <description_ua>Чайник-заварник 2.0 л</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="6700(36)" available="true">
 <price>319</price>
@@ -293843,7 +293843,7 @@ _x000D_
 <description_ua>Набір блюд скло "Antique Rose" 20 см 6 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01675" available="true">
+<offer id="II01675" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -293853,7 +293853,7 @@ _x000D_
 <name_ua>Набір салатників скло "Wave" 6 шт. 300 мл  R89180</name_ua>
 <name_ru>Набор салатников стекло "Wave" 6 шт. 300 мл  R89180</name_ru>
 <description_ua>Набір салатників скло "Wave" 6 шт. 300 мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01677" available="true">
 <price>1973</price>
@@ -294940,7 +294940,7 @@ _x000D_
 <description_ua>Набір менажниць порцелянових "Грація" 22.5*22.5*3 см 4 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01257" available="true">
+<offer id="II01257" available="false">
 <price>840</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -294950,7 +294950,7 @@ _x000D_
 <name_ua>Менажниця порцеляна "Хвиля" 29*29*13.5 см MC3851-11</name_ua>
 <name_ru>Менажница фарфоровая "Волна" 29*29*13.5 см MC3851-11</name_ru>
 <description_ua>Менажниця порцеляна "Хвиля" 29*29*13.5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01259" available="true">
 <price>2609</price>
@@ -296136,7 +296136,7 @@ _x000D_
 <description_ua>Ваза скляна "Carol" 15*38см.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KA000566" available="true">
+<offer id="KA000566" available="false">
 <price>202</price>
 <currencyId>UAH</currencyId>
 <categoryId>1079</categoryId>
@@ -296150,9 +296150,9 @@ _x000D_
 <name_ua>Свічка декоративна світлодіодна 7.5*10см (без батарейок 3шт*ААА) R96348</name_ua>
 <name_ru>Свеча декоративная светодиодная 7.5*10см (без батареек 3шт*ААА) R96348</name_ru>
 <description_ua>Свічка декоративна світлодіодна 7.5*10см (без батарейок 3шт*ААА).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KA000568" available="true">
+<offer id="KA000568" available="false">
 <price>232</price>
 <currencyId>UAH</currencyId>
 <categoryId>1079</categoryId>
@@ -296166,7 +296166,7 @@ _x000D_
 <name_ua>Свічка декоративна світлодіодна 7.5*15 см (без батарейок 3шт*ААА) R96350</name_ua>
 <name_ru>Свеча декоративная светодиодная 7.5*15 см (без батареек 3шт*ААА) R96350</name_ru>
 <description_ua>Свічка декоративна світлодіодна 7.5*15 см (без батарейок 3шт*ААА).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="TG1062-3,5" available="true">
 <price>156</price>
@@ -296445,7 +296445,7 @@ _x000D_
 <description_ua>Матеріал:метал фарбований Упаковка:пакет Додатково:34*18.5*37.5см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02839" available="true">
+<offer id="RU02839" available="false">
 <price>462</price>
 <currencyId>UAH</currencyId>
 <categoryId>1083</categoryId>
@@ -296455,9 +296455,9 @@ _x000D_
 <name_ua>Полиця кутова кухонна S 2яр 25*25*12см чорний M50210-S</name_ua>
 <name_ru>Полка угловая кухонная S 2яр 25*25*12см черный M50210-S</name_ru>
 <description_ua>Матеріал:метал фарбований Упаковка:пакет Додатково:25*25*12см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02840" available="true">
+<offer id="RU02840" available="false">
 <price>462</price>
 <currencyId>UAH</currencyId>
 <categoryId>1083</categoryId>
@@ -296467,7 +296467,7 @@ _x000D_
 <name_ua>Полиця кутова кухонна S 2яр 25*25*12см білий M50210-S</name_ua>
 <name_ru>Полка угловая кухонная S 2яр 25*25*12см белый M50210-S</name_ru>
 <description_ua>Матеріал:метал фарбований Упаковка:пакет Додатково:25*25*12см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RU02845" available="true">
 <price>150</price>
@@ -296757,7 +296757,7 @@ _x000D_
 <description_ua>Матеріал:метал фарбований Упаковка:пакет Додатково:35*12*20см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RU02873" available="true">
+<offer id="RU02873" available="false">
 <price>362</price>
 <currencyId>UAH</currencyId>
 <categoryId>1083</categoryId>
@@ -296767,9 +296767,9 @@ _x000D_
 <name_ua>Полиця настінна на липучках 5г 29.5*10*23.5см чорний M50258</name_ua>
 <name_ru>Полка настенная на липучках 5г 29.5*10*23.5см черный M50258</name_ru>
 <description_ua>Матеріал:метал фарбований Упаковка:пакет Додатково:29.5*10*23.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RU02874" available="true">
+<offer id="RU02874" available="false">
 <price>362</price>
 <currencyId>UAH</currencyId>
 <categoryId>1083</categoryId>
@@ -296779,7 +296779,7 @@ _x000D_
 <name_ua>Полиця настінна на липучках 5г 29.5*10*23.5см білий M50258</name_ua>
 <name_ru>Полка настенная на липучках 5г 29.5*10*23.5см белый M50258</name_ru>
 <description_ua>Матеріал:метал фарбований Упаковка:пакет Додатково:29.5*10*23.5см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RU02875" available="true">
 <price>300</price>
@@ -296997,7 +296997,7 @@ _x000D_
 <description_ua>Дозатор для рідкого мила 350 мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="I000035" available="true">
+<offer id="I000035" available="false">
 <price>132</price>
 <currencyId>UAH</currencyId>
 <categoryId>1084</categoryId>
@@ -297007,7 +297007,7 @@ _x000D_
 <name_ua>Дозатор для рідкого мила 400 мл R89565</name_ua>
 <name_ru>Дозатор для жидкого мыла 400 мл R89565</name_ru>
 <description_ua>Дозатор для рідкого мила 400 мл</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="I000036" available="true">
 <price>135</price>
@@ -303568,7 +303568,7 @@ _x000D_
 <description_ua>Совок із щіткою 20.5*17 см блакитний</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II0006" available="true">
+<offer id="II0006" available="false">
 <price>148</price>
 <currencyId>UAH</currencyId>
 <categoryId>1168</categoryId>
@@ -303578,9 +303578,9 @@ _x000D_
 <name_ua>Совок із щіткою 20.5*17 см рожевий WW00888-K</name_ua>
 <name_ru>Совок со щеткой 20.5*17 см розовый WW00888-K</name_ru>
 <description_ua>Совок із щіткою 20.5*17 см рожевий</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II0007" available="true">
+<offer id="II0007" available="false">
 <price>148</price>
 <currencyId>UAH</currencyId>
 <categoryId>1168</categoryId>
@@ -303590,9 +303590,9 @@ _x000D_
 <name_ua>Совок із щіткою 20.5*17 см блакитний WW00888-K</name_ua>
 <name_ru>Совок со щеткой 20.5*17 см голубой WW00888-K</name_ru>
 <description_ua>Совок із щіткою 20.5*17 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II0008" available="true">
+<offer id="II0008" available="false">
 <price>148</price>
 <currencyId>UAH</currencyId>
 <categoryId>1168</categoryId>
@@ -303602,7 +303602,7 @@ _x000D_
 <name_ua>Совок із щіткою 20.5*17 см бежевий WW00888-K</name_ua>
 <name_ru>Совок со щеткой 20.5*17 см бежевый WW00888-K</name_ru>
 <description_ua>Совок із щіткою 20.5*17 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="W269" available="true">
 <price>288</price>
@@ -380011,7 +380011,7 @@ _x000D_
 <description_ua>Набір серветок для прибирання 5 шт. 25*15 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="I000409" available="true">
+<offer id="I000409" available="false">
 <price>225</price>
 <currencyId>UAH</currencyId>
 <categoryId>1151</categoryId>
@@ -380021,7 +380021,7 @@ _x000D_
 <name_ua>Серветка для прибирання 10 шт. 25*25 см R88833</name_ua>
 <name_ru>Салфетка для уборки 10 шт. 25*25 см R88833</name_ru>
 <description_ua>Серветка для прибирання 10 шт. 25*25 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II0001" available="true">
 <price>232</price>
@@ -382079,7 +382079,7 @@ _x000D_
 <description_ua>Спецівниця на дерев"яній підставці 8 шт. 17.5*17.5*17 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II00961" available="true">
+<offer id="II00961" available="false">
 <price>190</price>
 <currencyId>UAH</currencyId>
 <categoryId>1145</categoryId>
@@ -382089,7 +382089,7 @@ _x000D_
 <name_ua>Набір контейнерів харчових з різьбленням 2 шт. 1 л/1.5 л d12.5*15.5 см  NP-85о</name_ua>
 <name_ru>Набор пищевых контейнеров с резьбой 2 шт. 1 л/1.5 л d12.5*15.5 см  NP-85о</name_ru>
 <description_ua>Набір контейнерів харчових з різьбленням 2 шт. 1 л/1.5 л d12.5*15.5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II00962" available="true">
 <price>188</price>
@@ -406290,7 +406290,7 @@ _x000D_
 <description_ua>Серветка-сітка універсальна подвійна 5шт/уп 20*20см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS07307" available="true">
+<offer id="RS07307" available="false">
 <price>69</price>
 <currencyId>UAH</currencyId>
 <categoryId>1151</categoryId>
@@ -406300,7 +406300,7 @@ _x000D_
 <name_ua>Серветка з мікрофібри для скла 30*30см KS-1006</name_ua>
 <name_ru>Салфетка из микрофибры для стекла 30*30см KS-1006</name_ru>
 <description_ua>Серветка з мікрофібри для скла 30*30см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="IM09027" available="true">
 <price>1544</price>
@@ -407544,7 +407544,7 @@ _x000D_
 <description_ua>Заварник порцеляновий з кришкою та ложкою "Funny Rabbits", 430мл, 4 дизайну — посуд для сервірування столу. Матеріал — порцеляна. Колір — різнобарвний. Розмір: 430мл, 8*9см. У комплекті 4 шт (по одному кожного дизайну). Підходить для щоденного використання та святкового сервірування, а також як подарунок. Рекомендуємо зберігати у сухому місці та обережно поводитися з виробом.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OS03577" available="true">
+<offer id="OS03577" available="false">
 <price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>1064</categoryId>
@@ -407553,7 +407553,7 @@ _x000D_
 <vendorCode>OS03577</vendorCode>
 <name_ua>Чашки "White" 3шт/наб (R96394)</name_ua>
 <description_ua>Матеріал:&amp;nbsp;порцеляна Об'єм/Розмір:&amp;nbsp;260мл/8.5*7.5см Упаковка:&amp;nbsp;подарункова коробка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0033245" available="true">
 <price>878</price>
@@ -422337,7 +422337,7 @@ _x000D_
 <description_ua>Водяний килимок для дітей 170 см. Водяний килимок для дітей забезпечує приємне та безпечне середовище для ігор у воді. Вода неглибока, що дозволяє дітям насолоджуватися лясканням та безпечною взаємодією з водою. Водяний килимок барвистий та привабливий малюнок, який привертає увагу дітей та спонукає їх до гри. ПРОВЕДЕННЯ АКТИВНОГО ЧАСУ- дитячий басейн охолодить вас у спекотні дні і принесе вашій дитині неймовірне задоволення. Таке активне проведення часу теж є чудовим видом розваги. Прохолода під час спеки-килимок - відмінне рішення у спекотні дні. Отвори в кромці створюють фонтан, спрямований у центр килимка, дитині, що лежить на килимку, буде дуже весело і прохолодно в спекотний день. Крім того, вода накопичується на килимку, утворюючи неглибокий басейн. Вбудований з'єднувач для садового шланга просто підключіть його до садового шлангу, і напір води заповнить килимок по всьому периметру і ллється з отворів. ВЕЛИКИЙ РОЗМІР – діаметр фонтану 170 см, тому в ньому легко можуть розміститися 2 дітей та собака.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="I000399" available="true">
+<offer id="I000399" available="false">
 <price>69</price>
 <currencyId>UAH</currencyId>
 <categoryId>1151</categoryId>
@@ -422347,7 +422347,7 @@ _x000D_
 <name_ua>Серветка з мікрофібри для скла 30*30 см KS-1006</name_ua>
 <name_ru>Салфетка из микрофибры для стекла 30*30 см KS-1006</name_ru>
 <description_ua>Серветка з мікрофібри для скла 30*30 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DE08685" available="true">
 <price>233</price>
@@ -422825,7 +422825,7 @@ _x000D_
 <description_ua>Блюдо порцелянове сервірувальне Лист, 24.5см, колір - білий</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01038" available="true">
+<offer id="II01038" available="false">
 <price>290</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422835,9 +422835,9 @@ _x000D_
 <name_ua>Набір салатників 13*11*5.5 см  4 шт. MC5091-13</name_ua>
 <name_ru>Набор салатников 13*11*5.5 см 4 шт. MC5091-13</name_ru>
 <description_ua>Набір салатників 13*11*5.5 см 4 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01039" available="true">
+<offer id="II01039" available="false">
 <price>148</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422846,7 +422846,7 @@ _x000D_
 <vendorCode>II01039</vendorCode>
 <name_ua>Салатник 13.5*13.5*6 см MC5089</name_ua>
 <description_ua>Салатник 13.5*13.5*6 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01067" available="true">
 <price>220</price>
@@ -422872,7 +422872,7 @@ _x000D_
 <description_ua>Набір блюд порцелянових "Corner" 22*22*1 см 6 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01103" available="true">
+<offer id="II01103" available="false">
 <price>1344</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422882,9 +422882,9 @@ _x000D_
 <name_ua>Набір блюд порцелянових 31.5*22.5*2.5 см 6 шт.  MC5278-32</name_ua>
 <name_ru>Набор фарфоровых блюд 31.5*22.5*2.5 см 6 шт. MC5278-32</name_ru>
 <description_ua>Набір блюд порцелянових 31.5*22.5*2.5 см 6 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01105" available="true">
+<offer id="II01105" available="false">
 <price>288</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422894,7 +422894,7 @@ _x000D_
 <name_ua>Блюдо прямокутне 31*22*2.5 см  MC5098</name_ua>
 <name_ru>Блюдо прямоугольное 31*22*2.5 см  MC5098</name_ru>
 <description_ua>Блюдо прямокутне 31*22*2.5 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01132" available="true">
 <price>1632</price>
@@ -422908,7 +422908,7 @@ _x000D_
 <description_ua>Набір блюд порцелянових "Middle" 22.5*22.5*2.5 см 6 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01134" available="true">
+<offer id="II01134" available="false">
 <price>1498</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422918,9 +422918,9 @@ _x000D_
 <name_ua>Набір блюд порцелянових  "Sticks" 26.5*10*5 см 6 шт.  MC4859-10</name_ua>
 <name_ru>Набор фарфоровых блюд "Sticks" 26.5*10*5 см 6 шт. MC4859-10</name_ru>
 <description_ua>Набір блюд порцелянових "Sticks" 26.5*10*5 см 6 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01135" available="true">
+<offer id="II01135" available="false">
 <price>1088</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422930,9 +422930,9 @@ _x000D_
 <name_ua>Набір блюд керамічних 33.5*26*3 см 4 шт. MC5278-34</name_ua>
 <name_ru>Набор керамических блюд 33.5*26*3 см 4 шт. MC5278-34</name_ru>
 <description_ua>Набір блюд керамічних 33.5*26*3 см 4 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01140" available="true">
+<offer id="II01140" available="false">
 <price>1716</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422942,7 +422942,7 @@ _x000D_
 <name_ua>Набір салатників фарфор "Листик" 8" (21*11*5 см) 6 шт.  MC4288-8</name_ua>
 <name_ru>Набор салатников фарфор "Листик" 8" (21*11*5 см) 6 шт. MC4288-8</name_ru>
 <description_ua>Набір салатників фарфор "Листик" 8" (21*11*5 см) 6 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01155" available="true">
 <price>1800</price>
@@ -422968,7 +422968,7 @@ _x000D_
 <description_ua>Набір бдюд порцелянових "Grass" 25.5*25.5*3 см 4 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01172" available="true">
+<offer id="II01172" available="false">
 <price>1700</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422978,9 +422978,9 @@ _x000D_
 <name_ua>Набір бдюд керамічних прямокутних 41.5* 21 *3 см 5 шт.   MC5272</name_ua>
 <name_ru>Набор бдюд керамических прямоугольных 41.5*21*3 см 5 шт.  MC5272</name_ru>
 <description_ua>Набір блюд керамічних прямокутних 41.5* 21 *3 см 5 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01177" available="true">
+<offer id="II01177" available="false">
 <price>3040</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -422990,7 +422990,7 @@ _x000D_
 <name_ua>Набір блюд порцелянових "Egypt" 41*20*2 см 5 шт. MC4262-16</name_ua>
 <name_ru>Набор фарфоровых блюд "Egypt" 41*20*2 см 5 шт. MC4262-16</name_ru>
 <description_ua>Набір блюд порцелянових "Egypt" 41*20*2 см 5 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01184" available="true">
 <price>1560</price>
@@ -423016,7 +423016,7 @@ _x000D_
 <description_ua>Набір блюд порцеляна "Majesty" 12" (30.5 см) 5 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01180" available="true">
+<offer id="II01180" available="false">
 <price>1608</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423026,9 +423026,9 @@ _x000D_
 <name_ua>Набір блюд порцеляна "Sticks" 33*12*6 см 4 шт. MC4859-12</name_ua>
 <name_ru>Набор блюд фарфора "Sticks" 33*12*6 см 4 шт. MC4859-12</name_ru>
 <description_ua>Набір блюд порцеляна "Sticks" 33*12*6 см 4 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01187" available="true">
+<offer id="II01187" available="false">
 <price>1492</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423038,9 +423038,9 @@ _x000D_
 <name_ua>Набір блюд порцелянових "Pimples" 31*31*2 см 4 шт. MC4864-12</name_ua>
 <name_ru>Набор фарфоровых блюд "Pimples" 31*31*2 см 4 шт.  MC4864-12</name_ru>
 <description_ua>Набір блюд порцелянових "Pimples" 31*31*2 см 4 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01192" available="true">
+<offer id="II01192" available="false">
 <price>2448</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423050,9 +423050,9 @@ _x000D_
 <name_ua>Набір блюд порцелянових  "Egypt" 30.5*16*1.5 см 6 шт. MC4262-12</name_ua>
 <name_ru>Набор фарфоровых блюд "Egypt" 30.5*16*1.5 см 6 шт. MC4262-12</name_ru>
 <description_ua>Набір блюд порцелянових "Egypt" 30.5*16*1.5 см 6 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01194" available="true">
+<offer id="II01194" available="false">
 <price>3096</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423062,9 +423062,9 @@ _x000D_
 <name_ua>Набір блюд порцелянових  "Sticks" 38*14*6.5 см 5 шт.   MC4859-14</name_ua>
 <name_ru>Набор фарфоровых блюд "Sticks" 38*14*6.5 см 5 шт.  MC4859-14</name_ru>
 <description_ua>Набір блюд порцелянових "Sticks" 38*14*6.5 см 5 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01197" available="true">
+<offer id="II01197" available="false">
 <price>1272</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423074,9 +423074,9 @@ _x000D_
 <name_ua>Набір блюд порцелянових прямокуних  41.5*23.5*3 см 3 шт.  MC5277</name_ua>
 <name_ru>Набор фарфоровых блюд прямоугольных  41.5*23.5*3 см 3 шт. MC5277</name_ru>
 <description_ua>Набір блюд порцелянових прямокуних 41.5*23.5*3 см 3 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01244" available="true">
+<offer id="II01244" available="false">
 <price>2660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423086,7 +423086,7 @@ _x000D_
 <name_ua>Набір блюд порцелянових  "Pimples" 37*24.5*3 см 5 шт.  MC4563-14</name_ua>
 <name_ru>Набор фарфоровых блюд "Pimples" 37*24.5*3 см 5 шт. MC4563-14</name_ru>
 <description_ua>Набір блюд порцелянових "Pimples" 37*24.5*3 см 5 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01246" available="true">
 <price>2870</price>
@@ -423100,7 +423100,7 @@ _x000D_
 <description_ua>Набір блюд порцелянових "Лист" 43*16*6 см 5 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01247" available="true">
+<offer id="II01247" available="false">
 <price>2610</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423110,7 +423110,7 @@ _x000D_
 <name_ua>Набір блюд порцелянових   "Shell" 33.5*30.5*3.5 см 5 шт.  MC4283-13</name_ua>
 <name_ru>Набор фарфоровых блюд "Shell" 33.5*30.5*3.5 см 5 шт. MC4283-13</name_ru>
 <description_ua>Набір блюд порцелянових "Shell" 33.5*30.5*3.5 см 5 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01248" available="true">
 <price>2610</price>
@@ -423124,7 +423124,7 @@ _x000D_
 <description_ua>Набір блюд порцелянових "Mosaic" 35.5*26*2.5 см 5 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01251" available="true">
+<offer id="II01251" available="false">
 <price>3204</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423134,9 +423134,9 @@ _x000D_
 <name_ua>Набір оселедниць порцелянових 40.5*14.5*5 см 6 шт.  MC2652-16</name_ua>
 <name_ru>Набор фарфоровых селёдочниц 40.5*14.5*5 см 6 шт. MC2652-16</name_ru>
 <description_ua>Набір оселедниць порцелянових 40.5*14.5*5 см 6 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01274" available="true">
+<offer id="II01274" available="false">
 <price>1632</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423146,7 +423146,7 @@ _x000D_
 <name_ua>Набір фарфорових страв "Pimples" 36*36*2 см 3 шт.  MC4864-14</name_ua>
 <name_ru>Набор фарфоровых блюд "Pimples" 36*36*2 см 3 шт.  MC4864-14</name_ru>
 <description_ua>Набір блюд порцелянових "Pimples" 36*36*2 см 3 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01276" available="true">
 <price>2776</price>
@@ -423233,7 +423233,7 @@ _x000D_
 <description_ua>Набір блюд порцеляна "Mosaic" 45.5*33.5*2.5 см 3 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01293" available="true">
+<offer id="II01293" available="false">
 <price>2152</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
@@ -423243,7 +423243,7 @@ _x000D_
 <name_ua>Набір блюд кераміка 51*34*7 см 2 шт.  MC5280</name_ua>
 <name_ru>Набор блюд керамика 51*34*7 см 2 шт. MC5280</name_ru>
 <description_ua>Набір блюд кераміка 51*34*7 см 2 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II00726" available="true">
 <price>308</price>
@@ -423269,7 +423269,7 @@ _x000D_
 <description_ua>Підставка для 8-ти яєць керамічна Курча в квітах, D-24.5 см.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01045" available="true">
+<offer id="II01045" available="false">
 <price>988</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -423279,9 +423279,9 @@ _x000D_
 <name_ua>Набір менажниць порцелянових "Sushi" 15.5*6*3 см 5 шт. MC4265</name_ua>
 <name_ru>Набор фарфоровых фарфоров "Sushi" 15.5*6*3 см 5 шт. MC4265</name_ru>
 <description_ua>Набір менажниць порцелянових "Sushi" 15.5*6*3 см 5 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01046" available="true">
+<offer id="II01046" available="false">
 <price>860</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -423291,9 +423291,9 @@ _x000D_
 <name_ua>Набір менажниць порцелянових "Sushi" 15.5*9.5*2.5 см 5 шт. MC4266</name_ua>
 <name_ru>Набор фарфоровых окрасок "Sushi" 15.5*9.5*2.5 см 5 шт. MC4266</name_ru>
 <description_ua>Набір менажниць порцелянових "Sushi" 15.5*9.5*2.5 см 5 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01048" available="true">
+<offer id="II01048" available="false">
 <price>185</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -423303,7 +423303,7 @@ _x000D_
 <name_ua>Менажниця 20*12.5*4 см MC5090</name_ua>
 <name_ru>Менажница 20*12.5*4 см MC5090</name_ru>
 <description_ua>Менажниця 20*12.5*4 см</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01084" available="true">
 <price>990</price>
@@ -423317,7 +423317,7 @@ _x000D_
 <description_ua>Набір менажниць порцелянових "Натхнення" 15*15*2.5 см 4 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01127" available="true">
+<offer id="II01127" available="false">
 <price>1220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -423327,7 +423327,7 @@ _x000D_
 <name_ua>Набір менажниць порцелянових "White Classic" 7.5" (18*17*3.5 см)  6 шт.  MC3672-7.5</name_ua>
 <name_ru>Набор фарфоровых менажниц "White Classic" 7.5" (18*17*3.5 см)  6 шт.  MC3672-7.5</name_ru>
 <description_ua>Набір менажниць порцелянових&amp;nbsp;"White Classic" 7.5" (18*17*3.5 см) 6 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01129" available="true">
 <price>1623</price>
@@ -423341,7 +423341,7 @@ _x000D_
 <description_ua>Набір менажниць порцелянових&amp;nbsp;"Натхнення" 20*20*2.5 см 6 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01146" available="true">
+<offer id="II01146" available="false">
 <price>710</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -423351,7 +423351,7 @@ _x000D_
 <name_ua>Набір соусниць порцелянових на підставці "Bianco" 30*10*5 см 4 шт.  MC4272</name_ua>
 <name_ru>Набор фарфоровых соусниц на подставке "Bianco" 30*10*5 см 4 шт. MC4272</name_ru>
 <description_ua>Набір соусниць порцелянових на підставці "Bianco" 30*10*5 см 4 шт.&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01202" available="true">
 <price>2388</price>
@@ -423377,7 +423377,7 @@ _x000D_
 <description_ua>Набір менажниц порцелянових "Хвиля" 25.5*20.5*3.5 см 4 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01212" available="true">
+<offer id="II01212" available="false">
 <price>2940</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -423387,9 +423387,9 @@ _x000D_
 <name_ua>Набір менажниц порцелянових  "Віяло" 21.5*21.5*3 см 6 шт.  MC4173-10</name_ua>
 <name_ru>Набор менажниц фарфоровых "Веер" 21.5*21.5*3 см 6 шт. MC4173-10</name_ru>
 <description_ua>Набір менажниц порцелянових "Віяло" 21.5*21.5*3 см 6 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="II01252" available="true">
+<offer id="II01252" available="false">
 <price>2760</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -423399,7 +423399,7 @@ _x000D_
 <name_ua>Набір менажниць порцелянових 30.5*30.5*3.5 см 5 шт.   MC4857-12</name_ua>
 <name_ru>Набор фарфоровых монастырей 30.5*30.5*3.5 см 5 шт.  MC4857-12</name_ru>
 <description_ua>Набір менажниць порцелянових 30.5*30.5*3.5 см 5 шт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="II01255" available="true">
 <price>1748</price>
@@ -423437,7 +423437,7 @@ _x000D_
 <description_ua>Набір порцелянових менажниць 30*30*3 см 4 шт.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="II01270" available="true">
+<offer id="II01270" available="false">
 <price>1088</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -423448,7 +423448,7 @@ _x000D_
 <name_ua>Фруктівниця порцеляна 3 яруса"Edge" 7"-8"-10" MC4876</name_ua>
 <name_ru>Фруктовница фарфоровая 3 яруса "Edge" 7"-8"-10" MC4876</name_ru>
 <description_ua>Фруктівниця порцеляна&amp;nbsp;3 яруса&amp;nbsp;"Edge" 7"-8"-10"</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE04019" available="true">
 <price>1649</price>
@@ -423786,7 +423786,7 @@ _x000D_
 <description_ua>Кошик коричневого кольору з ручкою і тканинним вкладенням стане оригінальною прикрасою для спальні і вітальні. Можна використовувати в композиціях. Стане відмінним подарунком для цінителів ексклюзивних речей.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RE06007" available="true">
+<offer id="RE06007" available="false">
 <price>120</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -423796,7 +423796,7 @@ _x000D_
 <name_ua>Запаска для швабри з віджиманням Stenson (MMS-MH-3856Z)</name_ua>
 <name_ru>Запаска для швабры с отжимом Stenson (MMS-MH-3856Z)</name_ru>
 <description_ua>Тип: насадка для швабри. Матеріал: ПВА (полівінілацетат). Довжина: 27,5 см. Основне призначення: для підлоги. Колір блакитний. Транспортувальний розмір: 27,5х6,5х5,8 см.&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="IN000917" available="true">
 <price>1724</price>
