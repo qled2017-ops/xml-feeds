@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-04 19:01">
+<yml_catalog date="2026-11-05 08:19">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -88671,7 +88671,7 @@ _x000D_
 <param name="Колір">чорний</param>
 <param name="Ширина в упаковці (см)">11.8</param>
 </offer>
-<offer id="RE06172" available="true">
+<offer id="RE06172" available="false">
 <price>1779</price>
 <currencyId>UAH</currencyId>
 <categoryId>1139</categoryId>
