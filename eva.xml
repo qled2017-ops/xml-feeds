@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-06 08:25">
+<yml_catalog date="2026-11-06 18:22">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -2487,7 +2487,7 @@
 <param name="Форма">Прямокутна</param>
 <param name="Колір">Сірий</param>
 </offer>
-<offer id="NN000363" available="false">
+<offer id="NN000363" available="true">
 <price>325</price>
 <currencyId>UAH</currencyId>
 <categoryId>104056.0</categoryId>
@@ -260248,7 +260248,7 @@ _x000D_
 <description_ua>Висота з кришкою - 38 см, без кришки - 31 см, діаметр - 20 см. Довжина крана - 6 см, підставки - 12 см. Запакована в подарункову коробку. Скляна лимонадниця об'ємом 4,5 літра поєднує стильний дизайн і практичність, створюючи ідеальний аксесуар для подачі напоїв. Завдяки рельєфному склу вона виглядає вишукано, а кришка щільно закриває ємність, зберігаючи свіжість вмісту. Зручний краник забезпечує легке наливання без зайвих зусиль, що робить її чудовим вибором для домашніх посиденьок, святкових заходів та фуршетів. Лимонадниця підходить для лимонадів, соків, холодних чаїв та інших охолоджувальних напоїв.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="KU00247" available="false">
+<offer id="KU00247" available="true">
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1137</categoryId>
