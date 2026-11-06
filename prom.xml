@@ -73755,7 +73755,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір">Зелений</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="RS00427" available="true" in_stock="true">
+<offer id="RS00427" available="false" in_stock="true">
 <price>712</price>
 <currencyId>UAH</currencyId>
 <categoryId>1173</categoryId>
@@ -73769,7 +73769,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <name_ru>Набор ёлочных шаров 40 шт белый 147-104</name_ru>
 <description>Набір ялинкових куль, колір - білий, 40шт - 6см, 5см, 4см, 3см: 5шт - гліттер, 5шт - перламутр для кожного розміру</description>
 <description_ua>Набір ялинкових куль, колір - білий, 40шт - 6см, 5см, 4см, 3см: 5шт - гліттер, 5шт - перламутр для кожного розміру</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
