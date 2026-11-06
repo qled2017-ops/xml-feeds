@@ -3699,7 +3699,7 @@
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="RE13303" available="true">
-<price>224</price>
+<price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92980841-e4b0582c437207f66dcb102f850ab4ee-1730470354427.jpg</picture>
@@ -4440,7 +4440,7 @@
 <param name="Ширина в упаковці (см)">12</param>
 </offer>
 <offer id="RE02464" available="true">
-<price>399</price>
+<price>412</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71444930-dca166e30ba85201c905fae88de6854c.jpg</picture>
@@ -5157,7 +5157,7 @@
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="072NB-3" available="true">
-<price>464</price>
+<price>204</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78535278-f3ccdd27d2000e3f9255a7e3e2c48800-1709143104741.jpg</picture>
@@ -24217,7 +24217,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RS01259" available="true">
-<price>1290</price>
+<price>949</price>
 <currencyId>UAH</currencyId>
 <categoryId>100942.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i122418810-b25d4f7c5e65331058fdd69a1f1b76b5-1765725140355.jpg</picture>
@@ -32421,7 +32421,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE01912" available="true">
-<price>259</price>
+<price>15</price>
 <currencyId>UAH</currencyId>
 <categoryId>112110.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70409454-464a9b96e3023780d131f9c4d18ac352.jpg</picture>
@@ -49127,7 +49127,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02314" available="true">
-<price>249</price>
+<price>195</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71147545-e231362aa357adc45f5fdd39bb512311.jpg</picture>
@@ -49211,7 +49211,7 @@ _x000D_
 <param name="Кількість вантажних місць">1</param>
 </offer>
 <offer id="RE02309" available="true">
-<price>179</price>
+<price>150</price>
 <currencyId>UAH</currencyId>
 <categoryId>112260.0</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71146367-530938ad71e6ec5c7b1f047ca1a83641.jpg</picture>
@@ -127783,7 +127783,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE01735" available="true">
-<price>149</price>
+<price>103</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70231672-d11d46a415722fd6d7761d4f8aca3fdc.jpg</picture>
@@ -128143,7 +128143,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE04276" available="true">
-<price>464</price>
+<price>204</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i78535278-f3ccdd27d2000e3f9255a7e3e2c48800-1709143104741.jpg</picture>
@@ -128606,7 +128606,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="EA02107" available="true">
-<price>315</price>
+<price>210</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123335908-9b95a6649f981d524417ad32f3a5a0b6-1766520211390.jpg</picture>
@@ -128630,7 +128630,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="EA02124" available="true">
-<price>249</price>
+<price>282</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123635647-9d8cea72786315c10a3cb769ce5f4ad8-1767124232841.jpg</picture>
@@ -158263,7 +158263,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="90162" available="true">
-<price>1093</price>
+<price>797</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i67338954-dcca28f1fd7d2344a9846ce3b765ea4c.jpg</picture>
@@ -187331,7 +187331,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="EA03836" available="true">
-<price>65</price>
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1079</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i144922918-4af7965e0317e5aaf1d38da661970792-1786453949092.jpg</picture>
@@ -209598,7 +209598,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="581-079-4" available="true">
-<price>599</price>
+<price>205</price>
 <currencyId>UAH</currencyId>
 <categoryId>1102</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i70557259-eef371621802618f95db131e6744d08f.jpg</picture>
@@ -211963,7 +211963,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="498-284/AO" available="true">
-<price>899</price>
+<price>699</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72201822-d47c36a62e2f5ae77fa719706f018077.jpg</picture>
@@ -221167,7 +221167,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RS02103" available="true">
-<price>525</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1067</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i123318656-0157027d86f9dbe17b6c8a5928f56835-1766495931308.jpg</picture>
@@ -236926,7 +236926,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="9009-001-33" available="true">
-<price>549</price>
+<price>649</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i128522007-c4074e20485453c583c44bbfffbee439-1773083510442.jpg</picture>
@@ -237118,7 +237118,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02328" available="true">
-<price>199</price>
+<price>86</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71147898-c25eda482dc1c9a18d90b3aeb08a36f0.jpg</picture>
@@ -237216,7 +237216,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="898-105-1" available="true">
-<price>749</price>
+<price>454</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i71499976-151d3422f8d8c55321c1a9ec67ad040c-1728653719948.jpg</picture>
@@ -237313,7 +237313,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="NY15-758" available="true">
-<price>149</price>
+<price>318</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://bonadi.com.ua/img/goods/ny_collection/glass_toys/NY15_758.jpg</picture>
@@ -237337,7 +237337,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="NY15-737-3" available="true">
-<price>450</price>
+<price>179</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i149771144-aa86eb058011966a71721ee9aeb76d1b-1790686069291.jpg</picture>
@@ -237349,7 +237349,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="709-581" available="true">
-<price>199</price>
+<price>60</price>
 <currencyId>UAH</currencyId>
 <categoryId>1106</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i149754555-d5b0ac5740f3019a9981922acd3ca3c6-1790683393266.jpg</picture>
@@ -274832,7 +274832,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="IN000131" available="true">
-<price>616</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1041</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i93974919-b70c1e3527949510723729d9be00c99f-1732611148467.jpg</picture>
@@ -274909,7 +274909,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="IN000139" available="true">
-<price>666</price>
+<price>599</price>
 <currencyId>UAH</currencyId>
 <categoryId>1041</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i93975141-0313aee0d0cc5278bcc31572964ef980-1732612056509.jpg</picture>
@@ -332315,7 +332315,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="HEATOUTFIT-1119-2XL" available="true">
-<price>1886</price>
+<price>1114</price>
 <currencyId>UAH</currencyId>
 <categoryId>1053</categoryId>
 <picture>https://cdn.27.ua/sc--media--prod/default/7a/e8/d2/7ae8d2d5-515d-47bc-bc94-765e6d54683e.jpg</picture>
@@ -379524,7 +379524,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DD3157" available="true">
-<price>317</price>
+<price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i105193057-c774a6b0f8951c29e35ec70dce86abf9-1745928353731.jpg</picture>
@@ -402039,7 +402039,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE08618" available="true">
-<price>278</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1022</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i88814955-9ddc4cfc804e8d195f419a650bd6de58-1724152437218.jpg</picture>
