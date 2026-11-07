@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-06 18:22">
+<yml_catalog date="2026-11-07 08:33">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -103755,7 +103755,7 @@ _x000D_
 <description_ua>Матеріал: 100% бавовна. Розміри: 110 х 50 см. Вага: 268 г. Особливості: - Рушник з швидковисихаючої м'якої бавовни.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK00795" available="true">
+<offer id="OK00795" available="false">
 <price>301</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -106931,7 +106931,7 @@ _x000D_
 <description_ua>Килимок гумовий сота 50x75 Індія — м’який і практичний килимок, який робить підлогу комфортнішою та безпечнішою. Килимок гумовий сота 50x75 або "пористий". Хороший тим, що бруд просипається, для чищення досить підняти килимок і прибрати бруд. Найкраще підходить для зовнішнього застосування. Ворс приємний для ніг, добре вбирає вологу та швидко сохне. Основа не ковзає по плитці й ламінату, тому килимок залишається на місці навіть на мокрій підлозі. Охайний дизайн пасує як до сучасного, так і до класичного інтер’єру. Розмір: 50×75 см Країна виробництва: Україна Догляд: дозволено прання за температури до 30° у делікатному режимі, сушити в розправленому вигляді, не прасувати.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="PB426" available="true">
+<offer id="PB426" available="false">
 <price>1040</price>
 <currencyId>UAH</currencyId>
 <categoryId>1056</categoryId>
@@ -107729,7 +107729,7 @@ _x000D_
 <description_ua>Сушарка для білизни настінна Milton 100 см — компактна сушарка, яка економить місце та дозволяє сушити білизну вдома або на балконі. Сушарка настінна "Milton" висувна. Може застосовуватися на балконі, під вікном, у ванній кімнаті то що. Ця сушарка компактна у зібраному стані й має достатньо велику корисну довжину у розгорнутому. Трубки металеві, покриті порошковою фарбою. Міцна конструкція витримує вагу мокрої білизни, перекладини не залишають заломів на тканині. Сушарка легко монтується та не заважає вільному простору, коли не використовується. Покриття захищене від корозії. Матеріал: метал Країна виробництва: Україна У комплекті кріплення; перед встановленням перевірте, що основа надійно тримає навантаження.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="PB2064" available="false">
+<offer id="PB2064" available="true">
 <price>1344</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -107781,7 +107781,7 @@ _x000D_
 <description_ua>Сушарка для білизни настінна Milton 60 см — компактна сушарка, яка економить місце та дозволяє сушити білизну вдома або на балконі. Сушарка настінна "Milton" висувна. Може застосовуватися на балконі, під вікном, у ванній кімнаті то що. Ця сушарка компактна у зібраному стані й має достатньо велику корисну довжину у розгорнутому. Трубки металеві, покриті порошковою фарбою. Міцна конструкція витримує вагу мокрої білизни, перекладини не залишають заломів на тканині. Сушарка легко монтується та не заважає вільному простору, коли не використовується. Покриття захищене від корозії. Матеріал: метал Країна виробництва: Україна У комплекті кріплення; перед встановленням перевірте, що основа надійно тримає навантаження.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="PB2062" available="false">
+<offer id="PB2062" available="true">
 <price>1314</price>
 <currencyId>UAH</currencyId>
 <categoryId>1059</categoryId>
@@ -117990,7 +117990,7 @@ _x000D_
 <description_ua>Запаска на швабру з мікрофібри гладка MOP DUO 0210/turquoise — зручний інструмент для швидкого та якісного прибирання без зайвих зусиль. Насадка для швабри з мікрофібри Тадар. Універсальна підходить на всі підлогонатирачі з посадковим розміром 40*10см. Насадка ефективно збирає пил, бруд і волосся, а міцна ручка зручно лежить у руці й не прогинається під навантаженням. Підходить для плитки, ламінату, паркету та лінолеуму. Після прибирання насадку легко зняти, промити та висушити. Колір: бірюзовий Матеріал: мікрофібра Країна виробництва: Польща Артикул: 0210/turquoise Рекомендовано споліскувати насадку теплою водою після кожного використання та повністю висушувати перед зберіганням.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="0210/blue" available="true">
+<offer id="0210/blue" available="false">
 <price>147</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -118016,7 +118016,7 @@ _x000D_
 <description_ua>Запаска на швабру з мікрофібри гладка MOP DUO 0210/green — зручний інструмент для швидкого та якісного прибирання без зайвих зусиль. Насадка для швабри з мікрофібри Тадар. Універсальна підходить на всі підлогонатирачі з посадковим розміром 40*10см. Насадка ефективно збирає пил, бруд і волосся, а міцна ручка зручно лежить у руці й не прогинається під навантаженням. Підходить для плитки, ламінату, паркету та лінолеуму. Після прибирання насадку легко зняти, промити та висушити. Колір: зелений Матеріал: мікрофібра Країна виробництва: Польща Артикул: 0210/green Рекомендовано споліскувати насадку теплою водою після кожного використання та повністю висушувати перед зберіганням.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="0210/grey" available="true">
+<offer id="0210/grey" available="false">
 <price>147</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -118027,7 +118027,7 @@ _x000D_
 <name_ua>Запаска на швабру з мікрофібри гладка MOP DUO 0210/grey</name_ua>
 <name_ru>Запаска на швабру микрофибра гладкая MOP DUO 0210/grey</name_ru>
 <description_ua>Запаска на швабру з мікрофібри гладка MOP DUO 0210/grey — зручний інструмент для швидкого та якісного прибирання без зайвих зусиль. Насадка для швабри з мікрофібри Тадар. Універсальна підходить на всі підлогонатирачі з посадковим розміром 40*10см. Насадка ефективно збирає пил, бруд і волосся, а міцна ручка зручно лежить у руці й не прогинається під навантаженням. Підходить для плитки, ламінату, паркету та лінолеуму. Після прибирання насадку легко зняти, промити та висушити. Колір: сірий Матеріал: мікрофібра Країна виробництва: Польща Артикул: 0210/grey Рекомендовано споліскувати насадку теплою водою після кожного використання та повністю висушувати перед зберіганням.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="PB1505" available="false">
 <price>300</price>
@@ -118179,7 +118179,7 @@ _x000D_
 <description_ua>Запасна насадка на швабру York Salsa 081310/pink — зручний інструмент для швидкого та якісного прибирання без зайвих зусиль. Насадка для швабри локшина ТМ "York" складається зі 100% мікрофібри, що дає найкраще поглинання. Не залишає розводи на різних видах покриттів підлог, легко викручується. Підходить на всі види полотерів з посадковим розміром 40*10 см. Насадка ефективно збирає пил, бруд і волосся, а міцна ручка зручно лежить у руці й не прогинається під навантаженням. Підходить для плитки, ламінату, паркету та лінолеуму. Після прибирання насадку легко зняти, промити та висушити. Колір: рожевий Артикул: 081310/pink Рекомендовано споліскувати насадку теплою водою після кожного використання та повністю висушувати перед зберіганням.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="PB384" available="true">
+<offer id="PB384" available="false">
 <price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -118192,7 +118192,7 @@ _x000D_
 <name_ua>Насадка для швабри з мікрофібри "ДБН"в смужку PB384</name_ua>
 <name_ru>Насадка для швабры из микрофибры "ДБН"в полоску PB384</name_ru>
 <description_ua>Насадка для швабри з мікрофібри "ДБН"в смужку — зручний інструмент для швидкого та якісного прибирання без зайвих зусиль. Насадка для швабри з мікрофібри в смужку. Підходить на всі підлогонатирачі з посадковим розміром 40 * 10см. Насадка ефективно збирає пил, бруд і волосся, а міцна ручка зручно лежить у руці й не прогинається під навантаженням. Підходить для плитки, ламінату, паркету та лінолеуму. Після прибирання насадку легко зняти, промити та висушити. Країна виробництва: Польща Рекомендовано споліскувати насадку теплою водою після кожного використання та повністю висушувати перед зберіганням.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="5634/blue" available="true">
 <price>245</price>
@@ -118312,7 +118312,7 @@ _x000D_
 <description_ua>Насадка для швабри локшина Тадар 40*10 см 8928/violet — зручний інструмент для швидкого та якісного прибирання без зайвих зусиль. Насадка для швабри з мікрофібри локшина "Tadar". Універсальна підходить на всі підлогонатирачі з посадковим розміром 40*10 см. Насадка ефективно збирає пил, бруд і волосся, а міцна ручка зручно лежить у руці й не прогинається під навантаженням. Підходить для плитки, ламінату, паркету та лінолеуму. Після прибирання насадку легко зняти, промити та висушити. Розмір: 40×10 см Колір: фіолетовий Країна виробництва: Польща Артикул: 8928/violet Рекомендовано споліскувати насадку теплою водою після кожного використання та повністю висушувати перед зберіганням.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="PB376" available="false">
+<offer id="PB376" available="true">
 <price>158</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -118614,7 +118614,7 @@ _x000D_
 <description_ua>Швабра з насадкою з мікрофібри на затисках "Professional"6007 — зручний інструмент для швидкого та якісного прибирання без зайвих зусиль. Швабра з насадкою з мікрофібри. Платформа не складається навпіл, як інші аналоги, насадка двостороння, кріпиться на затискачах. Запаску також можна самому вирізати з підручних інших тканин. Насадка ефективно збирає пил, бруд і волосся, а міцна ручка зручно лежить у руці й не прогинається під навантаженням. Підходить для плитки, ламінату, паркету та лінолеуму. Після прибирання насадку легко зняти, промити та висушити. Країна виробництва: Китай Артикул: 6007 Рекомендовано споліскувати насадку теплою водою після кожного використання та повністю висушувати перед зберіганням.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="PB362" available="false">
+<offer id="PB362" available="true">
 <price>612</price>
 <currencyId>UAH</currencyId>
 <categoryId>1089</categoryId>
@@ -148144,7 +148144,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="VK00618" available="true">
-<price>624</price>
+<price>566</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87212598-f4a5ce03a0f623a1cb2ab05bda043ed6-1721127683798.jpg</picture>
@@ -148158,7 +148158,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00619" available="true">
-<price>550</price>
+<price>514</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87212742-0818dca9e5603e6efb13e2832cd2151b-1721127974798.jpg</picture>
@@ -148172,7 +148172,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00620" available="true">
-<price>512</price>
+<price>462</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87212805-68953e96b743458b800116d7703e8c1c-1721128202428.jpg</picture>
@@ -148185,7 +148185,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00621" available="true">
-<price>898</price>
+<price>743</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87212851-13121b715ef3ccff4e4c33f635ac6144-1721128719249.jpg</picture>
@@ -148200,7 +148200,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00622" available="true">
-<price>813</price>
+<price>770</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87213017-53add4d68498d09eb31a2be559bedba1-1721129700082.jpg</picture>
@@ -148216,7 +148216,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00623" available="true">
-<price>743</price>
+<price>720</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87213082-53add4d68498d09eb31a2be559bedba1-1721130002127.jpg</picture>
@@ -148229,7 +148229,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00624" available="true">
-<price>663</price>
+<price>694</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87213198-6a8e0ff94e8315d7675c82ca09d42239-1721130320513.jpg</picture>
@@ -148245,7 +148245,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00625" available="true">
-<price>587</price>
+<price>616</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87214318-fd6fbb13d9f870eaed1b71b071fb7234-1721130825110.jpg</picture>
@@ -148259,7 +148259,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00626" available="true">
-<price>507</price>
+<price>540</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87214577-72db19e0f8c2da405561309c09a96e03-1721131103320.jpg</picture>
@@ -148272,7 +148272,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00627" available="true">
-<price>507</price>
+<price>668</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87214641-bfa2f0fd1a20372406e622fbac191844-1721131442840.jpg</picture>
@@ -148284,7 +148284,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="VK00628" available="true">
-<price>599</price>
+<price>616</price>
 <currencyId>UAH</currencyId>
 <categoryId>1121</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87214641-bfa2f0fd1a20372406e622fbac191844-1721131442840.jpg</picture>
@@ -148310,7 +148310,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="SA000510" available="true">
-<price>699</price>
+<price>462</price>
 <currencyId>UAH</currencyId>
 <categoryId>1063</categoryId>
 <picture>https://cdn.27.ua/sc--media--prod/default/7c/10/74/7c10744e-aeb0-4b51-8962-cba7edca8a9d.jpg</picture>
@@ -196079,7 +196079,7 @@ _x000D_
 <description_ua>Чохол-сидушка M-Tac призначений для перенесення складаного BW каремата (бундес-каремат). Ви можете використовувати чохол як сидушку. Для фіксації на системі MOLLE та поясних ременях передбачені стропи з велкро. Основне відділення закривається блискавкою. Також по боках обладнано поясне кріплення, яке застібається на фастекс.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK00720" available="true">
+<offer id="OK00720" available="false">
 <price>768</price>
 <currencyId>UAH</currencyId>
 <categoryId>1112</categoryId>
@@ -211692,7 +211692,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE14603" available="true">
-<price>2369</price>
+<price>1822</price>
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94568250-be7e768cfab77da3585d3774f3d5cc94-1733401954050.jpg</picture>
@@ -211704,7 +211704,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE14604" available="true">
-<price>3162</price>
+<price>2432</price>
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94568257-661efd486511a23b7412a07db7e55e18-1733402094532.jpg</picture>
@@ -289015,7 +289015,7 @@ _x000D_
 <description_ua>Опис Аквагантелі Aquaaerobics Pair мають форму кісточки, що дозволяє без будь-яких зусиль змінювати рівень навантаження, простим рухом руки змінюючи положення поплавців. Широкі поплавці створюють значний опір під час руху у прямому положенні. Якщо повернути аквагантелі боком щодо напрямку руху, то опір буде мінімальним. Термічно оброблений EVA матеріал забезпечує високу зносостійкість та водонепроникність. Довжина ручки становить 10 см, а загальна довжина гантелі 34 см. Ширина поплавців складає 7 см. Призначення Гантелі для аквааеробіки призначені для створення додаткового навантаження на м'язи та збільшення інтенсивності тренувань. Завдяки використанню такого інвентарю вдасться навантажити м'язи ніг, рук, спини та живота. Завдяки можливості регулювати навантаження за рахунок повороту поплавців аквагантелів користувач завжди може підібрати оптимальний рівень навантаження з урахуванням типу вправи та рівня підготовки. Переваги: Матеріал EVA – забезпечує підвищену зносостійкість, збалансовану плавучість та високий комфорт у використанні. Ідеально для аквафітнесу – тренажер ідеально підійде для занять аквафітнесом. Зручні ручки – забезпечують чудове зчеплення та зручність у використанні.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="NI00081" available="true">
+<offer id="NI00081" available="false">
 <price>723</price>
 <currencyId>UAH</currencyId>
 <categoryId>1020</categoryId>
@@ -289027,7 +289027,7 @@ _x000D_
 <name_ua>Пояс для аквафітнесу аквааеробіки та плавання SP-Sport PL-0440 Червоний-сірий</name_ua>
 <name_ru>Пояс для аквафитнеса аквааэробики и плавания SP-Sport PL-0440 Красный-серый</name_ru>
 <description_ua>Опис Аквапояс SP-Sport PL-0440 виготовлений з етиленвінілацетату (EVA) - матеріалу, відомого своєю легкістю, міцністю та стійкістю до дії води. EVA має відмінні амортизаційні властивості, що робить пояс комфортним у використанні і забезпечує рівномірний розподіл навантаження по тілу. Розмір пояса складає 72х22х3.5 см, що забезпечує оптимальну площу для підтримки корпусу у воді. Двоколірна конструкція надає виробу стильного і сучасного вигляду, а цілісна форма гарантує довговічність і відсутність слабких місць, які могли б призвести до зношування або пошкодження пояса. Регульована стрічка дозволяє підігнати аквапояс під будь-які розміри та форми тіла, забезпечуючи надійну фіксацію на талії. Кріплення здійснюється за допомогою міцної та зручної пластикової застібки, яка легко застібається та розстібається, не викликаючи дискомфорту. Стрічка, що проходить через корпус пояса, допомагає уникнути ковзання та забезпечує максимальну безпеку під час занять у воді. Призначення Аквапояс призначений для використання у водному середовищі, забезпечуючи плавучість та підтримку при виконанні різних водних вправ та тренувань. Він ідеальний для аквааеробіки, плавання, реабілітаційних процедур та занять у басейні. Переваги: Допомагає опрацювати всі групи м'язів, покращити координацію та гнучкість. Підійде як для початківців, так і досвідчених спортсменів. Якісні матеріали та міцна конструкція гарантують тривалий термін служби пояса. Не викликає подразнень.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="NI00089" available="true">
 <price>1193</price>
@@ -303768,7 +303768,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE01362" available="true">
-<price>2647</price>
+<price>2834</price>
 <currencyId>UAH</currencyId>
 <categoryId>1050</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i82385898-5965185b4de9c9448e789d429ff35f9a-1714068796234.jpg</picture>
@@ -303784,7 +303784,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE01364" available="true">
-<price>2647</price>
+<price>2834</price>
 <currencyId>UAH</currencyId>
 <categoryId>1050</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i82385928-341c7104350b82401a3916709dd718e1-1714068955688.jpg</picture>
@@ -303800,7 +303800,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE01365" available="true">
-<price>3007</price>
+<price>3221</price>
 <currencyId>UAH</currencyId>
 <categoryId>1050</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i82385928-341c7104350b82401a3916709dd718e1-1714068955688.jpg</picture>
@@ -303816,7 +303816,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE01366" available="true">
-<price>3007</price>
+<price>3221</price>
 <currencyId>UAH</currencyId>
 <categoryId>1050</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i82386115-8560f80901efa5b5075c48535142f816-1714069971957.jpg</picture>
@@ -303832,7 +303832,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE01367" available="true">
-<price>3007</price>
+<price>3221</price>
 <currencyId>UAH</currencyId>
 <categoryId>1050</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i82386117-e2172fe34acb7f6cec2e4101fbf6d3fd-1714070017340.jpg</picture>
@@ -304216,7 +304216,7 @@ _x000D_
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
 <offer id="RI000570" available="true">
-<price>211</price>
+<price>225</price>
 <currencyId>UAH</currencyId>
 <categoryId>1051</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/2b1dd6d9-9fb9-11eb-9cf9-d45d64415ba4-00000002000.jpg</picture>
@@ -304258,7 +304258,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RE03295" available="true">
-<price>108</price>
+<price>112</price>
 <currencyId>UAH</currencyId>
 <categoryId>1010</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i74263021-a1c98737c5d1d56a43a242126145f162.jpg</picture>
@@ -304282,7 +304282,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="SA000565" available="true">
-<price>802</price>
+<price>861</price>
 <currencyId>UAH</currencyId>
 <categoryId>1010</categoryId>
 <picture>https://cdn.27.ua/sc--media--prod/default/ea/8c/1a/ea8c1a75-42d4-4a95-bf19-16cbafeaca20.jpg</picture>
@@ -304309,7 +304309,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE06255" available="true">
-<price>243</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>1010</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87972997-9f6f9ca15eadac9b1198b13f68edc9b3-1722861263099.jpg</picture>
@@ -304321,7 +304321,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE06256" available="true">
-<price>243</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>1010</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87973323-ff0983f0641613023b99fc0ecf1995cb-1722861289218.jpg</picture>
@@ -304333,7 +304333,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE06267" available="true">
-<price>441</price>
+<price>451</price>
 <currencyId>UAH</currencyId>
 <categoryId>1010</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87975031-3ba9a6c3789f08c96803b7345ad28c9f-1722861639834.jpg</picture>
@@ -304345,7 +304345,7 @@ _x000D_
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
 <offer id="DE06269" available="true">
-<price>441</price>
+<price>451</price>
 <currencyId>UAH</currencyId>
 <categoryId>1010</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87975386-39589e6c64ddae446b8dbd9d76282251-1722861689218.jpg</picture>
@@ -304357,7 +304357,7 @@ _x000D_
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
 <offer id="DE06270" available="true">
-<price>441</price>
+<price>451</price>
 <currencyId>UAH</currencyId>
 <categoryId>1010</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87975510-ea72c2487badf582ffcb31f9f2caa349-1722861714931.jpg</picture>
@@ -305733,7 +305733,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI000890" available="true">
-<price>350</price>
+<price>374</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/5a57fe28-f662-11e9-9b02-305a3a7701f3-00000002100.jpg</picture>
@@ -305747,7 +305747,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI000892" available="true">
-<price>339</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/5a57fe1e-f662-11e9-9b02-305a3a7701f3-00000022400.jpg</picture>
@@ -305762,7 +305762,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI000893" available="true">
-<price>339</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/5a57fe1e-f662-11e9-9b02-305a3a7701f3-00000022400.jpg</picture>
@@ -305777,7 +305777,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI000896" available="true">
-<price>339</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/5a57fe1e-f662-11e9-9b02-305a3a7701f3-00000022410.jpg</picture>
@@ -306865,7 +306865,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE12988" available="true">
-<price>1637</price>
+<price>1754</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94770971-19838dc8191a39344f5930a8ea210c65-1733745720352.jpg</picture>
@@ -306880,7 +306880,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE12990" available="true">
-<price>1348</price>
+<price>1443</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771005-87a2212aac2c3393fa6c427140ccaa93-1733745872922.jpg</picture>
@@ -306894,7 +306894,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE12991" available="true">
-<price>1348</price>
+<price>1443</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771005-87a2212aac2c3393fa6c427140ccaa93-1733745872922.jpg</picture>
@@ -306908,7 +306908,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE12992" available="true">
-<price>1348</price>
+<price>1443</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771005-87a2212aac2c3393fa6c427140ccaa93-1733745872922.jpg</picture>
@@ -306922,7 +306922,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE12994" available="true">
-<price>1348</price>
+<price>1443</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771290-4207a6130a10919d363671f1aca513c7-1733745997089.jpg</picture>
@@ -306936,7 +306936,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE12995" available="true">
-<price>1329</price>
+<price>1422</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771294-fc3834503aa5856c041b1669d87ccfdf-1733746044551.jpg</picture>
@@ -306950,7 +306950,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE12996" available="true">
-<price>1329</price>
+<price>1422</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771294-fc3834503aa5856c041b1669d87ccfdf-1733746044551.jpg</picture>
@@ -306964,7 +306964,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE12997" available="true">
-<price>1329</price>
+<price>1422</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771294-fc3834503aa5856c041b1669d87ccfdf-1733746044551.jpg</picture>
@@ -306992,7 +306992,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DE12999" available="true">
-<price>1329</price>
+<price>1422</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771307-b45958b1a0ff44586b5f1b65909c213d-1733746167614.jpg</picture>
@@ -307006,7 +307006,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13000" available="true">
-<price>1329</price>
+<price>1422</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771307-b45958b1a0ff44586b5f1b65909c213d-1733746167614.jpg</picture>
@@ -307020,7 +307020,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13001" available="true">
-<price>1329</price>
+<price>1422</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771307-b45958b1a0ff44586b5f1b65909c213d-1733746167614.jpg</picture>
@@ -307034,7 +307034,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13002" available="true">
-<price>1329</price>
+<price>1422</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771307-b45958b1a0ff44586b5f1b65909c213d-1733746167614.jpg</picture>
@@ -307048,7 +307048,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13006" available="true">
-<price>1282</price>
+<price>1373</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771401-41309f09fe24c0df7ff59bc0f9a61e99-1733746600149.jpg</picture>
@@ -307062,7 +307062,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13007" available="true">
-<price>1282</price>
+<price>1373</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771401-41309f09fe24c0df7ff59bc0f9a61e99-1733746600149.jpg</picture>
@@ -307076,7 +307076,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13008" available="true">
-<price>1282</price>
+<price>1373</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771401-41309f09fe24c0df7ff59bc0f9a61e99-1733746600149.jpg</picture>
@@ -307090,7 +307090,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13010" available="true">
-<price>1282</price>
+<price>1373</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771422-e9137573fed98073d605537bdc0b4343-1733746706906.jpg</picture>
@@ -307104,7 +307104,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13011" available="true">
-<price>1282</price>
+<price>1373</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771422-e9137573fed98073d605537bdc0b4343-1733746706906.jpg</picture>
@@ -307132,7 +307132,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DE13014" available="true">
-<price>1637</price>
+<price>1754</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771553-a05e8c6681205af1dd689f957973b881-1733747063601.jpg</picture>
@@ -307146,7 +307146,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13015" available="true">
-<price>1637</price>
+<price>1754</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771553-a05e8c6681205af1dd689f957973b881-1733747063601.jpg</picture>
@@ -307160,7 +307160,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13016" available="true">
-<price>1637</price>
+<price>1754</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771553-a05e8c6681205af1dd689f957973b881-1733747063601.jpg</picture>
@@ -307174,7 +307174,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13017" available="true">
-<price>1282</price>
+<price>1373</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771806-7e7202333f6dd17f4017e9ceb6767a79-1733747235875.jpg</picture>
@@ -307189,7 +307189,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13018" available="true">
-<price>1282</price>
+<price>1373</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771806-7e7202333f6dd17f4017e9ceb6767a79-1733747235875.jpg</picture>
@@ -307204,7 +307204,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13019" available="true">
-<price>1282</price>
+<price>1373</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94771806-7e7202333f6dd17f4017e9ceb6767a79-1733747235875.jpg</picture>
@@ -307262,7 +307262,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13140" available="true">
-<price>1396</price>
+<price>1496</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94822638-dc4f94e216decfd407e310962ce1a7ee-1733837439538.jpg</picture>
@@ -307276,7 +307276,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13148" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823506-439eed8f85c349cdcf400a98411f2af1-1733837662489.jpg</picture>
@@ -307290,7 +307290,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13153" available="true">
-<price>1477</price>
+<price>1582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823535-23e501b83f43be6ac79fdeb9d7a82089-1733837838584.jpg</picture>
@@ -307305,7 +307305,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13154" available="true">
-<price>1477</price>
+<price>1582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823535-23e501b83f43be6ac79fdeb9d7a82089-1733837838584.jpg</picture>
@@ -307320,7 +307320,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13155" available="true">
-<price>1477</price>
+<price>1582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823535-23e501b83f43be6ac79fdeb9d7a82089-1733837838584.jpg</picture>
@@ -307335,7 +307335,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13156" available="true">
-<price>1477</price>
+<price>1582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823535-23e501b83f43be6ac79fdeb9d7a82089-1733837838584.jpg</picture>
@@ -307350,7 +307350,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13158" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823562-b17da0e60e66c48a4da86d2401854333-1733837959705.jpg</picture>
@@ -307365,7 +307365,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13159" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823562-b17da0e60e66c48a4da86d2401854333-1733837959705.jpg</picture>
@@ -307380,7 +307380,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13160" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823562-b17da0e60e66c48a4da86d2401854333-1733837959705.jpg</picture>
@@ -307395,7 +307395,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13161" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823562-b17da0e60e66c48a4da86d2401854333-1733837959705.jpg</picture>
@@ -307410,7 +307410,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13163" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823587-605ee62d12a0bb94cc7919ed02678b2a-1733838083720.jpg</picture>
@@ -307425,7 +307425,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13164" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823587-605ee62d12a0bb94cc7919ed02678b2a-1733838083720.jpg</picture>
@@ -307440,7 +307440,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13165" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823587-605ee62d12a0bb94cc7919ed02678b2a-1733838083720.jpg</picture>
@@ -307470,7 +307470,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13168" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823606-62d10dc43c4cbedf199f05cd538fe990-1733838212388.jpg</picture>
@@ -307485,7 +307485,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13169" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823606-62d10dc43c4cbedf199f05cd538fe990-1733838212388.jpg</picture>
@@ -307500,7 +307500,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13170" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823606-62d10dc43c4cbedf199f05cd538fe990-1733838212388.jpg</picture>
@@ -307515,7 +307515,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE13171" available="true">
-<price>1434</price>
+<price>1537</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i94823606-62d10dc43c4cbedf199f05cd538fe990-1733838212388.jpg</picture>
@@ -308672,7 +308672,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DE13408" available="true">
-<price>1551</price>
+<price>1661</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i95062806-09c4b65ab0511eae268285293ceea0f8-1734094747223.jpg</picture>
@@ -331420,7 +331420,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI000144" available="true">
-<price>42</price>
+<price>46</price>
 <currencyId>UAH</currencyId>
 <categoryId>1025</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/additional/09b6f192-51f3-11ec-9dbf-d45d64415ba4-00000002002.jpg</picture>
@@ -331534,7 +331534,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI001097" available="true">
-<price>624</price>
+<price>667</price>
 <currencyId>UAH</currencyId>
 <categoryId>1196</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/bae9b43e-541b-11e8-89ff-305a3a7701f3-00000025400.jpg</picture>
@@ -331546,7 +331546,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI001098" available="true">
-<price>624</price>
+<price>667</price>
 <currencyId>UAH</currencyId>
 <categoryId>1196</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/bae9b43e-541b-11e8-89ff-305a3a7701f3-00000002100.jpg</picture>
@@ -331558,7 +331558,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI0001099" available="true">
-<price>624</price>
+<price>667</price>
 <currencyId>UAH</currencyId>
 <categoryId>1196</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/bae9b43e-541b-11e8-89ff-305a3a7701f3-00000014900.jpg</picture>
@@ -331571,7 +331571,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI0001100" available="true">
-<price>624</price>
+<price>667</price>
 <currencyId>UAH</currencyId>
 <categoryId>1196</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/bae9b43e-541b-11e8-89ff-305a3a7701f3-00000011200.jpg</picture>
@@ -331587,7 +331587,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI0001101" available="true">
-<price>624</price>
+<price>667</price>
 <currencyId>UAH</currencyId>
 <categoryId>1196</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/bae9b43e-541b-11e8-89ff-305a3a7701f3-00000124600.jpg</picture>
@@ -331603,7 +331603,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI0001102" available="true">
-<price>624</price>
+<price>667</price>
 <currencyId>UAH</currencyId>
 <categoryId>1196</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/bae9b43e-541b-11e8-89ff-305a3a7701f3-00000022400.jpg</picture>
@@ -332217,7 +332217,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RZ00551" available="true">
-<price>328</price>
+<price>350</price>
 <currencyId>UAH</currencyId>
 <categoryId>1053</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/3aa21b3e-f6a6-11e7-b29a-305a3a7701f300.jpg</picture>
@@ -332234,7 +332234,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RZ00552" available="true">
-<price>328</price>
+<price>350</price>
 <currencyId>UAH</currencyId>
 <categoryId>1053</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/3aa21b3e-f6a6-11e7-b29a-305a3a7701f300.jpg</picture>
@@ -332251,7 +332251,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RZ00553" available="true">
-<price>328</price>
+<price>350</price>
 <currencyId>UAH</currencyId>
 <categoryId>1053</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/3aa21b3e-f6a6-11e7-b29a-305a3a7701f300.jpg</picture>
@@ -332268,7 +332268,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RZ00554" available="true">
-<price>328</price>
+<price>350</price>
 <currencyId>UAH</currencyId>
 <categoryId>1053</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/3aa21b3e-f6a6-11e7-b29a-305a3a7701f300.jpg</picture>
@@ -332285,7 +332285,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE11603" available="true">
-<price>802</price>
+<price>858</price>
 <currencyId>UAH</currencyId>
 <categoryId>1053</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92026831-75ad4cb479e3d61f911a76c0522b92eb-1729014285410.jpg</picture>
@@ -332299,7 +332299,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE11604" available="true">
-<price>802</price>
+<price>858</price>
 <currencyId>UAH</currencyId>
 <categoryId>1053</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i92026831-75ad4cb479e3d61f911a76c0522b92eb-1729014285410.jpg</picture>
@@ -332405,7 +332405,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="RI005026" available="true">
-<price>1087</price>
+<price>1165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1040</categoryId>
 <picture>https://planeta-shop.com.ua/uploads/shop/products/origin/f6f11d14-55b7-11e7-af8d-36376662643800.jpg</picture>
@@ -375558,7 +375558,7 @@ _x000D_
 <description_ua>Рушник лазневий 70*140 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="OK00794" available="true">
+<offer id="OK00794" available="false">
 <price>544</price>
 <currencyId>UAH</currencyId>
 <categoryId>1012</categoryId>
@@ -375570,7 +375570,7 @@ _x000D_
 <name_ua>Рушник Mil-Tec дорожній з чохлом мікрофібра Олива HANDTUCH MICROFIBRE 80X40CM OLIV (16011011)</name_ua>
 <name_ru>Полотенце Mil-Tec дорожное с чехлом микрофибра Олива HANDTUCH MICROFIBRE 80X40CM OLIV (16011011)</name_ru>
 <description_ua>Матеріал: 80% поліестер, 20% поліамід. Сумка для зберігання: 100% поліестер. Розміри: 80 х 40 см Особливості: - Рушник з швидковисихаючої м'якої мікрофібри; - У комплект входить чохол для зберігання.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI000461" available="true">
 <price>630</price>
