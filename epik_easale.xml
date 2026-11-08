@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-07 06:41">
+<yml_catalog date="2026-11-08 06:39">
   <offers>
     <offer id="AM0016591" available="true">
       <price>783</price>
@@ -26741,7 +26741,7 @@
     <offer id="M005005" available="false">
       <price>212</price>
     </offer>
-    <offer id="M005006" available="true">
+    <offer id="M005006" available="false">
       <price>212</price>
     </offer>
     <offer id="M005007" available="true">
@@ -31432,7 +31432,7 @@
     <offer id="RO00160" available="false">
       <price>308</price>
     </offer>
-    <offer id="RO00161" available="true">
+    <offer id="RO00161" available="false">
       <price>308</price>
     </offer>
     <offer id="RO00162" available="false">
@@ -35519,7 +35519,7 @@
     <offer id="RS00379" available="true">
       <price>322</price>
     </offer>
-    <offer id="KS00841" available="true">
+    <offer id="KS00841" available="false">
       <price>104</price>
     </offer>
     <offer id="RS00380" available="true">
@@ -37890,7 +37890,7 @@
     <offer id="KS01156" available="true">
       <price>778</price>
     </offer>
-    <offer id="KS01157" available="true">
+    <offer id="KS01157" available="false">
       <price>778</price>
     </offer>
     <offer id="KS01158" available="false">
@@ -37953,7 +37953,7 @@
     <offer id="KS01177" available="true">
       <price>705</price>
     </offer>
-    <offer id="KS01178" available="true">
+    <offer id="KS01178" available="false">
       <price>703</price>
     </offer>
     <offer id="KS01179" available="false">
@@ -49707,7 +49707,7 @@
     <offer id="AS00558" available="true">
       <price>1989</price>
     </offer>
-    <offer id="AS00559" available="true">
+    <offer id="AS00559" available="false">
       <price>731</price>
     </offer>
     <offer id="AS00560" available="false">
@@ -56548,10 +56548,10 @@
     <offer id="RO02579" available="false">
       <price>790</price>
     </offer>
-    <offer id="RO02580" available="true">
+    <offer id="RO02580" available="false">
       <price>790</price>
     </offer>
-    <offer id="RO02582" available="true">
+    <offer id="RO02582" available="false">
       <price>790</price>
     </offer>
     <offer id="RO02581" available="true">
@@ -88507,7 +88507,7 @@
     <offer id="FFR01027" available="true">
       <price>849</price>
     </offer>
-    <offer id="FFM0000422" available="true">
+    <offer id="FFM0000422" available="false">
       <price>349</price>
     </offer>
     <offer id="FFR01028" available="true">
