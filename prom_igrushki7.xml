@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 15:56">
+<yml_catalog date="2026-11-09 07:00">
   <shop>
     <name>igrushki7</name>
     <currencies>
@@ -11,7 +11,6 @@
       <category id="6">Радіокеровані іграшки</category>
       <category id="7" parentId="9792">Дощечки для малювання, мольберти</category>
       <category id="8" parentId="12">Гаражі, автотреки та парковки</category>
-      <category id="12">Машинки та інші види транспорту</category>
       <category id="13" parentId="12">Металопластикові моделі</category>
       <category id="14">Музичні іграшки та ґаджети</category>
       <category id="16" parentId="25">Військові та поліцейські набори</category>
@@ -25,6 +24,7 @@
       <category id="1902" parentId="9790">Парти та стільчики</category>
       <category id="1904" parentId="1908">Брязкальця та прорізувачі</category>
       <category id="1906" parentId="1908">Каталки</category>
+      <category id="1907" parentId="2372"></category>
       <category id="1910" parentId="1908">Музичні каруселі</category>
       <category id="1911" parentId="13456">Велосипеди 3-колісні</category>
       <category id="1913" parentId="18">Бадмінтон та тенісні ракетки</category>
@@ -684,15 +684,6 @@
         <picture>https://igrushki7.ua/images/prom/00000155603.jpg</picture>
         <barcode>6976645240085</barcode>
       </offer>
-      <offer id="124255" available="true">
-        <name>Ігровий килимок 918-001 (18) 4в1, тунель, ігрові елементи, в коробці</name>
-        <name_ua>Ігровий килимок 918-001 (18) 4в1, тунель, ігрові елементи, в коробці </name_ua>
-        <price>1463</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1921</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000124255.jpg</picture>
-        <barcode>6974639252212</barcode>
-      </offer>
       <offer id="201135" available="true">
         <name>Ігровий музичний столик 2601 (6) піаніно, світло, озвуч англ, пісні, історії, ноти, мелодії, цифри, барабан, гра на реакцію, табло, в коробці</name>
         <name_ua>Ігровий музичний столик 2601 (6) піаніно, кілька режимів, підсвічування, озвучування англійською, пісні, історії, ноти, мелодії, цифри, барабан, гра на реакцію, молоточок, табло, в коробці</name_ua>
@@ -722,7 +713,7 @@
       </offer>
       <offer id="104107" available="true">
         <name>Ігровий музичний столик Е 8999 (3) "Hola" світло, звук, мелодії, 3 м`ячики, в коробці</name>
-        <name_ua>Ігровий музичний столик Е 8999 (3) "Hola" світло, звук, мелодії, 3 м'ячики, в коробці</name_ua>
+        <name_ua>Ігровий музичний столик Е 8999 (3) "Hola", світло, звук, мелодії, 3 м'ячики, в коробці</name_ua>
         <price>3349</price>
         <currencyId>UAH</currencyId>
         <categoryId>79440</categoryId>
@@ -759,7 +750,7 @@
       </offer>
       <offer id="198968" available="true">
         <name>Ігровий столик YL 626 (12) в коробці</name>
-        <name_ua>Ігровий столик YL 626 (12) в коробці</name_ua>
+        <name_ua>Ігровий столик YL 626 (12) підсвічування, мелодії, звуки у вісьмінога, барабан, тріскачка, магнітна риболовля, ксилофон, гра “Вдар крота”, конструктор з болтами, мінісад, мінігород, сортер, у коробці</name_ua>
         <price>1750</price>
         <currencyId>UAH</currencyId>
         <categoryId>1902</categoryId>
@@ -957,6 +948,15 @@
         <picture>https://igrushki7.ua/images/prom/00000192863.jpg</picture>
         <barcode>6900067768650</barcode>
       </offer>
+      <offer id="202196" available="true">
+        <name>Інтерактивна іграшка C 79120 (36) “Песик”, висота 21,5 см, звуки, ходить, сідає, лягає, реагує на звук, тактильні зони, комірець, у пакеті</name>
+        <name_ua>Інтерактивна іграшка C 79120 (36) “Песик”, висота 21,5 см, звуки, ходить, сідає, лягає, реагує на звук, тактильні зони, комірець, у пакеті</name_ua>
+        <price>1272</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>183263</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000202196.jpg</picture>
+        <barcode>6900067791207</barcode>
+      </offer>
       <offer id="136654" available="true">
         <name>Інтерактивна іграшка M 15317 + КОРОБКА (48) 5 видів, гавкає, реагує на дотик, сідає, лягає, піднімає лапки, ВИДАЄТЬСЯ ТІЛЬКИ МІКС ВИДІВ</name>
         <name_ua>Інтерактивна іграшка M 15317 + КОРОБКА (48) 5 видів, гавкає, реагує на дотик, сідає, лягає, піднімає лапки, ВИДАЄТЬСЯ ТІЛЬКИ МІКС ВИДІВ</name_ua>
@@ -983,15 +983,6 @@
         <categoryId>183263</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000176840.jpg</picture>
         <barcode>6900077170627</barcode>
-      </offer>
-      <offer id="179864" available="true">
-        <name>Інтерактивна іграшка MC 1107 (18) “Зайченя”, висота 28 см, підсвічування, сплюшка, мелодія, дихає, на батарейках, для сну, в коробці</name>
-        <name_ua>Інтерактивна іграшка MC 1107 (18) “Зайченя”, висота 28 см, підсвічування, сплюшка, мелодія, дихає, на батарейках, для сну, в коробці</name_ua>
-        <price>909</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>183263</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000179864.jpg</picture>
-        <barcode>6965188011108</barcode>
       </offer>
       <offer id="180039" available="true">
         <name>Інтерактивна іграшка MC 1108 (18) “Слоник”, висота 29 см, підсвічування, сплюшка, мелодія, дихає, на батарейках, для сну, в коробці</name>
@@ -1353,6 +1344,51 @@
         <categoryId>1931</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000199385.jpg</picture>
         <barcode>6800080250194</barcode>
+      </offer>
+      <offer id="142930" available="true">
+        <name>Автомат D 016 (12/2) глушник, оптичний приціл, запобіжник, м’які патрони з гільзами, ремінець, акум. 7.4V, USB-кабель, в коробці</name>
+        <name_ua>Автомат D 016 (12/2) глушник, оптичний приціл, запобіжник, м’які патрони з гільзами, ремінець, акум. 7.4V, USB-кабель, в коробці</name_ua>
+        <price>2085</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000142930.jpg</picture>
+        <barcode>6974002410263</barcode>
+      </offer>
+      <offer id="180803" available="true">
+        <name>Автомат D 018 (12/2) автоматичний принцип роботи, глушник, оптичний приціл, запобіжник, м’які патрони, акум. 7.4V, USB-кабель, в коробці</name>
+        <name_ua>Автомат D 018 (12/2) автоматичний принцип роботи, глушник, оптичний приціл, запобіжник, м’які патрони з гільзами, ремінець, акум. 7.4V, USB-кабель, в коробці</name_ua>
+        <price>2051</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000180803.jpg</picture>
+        <barcode>6974002410287</barcode>
+      </offer>
+      <offer id="198911" available="true">
+        <name>Автомат D 019 (12/2) в коробці</name>
+        <name_ua>Автомат D 019 (12/2) в коробці</name_ua>
+        <price>1989</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198911.jpg</picture>
+        <barcode>6974002410294</barcode>
+      </offer>
+      <offer id="180804" available="true">
+        <name>Автомат D 022 (24/2) глушник, оптичний приціл, м’які патрони з гільзами, механічний принцип роботи, в коробці</name>
+        <name_ua>Автомат D 022 (24/2) глушник, оптичний приціл, м’які патрони з гільзами, механічний принцип роботи, в коробці</name_ua>
+        <price>947</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000180804.jpg</picture>
+        <barcode>6974002410331</barcode>
+      </offer>
+      <offer id="142932" available="true">
+        <name>Автомат D 024 (24/2) глушник, оптичний приціл, м’які патрони з гільзами, в коробці</name>
+        <name_ua>Автомат D 024 (24/2) глушник, оптичний приціл, м’які патрони з гільзами, в коробці</name_ua>
+        <price>947</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000142932.jpg</picture>
+        <barcode>6974002410355</barcode>
       </offer>
       <offer id="198654" available="true">
         <name>Автомат G 323-2 (15) довжина: 74 см,  акумулятор: 7.4 V, автоматичний принцип, стріляє орбізами, захисні окуляри, орбізи, в коробці </name>
@@ -2099,15 +2135,6 @@
         <picture>https://igrushki7.ua/images/prom/00000199718.jpg</picture>
         <barcode>6970043240210</barcode>
       </offer>
-      <offer id="83599" available="true">
-        <name>Аерохокей настільний А 0028-1 (8) на батарейках, в коробці</name>
-        <name_ua>Аерохокей настільний А 0028-1 (8) на батарейках, в коробці</name_ua>
-        <price>1822</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1952</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000083599.jpg</picture>
-        <barcode>6970043240029</barcode>
-      </offer>
       <offer id="164893" available="true">
         <name>Аерохокей підлоговий 3005 C (4) дерев`яний, повітряний, від мережі 220V, на ніжках, в коробці</name>
         <name_ua>Аерохокей підлоговий 3005 C (4) дерев'яний, повітряний, від мережі 220V, на ніжках, в коробці</name_ua>
@@ -2503,15 +2530,6 @@
         <categoryId>1959</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000153404.jpg</picture>
         <barcode>6900048240274</barcode>
-      </offer>
-      <offer id="191895" available="true">
-        <name>Бізіборд RT 7503 (24) 22 забавки, тріскачка, гумові мотузочки, спінер, пискавка, пальчикові ігри, замки, рухомі шестерні, в коробці</name>
-        <name_ua>Бізіборд RT 7503 (24) 22 забавки, тріскачка, гумові мотузочки, спінер, пискавка, пальчикові ігри, замки, рухомі шестерні, в коробці</name_ua>
-        <price>889</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1959</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000191895.jpg</picture>
-        <barcode>6984306240183</barcode>
       </offer>
       <offer id="156630" available="true">
         <name>Бізіборд дерев`яний C 61700 (8) 11 ігор, кермо, пальчиковий лабіринт, годинник, магнітний олівець, музична скринька, в коробці</name>
@@ -3387,15 +3405,6 @@
         <picture>https://igrushki7.ua/images/prom/00000091857.jpg</picture>
         <barcode>6965843250088</barcode>
       </offer>
-      <offer id="98902" available="true">
-        <name>Будиночок 6628 (10) "Розкладний будиночок", 3 поверхи, 2 флоксових героя, домашній улюбленець, меблі, аксесуари, в коробці</name>
-        <name_ua>Будиночок 6628 (10) "Розкладний будиночок", 3 поверхи, 2 флоксових героя, домашній улюбленець, меблі, аксесуари, в коробці</name_ua>
-        <price>1982</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>20</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000098902.jpg</picture>
-        <barcode>6965351400166</barcode>
-      </offer>
       <offer id="164697" available="true">
         <name>Будиночок 6688-10 (8) 2 ляльки, меблі, аксесуари, улюбленці, в коробці</name>
         <name_ua>Будиночок 6688-10 (8) 2 ляльки, меблі, аксесуари, улюбленці, в коробці</name_ua>
@@ -3590,8 +3599,8 @@
         <barcode>6978380431315</barcode>
       </offer>
       <offer id="199018" available="true">
-        <name>Візок для ляльки 69016 (4)</name>
-        <name_ua>Візок для ляльки 69016 (4)</name_ua>
+        <name>Візок для ляльки 69016 (4) складна конструкція, текстильне сидіння, металевий каркас, капюшон, гумові колеса, кошик, підніжка, столик, у коробці</name>
+        <name_ua>Візок для ляльки 69016 (4) складна конструкція, текстильне сидіння, металевий каркас, капюшон, гумові колеса, кошик, підніжка, столик, у коробці</name_ua>
         <price>2871</price>
         <currencyId>UAH</currencyId>
         <categoryId>131744</categoryId>
@@ -4958,17 +4967,6 @@
         <picture>https://igrushki7.ua/images/promadd/154316-1.jpg|https://igrushki7.ua/images/promadd/154316-2.jpg</picture>
         <vendor>Joy</vendor>
         <barcode>6800084754025</barcode>
-      </offer>
-      <offer id="154317" available="true">
-        <name>Велобіг 4-х колісний JOY TL-86-203 (1) колеса 6’’ PU, рама пластикова, АНГЛІЙСЬКЕ ОЗВУЧУВАННЯ та підсвічування, в коробці</name>
-        <name_ua>Велобіг 4-х колісний JOY TL-86-203 (1) колеса 6’’ PU, рама пластикова, АНГЛІЙСЬКЕ ОЗВУЧУВАННЯ та підсвічування, в коробці</name_ua>
-        <price>1880</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>99345</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000154317.jpg</picture>
-        <picture>https://igrushki7.ua/images/promadd/154317-1.jpg|https://igrushki7.ua/images/promadd/154317-2.jpg</picture>
-        <vendor>Joy</vendor>
-        <barcode>6800084862034</barcode>
       </offer>
       <offer id="153693" available="true">
         <name>Велобіг 4-х колісний JOY TL-89-367 (1) колеса 6’’ PU, рама пластикова, АНГЛІЙСЬКЕ ОЗВУЧУВАННЯ та підсвічування, в коробці</name>
@@ -10035,17 +10033,6 @@
         <vendor>Technok Toys</vendor>
         <barcode>4823037603909</barcode>
       </offer>
-      <offer id="47688" available="true">
-        <name>гр Автовоз з трактором 3916 (4) "Technok Toys"</name>
-        <name_ua>гр Машинка з трактором 3916 (4) "Technok Toys"</name_ua>
-        <price>1231</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>15063</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000047688.jpg</picture>
-        <picture>https://igrushki7.ua/images/promadd/47688-1.jpg|https://igrushki7.ua/images/promadd/47688-2.jpg|https://igrushki7.ua/images/promadd/47688-3.jpg</picture>
-        <vendor>Technok Toys</vendor>
-        <barcode>4823037603916</barcode>
-      </offer>
       <offer id="48357" available="true">
         <name>гр Автокран 3695 (4) колір помаранчевий "Technok Toys"</name>
         <name_ua>гр Машина "Автокран" 3695 (4) колір помаранчевий ""Technok Toys""</name_ua>
@@ -10087,16 +10074,6 @@
         <picture>https://igrushki7.ua/images/prom/00000203174.jpg</picture>
         <vendor>Technok Toys</vendor>
         <barcode>4823037613816</barcode>
-      </offer>
-      <offer id="81999" available="true">
-        <name>гр Беби Трактор 931 (1) цвет - красный "ORION"</name>
-        <name_ua>гр Бебі Трактор 931 (1) колір - червоний "ORION"</name_ua>
-        <price>1149</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>10224</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000081999.jpg</picture>
-        <vendor>Orion</vendor>
-        <barcode>4823036904151</barcode>
       </offer>
       <offer id="201282" available="true">
         <name>гр Бортик у ліжко "Косичка" 10426 (1) тканина ФЛАНЕЛЬ, наповнювач СИНТЕПУХ, розмір 120*18 см, "Bimbo", в пакеті</name>
@@ -11363,17 +11340,6 @@
         <categoryId>6006</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000179294.jpg</picture>
       </offer>
-      <offer id="122931" available="true">
-        <name>гр Конверт на хутрі "Умка V" 208097 / 2934 (1) колір чорний</name>
-        <name_ua>гр Конверт на хутрі "Умка V" 208097 (1) колір чорний</name_ua>
-        <price>2023</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>5121</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000122931.jpg</picture>
-        <picture>https://igrushki7.ua/images/promadd/122931-1.jpg</picture>
-        <vendor>Алінка</vendor>
-        <barcode>200000002934,2000000008097</barcode>
-      </offer>
       <offer id="126150" available="true">
         <name>гр Конверт на хутрі "Умка V" 208134 / 3047 (1) колір синій</name>
         <name_ua>гр Конверт на хутрі "Умка V" 208134 / 3047 (1) колір синій</name_ua>
@@ -11885,7 +11851,7 @@
       <offer id="178536" available="true">
         <name>гр Крісло розкладне м’яке "Герой" дитяче К54138 (1) 50х38х43 см, у розкладеному вигляді - 120 см</name>
         <name_ua>гр Крісло розкладне м’яке "Герой" дитяче К54138 (1) 50х38х43 см, у розкладеному вигляді - 120 см</name_ua>
-        <price>2650</price>
+        <price>2844</price>
         <currencyId>UAH</currencyId>
         <categoryId>1953</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000178536.jpg</picture>
@@ -11903,7 +11869,7 @@
       <offer id="198727" available="true">
         <name>гр Крісло розкладне м’яке "Кіт Батон" дитяче, колір сірий 73154(1) 50х38х43 см, у розкладеному вигляді - 120 см</name>
         <name_ua>гр Крісло розкладне м’яке "Кіт Батон" дитяче, колір сірий 73154(1) 50х38х43 см, у розкладеному вигляді - 120 см</name_ua>
-        <price>2650</price>
+        <price>2844</price>
         <currencyId>UAH</currencyId>
         <categoryId>1953</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000198727.jpg</picture>
@@ -11912,7 +11878,7 @@
       <offer id="178537" available="true">
         <name>гр Крісло розкладне м’яке "Мишеня" дитяче К26127 (1) 50х38х43 см, у розкладеному вигляді - 120 см</name>
         <name_ua>гр Крісло розкладне м’яке "Мишеня" дитяче К26127 (1) 50х38х43 см, у розкладеному вигляді - 120 см</name_ua>
-        <price>2650</price>
+        <price>2844</price>
         <currencyId>UAH</currencyId>
         <categoryId>1953</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000178537.jpg</picture>
@@ -11930,7 +11896,7 @@
       <offer id="178535" available="true">
         <name>гр Крісло розкладне м’яке "Синій прибулець" дитяче К38570 (1) 50х38х43 см, у розкладеному вигляді - 120 см</name>
         <name_ua>гр Крісло розкладне м’яке "Синій прибулець" дитяче К38570 (1) 50х38х43 см, у розкладеному вигляді - 120 см</name_ua>
-        <price>2650</price>
+        <price>2844</price>
         <currencyId>UAH</currencyId>
         <categoryId>1953</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000178535.jpg</picture>
@@ -11939,7 +11905,7 @@
       <offer id="173910" available="true">
         <name>гр Крісло-мішок "Груша" 31794 колір коричневий (1) чохол — меблевий велюр, наповнювач — пінопластові кульки, внутрішній чохол, в пакеті</name>
         <name_ua>гр Крісло-мішок "Груша" 31794 колір коричневий (1) чохол — меблевий велюр, наповнювач — пінопластові кульки, внутрішній чохол,  в пакеті</name_ua>
-        <price>2145</price>
+        <price>2257</price>
         <currencyId>UAH</currencyId>
         <categoryId>1953</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000173910.jpg</picture>
@@ -11993,7 +11959,7 @@
       <offer id="177356" available="true">
         <name>гр Крісло-мішок дитяче "Груша" Д27336 / 45279 "Тваринки" (1) висота у підвішеному положенні 88 см, знімний водонепроникний чохол, в плівці</name>
         <name_ua>гр Крісло-мішок дитяче "Груша" Д27336 / 45279 "Тваринки" (1) висота у підвішеному положенні 88 см, знімний водонепроникний чохол, в плівці</name_ua>
-        <price>1775</price>
+        <price>1875</price>
         <currencyId>UAH</currencyId>
         <categoryId>1953</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000177356.jpg</picture>
@@ -12002,7 +11968,7 @@
       <offer id="177355" available="true">
         <name>гр Крісло-мішок дитяче "Груша" Д31263 / 19661 "Трек" (1)  висота у підвішеному положенні 88 см, знімний водонепроникний чохол, в плівці</name>
         <name_ua>гр Крісло-мішок дитяче "Груша" Д31263 "Трек" (1) герой, висота у підвішеному положенні 88 см, знімний водонепроникний чохол, в плівці</name_ua>
-        <price>1775</price>
+        <price>1875</price>
         <currencyId>UAH</currencyId>
         <categoryId>1953</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000177355.jpg</picture>
@@ -12778,6 +12744,15 @@
         <picture>https://igrushki7.ua/images/prom/00000157590.jpg</picture>
         <barcode>482005215287</barcode>
       </offer>
+      <offer id="155150" available="true">
+        <name>гр М`яка іграшка "Ведмедик Тео" Т91166 розмір 1.3м (1)</name>
+        <name_ua>гр М`яка іграшка "Ведмедик Тео" Т91166 розмір 1.3м (1)</name_ua>
+        <price>1964</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000155150.jpg</picture>
+        <barcode>4820005215386</barcode>
+      </offer>
       <offer id="155151" available="true">
         <name>гр М`яка іграшка "Ведмедик Тео" Т96967 розмір 1.5м (1)</name>
         <name_ua>гр М`яка іграшка "Ведмедик Тео" Т96967 розмір 1.5м (1)</name_ua>
@@ -12786,6 +12761,15 @@
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000155151.jpg</picture>
         <barcode>4820005215379</barcode>
+      </offer>
+      <offer id="150792" available="true">
+        <name>гр М`яка іграшка "Ведмедик" колір графітовий В24783 висота 1,6 м (1) в пакеті</name>
+        <name_ua>гр М`яка іграшка "Ведмедик" колір графітовий В24783 висота 1,6 м (1) в пакеті</name_ua>
+        <price>2818</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000150792.jpg</picture>
+        <barcode>4820005215041</barcode>
       </offer>
       <offer id="150783" available="true">
         <name>гр М`яка іграшка "Ведмедик" колір графітовий В41944 / В 35268 висота 1,3 м (1) в пакеті</name>
@@ -12799,25 +12783,68 @@
       <offer id="156950" available="true">
         <name>гр М`яка іграшка "Ведмедик" колір графітовий В53574/19532 довжина по лекалу 1 м (1) в пакеті</name>
         <name_ua>гр М`яка іграшка "Ведмедик" колір графітовий В53574 /19532 довжина по лекалу 1 м (1) в пакеті</name_ua>
-        <price>1199</price>
+        <price>1275</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000156950.jpg</picture>
         <barcode>4820005215263</barcode>
       </offer>
+      <offer id="204054" available="true">
+        <name>гр М`яка іграшка "Ведмедик" колір персиковий 18555 висота 0,7 м (1) </name>
+        <name_ua>гр М`яка іграшка "Ведмедик" колір персиковий 18555 висота 0,7 м (1) </name_ua>
+        <price>893</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/noimage.gif</picture>
+      </offer>
+      <offer id="150785" available="true">
+        <name>гр М`яка іграшка "Ведмедик" колір персиковий В65133 висота 1,3 м (1) в пакеті</name>
+        <name_ua>гр М`яка іграшка "Ведмедик" колір персиковий В65133 висота 1,3 м (1) в пакеті</name_ua>
+        <price>1913</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000150785.jpg</picture>
+        <barcode>4820005214969</barcode>
+      </offer>
       <offer id="156951" available="true">
         <name>гр М`яка іграшка "Ведмедик" колір персиковий В65495 довжина по лекалу 1 м (1) в пакеті</name>
         <name_ua>гр М`яка іграшка "Ведмедик" колір персиковий В65495 довжина по лекалу 1 м (1) в пакеті</name_ua>
-        <price>1199</price>
+        <price>1275</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000156951.jpg</picture>
         <barcode>4820005215270</barcode>
       </offer>
+      <offer id="150790" available="true">
+        <name>гр М`яка іграшка "Ведмедик" колір персиковий В81598 висота 1,6 м (1) в пакеті</name>
+        <name_ua>гр М`яка іграшка "Ведмедик" колір персиковий В81598 висота 1,6 м (1) в пакеті</name_ua>
+        <price>2818</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000150790.jpg</picture>
+        <barcode>4820005215027</barcode>
+      </offer>
+      <offer id="204055" available="true">
+        <name>гр М`яка іграшка "Ведмедик" колір рожевий 14018 висота 0,7 м (1) </name>
+        <name_ua>гр М`яка іграшка "Ведмедик" колір рожевий 14018 висота 0,7 м (1) </name_ua>
+        <price>893</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/noimage.gif</picture>
+      </offer>
+      <offer id="150775" available="true">
+        <name>гр М`яка іграшка "Ведмедик" колір рожевий В22572 висота 1 м (1) у пакеті</name>
+        <name_ua>гр М`яка іграшка "Ведмедик" колір рожевий В22572 висота 1 м (1) у пакеті</name_ua>
+        <price>1275</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000150775.jpg</picture>
+        <barcode>4820005214860</barcode>
+      </offer>
       <offer id="150794" available="true">
         <name>гр М`яка іграшка "Ведмедик" колір рожевий В53959 висота 1,6 м (1) в пакеті</name>
         <name_ua>гр М`яка іграшка "Ведмедик" колір рожевий В53959 висота 1,6 м (1) в пакеті</name_ua>
-        <price>2665</price>
+        <price>2818</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000150794.jpg</picture>
@@ -12826,11 +12853,19 @@
       <offer id="150784" available="true">
         <name>гр М`яка іграшка "Ведмедик" колір рожевий В70614 висота 1,3 м (1) в пакеті</name>
         <name_ua>гр М`яка іграшка "Ведмедик" колір рожевий В70614 висота 1,3 м (1) в пакеті</name_ua>
-        <price>1862</price>
+        <price>1913</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000150784.jpg</picture>
         <barcode>4820005214952</barcode>
+      </offer>
+      <offer id="204056" available="true">
+        <name>гр М`яка іграшка "Ведмедик" колір світло-коричневий 17990 висота 0,7 м (1) </name>
+        <name_ua>гр М`яка іграшка "Ведмедик" колір світло-коричневий 17990 висота 0,7 м (1) </name_ua>
+        <price>893</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/noimage.gif</picture>
       </offer>
       <offer id="150793" available="true">
         <name>гр М`яка іграшка "Ведмедик" колір світло-коричневий В43242 висота 1,6 м (1) в пакеті</name>
@@ -12844,7 +12879,7 @@
       <offer id="150788" available="true">
         <name>гр М`яка іграшка "Ведмедик" колір світло-коричневий В62811 висота 1,3 м (1) в пакеті</name>
         <name_ua>гр М`яка іграшка "Ведмедик" колір світло-коричневий В62811 висота 1,3 м (1) в пакеті</name_ua>
-        <price>1862</price>
+        <price>1913</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000150788.jpg</picture>
@@ -12870,20 +12905,38 @@
       <offer id="142730" available="true">
         <name>гр М`яка іграшка "Гусак-обіймак" 31933 (20) розмір 1,3м, колір білий, наповнювач холофайбер</name>
         <name_ua>гр М`яка іграшка "Гусак-обіймак" 31933 (20) розмір 1,3м, колір білий, наповнювач холлофайбер</name_ua>
-        <price>1020</price>
+        <price>1059</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000142730.jpg</picture>
         <barcode>4820005214167</barcode>
       </offer>
+      <offer id="142731" available="true">
+        <name>гр М`яка іграшка "Гусак-обіймак" 39680 (20) розмір 1,3м, колір сірий, наповнювач холофайбер</name>
+        <name_ua>гр М`яка іграшка "Гусак-обіймак" 39680 (20) розмір 1,3м, колір сірий, наповнювач холлофайбер</name_ua>
+        <price>1059</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000142731.jpg</picture>
+        <barcode>4820005214174</barcode>
+      </offer>
       <offer id="142733" available="true">
         <name>гр М`яка іграшка "Гусак-обіймак" 43873 (20) розмір 1,6м, колір сірий, наповнювач холофайбер</name>
         <name_ua>гр М`яка іграшка "Гусак-обіймак" 43873 (20) висота 160 см, колір сірий, наповнювач холлофайбер</name_ua>
-        <price>1186</price>
+        <price>1224</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000142733.jpg</picture>
         <barcode>4820005214198</barcode>
+      </offer>
+      <offer id="142732" available="true">
+        <name>гр М`яка іграшка "Гусак-обіймак" 48073 (20) розмір 1,6м, колір білий, наповнювач холофайбер</name>
+        <name_ua>гр М`яка іграшка "Гусак-обіймак" 48073 (20) розмір 1,6м, колір білий, наповнювач холлофайбер </name_ua>
+        <price>1224</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000142732.jpg</picture>
+        <barcode>4820005214181</barcode>
       </offer>
       <offer id="158612" available="true">
         <name>гр М`яка іграшка "Гусак-обіймак" 81651 (20) З ПЛЕДОМ 101х93 см, висота іграшки 100 см, колір сірий</name>
@@ -12906,7 +12959,7 @@
       <offer id="158622" available="true">
         <name>гр М`яка іграшка "Кіт Батон" К12661  (1) довжина 110 см, у пакеті ВИДАЄТЬСЯ МІКС ВИДІВ</name>
         <name_ua>гр М`яка іграшка "Кіт Батон" К12661  (1) довжина 110 см, у пакеті ВИДАЄТЬСЯ МІКС ВИДІВ</name_ua>
-        <price>1071</price>
+        <price>1110</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000158622.jpg</picture>
@@ -12921,10 +12974,28 @@
         <picture>https://igrushki7.ua/images/prom/00000188382.jpg</picture>
         <barcode>4820005218134</barcode>
       </offer>
+      <offer id="158621" available="true">
+        <name>гр М`яка іграшка "Кіт Батон" К79108 (1) довжина 90 см, у пакеті ВИДАЄТЬСЯ МІКС ВИДІВ</name>
+        <name_ua>гр М`яка іграшка "Кіт Батон" К79108 (1) довжина 90 см, у пакеті ВИДАЄТЬСЯ МІКС ВИДІВ</name_ua>
+        <price>957</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000158621.jpg</picture>
+        <barcode>4820005215478</barcode>
+      </offer>
+      <offer id="197209" available="true">
+        <name>гр М`яка іграшка "Пес Батон" 16544 (1) довжина 80 см</name>
+        <name_ua>гр М`яка іграшка "Пес Батон" 16544 (1) довжина 80 см</name_ua>
+        <price>867</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000197209.jpg</picture>
+        <barcode>4820005165445</barcode>
+      </offer>
       <offer id="201791" available="true">
         <name>гр М`яка іграшка "Пес Батон" 31877 (1) довжина 100 см, текстильна поверхня, наповнення: синтепон</name>
         <name_ua>гр М`яка іграшка "Пес Батон" 31877 (1) довжина 100 см, текстильна поверхня, наповнення: синтепон </name_ua>
-        <price>995</price>
+        <price>1033</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000201791.jpg</picture>
@@ -13524,7 +13595,7 @@
       <offer id="138131" available="true">
         <name>гр Мольберт середній - двосторонній 456 / MM_357428 (1) розмір 54*81 см, в пакеті</name>
         <name_ua>гр Мольберт середній- двосторонній  456 / MM_357428 (1) розмір 54*81 см, в пакеті</name_ua>
-        <price>931</price>
+        <price>969</price>
         <currencyId>UAH</currencyId>
         <categoryId>7</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000138131.jpg</picture>
@@ -13562,7 +13633,7 @@
       <offer id="199435" available="true">
         <name>гр М’яка іграшка "Бичок" 90275 (1) 2 види, розмір 18х14х49 см, імітація скляних очей</name>
         <name_ua>гр М’яка іграшка "Бичок" 90275 (1) 2 види, розмір 18х14х49 см, імітація скляних очей</name_ua>
-        <price>893</price>
+        <price>931</price>
         <currencyId>UAH</currencyId>
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000199435.jpg</picture>
@@ -13594,6 +13665,51 @@
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/noimage.gif</picture>
         <barcode>4820005217526</barcode>
+      </offer>
+      <offer id="192383" available="true">
+        <name>гр М’яка іграшка "Машина" 44151 (1) довжина: 35см, поверхня: текстиль, наповнення: синтепон, тримає форму </name>
+        <name_ua>гр М’яка іграшка "Машина" 44151 (1) довжина: 35см, поверхня: текстиль, наповнення: синтепон, тримає форму </name_ua>
+        <price>867</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000192383.jpg</picture>
+        <barcode>4820005441518</barcode>
+      </offer>
+      <offer id="155011" available="true">
+        <name>гр М’яка іграшка "Панда" П10843 висота 1.6м (1)</name>
+        <name_ua>гр М’яка іграшка "Панда" П10843 висота 1.6м (1)</name_ua>
+        <price>2856</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000155011.jpg</picture>
+        <barcode>4820005215164</barcode>
+      </offer>
+      <offer id="155010" available="true">
+        <name>гр М’яка іграшка "Панда" П11983 висота 1.3м (1)</name>
+        <name_ua>гр М’яка іграшка "Панда" П11983 висота 1.3м (1)</name_ua>
+        <price>1938</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000155010.jpg</picture>
+        <barcode>4820005215171</barcode>
+      </offer>
+      <offer id="157589" available="true">
+        <name>гр М’яка іграшка "Панда" П49826 висота 0.7м (1)</name>
+        <name_ua>гр М’яка іграшка "Панда" П49826 висота 0.7м (1)</name_ua>
+        <price>957</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000157589.jpg</picture>
+        <barcode>4820005215294</barcode>
+      </offer>
+      <offer id="155009" available="true">
+        <name>гр М’яка іграшка "Панда" П95988/95999 висота 1м (1)</name>
+        <name_ua>гр М’яка іграшка "Панда" П95988 висота 1м (1)</name_ua>
+        <price>1403</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127961</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000155009.jpg</picture>
+        <barcode>4820005215188</barcode>
       </offer>
       <offer id="123933" available="true">
         <name>гр Набір іграшок Технок 8829 (3) "Technok Toys", скилофон, сортер, логічні ігри, мозаїка, у коробці</name>
@@ -13824,16 +13940,6 @@
         <picture>https://igrushki7.ua/images/prom/00000146068.jpg</picture>
         <vendor>Ранок</vendor>
         <barcode>4823076153823</barcode>
-      </offer>
-      <offer id="195798" available="true">
-        <name>гр Набір для творчості "Мильна фабрика  XXL" 10100598У (6) "Ранок", 26 мильних фігурок, матеріали, інструкція, в коробці</name>
-        <name_ua>гр Набір для творчості "Мильна фабрика  XXL" 10100598У (6) "Ранок", 26 мильних фігурок, матеріали, інструкція, в коробці</name_ua>
-        <price>2191</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>79743</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000195798.jpg</picture>
-        <vendor>Ранок</vendor>
-        <barcode>4823076153830</barcode>
       </offer>
       <offer id="126467" available="true">
         <name>гр Набір для творчості "Я люблю десерти" 10100543У / 460063 (17) "Ранок"</name>
@@ -14708,16 +14814,6 @@
         <categoryId>7865</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000135657.jpg</picture>
         <vendor>Алінка</vendor>
-      </offer>
-      <offer id="45649" available="true">
-        <name>гр Сіті "Лайф міні 2" 095/5 (2) "BAMSIC"</name>
-        <name_ua>гр Сіті "Лайф міні 2" 095/5 (2) "BAMSIC", 60 деталей</name_ua>
-        <price>893</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>10245</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000045649.jpg</picture>
-        <vendor>Bamsic</vendor>
-        <barcode>4820123761253</barcode>
       </offer>
       <offer id="201615" available="true">
         <name>гр Самоскид "Maximus" колір помаранчевий 64040 (2) "Wader", розмір: 5,9х3,1х3,5 см</name>
@@ -16878,15 +16974,6 @@
         <picture>https://igrushki7.ua/images/prom/00000174444.jpg</picture>
         <barcode>6900067723765</barcode>
       </offer>
-      <offer id="178002" available="true">
-        <name>Гра антистрес C 72378 (24) ЦІНА ЗА 16 ШТУК В БЛОЦІ, герой, в коробці</name>
-        <name_ua>Гра антистрес C 72378 (24) ЦІНА ЗА 16 ШТУК В БЛОЦІ, герой, в коробці</name_ua>
-        <price>875</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>127959</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000178002.jpg</picture>
-        <barcode>6900067723789</barcode>
-      </offer>
       <offer id="177703" available="true">
         <name>Гра антистрес C 72380 (24) ЦІНА ЗА 16 ШТУК В БЛОЦІ, “Тваринка”, м’які кульки, в коробці</name>
         <name_ua>Гра антистрес C 72380 (24) ЦІНА ЗА 16 ШТУК В БЛОЦІ, “Тваринка”, м’які кульки, в коробці</name_ua>
@@ -16976,15 +17063,6 @@
         <categoryId>127959</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000176594.jpg</picture>
         <barcode>6900067723925</barcode>
-      </offer>
-      <offer id="176635" available="true">
-        <name>Гра антистрес C 72393 (24) ЦІНА ЗА 16 ШТУК В БЛОЦІ, “Лапка”, в пакеті</name>
-        <name_ua>Гра антистрес C 72393 (24) ЦІНА ЗА 16 ШТУК В БЛОЦІ, “Лапка”, в коробці</name_ua>
-        <price>889</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>127959</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000176635.jpg</picture>
-        <barcode>6900067723932</barcode>
       </offer>
       <offer id="174451" available="true">
         <name>Гра антистрес C 72394 (24) ЦІНА ЗА 16 ШТУКИ В БЛОЦІ, “Лапка”, м’які кульки, в коробці</name>
@@ -19421,15 +19499,6 @@
         <picture>https://igrushki7.ua/images/prom/00000179342.jpg</picture>
         <barcode>6982838300085</barcode>
       </offer>
-      <offer id="185427" available="true">
-        <name>Електронний бокс 7792 F (18) акумулятор 3.7V, рахує удари, мелодії, підсвічування, регулюється швидкість та гучність, рукавиці, в коробці</name>
-        <name_ua>Електронний бокс 7792 F (18) акумулятор 3.7V, рахує удари, мелодії, підсвічування, регулюється швидкість та гучність, рукавиці, в коробці</name_ua>
-        <price>1586</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1958</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000185427.jpg</picture>
-        <barcode>6982838300214</barcode>
-      </offer>
       <offer id="200033" available="true">
         <name>Електронний бокс 7792 H (18) акумулятор: 3.7V, рахує удари, мелодії, Bluetooth, підсвічування, регулюється швидкість та гучність, рукавиці, в коробці,</name>
         <name_ua>Електронний бокс 7792 H (18) акумулятор: 3.7V, рахує удари, мелодії, Bluetooth, підсвічування, регулюється швидкість та гучність, рукавиці, в коробці, ВИДАЄТЬСЯ МІКС</name_ua>
@@ -19800,15 +19869,6 @@
         <picture>https://igrushki7.ua/images/prom/00000179807.jpg</picture>
         <barcode>6980077060340</barcode>
       </offer>
-      <offer id="136344" available="true">
-        <name>Залізниця на радіокеруванні 3095 A/B (12) 2 види, радіокерування, пульт 27 MHz, звук, підсвічування, парогенератор, локомотив+3 вагони, декорації, в к</name>
-        <name_ua>Залізниця на радіокеруванні 3095 A/B (12) 2 види, радіокерування, пульт 27 MHz, звук, підсвічування, парогенератор, локомотив+3 вагони, декорації, в коробці</name_ua>
-        <price>1381</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000136344.jpg</picture>
-        <barcode>6965147064244</barcode>
-      </offer>
       <offer id="200508" available="true">
         <name>Залізниця на радіокеруванні 8519 CM (STEAM) (8) 21 елемент, пара, світло, звуки, довжина колії 479 см, локомотив, 3 вагони, пульт, в коробці</name>
         <name_ua>Залізниця на радіокеруванні 8519 CM (STEAM) (8) 21 елемент, парогенерація, підсвічування, звуки потяга, довжина колії 479 см, локомотив, 3 вагони, пульт керування, в коробці</name_ua>
@@ -19817,16 +19877,6 @@
         <categoryId>1</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000200508.jpg</picture>
         <barcode>6978462062314</barcode>
-      </offer>
-      <offer id="138695" available="true">
-        <name>Залізниця “Столичний експрес” 84467 (18/2) "TK Group", ОЗВУЧУВАННЯ УКРАЇНСЬКОЮ МОВОЮ, звук, LED-підсвічування, масштаб 1:43, в коробці</name>
-        <name_ua>Залізниця “Столичний експрес” 84467 (18/2) "TK Group", ОЗВУЧУВАННЯ УКРАЇНСЬКОЮ МОВОЮ, звук, LED-підсвічування, масштаб 1:43, в коробці</name_ua>
-        <price>1087</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000138695.jpg</picture>
-        <vendor>TK Group</vendor>
-        <barcode>6946615057951</barcode>
       </offer>
       <offer id="145580" available="true">
         <name>Запускач 5000 C (24) "Каченя-космонавт", фризбі, сачок, механічний, в коробці</name>
@@ -20205,15 +20255,6 @@
         <picture>https://igrushki7.ua/images/prom/00000187392.jpg</picture>
         <barcode>6966243258872</barcode>
       </offer>
-      <offer id="149163" available="true">
-        <name>Карусель HL 2020-76 (18/2) підсвічування, колискова мелодія, автоматичне обертання, в коробці</name>
-        <name_ua>Карусель HL 2020-76 (18/2) підсвічування, колискова мелодія, автоматичне обертання, в коробці</name_ua>
-        <price>1032</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1910</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000149163.jpg</picture>
-        <barcode>6966243259206</barcode>
-      </offer>
       <offer id="187380" available="true">
         <name>Карусель HL 2025-75 (12/2) 2 кольори, підсвічування, звуки, мелодії, пульт керування, таймер, регулювання гучності, обертається, бря</name>
         <name_ua>Карусель HL 2025-75 (12/2) 2 кольори, підсвічування, звуки, мелодії, пульт керування, таймер, регулювання гучності, обертається, підвіски-брязкальця, в коробці</name_ua>
@@ -20222,15 +20263,6 @@
         <categoryId>1910</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000187380.jpg</picture>
         <barcode>6966243241119</barcode>
-      </offer>
-      <offer id="187382" available="true">
-        <name>Карусель HL 2025-77 (12/2) 2 кольори, підсвічування, звуки, мелодії, пульт керування, таймер, регулювання гучності, обертається, брязкальця, в коробці</name>
-        <name_ua>Карусель HL 2025-77 (12/2) 2 кольори, підсвічування, звуки, мелодії, пульт керування, таймер, регулювання гучності, обертається, підвіски-брязкальця, в коробці</name_ua>
-        <price>1645</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1910</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000187382.jpg</picture>
-        <barcode>6966243241133</barcode>
       </offer>
       <offer id="187383" available="true">
         <name>Карусель HL 2025-78 (12/2) 2 кольори, підсвічування, звуки, мелодії, пульт керування, таймер, регулювання гучності, обертається, бря</name>
@@ -21381,15 +21413,6 @@
         <picture>https://igrushki7.ua/images/prom/00000133092.jpg</picture>
         <barcode>6985306251995</barcode>
       </offer>
-      <offer id="103446" available="true">
-        <name>Килимок ігровий (ТЕРМО) 2-х сторонній EVA С-24093 (20) 180х120х0.8см, в сумці</name>
-        <name_ua>Килимок ігровий (ТЕРМО) 2-х сторонній EVA С-24093 (20)  180х120х0.8см, в сумці</name_ua>
-        <price>882</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1921</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000103446.jpg</picture>
-        <barcode>6900066351426</barcode>
-      </offer>
       <offer id="151622" available="true">
         <name>Килимок для пікніка С 64958 (50) 2 види, водонепроникний, розмір 200х200 см, у пакеті</name>
         <name_ua>Килимок для пікніка С 64958 (50) 2 види, водонепроникний, розмір 200х200 см, у пакеті</name_ua>
@@ -22494,15 +22517,6 @@
         <categoryId>188712</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000193796.jpg</picture>
       </offer>
-      <offer id="199098" available="true">
-        <name>Корабель 660 A-02 (12/2) в коробці</name>
-        <name_ua>Корабель 660 A-02 (12/2) в коробці</name_ua>
-        <price>1490</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>130514</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000199098.jpg</picture>
-        <barcode>6983283400481</barcode>
-      </offer>
       <offer id="160680" available="true">
         <name>Корабель 660 A-246 (16/2) парковка, звук, підсвічування, інерція, транспорт, масштаб 1:64, в коробці</name>
         <name_ua>Корабель 660 A-246 (16/2) парковка, звук, підсвічування, інерція, транспорт, масштаб 1:64; в коробці</name_ua>
@@ -22511,6 +22525,15 @@
         <categoryId>130514</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000160680.jpg</picture>
         <barcode>6983283400139</barcode>
+      </offer>
+      <offer id="199098" available="true">
+        <name>Корабель 660 S-02 (12/2) розмір: 33х12х11,5 см, підсвіч., звуки, інерція, трап, кран, акула, металопласт. пожежна машина та гелікоптер, у коробці</name>
+        <name_ua>Корабель 660 S-02 (12/2) розмір: 33х12х11,5 см, підсвічування, звуки, інерція, висувний трап, кран, акула, металопластикові пожежна машина та гелікоптер, масштаб: 1:64, у коробці</name_ua>
+        <price>1490</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199098.jpg</picture>
+        <barcode>6983283400481</barcode>
       </offer>
       <offer id="165577" available="true">
         <name>Короб-органайзер C 68851 (20) 31х60х35 см, складний, в пакеті, ВИДАЄТЬСЯ МІКС ВИДІВ</name>
@@ -22557,6 +22580,33 @@
         <picture>https://igrushki7.ua/images/prom/00000097253.jpg</picture>
         <barcode>6969517400168</barcode>
       </offer>
+      <offer id="198908" available="true">
+        <name>Космічний набір 80134 (12/2) в коробці</name>
+        <name_ua>Космічний набір 80134 (12/2) в коробці</name_ua>
+        <price>1162</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127963</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198908.jpg</picture>
+        <barcode>6969517400304</barcode>
+      </offer>
+      <offer id="198909" available="true">
+        <name>Космічний набір 80167 (6) в коробці</name>
+        <name_ua>Космічний набір 80167 (6) в коробці</name_ua>
+        <price>1224</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127963</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198909.jpg</picture>
+        <barcode>6969517400571</barcode>
+      </offer>
+      <offer id="198910" available="true">
+        <name>Космічний набір 80171 A (12/2) в коробці</name>
+        <name_ua>Космічний набір 80171 A (12/2) в коробці</name_ua>
+        <price>1186</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127963</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198910.jpg</picture>
+        <barcode>6969517400618</barcode>
+      </offer>
       <offer id="163735" available="true">
         <name>Косметика FT 2015 A (60) 15 елементів, кейс, 2 палетки рум`ян, 2 - тіней для повік, 2 помади, пилочки для нігтів, дзеркальце, в коробці, МІКС</name>
         <name_ua>Косметика FT 2015 A (60) 15 елементів, кейс, 2 палетки рум'ян, 2 - тіней для повік, 2 помади, пилочки для нігтів, дзеркальце, в коробці, ВИДАЄТЬСЯ МІКС ВИДІВ</name_ua>
@@ -22601,6 +22651,24 @@
         <categoryId>22</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000163537.jpg</picture>
         <barcode>6990791402715</barcode>
+      </offer>
+      <offer id="97563" available="true">
+        <name>Космическая станция 80105 (6/2) свет, звук, 2 космонавта, аксессуары, в коробке</name>
+        <name_ua>Космічна станція 80105 (6/2) світло, звук, 2 космонавти, в коробці</name_ua>
+        <price>2170</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127963</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000097563.jpg</picture>
+        <barcode>6969517400182</barcode>
+      </offer>
+      <offer id="97560" available="true">
+        <name>Космический корабль 80104 (8/2) свет, звук, ракета, луноход, два космонавта, в коробке</name>
+        <name_ua>Космічний корабель 80104 (8/2) світло, звук, ракета, місяцехід, два космонавти, в коробці</name_ua>
+        <price>2017</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>127963</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000097560.jpg</picture>
+        <barcode>6969517400175</barcode>
       </offer>
       <offer id="156777" available="true">
         <name>Кошеня 933-141 E (8/2) звук серцебиття, сумка-переноска, пляшечка, фен, щітка, в коробці</name>
@@ -22647,15 +22715,6 @@
         <picture>https://igrushki7.ua/images/prom/00000049947.jpg</picture>
         <barcode>6968796080252</barcode>
       </offer>
-      <offer id="149882" available="true">
-        <name>Кран на радіокер. 689-812 (16) масштаб 1:18, пульт 2.4 G, від акумулятора 3.7 V, світло, звуки, мелодії, їздить, вантаж, кран піднімається, в коробці</name>
-        <name_ua>Кран на радіокеруванні 689-812 (16) масштаб 1:18, пульт 2.4 G, від акумулятора 3.7 V, світло, звуки, мелодії, їздить, вантаж, кран піднімається, в коробці</name_ua>
-        <price>1497</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>91163</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000149882.jpg</picture>
-        <barcode>6965436400142</barcode>
-      </offer>
       <offer id="199206" available="true">
         <name>Кран на радіокеруванні 722-2 A (18) 1:20, акумулятор 4,8 V, пульт 2,4 G, USB-кабель, підсвічування, звуки, парогенерація, рухомий гак, у коробці</name>
         <name_ua>Кран на радіокеруванні 722-2 A (18) масштаб 1:20, акумулятор 4,8 V, пульт 2,4 G, USB-кабель, підсвічування, звуки, парогенерація, рухомий гак, платформа з кабіною обертається, гумові гусениці, вантаж, у коробці</name_ua>
@@ -22664,6 +22723,24 @@
         <categoryId>91163</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000199206.jpg</picture>
         <barcode>6966439080041</barcode>
+      </offer>
+      <offer id="183391" available="true">
+        <name>Кран на радіокеруванні 8640 A (18) акум. 3.7 V, USB-кабель, пульт 2.4 GHz, підсвічування, масштаб 1:18, кабіна обертається, підіймає вантаж, в коробці</name>
+        <name_ua>Кран на радіокеруванні 8640 A (18) акум. 3.7 V, USB-кабель, пульт 2.4 GHz, підсвічування, масштаб 1:18, кабіна обертається, підіймає вантаж, в коробці</name_ua>
+        <price>1533</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>91163</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000183391.jpg</picture>
+        <barcode>6965929080325</barcode>
+      </offer>
+      <offer id="180570" available="true">
+        <name>Кран на радіокеруванні 8640-1 (8) акумулятор 4.8 V, USB кабель, пульт 2.4 GHZ, звук, підсвічування, 1:18, оберт на 360°, підіймає вантаж, в коробці</name>
+        <name_ua>Кран на радіокеруванні 8640-1 (8) акумулятор 4.8 V, USB кабель, пульт 2.4 GHZ, звук, підсвічування, масштаб 1:18, кабіна обертається, підіймає вантаж, в коробці</name_ua>
+        <price>2802</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>91163</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000180570.jpg</picture>
+        <barcode>6965929080356</barcode>
       </offer>
       <offer id="81960" available="true">
         <name>Кран на радіокеруванні QF 323 (24) на батарейках, підсвічування, в коробці</name>
@@ -22736,14 +22813,6 @@
         <categoryId>182782</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000157271.jpg</picture>
         <barcode>6975134400023</barcode>
-      </offer>
-      <offer id="203750" available="true">
-        <name>Крило переднє для електромопеда Flex (1) деталь №6</name>
-        <name_ua>Крило переднє для електромопеда Flex (1) деталь №6</name_ua>
-        <price>1053</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>188712</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000203750.jpg</picture>
       </offer>
       <offer id="188025" available="true">
         <name>Крокодил на радіокеруванні YS 22 (12) 29 см, обертається, їздить вперед-назад, виляє хвостом, підіймає щелепу, акум. 3.7 V, пульт 2.4 GHz, в коробці</name>
@@ -23287,7 +23356,7 @@
       </offer>
       <offer id="199094" available="true">
         <name>Літак-парковка 660 A-312 (12/2) в коробці</name>
-        <name_ua>Літак-парковка 660 A-312 (12/2) в коробці</name_ua>
+        <name_ua>Літак-парковка 660 A-312 (12/2) “Spray Plane: Police Garage”, 3 машинки, дорожні знаки, підсвічування, звуки, парогенератор, на батарейках, в коробці</name_ua>
         <price>1716</price>
         <currencyId>UAH</currencyId>
         <categoryId>8</categoryId>
@@ -23781,6 +23850,24 @@
         <picture>https://igrushki7.ua/images/prom/00000173167.jpg</picture>
         <barcode>6980590190111</barcode>
       </offer>
+      <offer id="199113" available="true">
+        <name>Лялькa DH 2612 A (16/2) в коробці</name>
+        <name_ua>Лялькa DH 2612 A (16/2) в коробці</name_ua>
+        <price>1716</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199113.jpg</picture>
+        <barcode>6965191246597</barcode>
+      </offer>
+      <offer id="199114" available="true">
+        <name>Лялькa DH 2612 B (16/2) в коробці</name>
+        <name_ua>Лялькa DH 2612 B (16/2) в коробці</name_ua>
+        <price>1716</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199114.jpg</picture>
+        <barcode>6965191246603</barcode>
+      </offer>
       <offer id="172275" available="true">
         <name>Лялька 121 A (28/2) 15 см, карета, поні, звуки, поні ходить, на батарейках, в коробці</name>
         <name_ua>Лялька 121 A (28/2) 15 см, карета, поні, звуки, поні ходить, на батарейках, в коробці</name_ua>
@@ -23817,6 +23904,24 @@
         <picture>https://igrushki7.ua/images/prom/00000166319.jpg</picture>
         <barcode>6990298435711</barcode>
       </offer>
+      <offer id="166325" available="true">
+        <name>Лялька 616035 (18) висота - 31 см, 4 види форми, фігурки песика та кота,  аксесуари, в коробці</name>
+        <name_ua>Лялька 616035 (18) висота - 31 см, 4 види форми, фігурки песика та кота, аксесуари, в коробці</name_ua>
+        <price>1073</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000166325.jpg</picture>
+        <barcode>6990298435933</barcode>
+      </offer>
+      <offer id="161755" available="true">
+        <name>Лялька 616093 (12) кабріолет, аксесуари, висота ляльки 30 см, в коробці</name>
+        <name_ua>Лялька 616093 (12) кабріолет, аксесуари, висота ляльки 30 см, в коробці</name_ua>
+        <price>1233</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000161755.jpg</picture>
+        <barcode>6990298435735</barcode>
+      </offer>
       <offer id="184663" available="true">
         <name>Лялька 616281 (12) висота 30 см, шарнірні кінцівки, одяг, снігохід, лижі, сноуборд, аксесуари, в коробці</name>
         <name_ua>Лялька 616281 (12) висота 30 см, шарнірні кінцівки, одяг, снігохід, лижі, сноуборд, аксесуари, в коробці</name_ua>
@@ -23835,6 +23940,24 @@
         <picture>https://igrushki7.ua/images/prom/00000182081.jpg</picture>
         <barcode>6990298437982</barcode>
       </offer>
+      <offer id="176337" available="true">
+        <name>Лялька 616288 (18) висота 30 см, рухомі кінцівки, прошите волосся, аксесуари, знімний одяг, в коробці</name>
+        <name_ua>Лялька 616288 (18) висота 30 см, рухомі кінцівки, прошите волосся, аксесуари, знімний одяг, в коробці</name_ua>
+        <price>855</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000176337.jpg</picture>
+        <barcode>6990298436060</barcode>
+      </offer>
+      <offer id="199054" available="true">
+        <name>Лялька 616325 (8) в коробці</name>
+        <name_ua>Лялька 616325 (8) в коробці</name_ua>
+        <price>979</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199054.jpg</picture>
+        <barcode>6990298438187</barcode>
+      </offer>
       <offer id="166318" available="true">
         <name>Лялька 616328 (12) висота - 31 см, шарнірні суглоби, гумова голова, ліжко, аксесуари, в коробці</name>
         <name_ua>Лялька 616328 (12) висота - 31 см, шарнірні суглоби, гумова голова, ліжко, аксесуари, в коробці</name_ua>
@@ -23847,11 +23970,20 @@
       <offer id="182097" available="true">
         <name>Лялька 616339 (12) висота 30 см, знімний одяг, шарнірні суглоби, аксесуари, туалетний столик, ліжко, в коробці</name>
         <name_ua>Лялька 616339 (12) висота 30 см, знімний одяг, шарнірні суглоби, аксесуари, туалетний столик, ліжко, в коробці</name_ua>
-        <price>1239</price>
+        <price>1313</price>
         <currencyId>UAH</currencyId>
         <categoryId>10598</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000182097.jpg</picture>
         <barcode>6990298438286</barcode>
+      </offer>
+      <offer id="182099" available="true">
+        <name>Лялька 616352 (12) висота: 30 см, аксесуари, меблі, в коробці</name>
+        <name_ua>Лялька 616352 (12) висота: 30 см, аксесуари, меблі, в коробці</name_ua>
+        <price>1114</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000182099.jpg</picture>
+        <barcode>6990298438316</barcode>
       </offer>
       <offer id="185968" available="true">
         <name>Лялька 616610 (18) висота: 29 см, знімний одяг та взуття, басейн, магазинчик, гірка, аксесуари, в коробці </name>
@@ -23861,6 +23993,69 @@
         <categoryId>10598</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000185968.jpg</picture>
         <barcode>6990298438866</barcode>
+      </offer>
+      <offer id="199033" available="true">
+        <name>Лялька 616820 (12) в коробці</name>
+        <name_ua>Лялька 616820 (12) в коробці</name_ua>
+        <price>1596</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199033.jpg</picture>
+        <barcode>6990298240865</barcode>
+      </offer>
+      <offer id="199034" available="true">
+        <name>Лялька 616821 (18) в коробці</name>
+        <name_ua>Лялька 616821 (18) в коробці</name_ua>
+        <price>1367</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199034.jpg</picture>
+        <barcode>6990298240872</barcode>
+      </offer>
+      <offer id="199040" available="true">
+        <name>Лялька 616963 (18) в коробці</name>
+        <name_ua>Лялька 616963 (18) в коробці</name_ua>
+        <price>1238</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199040.jpg</picture>
+        <barcode>6990298241688</barcode>
+      </offer>
+      <offer id="199049" available="true">
+        <name>Лялька 636216 (18) в коробці</name>
+        <name_ua>Лялька 636216 (18) в коробці</name_ua>
+        <price>1084</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199049.jpg</picture>
+        <barcode>6990298242951</barcode>
+      </offer>
+      <offer id="199050" available="true">
+        <name>Лялька 636218 (18) в коробці</name>
+        <name_ua>Лялька 636218 (18) в коробці</name_ua>
+        <price>939</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199050.jpg</picture>
+        <barcode>6990298242968</barcode>
+      </offer>
+      <offer id="199053" available="true">
+        <name>Лялька 636298 (12) в коробці</name>
+        <name_ua>Лялька 636298 (12) в коробці</name_ua>
+        <price>1434</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199053.jpg</picture>
+        <barcode>6990298243019</barcode>
+      </offer>
+      <offer id="199046" available="true">
+        <name>Лялька 636326 (12) в коробці</name>
+        <name_ua>Лялька 636326 (12) в коробці</name_ua>
+        <price>1152</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199046.jpg</picture>
+        <barcode>6990298242425</barcode>
       </offer>
       <offer id="89402" available="true">
         <name>Лялька 68155 (12/2) голова для зачісок аксесуари, в коробці</name>
@@ -24122,6 +24317,15 @@
         <categoryId>10598</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000185238.jpg</picture>
         <barcode>6965191245934</barcode>
+      </offer>
+      <offer id="154285" available="true">
+        <name>Лялька AD 8814-6 (12) гумова, музичний чіп, видає різні звуки, аксесуари, висота 57 см, в коробці</name>
+        <name_ua>Лялька AD 8814-6 (12) гумова, музичний чіп, видає різні звуки, аксесуари, висота 57 см, в коробці</name_ua>
+        <price>3083</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000154285.jpg</picture>
+        <barcode>6974120584341</barcode>
       </offer>
       <offer id="184198" available="true">
         <name>Лялька AFD 8866-46 S (12) висота: 52 см, функціональна, гумова, звуки, прошите волосся, аксесуари, в коробці</name>
@@ -24603,6 +24807,15 @@
         <picture>https://igrushki7.ua/images/prom/00000181892.jpg</picture>
         <barcode>6966650430021</barcode>
       </offer>
+      <offer id="185965" available="true">
+        <name>Лялька з аксесуарами 616085 (18) вис: 30 см, голова і руки: гум, тіло і  ноги: пласт знімна сукня, 10 дод. суконь, 4 п. взуття, аксесуари, в коробці</name>
+        <name_ua>Лялька з аксесуарами 616085 (18) висота: 30 см, голова та руки: гума, тіло та ноги: пластик, знімна сукня, 10 додаткових суконь, 4 пари взуття, 2 діадеми, 3 кольє, аксесуари, в коробці</name_ua>
+        <price>1210</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000185965.jpg</picture>
+        <barcode>6990298240179</barcode>
+      </offer>
       <offer id="158163" available="true">
         <name>Лялька з аксесуарами 616261 (8) висота ляльки - 30 см, вертоліт, в коробці</name>
         <name_ua>Лялька з аксесуарами 616261 (8) висота ляльки - 30 см, вертоліт, в коробці</name_ua>
@@ -24666,6 +24879,15 @@
         <picture>https://igrushki7.ua/images/prom/00000144151.jpg</picture>
         <barcode>6984229439589</barcode>
       </offer>
+      <offer id="161793" available="true">
+        <name>Лялька з гардеробом 616239 (18) висота - 29,5 см, рухомі кінцівки, прошите волосся, 7 суконь, взуття, аксесуари, в коробці</name>
+        <name_ua>Лялька з гардеробом 616239 (18) висота - 29,5 см, рухомі кінцівки, прошите волосся, 7 суконь, взуття, аксесуари, в коробці</name_ua>
+        <price>879</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000161793.jpg</picture>
+        <barcode>6990298435476</barcode>
+      </offer>
       <offer id="183111" available="true">
         <name>Лялька з каретою 616689 (6) висота ляльки 30 см, шарнірні кінцівки, намисто, пара взуття, корона, кінь із сідлом, карета, дах відчиняється, в коробці</name>
         <name_ua>Лялька з каретою 616689 (6) висота ляльки 30 см, шарнірні кінцівки, намисто, пара взуття, корона, кінь із сідлом, карета, дах відчиняється, в коробці</name_ua>
@@ -24674,6 +24896,15 @@
         <categoryId>10598</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000183111.jpg</picture>
         <barcode>6990298240032</barcode>
+      </offer>
+      <offer id="183119" available="true">
+        <name>Лялька з каретою 616853 (6) світло, висота ляльки 30 см, шарнірні кінцівки, намисто, корона, кінь із сідлом, карета, дверцята відчиняються, в коробці</name>
+        <name_ua>Лялька з каретою 616853 (6) підсвічування, висота ляльки 30 см, шарнірні кінцівки, намисто, корона, кінь із сідлом, карета, дверцята відчиняються, в коробці</name_ua>
+        <price>1955</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10598</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000183119.jpg</picture>
+        <barcode>6990298240254</barcode>
       </offer>
       <offer id="185964" available="true">
         <name>Лялька з меблями 616039 (12) вис: 30 см, шарн. з’єдн., голова і  руки: гума, тіло і ноги: пластик, одяг, взуття, ліжко: 31 см, аксесуари, в коробці</name>
@@ -24765,15 +24996,6 @@
         <categoryId>127961</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000148540.jpg</picture>
         <barcode>6900067629937</barcode>
-      </offer>
-      <offer id="202196" available="true">
-        <name>М`яка іграшка C 79120 (36)</name>
-        <name_ua>М`яка іграшка C 79120 (36)</name_ua>
-        <price>1272</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>127961</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000202196.jpg</picture>
-        <barcode>6900067791207</barcode>
       </offer>
       <offer id="173425" available="true">
         <name>М`яка іграшка D 9231 (16/2) ЦІНА ЗА 6 ШТУК В БЛОЦІ, у тубі, в коробці</name>
@@ -25106,7 +25328,7 @@
         <name_ua>М`яка іграшка M 18240 (50) герой, висота 36см, сидяча, пластикові очі, сукня, бантик</name_ua>
         <price>972</price>
         <currencyId>UAH</currencyId>
-        <categoryId>127961</categoryId>
+        <categoryId>182782</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000171612.jpg</picture>
         <barcode>6900077182408</barcode>
       </offer>
@@ -25804,15 +26026,6 @@
         <picture>https://igrushki7.ua/images/prom/00000181203.jpg</picture>
         <barcode>6984472261814</barcode>
       </offer>
-      <offer id="181205" available="true">
-        <name>Магнітний конструктор 4402 (18/2) 74 деталі, в коробці</name>
-        <name_ua>Магнітний конструктор 4402 (18/2) 74 деталі, в коробці</name_ua>
-        <price>1685</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>59920</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000181205.jpg</picture>
-        <barcode>6984472261838</barcode>
-      </offer>
       <offer id="181206" available="true">
         <name>Магнітний конструктор 4404 (18/2) 68 деталей, в коробці</name>
         <name_ua>Магнітний конструктор 4404 (18/2) 68 деталей, в коробці</name_ua>
@@ -26350,15 +26563,6 @@
         <picture>https://igrushki7.ua/images/prom/00000159063.jpg</picture>
         <barcode>6967808087760</barcode>
       </offer>
-      <offer id="178094" available="true">
-        <name>Машина на радіокеруванні 666-851 JA (36) 2 кольори,“Поліція”,функц. зарядна станція,1:24, акум.3.7V, пульт2.4G, змінні колеса,аксесуари,підсвіч.,в кор</name>
-        <name_ua>Машина на радіокеруванні 666-851 JA (36) 2 кольори, “Поліція”, функціональна зарядна станція, масштаб 1:24, акум. 3.7V, пульт 2.4G, змінні колеса, аксесуари, підсвічування, викрутка, в коробці</name_ua>
-        <price>923</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>91163</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000178094.jpg</picture>
-        <barcode>6967808088408</barcode>
-      </offer>
       <offer id="192089" available="true">
         <name>Машина на радіокеруванні 666-852 A (36) акумулятор 3.7V, пульт 2.4G, підсвічування, змінні колеса, масштаб 1:24, в коробці, ВИДАЄТЬСЯ МІКС</name>
         <name_ua>Машина на радіокеруванні 666-852 A (36) акумулятор 3.7V, пульт 2.4G, підсвічування, змінні колеса, масштаб 1:24, в коробці, ВИДАЄТЬСЯ МІКС</name_ua>
@@ -26503,24 +26707,6 @@
         <categoryId>91163</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000173781.jpg</picture>
         <barcode>6985651081858</barcode>
-      </offer>
-      <offer id="199312" available="true">
-        <name>Машина на радіокеруванні 911-819 A (12) в коробці, 2 вида</name>
-        <name_ua>Машина на радіокеруванні 911-819 A (12) в коробці, 2 вида</name_ua>
-        <price>1914</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>91163</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000199312.jpg</picture>
-        <barcode>6985651082480</barcode>
-      </offer>
-      <offer id="199320" available="true">
-        <name>Машина на радіокеруванні 911-832 A (12) в коробці, 2 вида</name>
-        <name_ua>Машина на радіокеруванні 911-832 A (12) в коробці, 2 вида</name_ua>
-        <price>2017</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>91163</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000199320.jpg</picture>
-        <barcode>6985651082527</barcode>
       </offer>
       <offer id="192139" available="true">
         <name>Машина на радіокеруванні 93228 (36) акумулятор 3.7V, пульт 2.4 GHz, 4WD, звуки, підсвічування, змінні колеса, дорожні конуси, в коробці</name>
@@ -27805,15 +27991,6 @@
         <picture>https://igrushki7.ua/images/prom/00000200549.jpg</picture>
         <barcode>6976562410028</barcode>
       </offer>
-      <offer id="193743" available="true">
-        <name>Меч на радіокеруванні UD 3203 A (48) знімний акумулятор 3.7V, USB-кабель, пульт 2.4GHz, підсвічування, сенсорна перчатка, 3 швидкості, в коробці</name>
-        <name_ua>Меч на радіокеруванні UD 3203 A (48) знімний акумулятор 3.7V, USB-кабель, пульт 2.4GHz, підсвічування, сенсорна перчатка, 3 швидкості, в коробці</name_ua>
-        <price>1282</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>182782</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000193743.jpg</picture>
-        <barcode>6965208082606</barcode>
-      </offer>
       <offer id="168833" available="true">
         <name>Мийка 5806 A (24/2) на батарейках, подача води, 19 предметів, в коробці</name>
         <name_ua>Мийка 5806 A (24/2) на батарейках, подача води, 19 предметів, в коробці</name_ua>
@@ -28766,11 +28943,11 @@
         <barcode>6945717435391</barcode>
       </offer>
       <offer id="198967" available="true">
-        <name>Музичний центр YL 526 (24) в коробці</name>
-        <name_ua>Музичний центр YL 526 (24) в коробці</name_ua>
+        <name>Музичний слоник YL 526 (24) 2 види, підсвічування, звук труби, барабана, тарілок, піаніно, мелодії,  кумедні звуки, брязкальце, в коробці</name>
+        <name_ua>Музичний слоник YL 526 (24) 2 види, підсвічування, звук труби, барабана, тарілок, піаніно, мелодії,  кумедні звуки, брязкальце, в коробці</name_ua>
         <price>1034</price>
         <currencyId>UAH</currencyId>
-        <categoryId>79440</categoryId>
+        <categoryId>1924</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000198967.jpg</picture>
         <barcode>6985306252350</barcode>
       </offer>
@@ -29118,14 +29295,6 @@
         <picture>https://igrushki7.ua/images/prom/00000183039.jpg</picture>
         <barcode>6975434401584</barcode>
       </offer>
-      <offer id="204048" available="true">
-        <name>Набір інструментів 008-952 A1 (8) слюсарна майстерня, У ПАКЕТІ</name>
-        <name_ua>Набір інструментів 008-952 A1 (8) слюсарна майстерня, У ПАКЕТІ</name_ua>
-        <price>957</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>15642</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000204048.jpg</picture>
-      </offer>
       <offer id="140039" available="true">
         <name>Набір інструментів 008-982 (9) 2в1, слюсарна майстерня, в коробці</name>
         <name_ua>Набір інструментів 008-982 (9) 2 в 1, слюсарна майстерня, в коробці</name_ua>
@@ -29242,6 +29411,15 @@
         <categoryId>22</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000185410.jpg</picture>
         <barcode>6976520400788</barcode>
+      </offer>
+      <offer id="183307" available="true">
+        <name>Набір аксесуарів JY 7301 (24/2) прикраси, 3 спідниці, 3 пари черевиків, в коробці</name>
+        <name_ua>Набір аксесуарів JY 7301 (24/2) прикраси, 3 спідниці, 3 пари черевиків, в коробці</name_ua>
+        <price>1244</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000183307.jpg</picture>
+        <barcode>6967020401580</barcode>
       </offer>
       <offer id="167816" available="true">
         <name>Набір аксесуарів S 2 (24) сумочка, хустинка, окуляри, палетка тіней, гаманець, обруч для волосся, помада, сережки, заколка, в коробці</name>
@@ -29612,15 +29790,6 @@
         <picture>https://igrushki7.ua/images/prom/00000110928.jpg</picture>
         <barcode>6900067493989</barcode>
       </offer>
-      <offer id="187924" available="true">
-        <name>Набір для пікніку 877 A-31 (12) 37 елементів, палатка висотою 88 см, газовий балон та вогнище зі світлом та звуком, лук, колчан, мішень, в коробці</name>
-        <name_ua>Набір для пікніку 877 A-31 (12) 37 елементів, палатка висотою 88 см, газовий балон та вогнище зі світлом та звуком, лук, стріли, колчан, мішень, посуд, продукти, рюкзачок, в коробці</name_ua>
-        <price>1781</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>93166</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000187924.jpg</picture>
-        <barcode>6981552400330</barcode>
-      </offer>
       <offer id="187473" available="true">
         <name>Набір для пікніку 877 A-32 (18) 35 елементів, газовий балон та вогнище зі світлом та звуком, лук, стріли, колчан, мішень, посуд, продукти, в коробці</name>
         <name_ua>Набір для пікніку 877 A-32 (18) 35 елементів, газовий балон та вогнище зі світлом та звуком, лук, стріли, колчан, мішень, посуд, продукти, шампур обертається, рюкзачок, в коробці</name_ua>
@@ -29656,15 +29825,6 @@
         <categoryId>21</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000183042.jpg</picture>
         <barcode>6975434401614</barcode>
-      </offer>
-      <offer id="200174" available="true">
-        <name>Набір для прибирання 1368-2 (12) каталка, 2 полички, на коліщатках, пилосос, звук, підсвічування, швабра, щитка, совок, віник, аксесуари, в коробці</name>
-        <name_ua>Набір для прибирання 1368-2 (12) каталка, 2 полички, на коліщатках, пилосос, звук, підсвічування, швабра, щитка, совок, віник, аксесуари, в коробці</name_ua>
-        <price>1285</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>21</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000200174.jpg</picture>
-        <barcode>6980342400048</barcode>
       </offer>
       <offer id="133571" available="true">
         <name>Набір для прибирання 667-57 (12) 20 елементів, візок на колесах, в коробці</name>
@@ -30126,15 +30286,6 @@
         <picture>https://igrushki7.ua/images/prom/00000122425.jpg</picture>
         <barcode>6990891401076</barcode>
       </offer>
-      <offer id="179770" available="true">
-        <name>Набір лікаря 660-93 (12) 26,5х46,5х115 см,32 ел,термометр,муляжі ліків,підсвіч,медичне приладдя,стетоскоп,оглядове дзер.,УЗД,тонометр,звук,в коробці</name>
-        <name_ua>Набір лікаря 660-93 (12) 26,5х46,5х115 см, 32 елементи, аксесуари, термометр, окуляри, муляжі ліків, підсвічування, медичне приладдя, стетоскоп, оглядове дзеркало, сканер для УЗД, тонометр, звук, в коробці</name_ua>
-        <price>1822</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000179770.jpg</picture>
-        <barcode>6990891401687</barcode>
-      </offer>
       <offer id="180945" available="true">
         <name>Набір лікаря 660-95 (18) 49 ел., стетоскоп, термометр, каса, звук, світло, на батарейках, інструменти для огляду, муляжі грошей, полички, в коробці</name>
         <name_ua>Набір лікаря 660-95 (18) 49 елементів, стетоскоп, термометр, каса, звук, підсвічування, на батарейках, інструменти для огляду, муляжі грошей, полички, в коробці</name_ua>
@@ -30347,7 +30498,7 @@
         <name_ua>Набір ляльок K 065 X-2 (36/2) 2 ляльки, принцеси, музичний чіп, висота 32 см, в коробці, ВИДАЄТЬСЯ МІКС ВИДІВ</name_ua>
         <price>858</price>
         <currencyId>UAH</currencyId>
-        <categoryId>10598</categoryId>
+        <categoryId>182782</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000164270.jpg</picture>
         <barcode>6966956437229</barcode>
       </offer>
@@ -32752,15 +32903,6 @@
         <picture>https://igrushki7.ua/images/prom/00000165559.jpg</picture>
         <barcode>6900067688880</barcode>
       </offer>
-      <offer id="202185" available="true">
-        <name>Овечка на радіокеруванні C 79102 (36) 2 вида</name>
-        <name_ua>Овечка на радіокеруванні C 79102 (36) 2 вида</name_ua>
-        <price>964</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1955</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000202185.jpg</picture>
-        <barcode>6900067791023</barcode>
-      </offer>
       <offer id="181523" available="true">
         <name>Піаніно 328-26 (12) мікрофон, стілець, 25 клавіш, від мережі або батарейок, звук, мелодії, регулювання гучності, функція запису, в коробці </name>
         <name_ua>Піаніно 328-26 (12) мікрофон, стілець, 25 клавіш, працює від мережі або батарейок, звук, мелодії, 2 AUX-роз'єми, AUX-кабель, USB-AUX кабель, регулювання гучності, функція запису, в коробці</name_ua>
@@ -32911,6 +33053,42 @@
         <categoryId>1931</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000108997.jpg</picture>
         <barcode>6984546410018</barcode>
+      </offer>
+      <offer id="198915" available="true">
+        <name>Пістолет S 11 (30) в коробці, 2 вида</name>
+        <name_ua>Пістолет S 11 (30) в коробці, 2 вида</name_ua>
+        <price>1080</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198915.jpg</picture>
+        <barcode>6974002410720</barcode>
+      </offer>
+      <offer id="180661" available="true">
+        <name>Пістолет W 031 A (18) автоматичний та механічний принципи роботи, акумулятор 7.4V, стріляє орбізами, захисні окуляри, USB-кабель, орбізи, глушник, в к</name>
+        <name_ua>Пістолет W 031 A (18) автоматичний та механічний принципи роботи, акумулятор 7.4V, стріляє орбізами, захисні окуляри, USB-кабель, орбізи, глушник, в коробці</name_ua>
+        <price>991</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000180661.jpg</picture>
+        <barcode>6974002410652</barcode>
+      </offer>
+      <offer id="180662" available="true">
+        <name>Пістолет W 033 A (18) автоматичний та механічний принципи роботи, акумулятор 7.4V, стріляє орбізами, захисні окуляри, USB-кабель, орбізи, глушник, в к</name>
+        <name_ua>Пістолет W 033 A (18) автоматичний та механічний принципи роботи, акумулятор 7.4V, стріляє орбізами, захисні окуляри, USB-кабель, орбізи, глушник, в коробці</name_ua>
+        <price>991</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000180662.jpg</picture>
+        <barcode>6974002410690</barcode>
+      </offer>
+      <offer id="180663" available="true">
+        <name>Пістолет W 033 B (18) автоматичний та механічний принципи роботи, акумулятор 7.4V, стріляє орбізами, захисні окуляри, USB-кабель, орбізи, глушник, в к</name>
+        <name_ua>Пістолет W 033 B (18) автоматичний та механічний принципи роботи, акумулятор 7.4V, стріляє орбізами, захисні окуляри, USB-кабель, орбізи, глушник, в коробці</name_ua>
+        <price>991</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1931</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000180663.jpg</picture>
+        <barcode>6974002410706</barcode>
       </offer>
       <offer id="160041" available="true">
         <name>Пістолет ZC 7120 (6) механічний принцип роботи, 12 м’яких куль, в коробці</name>
@@ -33146,6 +33324,15 @@
         <picture>https://igrushki7.ua/images/prom/00000153132.jpg</picture>
         <barcode>6965351400517</barcode>
       </offer>
+      <offer id="198921" available="true">
+        <name>Парковка  8628 (16/2) в коробці</name>
+        <name_ua>Парковка  8628 (16/2) в коробці</name_ua>
+        <price>1774</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198921.jpg</picture>
+        <barcode>6966854360087</barcode>
+      </offer>
       <offer id="189019" available="true">
         <name>Парковка  A 003-2 (8/2) довжина 40 см, світло, звук, пара, механічний запускач, розкладається, розбирається, 6 металопластик. машин, в коробці</name>
         <name_ua>Парковка A 003-2 (8/2) довжина 40 см, підсвічування, звук, парогенерація, механічний запускач, розкладається, розбирається, 6 металопластикових машинок, дорожні знаки, в коробці</name_ua>
@@ -33193,7 +33380,7 @@
       </offer>
       <offer id="199091" available="true">
         <name>Парковка 660 A-304 (18/2) в коробці</name>
-        <name_ua>Парковка 660 A-304 (18/2) в коробці</name_ua>
+        <name_ua>Парковка 660 A-304 (18/2) 53 деталі, звуки, підсвічування, оглядова вежа, 2 металопластикові машинки, 1 машинка міняє колір від води, масштаб 1:64, у коробці</name_ua>
         <price>1292</price>
         <currencyId>UAH</currencyId>
         <categoryId>8</categoryId>
@@ -33235,6 +33422,15 @@
         <categoryId>8</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000192836.jpg</picture>
         <barcode>6969709060750</barcode>
+      </offer>
+      <offer id="198922" available="true">
+        <name>Парковка 8629 (16/2) в коробці</name>
+        <name_ua>Парковка 8629 (16/2) в коробці</name_ua>
+        <price>1774</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198922.jpg</picture>
+        <barcode>6966854360094</barcode>
       </offer>
       <offer id="184671" available="true">
         <name>Парковка SJ 666 A (6) довжина 40 см, підсвічування, звук транспорту, мелодії, трек, 4 металопластикові машинки, дорожні знаки, ялинка, в коробці</name>
@@ -34410,8 +34606,8 @@
         <barcode>6983902433326</barcode>
       </offer>
       <offer id="199019" available="true">
-        <name>Пупс 5603 (12)  в коробці</name>
-        <name_ua>Пупс 5603 (12)  в коробці</name_ua>
+        <name>Пупс 5603 (12) висота: 31 см, голова та руки гумові, пластикові очі, п’є, ходить на горщик, знімний одяг, ліжко, пляшечка, браслетик, в коробці</name>
+        <name_ua>Пупс 5603 (12) висота: 31 см, голова та руки гумові, пластикові очі, п’є, ходить на горщик, знімний одяг, ліжечко, пляшечка, пустушка, браслетик, флакончики, в коробці</name_ua>
         <price>1282</price>
         <currencyId>UAH</currencyId>
         <categoryId>1949</categoryId>
@@ -34419,8 +34615,8 @@
         <barcode>6967374241665</barcode>
       </offer>
       <offer id="199020" available="true">
-        <name>Пупс 5630 (18)  в коробці</name>
-        <name_ua>Пупс 5630 (18)  в коробці</name_ua>
+        <name>Пупс 5630 (18) гумовий, висота 42 см, знімний одяг, пустушка, пляшка для годування, в коробці</name>
+        <name_ua>Пупс 5630 (18) гумовий, висота 42 см, знімний одяг, пустушка, пляшка для годування, в коробці</name_ua>
         <price>903</price>
         <currencyId>UAH</currencyId>
         <categoryId>1949</categoryId>
@@ -34429,7 +34625,7 @@
       </offer>
       <offer id="199021" available="true">
         <name>Пупс 5633 (18)  в коробці</name>
-        <name_ua>Пупс 5633 (18)  в коробці</name_ua>
+        <name_ua>Пупс 5633 (18) гумовий, висота 42 см, знімний одяг, пустушка, пляшка для годування, в коробці</name_ua>
         <price>903</price>
         <currencyId>UAH</currencyId>
         <categoryId>1949</categoryId>
@@ -34769,6 +34965,78 @@
         <picture>https://igrushki7.ua/images/prom/00000175080.jpg</picture>
         <barcode>6965191245637</barcode>
       </offer>
+      <offer id="199115" available="true">
+        <name>Пупс DH 2613 A (16/2) в коробці</name>
+        <name_ua>Пупс DH 2613 A (16/2) в коробці</name_ua>
+        <price>1716</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199115.jpg</picture>
+        <barcode>6965191246610</barcode>
+      </offer>
+      <offer id="199116" available="true">
+        <name>Пупс DH 2613 B (16/2) в коробці</name>
+        <name_ua>Пупс DH 2613 B (16/2) в коробці</name_ua>
+        <price>1716</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199116.jpg</picture>
+        <barcode>6965191246627</barcode>
+      </offer>
+      <offer id="199120" available="true">
+        <name>Пупс DH 2625 A (12/2) в коробці</name>
+        <name_ua>Пупс DH 2625 A (12/2) в коробці</name_ua>
+        <price>1887</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199120.jpg</picture>
+        <barcode>6965191246740</barcode>
+      </offer>
+      <offer id="199121" available="true">
+        <name>Пупс DH 2625 B (12/2) в коробці</name>
+        <name_ua>Пупс DH 2625 B (12/2) в коробці</name_ua>
+        <price>1887</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199121.jpg</picture>
+        <barcode>6965191246757</barcode>
+      </offer>
+      <offer id="199122" available="true">
+        <name>Пупс DH 2627 A (24/2) в коробці</name>
+        <name_ua>Пупс DH 2627 A (24/2) в коробці</name_ua>
+        <price>1357</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199122.jpg</picture>
+        <barcode>6965191246795</barcode>
+      </offer>
+      <offer id="199123" available="true">
+        <name>Пупс DH 2627 B (24/2) в коробці</name>
+        <name_ua>Пупс DH 2627 B (24/2) в коробці</name_ua>
+        <price>1357</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199123.jpg</picture>
+        <barcode>6965191246801</barcode>
+      </offer>
+      <offer id="199125" available="true">
+        <name>Пупс DH 2631 A (16/2) в коробці</name>
+        <name_ua>Пупс DH 2631 A (16/2) в коробці</name_ua>
+        <price>1559</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199125.jpg</picture>
+        <barcode>6965191246900</barcode>
+      </offer>
+      <offer id="199127" available="true">
+        <name>Пупс DH 2631 B (16/2) в коробці</name>
+        <name_ua>Пупс DH 2631 B (16/2) в коробці</name_ua>
+        <price>1559</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199127.jpg</picture>
+        <barcode>6965191246917</barcode>
+      </offer>
       <offer id="138934" available="true">
         <name>Пупс LD 8809 A (24/2) м’яке ліжечко, розвивальна дуга, висота 32 см, в коробці</name>
         <name_ua>Пупс LD 8809 A (24/2) м’яке ліжечко, розвивальна дуга, висота 32 см, в коробці</name_ua>
@@ -34895,6 +35163,15 @@
         <picture>https://igrushki7.ua/images/prom/00000184130.jpg</picture>
         <vendor>TK Group</vendor>
         <barcode>6969921432267</barcode>
+      </offer>
+      <offer id="204087" available="true">
+        <name>Пупс QM 24019-1 (12) функціональний, висота: 42 см, гумовий, пустушка, пляшечка, памперс, шапочка, У ПАКЕТІ</name>
+        <name_ua>Пупс QM 24019-1 (12) функціональний, висота: 42 см, гумовий, пустушка, пляшечка, памперс, шапочка, У ПАКЕТІ</name_ua>
+        <price>1962</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1949</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000204087.jpg</picture>
+        <vendor>TK Group</vendor>
       </offer>
       <offer id="182999" available="true">
         <name>Пупс QM 24020 (12) "TK Group", функціональний, висота: 42 см, гумовий, пустушка, пляшечка, памперс, капелюшок, в коробці</name>
@@ -35127,8 +35404,8 @@
         <barcode>6982662603857</barcode>
       </offer>
       <offer id="199023" available="true">
-        <name>Пупс з ліжечком 81815 (18)  в коробці</name>
-        <name_ua>Пупс з ліжечком 81815 (18)  в коробці</name_ua>
+        <name>Пупс з ліжечком 81815 (18) гумовий, висота 30 см, знімний одяг, подушечка, предмети гігієни та догляду, в коробціі</name>
+        <name_ua>Пупс з ліжечком 81815 (18) гумовий, висота 30 см, знімний одяг, подушечка, предмети гігієни та догляду, в коробці</name_ua>
         <price>1143</price>
         <currencyId>UAH</currencyId>
         <categoryId>1949</categoryId>
@@ -35136,8 +35413,8 @@
         <barcode>6967374242099</barcode>
       </offer>
       <offer id="199022" available="true">
-        <name>Пупс з меблями 81802 (6)  в коробці</name>
-        <name_ua>Пупс з меблями 81802 (6)  в коробці</name_ua>
+        <name>Пупс з меблями 81802 (6) висота: 31 см, голова та руки гумові, пластикові очі, п’є, ходить на горщик, знімний одяг, ліжечко, стілець, у коробці</name>
+        <name_ua>Пупс з меблями 81802 (6) висота: 31 см, голова та руки гумові, пластикові очі, п’є, ходить на горщик, знімний одяг, ліжечко, стілець для годування, шафа, пляшечка, горщик, аксесуари, в коробці</name_ua>
         <price>2638</price>
         <currencyId>UAH</currencyId>
         <categoryId>1949</categoryId>
@@ -35145,8 +35422,8 @@
         <barcode>6967374241986</barcode>
       </offer>
       <offer id="199024" available="true">
-        <name>Пупс з меблями 81817 (8)  в коробці</name>
-        <name_ua>Пупс з меблями 81817 (8)  в коробці</name_ua>
+        <name>Пупс з меблями 81817 (8) висота: 31 см, голова та руки гумові, пластикові очі, п’є, ходить на горщик, знімний одяг, ліжечко, пляшечка, в коробці</name>
+        <name_ua>Пупс з меблями 81817 (8) висота: 31 см, голова та руки гумові, пластикові очі, п’є, ходить на горщик, знімний одяг, ліжечко, шезлонг, пляшечка, горщик, аксесуари, в коробці</name_ua>
         <price>1955</price>
         <currencyId>UAH</currencyId>
         <categoryId>1949</categoryId>
@@ -38713,18 +38990,6 @@
         <vendor>Best Scooter</vendor>
         <barcode>6900083003797</barcode>
       </offer>
-      <offer id="102306" available="true">
-        <name>Самокат трюковый 65640 Best Scooter (4) "CRASH" HIC-система, ПЕГИ, алюминиевый диск и дека, колёса 110мм PU, ширина руля - 57 см, в коробке</name>
-        <name_ua>Самокат трюковий 65640 Best Scooter (4) "CRASH" HIC-система, ПЕГИ, алюмінієвий диск і дека, колеса 110 мм PU, ширина керма - 57 см, в коробці</name_ua>
-        <price>5396</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109351</categoryId>
-        <oldprice>4147.84</oldprice>
-        <picture>https://igrushki7.ua/images/prom/00000102306.jpg</picture>
-        <picture>https://igrushki7.ua/images/promadd/102306-1.jpg|https://igrushki7.ua/images/promadd/102306-2.jpg|https://igrushki7.ua/images/promadd/102306-3.jpg|https://igrushki7.ua/images/promadd/102306-4.jpg|https://igrushki7.ua/images/promadd/102306-5.jpg|https://igrushki7.ua/images/promadd/102306-6.jpg|https://igrushki7.ua/images/promadd/102306-7.jpg|https://igrushki7.ua/images/promadd/102306-8.jpg</picture>
-        <vendor>Best Scooter</vendor>
-        <barcode>6900083003759</barcode>
-      </offer>
       <offer id="112899" available="true">
         <name>Самокат трюковый МТ-30377 Best Scooter (4) "FEAR", SCS-система, ПЕГИ, алюминиевый диск и дека, колёса PU, d=115мм, ширина руля 58 см</name>
         <name_ua>Самокат трюковий МТ-30377 Best Scooter (4) "FEAR", SCS-система, ПЕГИ, алюмінієвий диск та дека, колеса PU, d=115мм, ширина керма 58 см</name_ua>
@@ -39723,6 +39988,42 @@
         <picture>https://igrushki7.ua/images/prom/00000182327.jpg</picture>
         <barcode>6968441081467</barcode>
       </offer>
+      <offer id="188978" available="true">
+        <name>Спецтехніка на радіокеруванні BC 1047 (24) "Самоскид", металопластик, перевертає кузов, звук, світло, акумулятор 3.7 V, пульт 2.4 GHz, в коробці</name>
+        <name_ua>Спецтехніка на радіокеруванні BC 1047 (24) "Самоскид", металопластик, перевертає кузов, звук, світло, акумулятор 3.7 V, пульт 2.4 GHz, в коробці</name_ua>
+        <price>1436</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>91163</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000188978.jpg</picture>
+        <barcode>6965201080197</barcode>
+      </offer>
+      <offer id="187780" available="true">
+        <name>Спецтехніка на радіокеруванні BC 1055 (24/2) "Бульдозер", металопластик, звук, підіймання ковша, світло фар, акум. 3.7 V, пульт 2.4 GHz, в коробці</name>
+        <name_ua>Спецтехніка на радіокеруванні BC 1055 (24/2) "Бульдозер", металопластик, звук, підіймання ковша, підсвічування фар, акумулятор 3.7 V, пульт 2.4 GHz, в коробці</name_ua>
+        <price>1624</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>91163</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000187780.jpg</picture>
+        <barcode>6965201080241</barcode>
+      </offer>
+      <offer id="199236" available="true">
+        <name>Спецтехніка на радіокеруванні HJ 8002-1 D (24)  в коробці</name>
+        <name_ua>Спецтехніка на радіокеруванні HJ 8002-1 D (24)  в коробці</name_ua>
+        <price>1907</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>42347</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199236.jpg</picture>
+        <barcode>6985614087408</barcode>
+      </offer>
+      <offer id="191398" available="true">
+        <name>Спецтехніка на радіокеруванні QH 2024-3 (12) трейлер, екскаватор на р\к, масштаб 1:12, акумулятори 3.7V, пульт 2.4Gz, масштаб 1:12, звуки, підсвічуван</name>
+        <name_ua>Спецтехніка на радіокеруванні QH 2024-3 (12) трейлер, екскаватор на р\к, масштаб 1:12, акумулятори 3.7V, пульт 2.4Gz, масштаб 1:12, звуки, підсвічування, в коробці</name_ua>
+        <price>2488</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>91163</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000191398.jpg</picture>
+        <barcode>6985614089280</barcode>
+      </offer>
       <offer id="183738" available="true">
         <name>Спецтехніка на радіокеруванні QH 207-1 (24)“Навантажувач”,парогенерація,звуки, світло, акум. 3.7V,фігурка,пульт 2.4GHz,автоматичний підіймач,в коробці</name>
         <name_ua>Спецтехніка на радіокеруванні QH 207-1 (24) “Навантажувач”, парогенерація, звуки, підсвічування, акум. 3.7V, USB-кабель, фігурка, вантаж, пульт 2.4 GHz, масштаб 1:24, гумові шини, автоматичний підіймач, в коробці</name_ua>
@@ -39740,6 +40041,15 @@
         <categoryId>91163</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000191388.jpg</picture>
         <barcode>6985614087231</barcode>
+      </offer>
+      <offer id="191393" available="true">
+        <name>Спецтехніка на радіокеруванні QH 9010 (12) трейлер, екскаватор на р\к, масштаб 1:12, акумулятори 3.7V, пульт 2.4Gz, масштаб 1:12, звуки, підсвічування</name>
+        <name_ua>Спецтехніка на радіокеруванні QH 9010 (12) трейлер, екскаватор на р\к, масштаб 1:12, акумулятори 3.7V, пульт 2.4Gz, масштаб 1:12, звуки, підсвічування, в коробці</name_ua>
+        <price>2587</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>91163</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000191393.jpg</picture>
+        <barcode>6985614088535</barcode>
       </offer>
       <offer id="191394" available="true">
         <name>Спецтехніка на радіокеруванні QH 9014 (12) “Вилковий навантажувач”, акумулятор 3.7V, пульт, масштаб 1:24, звуки, підсвічування, парогенератор, в короб</name>
@@ -40993,7 +41303,7 @@
       </offer>
       <offer id="198947" available="true">
         <name>Тир 869-36 (36/2) в коробці</name>
-        <name_ua>Тир 869-36 (36/2) в коробці</name_ua>
+        <name_ua>Тир 869-36 (36/2), пістолети з нагрудними мішенями, на двох гравців, підсвічування, звуки, в коробці</name_ua>
         <price>1164</price>
         <currencyId>UAH</currencyId>
         <categoryId>130896</categoryId>
@@ -41524,33 +41834,6 @@
         <picture>https://igrushki7.ua/images/prom/00000197237.jpg</picture>
         <barcode>6976255084314</barcode>
       </offer>
-      <offer id="199099" available="true">
-        <name>Трейлер 660 S-111 (24/2) в коробці</name>
-        <name_ua>Трейлер 660 S-111 (24/2) в коробці</name_ua>
-        <price>939</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000199099.jpg</picture>
-        <barcode>6983283400559</barcode>
-      </offer>
-      <offer id="199100" available="true">
-        <name>Трейлер 660 S-113 (24/2) в коробці</name>
-        <name_ua>Трейлер 660 S-113 (24/2) в коробці</name_ua>
-        <price>939</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000199100.jpg</picture>
-        <barcode>6983283400573</barcode>
-      </offer>
-      <offer id="199093" available="true">
-        <name>Трейлер 660 S-203 (18/2) в коробці</name>
-        <name_ua>Трейлер 660 S-203 (18/2) в коробці</name_ua>
-        <price>1125</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000199093.jpg</picture>
-        <barcode>6983283064690</barcode>
-      </offer>
       <offer id="157314" available="true">
         <name>Трейлер 660 S-39 (18/2) звук, підсвічування, 8 металопластикових машин, довжина треку 127 см, в коробці</name>
         <name_ua>Трейлер 660 S-39 (18/2) звук, підсвічування, 8 металопластикових машин, довжина треку 127 см, в коробці</name_ua>
@@ -41623,6 +41906,15 @@
         <picture>https://igrushki7.ua/images/prom/00000187262.jpg</picture>
         <barcode>6974210360152</barcode>
       </offer>
+      <offer id="198918" available="true">
+        <name>Трейлер 8817 (12) в коробці</name>
+        <name_ua>Трейлер 8817 (12) в коробці</name_ua>
+        <price>1285</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>42347</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198918.jpg</picture>
+        <barcode>6966854110149</barcode>
+      </offer>
       <offer id="170187" available="true">
         <name>Трейлер HC 38074 (12/2) автовоз, 5 машинок, металопластик, рампа для трюків, механічний запускач, рухомі деталі, перешкоди, дорожні знаки, в коробці</name>
         <name_ua>Трейлер HC 38074 (12/2) автовоз, 5 машинок, металопластик, рампа для трюків, механічний запускач, рухомі деталі, перешкоди, дорожні знаки, в коробці</name_ua>
@@ -41668,6 +41960,24 @@
         <picture>https://igrushki7.ua/images/prom/00000167018.jpg</picture>
         <barcode>6974060117043</barcode>
       </offer>
+      <offer id="199099" available="true">
+        <name>Трейлер з треком 660 S-111 (24/2) розмір: 34х7,5х11 см, звуки, підсвічування, “ковтає” машинки, 2 металопластикові машинки, машинки: 1:64, у коробці</name>
+        <name_ua>Трейлер з треком 660 S-111 (24/2) розмір: 34х7,5х11 см, звуки, підсвічування, “ковтає” машинки, 2 металопластикові машинки, масштаб: 1:64, у коробці</name_ua>
+        <price>939</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199099.jpg</picture>
+        <barcode>6983283400559</barcode>
+      </offer>
+      <offer id="199100" available="true">
+        <name>Трейлер з треком 660 S-113 (24/2) розмір: 34х7,5х11 см, звуки, підсвічування, “ковтає” машинки, 2 металопластикові машинки, машинки: 1:64, у коробці</name>
+        <name_ua>Трейлер з треком 660 S-113 (24/2)розмір: 34х7,5х11 см, звуки, підсвічування, “ковтає” машинки, 2 металопластикові машинки, масштаб машинок: 1:64, у коробці</name_ua>
+        <price>939</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000199100.jpg</picture>
+        <barcode>6983283400573</barcode>
+      </offer>
       <offer id="179811" available="true">
         <name>Трейлер з треком HS 8013 C (12) р. 39.5х10.5х13.3 см, довж. треку 117 см, інерція, запускач, 6 машин, 6 гум. дино, звук, підсв., аксесуар,  в коробці</name>
         <name_ua>Трейлер з треком HS 8013 C (12)  розмір - 39.5х10.5х13.3 см, довжина треку - 117 см, інерція, запускач, 6 машинок, 6 гумових динозавриків, звук, підсвічування, аксесуари, в коробці</name_ua>
@@ -41685,6 +41995,24 @@
         <categoryId>91163</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000200518.jpg</picture>
         <barcode>6969209081330</barcode>
+      </offer>
+      <offer id="191386" available="true">
+        <name>Трейлер на радіокеруванні QH 9006-1 (12) акумулятор 3.7V, пульт керування 2.4GHz, підсвічування, звуки, мелодії, масштаб 1:12, в коробці</name>
+        <name_ua>Трейлер на радіокеруванні QH 9006-1 (12) акумулятор 3.7V, пульт керування 2.4GHz, підсвічування, звуки, мелодії, масштаб 1:12, в коробці</name_ua>
+        <price>2051</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>91163</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000191386.jpg</picture>
+        <barcode>6985614087200</barcode>
+      </offer>
+      <offer id="191387" available="true">
+        <name>Трейлер на радіокеруванні QH 9006-2 (12) акумулятор 3.7V, пульт керування 2.4GHz, підсвічування, звуки, мелодії, масштаб 1:12, в коробці</name>
+        <name_ua>Трейлер на радіокеруванні QH 9006-2 (12) акумулятор 3.7V, пульт керування 2.4GHz, підсвічування, звуки, мелодії, масштаб 1:12, в коробці</name_ua>
+        <price>2051</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>91163</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000191387.jpg</picture>
+        <barcode>6985614087217</barcode>
       </offer>
       <offer id="192172" available="true">
         <name>Трейлер на радіокеруванні WH 8764 (24/2) акумулятор 3.7V, пульт керування 2.4G, мелодії, підсвічування, в коробці</name>
@@ -41853,7 +42181,7 @@
         <name_ua>Трек 2023-31 (12) 5 рівнів, 4 машинка, 2 герої, підсвічування, мелодія, автоматичний підіймач, в коробці</name_ua>
         <price>2101</price>
         <currencyId>UAH</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>182782</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000163831.jpg</picture>
         <barcode>6982452060730</barcode>
       </offer>
@@ -41862,7 +42190,7 @@
         <name_ua>Трек 2023-32 (12) 5 рівнів, 4 машинки, 2 герої, підсвічування, мелодія, автоматичний підіймач, в коробці</name_ua>
         <price>2027</price>
         <currencyId>UAH</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>182782</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000163832.jpg</picture>
         <barcode>6982452060747</barcode>
       </offer>
@@ -41871,7 +42199,7 @@
         <name_ua>Трек 2023-33 (12) 3 рівні, 4 машинки, 2 герої, підсвічування, мелодія, автоматичний підіймач, в коробці</name_ua>
         <price>1993</price>
         <currencyId>UAH</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>182782</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000163833.jpg</picture>
         <barcode>6982452060754</barcode>
       </offer>
@@ -41880,7 +42208,7 @@
         <name_ua>Трек 2023-34 (12) 3 рівні, 4 машинка, 2 герої, підсвічування, мелодія, автоматичний підіймач, в коробці</name_ua>
         <price>1908</price>
         <currencyId>UAH</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>182782</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000163834.jpg</picture>
         <barcode>6982452060761</barcode>
       </offer>
@@ -41889,7 +42217,7 @@
         <name_ua>Трек 2023-35 (12) 3 рівні, 4 машинки, 2 герої, підсвічування, мелодія, автоматичний підіймач, в коробці</name_ua>
         <price>1843</price>
         <currencyId>UAH</currencyId>
-        <categoryId>8</categoryId>
+        <categoryId>182782</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000163835.jpg</picture>
         <barcode>6982452060778</barcode>
       </offer>
@@ -41910,15 +42238,6 @@
         <categoryId>8</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000139099.jpg</picture>
         <barcode>6973686060726</barcode>
-      </offer>
-      <offer id="139100" available="true">
-        <name>Трек 352 (18/2) світло, звук, дино майданчик, 178 елементів, довжина треку 488 см, аксесуари, в коробці</name>
-        <name_ua>Трек 352 (18/2) світло, звук, дино майданчик, 178 елементів, довжина треку 488 см, аксесуари, в коробці</name_ua>
-        <price>1776</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000139100.jpg</picture>
-        <barcode>6973686060733</barcode>
       </offer>
       <offer id="139101" available="true">
         <name>Трек 354 (18/2) світло, звук, дино майданчик, 225 елементів, довжина треку 500 см, аксесуари, в коробці</name>
@@ -42460,15 +42779,6 @@
         <picture>https://igrushki7.ua/images/prom/00000156565.jpg</picture>
         <barcode>6967132241579</barcode>
       </offer>
-      <offer id="181381" available="true">
-        <name>Трек T 933 A (8) звук, музика, залізниця, парковка, машинки, потяг, кермо, аксесуари, в коробці</name>
-        <name_ua>Трек T 933 A (8) звук, музика, залізниця, парковка, машинки, потяг, кермо, аксесуари, в коробці</name_ua>
-        <price>1586</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>8</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000181381.jpg</picture>
-        <barcode>6967132400112</barcode>
-      </offer>
       <offer id="167893" available="true">
         <name>Трек XZ 1068 (10) 2 варіанти збору, автоматичний підйомник, 2 режими: беззвучний та з мелодією, 6 машинок, в коробці</name>
         <name_ua>Трек XZ 1068 (10) 2 варіанти збору, автоматичний підйомник, 2 режими: беззвучний та з мелодією, 6 машинок, в коробці</name_ua>
@@ -42904,7 +43214,7 @@
       </offer>
       <offer id="198794" available="true">
         <name>Улюбленець  MC 1158 (16) "Собачка" в коробці, 2 вида</name>
-        <name_ua>Улюбленець  MC 1158 (16) "Собачка" в коробці, 2 вида</name_ua>
+        <name_ua>Улюбленець MC 1158 (16) 2 види, "Собачка", керування з повідця, ходить, рухає хвостом та головою, звук писку, переноска, окуляри, мисочка, баночка, в коробці</name_ua>
         <price>1149</price>
         <currencyId>UAH</currencyId>
         <categoryId>183263</categoryId>
@@ -42913,21 +43223,12 @@
       </offer>
       <offer id="198796" available="true">
         <name>Улюбленець  MC 1159 (16) "Кролик" в коробці, 2 вида</name>
-        <name_ua>Улюбленець  MC 1159 (16) "Кролик" в коробці, 2 вида</name_ua>
+        <name_ua>Улюбленець MC 1159 (16) 2 види, "Кролик", керування з повідця, ходить, рухає вушками та носиком, звук писку, переноска, окуляри, мисочка, баночка, в коробці</name_ua>
         <price>1118</price>
         <currencyId>UAH</currencyId>
         <categoryId>183263</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000198796.jpg</picture>
         <barcode>6965188011559</barcode>
-      </offer>
-      <offer id="198787" available="true">
-        <name>Улюбленець "Собачка" MC 1150 (18) в коробці, 2 вида</name>
-        <name_ua>Улюбленець "Собачка" MC 1150 (18) в коробці, 2 вида</name_ua>
-        <price>889</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>183263</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000198787.jpg</picture>
-        <barcode>6965188011436</barcode>
       </offer>
       <offer id="172125" available="true">
         <name>Улюбленець 926-3 (16/2) "Кролик", переноска, ходить, пищить, на повідці, аксесуари, в коробці</name>
@@ -42946,15 +43247,6 @@
         <categoryId>183263</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000172126.jpg</picture>
         <barcode>6981388010482</barcode>
-      </offer>
-      <offer id="202432" available="true">
-        <name>Улюбленець 933-122 E (12/2) “Песик”, ходить, звуки, аксесуари, на повідці, рухає хвостиком, сенсорні ділянки, реагує на плескіт у долоні, в коробці</name>
-        <name_ua>Улюбленець 933-122 E (12/2) “Песик”, ходить, звуки, аксесуари, на повідці, рухає хвостиком, сенсорні ділянки, реагує на плескіт у долоні, на батарейках, в коробці</name_ua>
-        <price>1169</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>183263</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000202432.jpg</picture>
-        <barcode>6978860100335</barcode>
       </offer>
       <offer id="170890" available="true">
         <name>Улюбленець 933-123 E (12/2) “Песик”, ходить, звуки, аксесуари, на повідці, рухає хвостиком, сенсорні ділянки, реагує на плескіт у долоні, на батарейка</name>
@@ -43092,6 +43384,15 @@
         <picture>https://igrushki7.ua/images/prom/00000173240.jpg</picture>
         <barcode>6978860400527</barcode>
       </offer>
+      <offer id="202185" available="true">
+        <name>Улюбленець C 79102 (36) 2 види, "Овечка", повторюшка, реагує на дотик, облизує, ходить, видає звуки, пісні англ., рухає хвостом та головою, в коробці</name>
+        <name_ua>Улюбленець C 79102 (36) 2 види, "Овечка", повторюшка, реагує на дотик, облизує, ходить, видає звуки, пісні англійською, рухає хвостом та головою, керування з повідця, в коробці</name_ua>
+        <price>964</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>183263</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000202185.jpg</picture>
+        <barcode>6900067791023</barcode>
+      </offer>
       <offer id="181872" available="true">
         <name>Улюбленець F 43659 (40) 2 види, ходить, звуки, музика, повідець для керування, реагує на дотик, 2 режими, аксесуари, в коробці, ВИДАЄТЬСЯ МІКС</name>
         <name_ua>Улюбленець F 43659 (40) 2 види, ходить, звуки, музика, повідець для керування, реагує на дотик, 2 режими, аксесуари, в коробці, ВИДАЄТЬСЯ МІКС</name_ua>
@@ -43208,6 +43509,15 @@
         <categoryId>183263</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000201692.jpg</picture>
         <barcode>6965188011337</barcode>
+      </offer>
+      <offer id="198787" available="true">
+        <name>Улюбленець MC 1150 (18) 2 види, "Собачка", ходить, рухає хвостом та головою, звук писку, змінний одяг, окуляри, кошик, відерце, браслет, в коробці</name>
+        <name_ua>Улюбленець MC 1150 (18) 2 види, "Собачка", ходить, рухає хвостом та головою, звук писку, змінний одяг, окуляри, кошик, відерце, браслет, в коробці</name_ua>
+        <price>889</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>183263</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000198787.jpg</picture>
+        <barcode>6965188011436</barcode>
       </offer>
       <offer id="195752" available="true">
         <name>Улюбленець MC 1152 (24) 4 види, звуки, виляє хвостом, рухає головою, ходить, реагує на дотик та хлопки руками, повідець для керування, в коробці, МІКС</name>
@@ -43757,6 +44067,14 @@
         <categoryId>10241</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000111905.jpg</picture>
         <barcode>6900048252956</barcode>
+      </offer>
+      <offer id="204097" available="true">
+        <name>Ходунки 368-45 B-1 (16) 3в1, килимок, музична панель, музика, підсвічування, 4 брязкальця, дзеркальце, в коробці</name>
+        <name_ua>Ходунки 368-45 B-1 (16) 3в1, килимок, музична панель, музика, підсвічування, 4 брязкальця, дзеркальце, в коробці</name_ua>
+        <price>1436</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>10241</categoryId>
+        <picture>https://igrushki7.ua/images/prom/00000204097.jpg</picture>
       </offer>
       <offer id="165381" available="true">
         <name>Ходунки 368-65 G (8) 3в1, килимок, музична панель, музика, регулювання гучності, підсвічування, 5 підвісок, в коробці</name>
