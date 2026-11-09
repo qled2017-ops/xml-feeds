@@ -5750,7 +5750,7 @@
 <param name="Ширина в упаковці (см)">30</param>
 <param name="Ширина, см">30</param>
 </offer>
-<offer id="SA000264" available="true">
+<offer id="SA000264" available="false">
 <price>663</price>
 <currencyId>UAH</currencyId>
 <categoryId>104053.0</categoryId>
