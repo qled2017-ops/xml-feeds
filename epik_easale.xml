@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 06:39">
+<yml_catalog date="2026-11-09 06:59">
   <offers>
     <offer id="AM0016591" available="true">
       <price>783</price>
@@ -33759,7 +33759,7 @@
     <offer id="KS00438" available="true">
       <price>588</price>
     </offer>
-    <offer id="RO00260" available="true">
+    <offer id="RO00260" available="false">
       <price>235</price>
     </offer>
     <offer id="IT00146" available="true">
@@ -42979,7 +42979,7 @@
     <offer id="RS00972" available="true">
       <price>1198</price>
     </offer>
-    <offer id="LI000209" available="true">
+    <offer id="LI000209" available="false">
       <price>94</price>
     </offer>
     <offer id="LI000210" available="true">
@@ -43492,7 +43492,7 @@
     <offer id="RS01067" available="true">
       <price>105</price>
     </offer>
-    <offer id="RS01068" available="true">
+    <offer id="RS01068" available="false">
       <price>215</price>
     </offer>
     <offer id="RO00779" available="true">
@@ -44923,7 +44923,7 @@
     <offer id="KS01733" available="true">
       <price>102</price>
     </offer>
-    <offer id="RO00859" available="true">
+    <offer id="RO00859" available="false">
       <price>176</price>
     </offer>
     <offer id="RO00860" available="true">
@@ -49818,7 +49818,7 @@
     <offer id="AS00586" available="false">
       <price>904</price>
     </offer>
-    <offer id="AS00587" available="true">
+    <offer id="AS00587" available="false">
       <price>975</price>
     </offer>
     <offer id="AS00588" available="true">
@@ -49989,10 +49989,10 @@
     <offer id="AS00626" available="false">
       <price>1365</price>
     </offer>
-    <offer id="AS00627" available="true">
+    <offer id="AS00627" available="false">
       <price>634</price>
     </offer>
-    <offer id="AS00628" available="true">
+    <offer id="AS00628" available="false">
       <price>634</price>
     </offer>
     <offer id="AS00629" available="false">
@@ -79195,7 +79195,7 @@
     <offer id="LI006249" available="true">
       <price>327</price>
     </offer>
-    <offer id="LI006250" available="true">
+    <offer id="LI006250" available="false">
       <price>174</price>
     </offer>
     <offer id="LI006251" available="true">
