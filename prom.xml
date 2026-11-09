@@ -32084,7 +32084,7 @@ USB-кабель заряджання;
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="OL000242" available="true" in_stock="true">
-<price>299</price>
+<price>134</price>
 <currencyId>UAH</currencyId>
 <categoryId>1040</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i132292176-8c363fc31bbcbb25852a01ce0802e82a-1776764660391.jpg</picture>
@@ -148755,7 +148755,7 @@ USB-кабель.</param>
 <param name="Колір">Білий</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="2183_2361" available="true" in_stock="true">
+<offer id="2183_2361" available="false" in_stock="true">
 <price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>1033</categoryId>
@@ -148767,7 +148767,7 @@ USB-кабель.</param>
 <name_ru>Набор Чашек 4 шт "Наші вихованці" 360мл 2183_2</name_ru>
 <description>Набір чашок Snt серії&amp;nbsp;Наші вихованці 4 шт&amp;nbsp;об'ємом 360 мл має елегантний дизайн, виготовлена з порцеляни.&amp;nbsp; Добре зберігає тепло і не дає напою швидко остигати, ідеально підходить для щоденного використання. Матеріал: фарфор Тип: чашка Об'єм: 360 мл Кількість: 4 шт Чотири деколя Колір: білий з малюнком Виробник: Snt</description>
 <description_ua>Набір чашок Snt серії&amp;nbsp;Наші вихованці 4 шт&amp;nbsp;об'ємом 360 мл має елегантний дизайн, виготовлена з порцеляни.&amp;nbsp; Добре зберігає тепло і не дає напою швидко остигати, ідеально підходить для щоденного використання. Матеріал: фарфор Тип: чашка Об'єм: 360 мл Кількість: 4 шт Чотири деколя Колір: білий з малюнком Виробник: Snt</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
