@@ -4790,7 +4790,7 @@
 <param name="Колір">Червоний</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="RE12995" available="true">
+<offer id="RE12995" available="false">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>112052.0</categoryId>
@@ -4802,7 +4802,7 @@
  Штучна квітка&amp;nbsp;використовується для створення інтер'єрних композицій.&amp;nbsp;Комбінуйте з різними видами штучних квітів, створюючи вишукану та унікальну прикрасу Вашого будинку чи офісу.</description>
 <description_ua>Штучна новорічна квітка пуансетія на прищепці для декору і флористики&amp;nbsp;марсалового кольору. 
  Штучна квітка&amp;nbsp;використовується для створення інтер'єрних композицій.&amp;nbsp;Комбінуйте з різними видами штучних квітів, створюючи вишукану та унікальну прикрасу Вашого будинку чи офісу.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вага в упаковці, кг">0,2</param>
 <param name="Різновид">Пуансетія</param>
 <param name="Висота в упаковці (см)">10</param>
