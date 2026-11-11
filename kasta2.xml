@@ -9701,7 +9701,7 @@
 <description_ua>Скляні горщики добре підходять для пересадки орхідей. Вони мають привабливу форму, бувають не лише прозорими, а також різних кольорів.</description_ua>
 <quantity_in_stock>1</quantity_in_stock>
 </offer>
-<offer id="Flora (7254v" available="true">
+<offer id="Flora (7254v" available="false">
 <price>229</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -9711,7 +9711,7 @@
 <name_ua>Горщик для орхідей Flora (7254) фіолетовий</name_ua>
 <name_ru>Горшок для орхидей Flora (7254) фиолетовый</name_ru>
 <description_ua>Скляні горщики добре підходять для пересадки орхідей. Вони мають привабливу форму, бувають не лише прозорими, а також різних кольорів.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="93152cope" available="true">
 <price>1564</price>
