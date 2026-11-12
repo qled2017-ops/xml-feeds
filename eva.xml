@@ -260734,8 +260734,8 @@ _x000D_
 <description_ua>Тримач настінний для губки 4.5*4.5см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="I000103" available="false">
-<price>399</price>
+<offer id="I000103" available="true">
+<price>499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1104</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/37258/item/original/i96843721-00c1979f2a8504bc2a697acc9de2b0ac-1737197032581.jpg</picture>
