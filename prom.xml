@@ -2406,7 +2406,7 @@
 <param name="Тип підошви">Без підборів</param>
 <param name="Колір">143 Срібний</param>
 </offer>
-<offer id="RE04110" available="true" in_stock="true">
+<offer id="RE04110" available="false" in_stock="true">
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>1035</categoryId>
@@ -2418,7 +2418,7 @@
 <name_ru>Женские галоши на меху ГП-17 мех бордовые Р.37</name_ru>
 <description>Навіщо вам потрібні калоші? В першу чергу такий вид взуття створений для робіт у городі, саду і загалом по двору, природно багато хто в інших випадках використовують. Галоші Садові сурен чорний – це недорогий варіант чудової якості. Позиція розрахована на літній період, оскільки немає устілки або утеплення, але легко Ви можете додатково використовувати.</description>
 <description_ua>Навіщо вам потрібні калоші? В першу чергу такий вид взуття створений для робіт у городі, саду і загалом по двору, природно багато хто в інших випадках використовують. Галоші Садові сурен чорний – це недорогий варіант чудової якості. Позиція розрахована на літній період, оскільки немає устілки або утеплення, але легко Ви можете додатково використовувати.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -54740,7 +54740,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір">Черный;Чорний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="YD124-L" available="false" in_stock="true">
+<offer id="YD124-L" available="true" in_stock="true">
 <price>479</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
