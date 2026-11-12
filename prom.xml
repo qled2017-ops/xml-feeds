@@ -36515,7 +36515,7 @@ USB-кабель заряджання;
 <param name="Тип поставки">Один предмет</param>
 <param name="Колір">Білий</param>
 </offer>
-<offer id="MN000005352" available="true" in_stock="true">
+<offer id="MN000005352" available="false" in_stock="true">
 <price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>1021</categoryId>
@@ -36528,7 +36528,7 @@ USB-кабель заряджання;
 <name_ru>Рюкзак дорожный спортивный водонепроницаемый с отделением для обуви карамель (f61-2)</name_ru>
 <description>Матеріал: нейлонова тканина Рюкзак&amp;nbsp;дорожній спортивний з відділенням для взуття Розміри: висота 46 см, ширина 32 см, ширина дна 15 см Наявність регульованих плечових ременів Рюкзак містить бокові кишені Призначення: унісекс Водонепроникний Колір: карамель</description>
 <description_ua>Матеріал: нейлонова тканина Рюкзак&amp;nbsp;дорожній спортивний з відділенням для взуття Розміри: висота 46 см, ширина 32 см, ширина дна 15 см Наявність регульованих плечових ременів Рюкзак містить бокові кишені Призначення: унісекс Водонепроникний Колір: карамель</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -54740,7 +54740,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Колір">Черный;Чорний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="YD124-L" available="true" in_stock="true">
+<offer id="YD124-L" available="false" in_stock="true">
 <price>479</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
@@ -103026,7 +103026,7 @@ USB Type-C
 <param name="Тип поставки">Один предмет</param>
 <param name="Колір">Прозорий</param>
 </offer>
-<offer id="EA04747" available="true" in_stock="true">
+<offer id="EA04747" available="false" in_stock="true">
 <price>318</price>
 <currencyId>UAH</currencyId>
 <categoryId>1357</categoryId>
@@ -103038,7 +103038,7 @@ USB Type-C
 <name_ru>Пушистые зимние наушники-ушки для девочек мягкие серые 37902-6</name_ru>
 <description>Теплі хутряні навушники створені для комфортних прогулянок у холодну пору року. Об’ємні м’які накладки приємно прилягають до вух та захищають їх від прохолодного вітру. Пухнаста фактура робить аксесуар особливо затишним, а акуратна форма забезпечує комфортну посадку. Навушники легко складаються, тому їх зручно зберігати та брати із собою в дорогу. Милий зимовий аксесуар для дівчаток, який поєднує практичність та привабливий дизайн. Характеристики: Тип: зимові навушники-вушка Матеріал: штучне хутро Фактура: м’яка та пухнаста Конструкція: складна Призначення: захист вух від холоду Для дівчаток</description>
 <description_ua>Теплі хутряні навушники створені для комфортних прогулянок у холодну пору року. Об’ємні м’які накладки приємно прилягають до вух та захищають їх від прохолодного вітру. Пухнаста фактура робить аксесуар особливо затишним, а акуратна форма забезпечує комфортну посадку. Навушники легко складаються, тому їх зручно зберігати та брати із собою в дорогу. Милий зимовий аксесуар для дівчаток, який поєднує практичність та привабливий дизайн. Характеристики: Тип: зимові навушники-вушка Матеріал: штучне хутро Фактура: м’яка та пухнаста Конструкція: складна Призначення: захист вух від холоду Для дівчаток</description_ua>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -103051,7 +103051,7 @@ USB Type-C
 <param name="Колір">Сірий</param>
 </offer>
 <offer id="EA04749" available="true" in_stock="true">
-<price>318</price>
+<price>413</price>
 <currencyId>UAH</currencyId>
 <categoryId>1357</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i149855802-50c0d068985d512803f3a515ab724d56-1790773648230.jpg</picture>
@@ -134078,7 +134078,7 @@ USB Type-C
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="EA04727" available="true" in_stock="true">
+<offer id="EA04727" available="false" in_stock="true">
 <price>276</price>
 <currencyId>UAH</currencyId>
 <categoryId>1357</categoryId>
@@ -134091,7 +134091,7 @@ USB Type-C
 <name_ru>Зимние меховые наушники для девочек коричневые 37902-3</name_ru>
 <description>Зимові хутряні навушники — м’який та затишний аксесуар для холодної погоди. Пухнасті накладки добре закривають вуха та допомагають зберегти тепло під час прогулянок. Навушники комфортно розташовуються на голові, приємні на дотик та підходять для щоденного використання. Завдяки складній конструкції їх зручно зберігати та брати із собою. Підійдуть для дівчаток та стануть практичним доповненням до зимового образу. Характеристики: Вид: зимові хутряні навушники Матеріал: штучне хутро Конструкція: складна Призначення: для захисту вух від холоду Підходять для дівчаток</description>
 <description_ua>Зимові хутряні навушники — м’який та затишний аксесуар для холодної погоди. Пухнасті накладки добре закривають вуха та допомагають зберегти тепло під час прогулянок. Навушники комфортно розташовуються на голові, приємні на дотик та підходять для щоденного використання. Завдяки складній конструкції їх зручно зберігати та брати із собою. Підійдуть для дівчаток та стануть практичним доповненням до зимового образу. Характеристики: Вид: зимові хутряні навушники Матеріал: штучне хутро Конструкція: складна Призначення: для захисту вух від холоду Підходять для дівчаток</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -134129,7 +134129,7 @@ USB Type-C
 <param name="Колір">Білий</param>
 </offer>
 <offer id="EA04730" available="true" in_stock="true">
-<price>276</price>
+<price>359</price>
 <currencyId>UAH</currencyId>
 <categoryId>1357</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i149771248-41ece30480237b1c755e458f035449d9-1790686555192.jpg</picture>
@@ -134154,7 +134154,7 @@ USB Type-C
 <param name="Колір">Чорний</param>
 </offer>
 <offer id="37902-3-grey" available="true" in_stock="true">
-<price>276</price>
+<price>359</price>
 <currencyId>UAH</currencyId>
 <categoryId>1357</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i151935443-387e303a237e631595e3caa1716cc331-1792485620483.jpg</picture>
@@ -134180,7 +134180,7 @@ USB Type-C
 <param name="Колір">Серый;Сірий</param>
 </offer>
 <offer id="EA04729" available="true" in_stock="true">
-<price>276</price>
+<price>359</price>
 <currencyId>UAH</currencyId>
 <categoryId>1357</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i149771226-2a45251b2684f9b154dcdc968453b73d-1790686415386.jpg</picture>
