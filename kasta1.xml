@@ -19217,7 +19217,7 @@ ABS-технологія гарантує довговічність та вис
 <param name="Гарантія">14 днів</param>
 <param name="Кількість вантажних місць">1</param>
 </offer>
-<offer id="DE03068" available="true">
+<offer id="DE03068" available="false">
 <price>346</price>
 <currencyId>UAH</currencyId>
 <categoryId>1019</categoryId>
