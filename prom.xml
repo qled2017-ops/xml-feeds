@@ -17984,7 +17984,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="G-016-XS" available="true" in_stock="true">
-<price>599</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-566c9a1e7e6a53838b0f4fb07adf8f0f.jpg</picture>
@@ -18159,7 +18159,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
 <offer id="G-04M" available="true" in_stock="true">
-<price>999</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-745346cc4fea570c3b210d5be86f7db1.jpg</picture>
@@ -18204,7 +18204,7 @@ LED-підсвічування</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-04S" available="true" in_stock="true">
-<price>999</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-745346cc4fea570c3b210d5be86f7db1.jpg</picture>
@@ -67673,7 +67673,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-016-XL" available="true" in_stock="true">
-<price>599</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-566c9a1e7e6a53838b0f4fb07adf8f0f.jpg</picture>
@@ -67720,7 +67720,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
 <offer id="G-016-L" available="true" in_stock="true">
-<price>699</price>
+<price>799</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i72565934-566c9a1e7e6a53838b0f4fb07adf8f0f.jpg</picture>
@@ -111571,7 +111571,7 @@ USB Type-C
 <param name="Гарантія">14 днів</param>
 <param name="Колір">Синій</param>
 </offer>
-<offer id="36661" available="true" in_stock="true">
+<offer id="36661" available="false" in_stock="true">
 <price>1333</price>
 <currencyId>UAH</currencyId>
 <categoryId>1041</categoryId>
@@ -111583,7 +111583,7 @@ USB Type-C
 <name_ru>Горшок керамический Чашка с подставкой 36661</name_ru>
 <description>Діаметр верх. зовн. (см)26 Висота (см)18 Об’єм горшка (л)5.8 Діаметр верх. внутр. (см)24.5 Отвір на днітак</description>
 <description_ua>Діаметр верх. зовн. (см)26 Висота (см)18 Об’єм горшка (л)5.8 Діаметр верх. внутр. (см)24.5 Отвір на днітак</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">1.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
