@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14 18:23">
+<yml_catalog date="2026-11-14 19:36">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -317,6 +317,8 @@
 <category id="1444" rz_id="4674369.0">Штани карго</category>
 <category id="1445" rz_id="4674378.0">Сорочки</category>
 <category id="1446" rz_id="4674444.0">Панами</category>
+<category id="1447" rz_id="4674369.0">Тактичні штани</category>
+<category id="1448" rz_id="4674417.0">Військові кофти</category>
 </categories>
 <offers>
 <offer id="NA00600" available="false">
@@ -19841,7 +19843,7 @@ ABS-технологія гарантує довговічність та вис
 <description_ua>M-TAC КОФТА CENTURION MICROFLEECE - це зручна та практична кофта, яка подарує своєму власнику комфорт у холодну пору року. Пошита з якісного теплозберігаючого флісу від італійської компанії Pontetorto (поліестер). Ця тканина володіє відмінними зігріваючими властивостями, а також є легкою, еластичною та антибактеріальною. Для зручності одягання, на передній частині кофти, розташована застібка-блискавка від лідера з виробництва фурнітури японської компанії YKK. Знизу рукавів розташовані спеціальні отвори для пальців, які унеможливлюють скочування термобілизни під верхніми шарами одягу та забезпечують додаткове утримання тепла. Плечова, а також ліктьова частина кофти, посилені зносостійким матеріалом (поліестер). Анатомічний крій кофти органічно повторює контури тіла та забезпечує комфорт при фізичних навантаженнях. Плоскі шви не натирають і не викликають дискомфорту під час активної експлуатації.&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="EA00914" available="true">
+<offer id="EA00914" available="false">
 <price>2668</price>
 <currencyId>UAH</currencyId>
 <categoryId>1229</categoryId>
@@ -19860,7 +19862,7 @@ ABS-технологія гарантує довговічність та вис
 <name_ua>Кофта M-Tac Centurion Microfleece Coyote Розмір S</name_ua>
 <name_ru>Кофта M-Tac Centurion Microfleece Coyote Размер S</name_ru>
 <description_ua>M-TAC КОФТА CENTURION MICROFLEECE - це зручна та практична кофта, яка подарує своєму власнику комфорт у холодну пору року. Пошита з якісного теплозберігаючого флісу від італійської компанії Pontetorto (поліестер). Ця тканина володіє відмінними зігріваючими властивостями, а також є легкою, еластичною та антибактеріальною. Для зручності одягання, на передній частині кофти, розташована застібка-блискавка від лідера з виробництва фурнітури японської компанії YKK. Знизу рукавів розташовані спеціальні отвори для пальців, які унеможливлюють скочування термобілизни під верхніми шарами одягу та забезпечують додаткове утримання тепла. Плечова, а також ліктьова частина кофти, посилені зносостійким матеріалом (поліестер). Анатомічний крій кофти органічно повторює контури тіла та забезпечує комфорт при фізичних навантаженнях. Плоскі шви не натирають і не викликають дискомфорту під час активної експлуатації.&amp;nbsp;</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EA00915" available="false">
 <price>2668</price>
@@ -27803,7 +27805,7 @@ ABS-технологія гарантує довговічність та вис
 <description_ua>Бренд М-Тас випустив нову демісезонну куртку JARL PRIMALOFT, розроблену з урахуванням інноваційних технологій і висококласних матеріалів. Пошита з дихаючого нейлону Toray виготовленої за технологією Mechanical stretch. Дана технологія полягає у створенні еластичної тканини без використання волокон еластану/спандексу, завдяки чому, вона є більш зносостійкою та не схильною до розтягувань. Куртка утеплена високотехнологічним наповнювачем Primaloft щільністю 100г/м2. Даний матеріал забезпечує відмінну теплоізоляцію та надійно захищає від холоду. Завдяки своїм унікальним властивостям утеплювач Primaloft легко випаровує вологу при намоканні та швидко сохне. Також він досить легкий, добре пропускає повітря, органічно поєднуючи в собі м'якість пуху і міцність синтетичного волокна. Комір-стійка та вставки з біфлексу утеплені підкладкою з мікрофлісу від всесвітньо відомого італійського бренду Pontetorto. Куртка Jarl Primaloft має 2 бічні кишені та одну внутрішню для документів або дрібних речей. Зручний капюшон регулюється за об'ємом і надійно захистить від негоди. Манжети з еластичного матеріалу запобігають потраплянню холодного повітря всередину. Анатомічний крій не обмежує рухи і гарантує стовідсотковий захист від вітру, а мінімалістичний дизайн робить куртку практичним і стильним елементом гардероба.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="EE01271" available="true">
+<offer id="EE01271" available="false">
 <price>12857</price>
 <currencyId>UAH</currencyId>
 <categoryId>1326</categoryId>
@@ -27822,7 +27824,7 @@ ABS-технологія гарантує довговічність та вис
 <name_ua>Куртка M-Tac Jarl Primaloft Olive Розмір L/R</name_ua>
 <name_ru>Куртка M-Tac Jarl Primaloft Olive Размер L/R</name_ru>
 <description_ua>Бренд М-Тас випустив нову демісезонну куртку JARL PRIMALOFT, розроблену з урахуванням інноваційних технологій і висококласних матеріалів. Пошита з дихаючого нейлону Toray виготовленої за технологією Mechanical stretch. Дана технологія полягає у створенні еластичної тканини без використання волокон еластану/спандексу, завдяки чому, вона є більш зносостійкою та не схильною до розтягувань. Куртка утеплена високотехнологічним наповнювачем Primaloft щільністю 100г/м2. Даний матеріал забезпечує відмінну теплоізоляцію та надійно захищає від холоду. Завдяки своїм унікальним властивостям утеплювач Primaloft легко випаровує вологу при намоканні та швидко сохне. Також він досить легкий, добре пропускає повітря, органічно поєднуючи в собі м'якість пуху і міцність синтетичного волокна. Комір-стійка та вставки з біфлексу утеплені підкладкою з мікрофлісу від всесвітньо відомого італійського бренду Pontetorto. Куртка Jarl Primaloft має 2 бічні кишені та одну внутрішню для документів або дрібних речей. Зручний капюшон регулюється за об'ємом і надійно захистить від негоди. Манжети з еластичного матеріалу запобігають потраплянню холодного повітря всередину. Анатомічний крій не обмежує рухи і гарантує стовідсотковий захист від вітру, а мінімалістичний дизайн робить куртку практичним і стильним елементом гардероба.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EE01273" available="true">
 <price>12857</price>
@@ -29435,7 +29437,7 @@ ABS-технологія гарантує довговічність та вис
 <description_ua>Подовжені зимові шкарпетки від бренду М-Тас – один із найпопулярніших товарів для чоловіків. Пошиті з високоякісного матеріалу (35% вовна, 40% акрил, 20% поліамід, 5% еластан), що приємний на дотик, еластичний і забезпечує відмінну терморегуляцію, в результаті якої шкарпетки не парять. Вовна, що є в складі тканини, має високі теплозберігаючі властивості та приємна до тіла. Конструктивною особливістю шкарпеток є текстурні термозони та інтегровані системи каналів для швидкого випаровування зайвої вологи. Щільна резинка добре фіксує їх на нозі, не дозволяючи шкарпеткам скручуватися або сповзати. Анатомічна форма гарантує комфортне носіння у взутті та перешкоджає натиранню. Шкарпетки відмінно підійдуть для повсякденного використання та сприятимуть максимальному комфорту при ходьбі або тривалому перебуванні у взутті.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE06742" available="false">
+<offer id="RE06742" available="true">
 <price>570</price>
 <currencyId>UAH</currencyId>
 <categoryId>1228</categoryId>
@@ -31409,7 +31411,7 @@ ABS-технологія гарантує довговічність та вис
 <description_ua>Сорочка літня від бренду M-Tac поєднує високоякісні матеріали, новітні виробничі технології та продуманий функціонал. Спинка та торс сорочки виготовлені з трикотажного матеріалу Polartec fire resist (66% модакріл, 29% ліоцелль, 5% спан). Найбільшу відсоткову частку в складі цього матеріалу займає модакріл. Тканини виготовлені з включенням цього синтетичного волокна є стійкими до вогню та, відповідно, загоряння. В поєднанні з іншими компонентами, що є в складі матеріалу Polartec fire resist, утворюється унікальна комбінація вогне- та водостійкості, м'якості та еластичності. Рукава та комір пошиті з міцної американської тканини NYCO Extreme від компанії Brookwood (57% нейлон, 43% бавовна). Цей легкий матеріал приблизно втричі міцніший на розрив, в 10 разів більш повітропроникний і швидше висихає порівняно зі звичайною тканиною NYCO. Конструктори бренду під пахвами додали вставки із сітки для покращення вентиляції та відведення вологи. Також на рукавах дизайнери передбачили прикриті клапаном вертикальні кишені для зберігання цінних речей. Велкро панелі оснащені спеціальними отворами під хімсвітло та інше канцелярське приладдя. На лівому рукаві є додаткові кишені для ручок. Дана модель зручна у використанні як у теплу, так і в прохолодну пору року.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE06260" available="true">
+<offer id="RE06260" available="false">
 <price>8112</price>
 <currencyId>UAH</currencyId>
 <categoryId>1302</categoryId>
@@ -31425,7 +31427,7 @@ ABS-технологія гарантує довговічність та вис
 <name_ua>Сорочка M-Tac літня Gen.II Pro NYCO Extreme Multicam Розмір S/R</name_ua>
 <name_ru>Рубашка M-Tac летняя Gen.II Pro NYCO Extreme Multicam Размер S/R</name_ru>
 <description_ua>Сорочка літня від бренду M-Tac поєднує високоякісні матеріали, новітні виробничі технології та продуманий функціонал. Спинка та торс сорочки виготовлені з трикотажного матеріалу Polartec fire resist (66% модакріл, 29% ліоцелль, 5% спан). Найбільшу відсоткову частку в складі цього матеріалу займає модакріл. Тканини виготовлені з включенням цього синтетичного волокна є стійкими до вогню та, відповідно, загоряння. В поєднанні з іншими компонентами, що є в складі матеріалу Polartec fire resist, утворюється унікальна комбінація вогне- та водостійкості, м'якості та еластичності. Рукава та комір пошиті з міцної американської тканини NYCO Extreme від компанії Brookwood (57% нейлон, 43% бавовна). Цей легкий матеріал приблизно втричі міцніший на розрив, в 10 разів більш повітропроникний і швидше висихає порівняно зі звичайною тканиною NYCO. Конструктори бренду під пахвами додали вставки із сітки для покращення вентиляції та відведення вологи. Також на рукавах дизайнери передбачили прикриті клапаном вертикальні кишені для зберігання цінних речей. Велкро панелі оснащені спеціальними отворами під хімсвітло та інше канцелярське приладдя. На лівому рукаві є додаткові кишені для ручок. Дана модель зручна у використанні як у теплу, так і в прохолодну пору року.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE06261" available="true">
 <price>8112</price>
@@ -221474,6 +221476,209 @@ _x000D_
 <name_ru>Шарф-труба мужской M-Tac Polartec Dark Grey (40529012-L/XL) размер L/XL</name_ru>
 <description_ua>Шарф-труба чоловічий M-Tac Polartec Dark Grey — універсальний чоловічий шарф-труба для прогулянок, походів, риболовлі, спорту та активного відпочинку. Розмір: L/XL.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
+</offer>
+<offer id="EA00848" available="true">
+<price>4326</price>
+<currencyId>UAH</currencyId>
+<categoryId>1447</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-d17b584cf90b1c839d97937715dcb044-1756299152009.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-e1b0ef8e72cdabe4ba4db485a84565f4-1756299121005.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-9e0c14128dc45616b7a5dd3ec6b5d67b-1756299121615.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-3e003c0deeeabaf666548b9035faf213-1756299122851.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-8b242047f8b544e0c166d17e07013a63-1756299132947.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113223749-ac9a3c1a0409875e3cc3ae1aa8c89dfa-1756283513907.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA00848</vendorCode>
+<name_ua>Штани M-Tac Aggressor Special Edition Army Olive Розмір 30/30</name_ua>
+<name_ru>Штаны M-Tac Aggressor Special Edition Army Olive Размер 30/30</name_ru>
+<description_ua>Бренд М-Тас розробив та випустив нову версію легендарних штанів Aggressor. M-TAC ШТАНИ AGGRESSOR SPECIAL EDITION стануть ідеальним рішенням для будь-яких завдань, а завдяки високоякісному матеріалу, подарують своєму власнику зручність та комфорт. Основною відмінністю даної моделі штанів, від попередньо випущених – є зміна матеріалу. Aggressor Special Edition пошиті з високоякісної тканини (поліестер, бавовна), виготовленої за технологією Mechanical stretch. Дана технологія полягає у створені еластичної тканини без використання волокон еластану/спандексу, завдяки чому, вона є більш зносостійкою та не схильною до розтягувань. Конструктивною особливістю штанів Aggressor Special Edition є еластичний “тунельний” пояс зі зручним регулюванням посадки, відповідно до ваших параметрів. На ньому також розташовані шлейки для ременя (шириною до 5,5 см) та два D-кільця для підвісу різного устаткування. Штани застібаються на застібку-блискавку, внутрішній гачок і кнопку (виробництва YKK). Завдяки продуманому крою штани не обмежують рухи: у них зручно стрибати, бігати, нахилятися, присідати й пересуватися по пересіченій місцевості. Штани оснащені великою кількістю кишень, як утилітарних, так і спеціальних: всього їх сім. Також в цій моделі передбачений прихований внутрішній відсік для наколінників, що дає можливість встановлення додаткового захисту.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA00849" available="true">
+<price>4326</price>
+<currencyId>UAH</currencyId>
+<categoryId>1447</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-d17b584cf90b1c839d97937715dcb044-1756299152009.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-e1b0ef8e72cdabe4ba4db485a84565f4-1756299121005.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-9e0c14128dc45616b7a5dd3ec6b5d67b-1756299121615.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-3e003c0deeeabaf666548b9035faf213-1756299122851.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113261802-8b242047f8b544e0c166d17e07013a63-1756299132947.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113223749-ac9a3c1a0409875e3cc3ae1aa8c89dfa-1756283513907.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA00849</vendorCode>
+<name_ua>Штани M-Tac Aggressor Special Edition Army Olive Розмір 30/32</name_ua>
+<name_ru>Штаны M-Tac Aggressor Special Edition Army Olive Размер 30/32</name_ru>
+<description_ua>Бренд М-Тас розробив та випустив нову версію легендарних штанів Aggressor. M-TAC ШТАНИ AGGRESSOR SPECIAL EDITION стануть ідеальним рішенням для будь-яких завдань, а завдяки високоякісному матеріалу, подарують своєму власнику зручність та комфорт. Основною відмінністю даної моделі штанів, від попередньо випущених – є зміна матеріалу. Aggressor Special Edition пошиті з високоякісної тканини (поліестер, бавовна), виготовленої за технологією Mechanical stretch. Дана технологія полягає у створені еластичної тканини без використання волокон еластану/спандексу, завдяки чому, вона є більш зносостійкою та не схильною до розтягувань. Конструктивною особливістю штанів Aggressor Special Edition є еластичний “тунельний” пояс зі зручним регулюванням посадки, відповідно до ваших параметрів. На ньому також розташовані шлейки для ременя (шириною до 5,5 см) та два D-кільця для підвісу різного устаткування. Штани застібаються на застібку-блискавку, внутрішній гачок і кнопку (виробництва YKK). Завдяки продуманому крою штани не обмежують рухи: у них зручно стрибати, бігати, нахилятися, присідати й пересуватися по пересіченій місцевості. Штани оснащені великою кількістю кишень, як утилітарних, так і спеціальних: всього їх сім. Також в цій моделі передбачений прихований внутрішній відсік для наколінників, що дає можливість встановлення додаткового захисту.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA00927" available="true">
+<price>4295</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-0eab3a6d6c4362e07857c1be90a0e0e3-1756390698627.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-382c20694a70dec54e0cb7b1f0a0f95a-1756390699816.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-3f0aa5db5a31a469769bd937261f3cbc-1756390700144.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-eb0b5d8baefdb376a6d190f692803cb3-1756390700371.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-6a872b8d7ec03e01940bc5ce1fa0caa5-1756390700713.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA00927</vendorCode>
+<name_ua>Кофта M-Tac Centurion Microfleece Black Розмір S</name_ua>
+<name_ru>Кофта M-Tac Centurion Microfleece Black Размер S</name_ru>
+<description_ua>M-TAC КОФТА CENTURION MICROFLEECE - це зручна та практична кофта, яка подарує своєму власнику комфорт у холодну пору року. Пошита з якісного теплозберігаючого флісу від італійської компанії Pontetorto (поліестер). Ця тканина володіє відмінними зігріваючими властивостями, а також є легкою, еластичною та антибактеріальною. Для зручності одягання, на передній частині кофти, розташована застібка-блискавка від лідера з виробництва фурнітури японської компанії YKK. Знизу рукавів розташовані спеціальні отвори для пальців, які унеможливлюють скочування термобілизни під верхніми шарами одягу та забезпечують додаткове утримання тепла. Плечова, а також ліктьова частина кофти, посилені зносостійким матеріалом (поліестер). Анатомічний крій кофти органічно повторює контури тіла та забезпечує комфорт при фізичних навантаженнях. Плоскі шви не натирають і не викликають дискомфорту під час активної експлуатації.&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA00928" available="true">
+<price>4295</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-0eab3a6d6c4362e07857c1be90a0e0e3-1756390698627.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-382c20694a70dec54e0cb7b1f0a0f95a-1756390699816.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-3f0aa5db5a31a469769bd937261f3cbc-1756390700144.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-eb0b5d8baefdb376a6d190f692803cb3-1756390700371.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-6a872b8d7ec03e01940bc5ce1fa0caa5-1756390700713.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA00928</vendorCode>
+<name_ua>Кофта M-Tac Centurion Microfleece Black Розмір M</name_ua>
+<name_ru>Кофта M-Tac Centurion Microfleece Black Размер M</name_ru>
+<description_ua>M-TAC КОФТА CENTURION MICROFLEECE - це зручна та практична кофта, яка подарує своєму власнику комфорт у холодну пору року. Пошита з якісного теплозберігаючого флісу від італійської компанії Pontetorto (поліестер). Ця тканина володіє відмінними зігріваючими властивостями, а також є легкою, еластичною та антибактеріальною. Для зручності одягання, на передній частині кофти, розташована застібка-блискавка від лідера з виробництва фурнітури японської компанії YKK. Знизу рукавів розташовані спеціальні отвори для пальців, які унеможливлюють скочування термобілизни під верхніми шарами одягу та забезпечують додаткове утримання тепла. Плечова, а також ліктьова частина кофти, посилені зносостійким матеріалом (поліестер). Анатомічний крій кофти органічно повторює контури тіла та забезпечує комфорт при фізичних навантаженнях. Плоскі шви не натирають і не викликають дискомфорту під час активної експлуатації.&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA00929" available="true">
+<price>4295</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-0eab3a6d6c4362e07857c1be90a0e0e3-1756390698627.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-382c20694a70dec54e0cb7b1f0a0f95a-1756390699816.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-3f0aa5db5a31a469769bd937261f3cbc-1756390700144.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-eb0b5d8baefdb376a6d190f692803cb3-1756390700371.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-6a872b8d7ec03e01940bc5ce1fa0caa5-1756390700713.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA00929</vendorCode>
+<name_ua>Кофта M-Tac Centurion Microfleece Black Розмір L</name_ua>
+<name_ru>Кофта M-Tac Centurion Microfleece Black Размер L</name_ru>
+<description_ua>M-TAC КОФТА CENTURION MICROFLEECE - це зручна та практична кофта, яка подарує своєму власнику комфорт у холодну пору року. Пошита з якісного теплозберігаючого флісу від італійської компанії Pontetorto (поліестер). Ця тканина володіє відмінними зігріваючими властивостями, а також є легкою, еластичною та антибактеріальною. Для зручності одягання, на передній частині кофти, розташована застібка-блискавка від лідера з виробництва фурнітури японської компанії YKK. Знизу рукавів розташовані спеціальні отвори для пальців, які унеможливлюють скочування термобілизни під верхніми шарами одягу та забезпечують додаткове утримання тепла. Плечова, а також ліктьова частина кофти, посилені зносостійким матеріалом (поліестер). Анатомічний крій кофти органічно повторює контури тіла та забезпечує комфорт при фізичних навантаженнях. Плоскі шви не натирають і не викликають дискомфорту під час активної експлуатації.&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA00931" available="true">
+<price>4295</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-0eab3a6d6c4362e07857c1be90a0e0e3-1756390698627.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-382c20694a70dec54e0cb7b1f0a0f95a-1756390699816.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-3f0aa5db5a31a469769bd937261f3cbc-1756390700144.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-eb0b5d8baefdb376a6d190f692803cb3-1756390700371.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113511287-6a872b8d7ec03e01940bc5ce1fa0caa5-1756390700713.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA00931</vendorCode>
+<name_ua>Кофта M-Tac Centurion Microfleece Black Розмір 2XL</name_ua>
+<name_ru>Кофта M-Tac Centurion Microfleece Black Размер 2XL</name_ru>
+<description_ua>M-TAC КОФТА CENTURION MICROFLEECE - це зручна та практична кофта, яка подарує своєму власнику комфорт у холодну пору року. Пошита з якісного теплозберігаючого флісу від італійської компанії Pontetorto (поліестер). Ця тканина володіє відмінними зігріваючими властивостями, а також є легкою, еластичною та антибактеріальною. Для зручності одягання, на передній частині кофти, розташована застібка-блискавка від лідера з виробництва фурнітури японської компанії YKK. Знизу рукавів розташовані спеціальні отвори для пальців, які унеможливлюють скочування термобілизни під верхніми шарами одягу та забезпечують додаткове утримання тепла. Плечова, а також ліктьова частина кофти, посилені зносостійким матеріалом (поліестер). Анатомічний крій кофти органічно повторює контури тіла та забезпечує комфорт при фізичних навантаженнях. Плоскі шви не натирають і не викликають дискомфорту під час активної експлуатації.&amp;nbsp;</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA00965" available="true">
+<price>2661</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-fb01bef2e45dd675bf403b1991b8370c-1756456397391.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-fe0031a296c1b33d3aed79440f857f88-1756456397579.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-a2463319aeeebe995ca4563794aacddd-1756456403551.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-a2e2af7f7f5fe6f35c91487ef0fce2a5-1756456407238.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-c8707c12db229e65b86f5f9e4c440c1b-1756456413336.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-d409a98a37f5ce6b02cdf3865069f693-1756456413563.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-2bf3099fb61128ff56522ed4fff7ac2d-1756456413756.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-766bb8997313a91e0bfd38b0d3d61a63-1756456414630.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-1063eb98329ba01ba8b86b18a2929b69-1756456416206.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-7a48f5a574939104bd58a42a0a355f67-1756456417570.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA00965</vendorCode>
+<name_ua>Кофта M-Tac Hoodie Born by Revolution Black Розмір M</name_ua>
+<name_ru>Кофта M-Tac Hoodie Born by Revolution Black Размер M</name_ru>
+<description_ua>Бренд М-Тас створив нову КОФТУ HOODIE BORN BY REVOLUTION, яка вдало поєднує у собі зручний крій та якісні матеріали. Кофта пошита якісного матеріалу (77% бавовна, 18% поліестер, 5% еластан), який характеризується легкістю, повітропроникністю та зносостійкістю. На грудях кофти нанесено логотип М-Тас, а також гасло бренду: Born by Revolution – Hardened by War, що в перекладі означає "Народжений революцією – загартований війною". Зручний капюшон кофти регулюється за об’ємом та відмінно захищає від вітру і негоди. Низ рукавів та пояс худі оброблені еластичним трикотажним полотном, яке щільно прилягає до тіла та забезпечує збереження першочергової форми виробу.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA00966" available="true">
+<price>2661</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-fb01bef2e45dd675bf403b1991b8370c-1756456397391.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-fe0031a296c1b33d3aed79440f857f88-1756456397579.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-a2463319aeeebe995ca4563794aacddd-1756456403551.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-a2e2af7f7f5fe6f35c91487ef0fce2a5-1756456407238.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-c8707c12db229e65b86f5f9e4c440c1b-1756456413336.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-d409a98a37f5ce6b02cdf3865069f693-1756456413563.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-2bf3099fb61128ff56522ed4fff7ac2d-1756456413756.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-766bb8997313a91e0bfd38b0d3d61a63-1756456414630.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-1063eb98329ba01ba8b86b18a2929b69-1756456416206.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113572036-7a48f5a574939104bd58a42a0a355f67-1756456417570.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA00966</vendorCode>
+<name_ua>Кофта M-Tac Hoodie Born by Revolution Black Розмір L</name_ua>
+<name_ru>Кофта M-Tac Hoodie Born by Revolution Black Размер L</name_ru>
+<description_ua>Бренд М-Тас створив нову КОФТУ HOODIE BORN BY REVOLUTION, яка вдало поєднує у собі зручний крій та якісні матеріали. Кофта пошита якісного матеріалу (77% бавовна, 18% поліестер, 5% еластан), який характеризується легкістю, повітропроникністю та зносостійкістю. На грудях кофти нанесено логотип М-Тас, а також гасло бренду: Born by Revolution – Hardened by War, що в перекладі означає "Народжений революцією – загартований війною". Зручний капюшон кофти регулюється за об’ємом та відмінно захищає від вітру і негоди. Низ рукавів та пояс худі оброблені еластичним трикотажним полотном, яке щільно прилягає до тіла та забезпечує збереження першочергової форми виробу.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA01040" available="true">
+<price>1989</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-671fb982077f5c209368261cf7c053d3-1756813921139.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-e8e6712bc1b055d2c690f37c7fdbe59d-1756813922298.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-904481b8fdfb3fe05ea149c998a99c16-1756813926664.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-a8c6ac8d0bd13b849424a5e90cc35f52-1756813926909.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-d78c10bf08fa6615f0bac47395f9580f-1756813928322.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-12b4c983da60a7d9c3ff3ef9a2eb1873-1756813930175.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-2b809dc1fa3cb0ee64ea6c548468230e-1756813931412.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-d699564378a866dea0a7117c38a6ece9-1756813932607.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-45cb3b3b410221a3f434fb14badc1f4b-1756813934525.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-39cd39ccda71bc10598cd90843560f30-1756813936056.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA01040</vendorCode>
+<name_ua>Світшот M-Tac Born by Revolution Black Розмір M</name_ua>
+<name_ru>Свитшот M-Tac Born by Revolution Black Размер M</name_ru>
+<description_ua>Бренд М-Тас створив новий СВІТШОТ BORN BY REVOLUTION, який вдало поєднує у собі зручний крій та якісні матеріали. Світшот пошитий з якісного матеріалу (77% бавовна, 18% поліестер, 5% еластан), який поєднує у собі легкість та повітропроникність, а також є приємним до тіла. Манжети рукавів, низ світшота, а також горловина оброблені еластичною резинкою. На грудях світшота нанесено логотип М-Тас, а також гасло бренду: Born by Revolution – Hardened by War, що в перекладі означає "Народжений революцією – загартований війною". Зручний крій світшоту не обмежує рухи, а плоскі шви не натирають та забезпечують комфорт під час використання.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA01041" available="true">
+<price>1989</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-671fb982077f5c209368261cf7c053d3-1756813921139.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-e8e6712bc1b055d2c690f37c7fdbe59d-1756813922298.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-904481b8fdfb3fe05ea149c998a99c16-1756813926664.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-a8c6ac8d0bd13b849424a5e90cc35f52-1756813926909.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-d78c10bf08fa6615f0bac47395f9580f-1756813928322.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-12b4c983da60a7d9c3ff3ef9a2eb1873-1756813930175.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-2b809dc1fa3cb0ee64ea6c548468230e-1756813931412.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-d699564378a866dea0a7117c38a6ece9-1756813932607.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-45cb3b3b410221a3f434fb14badc1f4b-1756813934525.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-39cd39ccda71bc10598cd90843560f30-1756813936056.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA01041</vendorCode>
+<name_ua>Світшот M-Tac Born by Revolution Black Розмір L</name_ua>
+<name_ru>Свитшот M-Tac Born by Revolution Black Размер L</name_ru>
+<description_ua>Бренд М-Тас створив новий СВІТШОТ BORN BY REVOLUTION, який вдало поєднує у собі зручний крій та якісні матеріали. Світшот пошитий з якісного матеріалу (77% бавовна, 18% поліестер, 5% еластан), який поєднує у собі легкість та повітропроникність, а також є приємним до тіла. Манжети рукавів, низ світшота, а також горловина оброблені еластичною резинкою. На грудях світшота нанесено логотип М-Тас, а також гасло бренду: Born by Revolution – Hardened by War, що в перекладі означає "Народжений революцією – загартований війною". Зручний крій світшоту не обмежує рухи, а плоскі шви не натирають та забезпечують комфорт під час використання.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="EA01042" available="true">
+<price>1989</price>
+<currencyId>UAH</currencyId>
+<categoryId>1448</categoryId>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-671fb982077f5c209368261cf7c053d3-1756813921139.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-e8e6712bc1b055d2c690f37c7fdbe59d-1756813922298.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-904481b8fdfb3fe05ea149c998a99c16-1756813926664.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-a8c6ac8d0bd13b849424a5e90cc35f52-1756813926909.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-d78c10bf08fa6615f0bac47395f9580f-1756813928322.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-12b4c983da60a7d9c3ff3ef9a2eb1873-1756813930175.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-2b809dc1fa3cb0ee64ea6c548468230e-1756813931412.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-d699564378a866dea0a7117c38a6ece9-1756813932607.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-45cb3b3b410221a3f434fb14badc1f4b-1756813934525.jpg</picture>
+<picture>https://pricecreator.rozetka.com.ua/uploads/42936/item/original/i113838411-39cd39ccda71bc10598cd90843560f30-1756813936056.jpg</picture>
+<vendor>M-Tac</vendor>
+<vendorCode>EA01042</vendorCode>
+<name_ua>Світшот M-Tac Born by Revolution Black Розмір 2XL</name_ua>
+<name_ru>Свитшот M-Tac Born by Revolution Black Размер 2XL</name_ru>
+<description_ua>Бренд М-Тас створив новий СВІТШОТ BORN BY REVOLUTION, який вдало поєднує у собі зручний крій та якісні матеріали. Світшот пошитий з якісного матеріалу (77% бавовна, 18% поліестер, 5% еластан), який поєднує у собі легкість та повітропроникність, а також є приємним до тіла. Манжети рукавів, низ світшота, а також горловина оброблені еластичною резинкою. На грудях світшота нанесено логотип М-Тас, а також гасло бренду: Born by Revolution – Hardened by War, що в перекладі означає "Народжений революцією – загартований війною". Зручний крій світшоту не обмежує рухи, а плоскі шви не натирають та забезпечують комфорт під час використання.</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
 </offer>
 </offers>
 </shop>
