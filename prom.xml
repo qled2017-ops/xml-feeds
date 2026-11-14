@@ -137651,7 +137651,7 @@ USB-кабель.</param>
 <param name="Колір">Рожевий</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="1106-GRN" available="true" in_stock="true">
+<offer id="1106-GRN" available="false" in_stock="true">
 <price>315</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
@@ -137663,7 +137663,7 @@ USB-кабель.</param>
 <name_ru>Женские шерстяные перчатки 1106, зелёные, One Size</name_ru>
 <description>Жіночі вовняні рукавички 1106, Зелений, One Size. М'які в'язані рукавички із сенсорними пальцями для щоденного використання в прохолодну погоду. Подовжена манжета та рельєфний візерунок створюють охайний зимовий образ. Матеріал заявлено постачальником як вовняний.</description>
 <description_ua>Жіночі вовняні рукавички 1106, Зелений, One Size. М'які в'язані рукавички із сенсорними пальцями для щоденного використання в прохолодну погоду. Подовжена манжета та рельєфний візерунок створюють охайний зимовий образ. Матеріал заявлено постачальником як вовняний.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">30.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
