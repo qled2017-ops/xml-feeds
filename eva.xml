@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-15 08:33">
+<yml_catalog date="2026-11-15 11:01">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -273,6 +273,7 @@
 <category id="1202" rz_id="121811.0">Дитячі колготки</category>
 <category id="1203" rz_id="122063.0">Шведські стінки та турніки</category>
 <category id="1204" rz_id="121859.0">Дитячі шезлонги-гойдалки та колисальні центри</category>
+<category id="1205" rz_id="122457.0">Сушарки для рушників</category>
 </categories>
 <offers>
 <offer id="VK02326" available="true">
@@ -440539,6 +440540,27 @@ _x000D_
 <name_ua>Млинці диски гумові з потрійним хватом та металевою втулкою Record TA-8122-5 52мм 5кг чорний</name_ua>
 <name_ru>Блины диски обрезиненные с тройным хватом и металлической втулкой Record TA-8122-5 52мм 5кг черный</name_ru>
 <description_ua>Матеріал: метал, гума. Колір: чорний. Призначення: для силових тренувань. Призначення Вагові блини є невід'ємною частиною штанги – основного спортивного снаряда під час занять силовими видами спорту. З їх допомогою змінюють робочу вагу і, відповідно, інтенсивність тренування, що дозволяє використовувати штангу для різних цілей, як розвиток витривалості, нарощування мускулатури і силових показників. Тому без блинів не обійтися будь-якому атлету, який практикує силовий тренінг, чи то новачок, чи титулований чемпіон. Зручні та привабливі зовні вони ідеально впишуться і в домашньому спортзалі, і у великому фітнес-центрі. Опис Диски (блини) виготовлені з високоякісного металу промислового класу та ретельно відкалібровані, тому точно відповідають зазначеній на них вазі. Товсте гумове покриття збільшує термін служби блинів, захищає їх та покриття залу від пошкоджень. Також воно покращує їхній зовнішній вигляд і знижує рівень шуму під час тренувань. Рівномірно розташовані широкі отвори в тілі дисків дозволяють швидко надіти/зняти їх на гриф, не ризикуючи впустити, а також використовувати їх як самостійний спортивний снаряд. Переваги: Висока якість виготовлення гарантує дискам тривалий термін експлуатації. Зручна конструкція дисків дозволяє швидко змінювати робочу вагу на штанзі. Можуть використовуватись для виконання вправ окремо від грифу. Обгумовані блини(диски) з потрійним хватом та металевою втулкоюдозволять вам перетворити свою штангу на спортивний снаряд справжнього чемпіона та продовжити шлях до побудови сильного, гармонійно розвиненого тіла.&amp;nbsp; Характеристики ВидДиски Внутрішній діаметр диска52 мм Вага5 кг ПокриттяГума МатеріалМетал Країна виробникКитай</description_ua>
+<quantity_in_stock>100</quantity_in_stock>
+</offer>
+<offer id="RI0036681" available="true">
+<price>8203</price>
+<currencyId>UAH</currencyId>
+<categoryId>1205</categoryId>
+<picture>https://images.prom.ua/wm9E3QhorgLMSCNqk_Hrr4obwYnrPv7owIYHCjkjv4c=/4486981429_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/ezrzga9kchvVk3zuBvYfXcKHxdb8-hA5i-J4dmsrOiM=/7815770821_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/LjKV7k6fsYbxoZIKnkziIg7oKj8dCIMTJICGEIpciKw=/6987816776_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/SMydNuATty9jIh2vw4bZ-S7cyGKvj7viMQWHxAkGAqA=/6987822097_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/papT7DCDlz2OlBvvBmokP3Hptb3oMv0j12jN4kpRsic=/6987822889_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/kt2tSvGG0TfUc8qOxxOoEE6qQWgCpdY8K06MXub6HFU=/6987816783_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/R0V3nLEs0ChcEGW1iT_juhyuw2ZoR7hWlm4o-XSjzGE=/6987816786_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/oKX3BTjzw3UNtiEpFY42E5j--hZy8WXvJc2ltjV18tQ=/7830729089_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/E4ekV8rPHkuWdVRdl_XTqezBGpwYy29hzBr7NI3CCc8=/7830729082_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<picture>https://images.prom.ua/RUp2PjvUZwc3-B7hfYBrA4HqaXQsVSYn8bH6cjcOxKU=/7830729090_metalokeramichna-rushnikosusharka-uden-440.jpg</picture>
+<vendor>UDEN-S</vendor>
+<vendorCode>RI0036681</vendorCode>
+<name_ua>Металокерамічна рушникосушарка UDEN-440 (RAL-8007) RI0036681</name_ua>
+<name_ru>Металлокерамический полотенцесушитель UDEN-440 (RAL-8007) RI0036681</name_ru>
+<description_ua>Металокерамічна рушникосушарка - це зручний, ефективний і стильний спосіб не тільки сушити рушники, але і опалювати ванну кімнату. Їх можна встановлювати в будь-якому місці ванної кімнати, не прив&amp;#x27;язуючись до пункту подачі гарячої води. Вони не сушать повітря, але при цьому унеможливлюють появу плісняви та грибка на стінах та підлозі. На відміну від звичайних рушникосушарок, не тільки швидко просушують вологі рушники, а й чудово справляються з функцією обігріву, адже сконструювані саме з цією метою. Оберіть відповідний розмір, колір та кількість релінгів, та насолоджуйтесь комфортом та затишком у вашій ванній кімнаті! Основні характеристики Гарантія: 5 років Потужність: 395-460 Вт Шнур живлення: 2 м Ступінь захисту: IP32 Габарити (ВхШхГ): 47.5 х 120 х 3.5 см</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 </offers>
