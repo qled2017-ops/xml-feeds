@@ -118320,7 +118320,7 @@ USB Type-C
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Гарантія">14 днів</param>
 </offer>
-<offer id="B81012R/2" available="true" in_stock="true">
+<offer id="B81012R/2" available="false" in_stock="true">
 <price>1499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1006</categoryId>
@@ -118333,7 +118333,7 @@ USB Type-C
 <name_ru>Хрустальное бра Ray B81012R/2 WT+GD</name_ru>
 <description>Бра – це освітлювальний прилад, який кріпиться на стіну, включення та вимикання якого відбувається автономно, тобто, він оснащений своїм власним вимикачем, будь то кнопка, шнур або щось подібне.</description>
 <description_ua>Бра – це освітлювальний прилад, який кріпиться на стіну, включення та вимикання якого відбувається автономно, тобто, він оснащений своїм власним вимикачем, будь то кнопка, шнур або щось подібне.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">1.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
