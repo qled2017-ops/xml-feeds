@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-15 07:00">
+<yml_catalog date="2026-11-16 07:00">
   <shop>
     <name>igrushki7</name>
     <currencies>
@@ -2814,15 +2814,6 @@
         <picture>https://igrushki7.ua/images/prom/00000187597.jpg</picture>
         <barcode>6966157298100</barcode>
       </offer>
-      <offer id="187598" available="true">
-        <name>Барабанна установка XBL 773-16 (14) 5 барабанів, діаметри: 35 см, 20 см, 16 см, 12 см, тарілка, палички, педаль, стілець, в коробці</name>
-        <name_ua>Барабанна установка XBL 773-16 (14) 5 барабанів, діаметри: 35 см, 20 см, 16 см, 12 см, тарілка, палички, педаль, стілець, в коробці</name_ua>
-        <price>1520</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1922</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000187598.jpg</picture>
-        <barcode>6966157298117</barcode>
-      </offer>
       <offer id="187563" available="true">
         <name>Барабанна установка XBL 993-5 (24) 10 елементів, 5 барабанів, діаметри: 23 см, 13 см, 16 см, тарілка, стільчик, палички, в коробці</name>
         <name_ua>Барабанна установка XBL 993-5 (24) 10 елементів, 5 барабанів, діаметри: 23 см, 13 см, 16 см, тарілка, стільчик, палички, в коробці</name_ua>
@@ -3408,15 +3399,6 @@
         <categoryId>20</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000139869.jpg</picture>
         <barcode>6966100403254</barcode>
-      </offer>
-      <offer id="160527" available="true">
-        <name>Будиночок 16901 (6) підсвічування, звук домофона, фігурки членів сім`ї, двері відчиняються, муляжі меблів та побутової техніки, в коробці</name>
-        <name_ua>Будиночок 16901 (6) підсвічування, звук домофона, фігурки членів сім'ї, іграшкові меблі, в коробці</name_ua>
-        <price>2552</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>20</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000160527.jpg</picture>
-        <barcode>6966100403445</barcode>
       </offer>
       <offer id="91857" available="true">
         <name>Будиночок 25848 E (24) 2 види, світло, звуки, англійська озвучка, в коробці</name>
@@ -9952,16 +9934,6 @@
         <vendor>Пегас</vendor>
         <barcode>9786177131792</barcode>
       </offer>
-      <offer id="138142" available="true">
-        <name>гр Іграшка "Косметичний столик" 8683 (3) "Technok Toys" 9 аксесуарів, стілець</name>
-        <name_ua>гр Іграшка "Косметичний столик" 8683 (3) "Technok Toys", 9 аксесуарів, стілець</name_ua>
-        <price>2220</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>22</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000138142.jpg</picture>
-        <vendor>Technok Toys</vendor>
-        <barcode>4823037608683</barcode>
-      </offer>
       <offer id="201930" available="true">
         <name>гр Іграшка "Майстерня" 3571 (3) "Technok Toys", 101  аксесуар, інструменти, каса, сканер, в коробці </name>
         <name_ua>гр Іграшка "Майстерня" 3571 (3) "Technok Toys", 101  аксесуар, інструменти, каса, сканер, в коробці</name_ua>
@@ -14208,16 +14180,6 @@
         <vendor>Bamsic</vendor>
         <barcode>4820123761772</barcode>
       </offer>
-      <offer id="154973" available="true">
-        <name>гр Обруч 0174 "Зебра 2 середній" (1) ЦІНА ЗА ЗВ’ЯЗКУ, У ЗВ’ЯЗЦІ 10 ШТ d=75см "BAMSIC"</name>
-        <name_ua>гр Обруч 0174 "Зебра 2 середній" (1) ЦІНА ЗА ЗВ’ЯЗКУ, У ЗВ’ЯЗЦІ 10 ШТ d=75см "BAMSIC"</name_ua>
-        <price>1343</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1917</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000154973.jpg</picture>
-        <vendor>Bamsic</vendor>
-        <barcode>4820123762052</barcode>
-      </offer>
       <offer id="154867" available="true">
         <name>гр Обруч 0177 (1) ЦІНА ЗА ЗВ’ЯЗКУ, У ЗВ’ЯЗЦІ 10 ШТ d кола = 80см, d труби = 2.7см "BAMSIC"</name>
         <name_ua>гр Обруч 0177 (1) ЦІНА ЗА ЗВ’ЯЗКУ, У ЗВ’ЯЗЦІ 10 ШТ d кола = 80см, d труби = 2.7см "BAMSIC"</name_ua>
@@ -17718,7 +17680,7 @@
       </offer>
       <offer id="202180" available="true">
         <name>Гра антистрес C 78584 (16) ЦІНА ЗА 12 ШТУК В БЛОЦІ</name>
-        <name_ua>Гра антистрес C 78584 (16) ЦІНА ЗА 12 ШТУК В БЛОЦІ</name_ua>
+        <name_ua>Гра антистрес C 78584 (16) ЦІНА ЗА 12 ШТУК В БЛОЦІ, “Пупсик”, висота: 14 см, в коробці </name_ua>
         <price>1539</price>
         <currencyId>UAH</currencyId>
         <categoryId>127959</categoryId>
@@ -18293,7 +18255,7 @@
       </offer>
       <offer id="202215" available="true">
         <name>Джип на радіокеруванні 2093 (18) в коробці</name>
-        <name_ua>Джип на радіокеруванні 2093 (18) в коробці</name_ua>
+        <name_ua>Джип на радіокеруванні 2093 (18) металопластик, звук їзди, Wi-fi камера, додаток, фото- та відеозйомка, амортизація, пульт 2.4 GHz, акумулятор 3.7 V, в коробці</name_ua>
         <price>1659</price>
         <currencyId>UAH</currencyId>
         <categoryId>91163</categoryId>
@@ -18925,7 +18887,7 @@
       </offer>
       <offer id="202218" available="true">
         <name>Екскаватор на радіокеруванні 2130 (18) в коробці</name>
-        <name_ua>Екскаватор на радіокеруванні 2130 (18) в коробці</name_ua>
+        <name_ua>Екскаватор на радіокеруванні 2130 (18) акумулятор 3.7 V, пульт 2.4 GHz, гусеничний хід, рухомий ківш, обертова платформа, їде вперед/назад, звук, USB-кабель, в коробці</name_ua>
         <price>1548</price>
         <currencyId>UAH</currencyId>
         <categoryId>91163</categoryId>
@@ -23246,7 +23208,7 @@
       </offer>
       <offer id="202227" available="true">
         <name>Кран на радіокеруванні 99-8 (12) в коробці</name>
-        <name_ua>Кран на радіокеруванні 99-8 (12) в коробці</name_ua>
+        <name_ua>Кран на радіокеруванні 99-8 (12) висота 41 см, акумулятор 3.7V, підсвічування, музика, деморежим, підіймається гак, металевий гак, колода, вантаж, у коробці</name_ua>
         <price>1764</price>
         <currencyId>UAH</currencyId>
         <categoryId>91163</categoryId>
@@ -27077,7 +27039,7 @@
       </offer>
       <offer id="202216" available="true">
         <name>Машина на радіокеруванні 2162 (12) в коробці, 2 вида</name>
-        <name_ua>Машина на радіокеруванні 2162 (12) в коробці, 2 вида</name_ua>
+        <name_ua>Машина на радіокеруванні 2162 (12) 2 види, підсвічування, масштаб 1:12, двері автоматично відчиняються, гумові шини, пульт 2.4 GHz, акумулятор 3.7 V, в коробці</name_ua>
         <price>1757</price>
         <currencyId>UAH</currencyId>
         <categoryId>91163</categoryId>
@@ -27184,15 +27146,6 @@
         <picture>https://igrushki7.ua/images/prom/00000159063.jpg</picture>
         <barcode>6967808087760</barcode>
       </offer>
-      <offer id="192089" available="true">
-        <name>Машина на радіокеруванні 666-852 A (36) акумулятор 3.7V, пульт 2.4G, підсвічування, змінні колеса, масштаб 1:24, в коробці, ВИДАЄТЬСЯ МІКС</name>
-        <name_ua>Машина на радіокеруванні 666-852 A (36) акумулятор 3.7V, пульт 2.4G, підсвічування, змінні колеса, масштаб 1:24, в коробці, ВИДАЄТЬСЯ МІКС</name_ua>
-        <price>941</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>91163</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000192089.jpg</picture>
-        <barcode>6967808088415</barcode>
-      </offer>
       <offer id="171173" available="true">
         <name>Машина на радіокеруванні 6676 (24) фігурки героїв, музика, підсвічування, пульт 2.4G, акум. 3.7V, USB-кабель, парогенератор, в коробці</name>
         <name_ua>Машина на радіокеруванні 6676 (24) фігурки героїв, музика, підсвічування, пульт 2.4G, акум. 3.7V, USB-кабель, парогенератор, в коробці</name_ua>
@@ -27295,7 +27248,7 @@
       </offer>
       <offer id="202214" available="true">
         <name>Машина на радіокеруванні 9268 (12) в коробці</name>
-        <name_ua>Машина на радіокеруванні 9268 (12) в коробці</name_ua>
+        <name_ua>Машина на радіокеруванні 9268 (12) підсвічування, металопластик, масштаб 1:12, амортизація, гумові шини, акумулятор 7.2 V, пульт керування 2.4 GHz, в коробці</name_ua>
         <price>2475</price>
         <currencyId>UAH</currencyId>
         <categoryId>91163</categoryId>
@@ -27883,7 +27836,7 @@
       </offer>
       <offer id="107329" available="true">
         <name>Машина на радиоуправлении 2051 (16) в коробке</name>
-        <name_ua>Машина на радіокеруванні 2051 (16) в коробці</name_ua>
+        <name_ua>Машина на радіокеруванні 2051 (16) розмір: 33х14х14 см, акумулятор 37 V, пульт 27 MHZ, відчиняються двері, гумові шини, в коробці</name_ua>
         <price>1729</price>
         <currencyId>UAH</currencyId>
         <categoryId>91163</categoryId>
@@ -29139,7 +29092,7 @@
       </offer>
       <offer id="202211" available="true">
         <name>Мольберт YM 235 (8) в коробці</name>
-        <name_ua>Мольберт YM 235 (8) в коробці</name_ua>
+        <name_ua>Мольберт YM 235 (8)  магнітний, з LED підсвічуванням,  флуоресцентні маркери, маркери “пиши-витирай”, магнітна англійська абетка, гумка, ганчірка, магніти, в коробці</name_ua>
         <price>2454</price>
         <currencyId>UAH</currencyId>
         <categoryId>7</categoryId>
@@ -31401,7 +31354,7 @@
       </offer>
       <offer id="202334" available="true">
         <name>Набір машин H 2-1 (18/2) в коробці, ЦІНА ЗА 6 ШТУК В БЛОЦІ</name>
-        <name_ua>Набір машин H 2-1 (18/2) в коробці, ЦІНА ЗА 6 ШТУК В БЛОЦІ</name_ua>
+        <name_ua>Набір машин H 2-1 (18/2) ЦІНА ЗА 6 ШТУК В БЛОЦІ, “Вантажівки”, металопластик, розмір: 32х5х8 см, інерція, двері причепа відчиняються, в коробці</name_ua>
         <price>1960</price>
         <currencyId>UAH</currencyId>
         <categoryId>42347</categoryId>
@@ -34133,7 +34086,7 @@
       </offer>
       <offer id="201798" available="true">
         <name>Парковка 660 A-328 (16/2) в коробці</name>
-        <name_ua>Парковка 660 A-328 (16/2) в коробці</name_ua>
+        <name_ua>Трек-парковка 660 A-328 (16/2) 78 елементів, розмір 60х32х67 см, звуки транспорту, підсвічування, металопластиковий транспорт масштабом 1:64, карта з розміткою, 4 поверхи, в коробці</name_ua>
         <price>1952</price>
         <currencyId>UAH</currencyId>
         <categoryId>8</categoryId>
@@ -34142,7 +34095,7 @@
       </offer>
       <offer id="201799" available="true">
         <name>Парковка 660 A-329 (16/2) в коробці</name>
-        <name_ua>Парковка 660 A-329 (16/2) в коробці</name_ua>
+        <name_ua>Трек-парковка 660 A-329 (16/2) 78 елементів, розмір 60х32х67 см, звуки транспорту, підсвічування, металопластиковий транспорт масштабом 1:64, карта з розміткою, 4 поверхи, в коробці</name_ua>
         <price>1952</price>
         <currencyId>UAH</currencyId>
         <categoryId>8</categoryId>
@@ -34151,7 +34104,7 @@
       </offer>
       <offer id="201800" available="true">
         <name>Парковка 660 A-331 (16/2) в коробці</name>
-        <name_ua>Парковка 660 A-331 (16/2) в коробці</name_ua>
+        <name_ua>Трек-парковка 660 A-331 (16/2) 78 елементів, розмір 60х32х67 см, звуки транспорту, підсвічування, металопластиковий транспорт масштабом 1:64, карта з розміткою, 4 поверхи, в коробці</name_ua>
         <price>1952</price>
         <currencyId>UAH</currencyId>
         <categoryId>8</categoryId>
@@ -35130,7 +35083,7 @@
       </offer>
       <offer id="202024" available="true">
         <name>Потяг 620 B (4)  в коробці</name>
-        <name_ua>Потяг 620 B (4)  в коробці</name_ua>
+        <name_ua>Потяг 620 B (4) з залізничною колією, розмір колії: 151х92.5, від акумулятора, підсвічування, звуки, парогенерація, в коробці</name_ua>
         <price>3055</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
@@ -35394,7 +35347,7 @@
       </offer>
       <offer id="202209" available="true">
         <name>Пупс 1901-1 (8) в коробці</name>
-        <name_ua>Пупс 1901-1 (8) в коробці</name_ua>
+        <name_ua>Пупс 1901-1 (8) висота 36 см, вініловий, рухомі голова і кінцівки, знімний одяг, кокон, у коробці</name_ua>
         <price>2363</price>
         <currencyId>UAH</currencyId>
         <categoryId>1949</categoryId>
@@ -37028,7 +36981,7 @@
       </offer>
       <offer id="202291" available="true">
         <name>Робот на радіокеруванні G 18 (12) в коробці</name>
-        <name_ua>Робот на радіокеруванні G 18 (12) в коробці</name_ua>
+        <name_ua>Робот на радіокеруванні G 18 (12) англійське озвучування, підсвічування, музика, пісні, фрази, історії, ходить, ковзає швидко/повільно, танцює, режим програмування, в коробці</name_ua>
         <price>1931</price>
         <currencyId>UAH</currencyId>
         <categoryId>1955</categoryId>
@@ -38113,17 +38066,6 @@
         <picture>https://igrushki7.ua/images/prom/00000169233.jpg</picture>
         <vendor>Skyper</vendor>
         <barcode>6900066391743</barcode>
-      </offer>
-      <offer id="169236" available="true">
-        <name>Самокат 5в1 "Skyper" BL-94617 (4) колеса PU125х40мм зі світлом, з капюшоном, поворотне сидіння, з ДОП. КОЛЕСАМИ, захисний бампер, в коробці</name>
-        <name_ua>Самокат 5в1 "Skyper" BL-94617 (4) колеса PU125х40 мм зі світлом, з капюшоном, поворотне сидіння, з ДОП. КОЛЕСАМИ, захисний бампер, в коробці</name_ua>
-        <price>6249</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>76480</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000169236.jpg</picture>
-        <picture>https://igrushki7.ua/images/promadd/169236-1.jpg|https://igrushki7.ua/images/promadd/169236-2.jpg|https://igrushki7.ua/images/promadd/169236-3.jpg|https://igrushki7.ua/images/promadd/169236-4.jpg|https://igrushki7.ua/images/promadd/169236-5.jpg</picture>
-        <vendor>Skyper</vendor>
-        <barcode>6900066391774</barcode>
       </offer>
       <offer id="169227" available="true">
         <name>Самокат 5в1 "Skyper" BT-39904 (8) колеса PU125х40мм зі світлом, укр озвучування та підсвічування платформи,с ДОП. КОЛЕСАМИ, захисний бампер, в коробці</name>
@@ -42383,7 +42325,7 @@
       </offer>
       <offer id="202396" available="true">
         <name>Танк на радіокеруванні 757-5 (24)  в коробці</name>
-        <name_ua>Танк на радіокеруванні 757-5 (24)  в коробці</name_ua>
+        <name_ua>Танк на радіокеруванні 757-5 (24) стріляє орбізами, підсвічування, звук пострілу, гусеничний хід, додаток, башта обертається, пульт 2.4 GHz, акумулятор 3.7 V, в коробці</name_ua>
         <price>1376</price>
         <currencyId>UAH</currencyId>
         <categoryId>91163</categoryId>
