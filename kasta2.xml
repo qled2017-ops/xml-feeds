@@ -6432,7 +6432,7 @@
 <description_ua>Горщик Ага кольору фуксія має класичну форму та ідеально підійде для декорування приміщень. Горщик доступний у різних розмірах та укомплектований підставкою.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11119" available="false">
+<offer id="RE11119" available="true">
 <price>204</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -40444,7 +40444,7 @@
 <description_ua>Плетений кошик чудовий і незамінний помічник в будинку для зберігання всіляких корисних речей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="EE00341" available="true">
+<offer id="EE00341" available="false">
 <price>489</price>
 <currencyId>UAH</currencyId>
 <categoryId>1179</categoryId>
@@ -40455,7 +40455,7 @@
 <name_ua>Кошик з двома ручками сірий 39392</name_ua>
 <name_ru>Корзина с двумя ручками серая 39392</name_ru>
 <description_ua>Плетений кошик чудовий і незамінний помічник в будинку для зберігання всіляких корисних речей. Кошик з двома ручками сірий 39392 – практичний та стильний аксесуар для дому та флористики. Розміри кошика 33×23×15 см, об’єм 5 літрів – ідеально підходить для зберігання речей, створення композицій чи пакування подарунків. Виготовлений з міцного матеріалу, що забезпечує довговічність та зручність використання. Сірий колір додає елегантності, а дві ручки полегшують перенесення.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EE00344" available="true">
 <price>1998</price>
