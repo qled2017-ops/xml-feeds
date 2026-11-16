@@ -442,7 +442,7 @@
 <category id="2000022" parentId="2000026">Набори косметики та аксесуари</category>
 <category id="2000023" parentId="2000026">Набори лікаря</category>
 <category id="2000027" parentId="2000025">Трансформери та роботи</category>
-<category id="2000919" parentId="2013456"></category>
+<category id="2000919" parentId="2013456">Дитячі Електромобілі</category>
 <category id="2001902" parentId="2009790">Парти та стільчики</category>
 <category id="2001904" parentId="2001908">Брязкальця та прорізувачі</category>
 <category id="2001906" parentId="2001908">Каталки</category>
@@ -472,7 +472,7 @@
 <category id="2003117">Парасольки</category>
 <category id="2003425" parentId="2000018">Батути</category>
 <category id="2004962" parentId="2000014">Навчальні плакати, телефони та інтерактивні іграшки</category>
-<category id="2005032" parentId="2001901">Розважальні </category>
+<category id="2005032" parentId="2001901">Розважальні</category>
 <category id="2005121" parentId="2013456">Санки та зимові товари</category>
 <category id="2006006" parentId="2009790">Ліжечка для дітей</category>
 <category id="2006007" parentId="2009790">Стільчики для годування</category>
@@ -494,7 +494,7 @@
 <category id="2010224" parentId="2013456">Каталки-толокари</category>
 <category id="2010227" parentId="2001908">Пірамідки</category>
 <category id="2010235" parentId="2009792">Наукові досліди</category>
-<category id="2010239" parentId="2058027"></category>
+<category id="2010239" parentId="2058027">Orion</category>
 <category id="2010241" parentId="2001908">Ходунки</category>
 <category id="2010245" parentId="2000011">Українського виробництва</category>
 <category id="2010246" parentId="2013456">Скейти</category>
@@ -504,7 +504,7 @@
 <category id="2010468" parentId="2001908">Кубики</category>
 <category id="2010598" parentId="2000026">Ляльки в коробці</category>
 <category id="2011472">Новий рік</category>
-<category id="2011502" parentId="2188713">Візочки </category>
+<category id="2011502" parentId="2188713">Візочки</category>
 <category id="2012391" parentId="2009790">Горщики та ванночки</category>
 <category id="2013751" parentId="2009792">Картини за номерами</category>
 <category id="2013753" parentId="2026861">Пісочні набори</category>
@@ -512,7 +512,7 @@
 <category id="2015070">Дерев'яні іграшки</category>
 <category id="2015634" parentId="2009790">Домашній текстиль</category>
 <category id="2015642" parentId="2000025">Інструменти</category>
-<category id="2020881"></category>
+<category id="2020881">Батарейки. Скотч. Ліхтарі світлодіодні</category>
 <category id="2029537" parentId="2029535">Від 2-років</category>
 <category id="2042347" parentId="2000012">Машинки інерція в коробці та слюді</category>
 <category id="2049777" parentId="2009792">Пластилін. Маса для ліплення. Кінетичний пісок</category>
@@ -550,60 +550,60 @@
 <category id="2103807" parentId="2000011">З великими деталями</category>
 <category id="2105783" parentId="2000025">Зброя на батарейках</category>
 <category id="2109351" parentId="2001915">Самокати трюкові</category>
-<category id="2122148" parentId="2001939"></category>
-<category id="2122149" parentId="2001939"></category>
-<category id="2122150" parentId="2001939"></category>
-<category id="2122151" parentId="2001939"></category>
-<category id="2122152" parentId="2001939"></category>
-<category id="2123166" parentId="2090031"></category>
-<category id="2123167" parentId="2090031"></category>
-<category id="2123168" parentId="2090031"></category>
-<category id="2123177" parentId="2001939"></category>
+<category id="2122148" parentId="2001939">Ігри та творчість (аплікації, книги-ігри, наліпки)</category>
+<category id="2122149" parentId="2001939">Книжки для найменших (м’які, панорамки, пазли)</category>
+<category id="2122150" parentId="2001939">Художня література (казки, оповідання, вірші)</category>
+<category id="2122151" parentId="2001939">Ранній розвиток, підготовка до школи</category>
+<category id="2122152" parentId="2001939">Енциклопедії</category>
+<category id="2123166" parentId="2090031">Тварини</category>
+<category id="2123167" parentId="2090031">Динозаври</category>
+<category id="2123168" parentId="2090031">Блочні набори</category>
+<category id="2123177" parentId="2001939">Щоденники/Анкети</category>
 <category id="2125271">Тепловентилятори. Електрообігрівачі.</category>
-<category id="2127547" parentId="2188655"></category>
-<category id="2127668" parentId="2001908"></category>
-<category id="2127890" parentId="2001908"></category>
-<category id="2127923" parentId="2050809"></category>
-<category id="2127934" parentId="2000014"></category>
-<category id="2127935" parentId="2000011"></category>
-<category id="2127936" parentId="2000011"></category>
-<category id="2127958" parentId="2006005"></category>
-<category id="2127959" parentId="2006005"></category>
-<category id="2127960" parentId="2006005"></category>
-<category id="2127961" parentId="2001551"></category>
-<category id="2127962" parentId="2001551"></category>
-<category id="2127963" parentId="2000012"></category>
-<category id="2130514" parentId="2000012"></category>
-<category id="2130515" parentId="2000006"></category>
-<category id="2130896" parentId="2000025"></category>
-<category id="2131744" parentId="2000026"></category>
-<category id="2132106" parentId="2060401"></category>
-<category id="2138563" parentId="2188655"></category>
-<category id="2138613" parentId="2138612"></category>
-<category id="2138614" parentId="2138612"></category>
-<category id="2138615" parentId="2138612"></category>
-<category id="2138617" parentId="2138616"></category>
-<category id="2138618" parentId="2138616"></category>
-<category id="2138620" parentId="2138616"></category>
-<category id="2138622" parentId="2138616"></category>
-<category id="2138677" parentId="2138616"></category>
-<category id="2148315" parentId="2001939"></category>
-<category id="2149620" parentId="2009792"></category>
-<category id="2155651" parentId="2138612"></category>
-<category id="2156440" parentId="2000018"></category>
-<category id="2156441" parentId="2000018"></category>
-<category id="2162265" parentId="2011472"></category>
-<category id="2162322" parentId="2011472"></category>
-<category id="2168853" parentId="2168852"></category>
-<category id="2179250" parentId="2092623"></category>
-<category id="2179251" parentId="2092623"></category>
-<category id="2182781" parentId="2041564"></category>
-<category id="2182782" parentId="2041564"></category>
-<category id="2182874" parentId="2011472"></category>
-<category id="2183263" parentId="2001551"></category>
-<category id="2184497" parentId="2001901"></category>
-<category id="2188654" parentId="2001915"></category>
-<category id="2188712" parentId="2168852"></category>
+<category id="2127547" parentId="2188655">Запчастини для велосипедів</category>
+<category id="2127668" parentId="2001908">Ігри для ванної, пискавки та заводні іграшки</category>
+<category id="2127890" parentId="2001908">Магнітні ігри</category>
+<category id="2127923" parentId="2050809">Альбоми, блокноти, зошити</category>
+<category id="2127934" parentId="2000014">Ґаджети, проєктори та нічники</category>
+<category id="2127935" parentId="2000011">З металевими деталями</category>
+<category id="2127936" parentId="2000011">Ігрові набори з конструктором</category>
+<category id="2127958" parentId="2006005">Лизуни</category>
+<category id="2127959" parentId="2006005">Антистреси</category>
+<category id="2127960" parentId="2006005">Логічні та розважальні іграшки</category>
+<category id="2127961" parentId="2001551">М`які іграшки</category>
+<category id="2127962" parentId="2001551">Рюкзаки та сумки</category>
+<category id="2127963" parentId="2000012">Повітряний транспорт та космічні набори</category>
+<category id="2130514" parentId="2000012">Водний транспорт</category>
+<category id="2130515" parentId="2000006">Водний транспорт</category>
+<category id="2130896" parentId="2000025">Мечі, арбалети, стрілецька зброя</category>
+<category id="2131744" parentId="2000026">Візочки для ляльок</category>
+<category id="2132106" parentId="2060401">Фольговані кульки. Листівки</category>
+<category id="2138563" parentId="2188655">Міські велосипеди</category>
+<category id="2138613" parentId="2138612">4FUN Game Club</category>
+<category id="2138614" parentId="2138612">4FUN Game wood</category>
+<category id="2138615" parentId="2138612">WToys</category>
+<category id="2138617" parentId="2138616">Поліцейські набори та комбати</category>
+<category id="2138618" parentId="2138616">Радіокеровані іграшки та транспорт на батарейках</category>
+<category id="2138620" parentId="2138616">Візочки, ляльки, кухні, аксесуари для дівчаток</category>
+<category id="2138622" parentId="2138616">Сезонні та розважальні іграшки</category>
+<category id="2138677" parentId="2138616">Роботи та інтерактивні іграшки</category>
+<category id="2148315" parentId="2001939">Розмальовки</category>
+<category id="2149620" parentId="2009792">Алмазна мозаїка</category>
+<category id="2155651" parentId="2138612">Пані Булька</category>
+<category id="2156440" parentId="2000018">М`ячі волейбольні</category>
+<category id="2156441" parentId="2000018">М`ячі баскетбольні</category>
+<category id="2162265" parentId="2011472">Новорічні видання</category>
+<category id="2162322" parentId="2011472">Адвенти</category>
+<category id="2168853" parentId="2168852">Електромопеди</category>
+<category id="2179250" parentId="2092623">Машинки</category>
+<category id="2179251" parentId="2092623">Спецтехніка</category>
+<category id="2182781" parentId="2041564">Герої Labubu</category>
+<category id="2182782" parentId="2041564">Мультгерої</category>
+<category id="2182874" parentId="2011472">Новорічні іграшки</category>
+<category id="2183263" parentId="2001551">М`які інтерактивні іграшки</category>
+<category id="2184497" parentId="2001901">Магнітні пазли</category>
+<category id="2188654" parentId="2001915">Запчастини для самокатів</category>
+<category id="2188712" parentId="2168852">Запчастини для електротранспорту</category>
 </categories>
 <offers>
 <offer id="NN000234" available="true" in_stock="true">
@@ -93335,7 +93335,7 @@ USB Type-C
 <param name="Колір">Бордовий</param>
 <keywords>ялинкові іграшки, набір скляних кульок, купити ялинкові іграшки, ялинкові іграшки недорого, ялинкові іграшки Україна, ялинкові іграшки бордовий</keywords>
 </offer>
-<offer id="EA01788" available="true" in_stock="true">
+<offer id="EA01788" available="false" in_stock="true">
 <price>894</price>
 <currencyId>UAH</currencyId>
 <categoryId>1163</categoryId>
@@ -93348,7 +93348,7 @@ USB Type-C
 <name_ru>Угги подростковые зимние из эко-замши с теплой подкладкой 367851 Размер 34 Бежевый</name_ru>
 <description><![CDATA[<h3>Угги подростковые зимние из эко-замши с теплой подкладкой 367851 Размер 34 Бежевый</h3><h4>Преимущества</h4><ul><li>Сезон: Зимовий</li><li>Колір: Бежевый</li><li>Швидка доставка по Україні</li></ul><h4>Описание</h4><p>Стильні та теплі підліткові уггі — ідеальний вибір для холодної пори року. Вони виготовлені з якісної еко-замші, приємної на дотик та стійкої до зношування. Усередині модель має густий та м’який еко-хутряний утеплювач, який надійно зберігає тепло навіть у морозну погоду. Зручна посадка, легка вага та м’яка підошва роблять ці уггі комфортними для щоденного носіння. Підходять як хлопцям, так і дівчатам. Переваги: М’який та теплий хутряний утеплювач Якісна еко-замша, стійка до вологи Комфортна та легка підошва Універсальний зимовий дизайн Розмір 34: Висота п&#x27;яти: 2,5 см; Висота підошви: 2 см; Заміри кутовою лінійкою: 20,7 см;</p><h4>Характеристики</h4><ul><li><b>Додаткові характеристики:</b> Особливість: Розбіжність в замірах +-2мм</li><li><b>Материал верха:</b> Замша</li><li><b>Матеріал підкладки:</b> Штучне хутро</li></ul><p>Гарантия 14 дней. Отправляем Новой почтой и Укрпочтой.</p>]]></description>
 <description_ua><![CDATA[<h3>Уггі підліткові зимові з еко-замші з теплoю підкладкою 367851 Розмір 34 Бежевий</h3><h4>Переваги</h4><ul><li>Сезон: Зимовий</li><li>Колір: Бежевий</li><li>Швидка доставка по Україні</li></ul><h4>Опис</h4><p>Стильні та теплі підліткові уггі — ідеальний вибір для холодної пори року. Вони виготовлені з якісної еко-замші, приємної на дотик та стійкої до зношування. Усередині модель має густий та м’який еко-хутряний утеплювач, який надійно зберігає тепло навіть у морозну погоду. Зручна посадка, легка вага та м’яка підошва роблять ці уггі комфортними для щоденного носіння. Підходять як хлопцям, так і дівчатам. Переваги: М’який та теплий хутряний утеплювач Якісна еко-замша, стійка до вологи Комфортна та легка підошва Універсальний зимовий дизайн Розмір 34: Висота п&#x27;яти: 2,5 см; Висота підошви: 2 см; Заміри кутовою лінійкою: 20,7 см;</p><h4>Характеристики</h4><ul><li><b>Додаткові характеристики:</b> Особливість: Розбіжність в замірах +-2мм</li><li><b>Матеріал верху:</b> Замша</li><li><b>Матеріал підкладки:</b> Штучне хутро</li></ul><p>Гарантія 14 днів. Відправляємо Новою поштою та Укрпоштою.</p>]]></description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -96770,7 +96770,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">10</param>
 <keywords>харчові контейнери, ланч бокс силіконовий, купити харчові контейнери, харчові контейнери недорого, харчові контейнери Україна, харчові контейнери жовтий</keywords>
 </offer>
-<offer id="EE00341" available="true" in_stock="true">
+<offer id="EE00341" available="false" in_stock="true">
 <price>489</price>
 <currencyId>UAH</currencyId>
 <categoryId>1074</categoryId>
@@ -96783,7 +96783,7 @@ USB Type-C
 <name_ru>Корзина с двумя ручками серая 39392</name_ru>
 <description><![CDATA[<h3>Корзина с двумя ручками серая 39392</h3><h4>Преимущества</h4><ul><li>Матеріал: Лоза</li><li>С ручками, Плетені</li><li>Колір: Серый</li></ul><h4>Описание</h4><p>Плетений кошик чудовий і незамінний помічник в будинку для зберігання всіляких корисних речей. Кошик з двома ручками сірий 39392 – практичний та стильний аксесуар для дому та флористики. Розміри кошика 33×23×15 см, об’єм 5 літрів – ідеально підходить для зберігання речей, створення композицій чи пакування подарунків. Виготовлений з міцного матеріалу, що забезпечує довговічність та зручність використання. Сірий колір додає елегантності, а дві ручки полегшують перенесення.</p><h4>Характеристики</h4><ul><li><b>Дизайн:</b> Великодній</li><li><b>Додаткові характеристики:</b> Высота кошика (см)	13 Высота с ручкою (см)	24 Длина кошика (см) 30 Ширина кошика (см)	20</li></ul><p>Гарантия 14 дней. Отправляем Новой почтой и Укрпочтой.</p>]]></description>
 <description_ua><![CDATA[<h3>Кошик з двома ручками сірий 39392</h3><h4>Переваги</h4><ul><li>Матеріал: Лоза</li><li>З ручками, Плетені</li><li>Колір: Сірий</li></ul><h4>Опис</h4><p>Плетений кошик чудовий і незамінний помічник в будинку для зберігання всіляких корисних речей. Кошик з двома ручками сірий 39392 – практичний та стильний аксесуар для дому та флористики. Розміри кошика 33×23×15 см, об’єм 5 літрів – ідеально підходить для зберігання речей, створення композицій чи пакування подарунків. Виготовлений з міцного матеріалу, що забезпечує довговічність та зручність використання. Сірий колір додає елегантності, а дві ручки полегшують перенесення.</p><h4>Характеристики</h4><ul><li><b>Дизайн:</b> Великодній</li><li><b>Додаткові характеристики:</b> Висота кошика (см)	13 Висота з ручкою (см)	24 Довжина кошика (см) 30 Ширина кошика (см)	20</li></ul><p>Гарантія 14 днів. Відправляємо Новою поштою та Укрпоштою.</p>]]></description_ua>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -109423,7 +109423,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">20</param>
 <keywords>вази, вази flora, ваза скляна pypa, купити вази, вази недорого, вази Україна, вази білий</keywords>
 </offer>
-<offer id="EA02127" available="true" in_stock="true">
+<offer id="EA02127" available="false" in_stock="true">
 <price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>1336</categoryId>
@@ -109435,7 +109435,7 @@ USB Type-C
 <name_ru>Бумага новогодняя "шотландская клеточка" 10м 1468-271</name_ru>
 <description><![CDATA[<h3>Бумага новогодняя &quot;шотландская клеточка&quot; 10м 1468-271</h3><h4>Преимущества</h4><ul><li>Колір: Бежевый</li><li>Швидка доставка по Україні</li><li>Гарантія 14 днів</li></ul><h4>Описание</h4><p>Новорічний пакувальний папір «Шотландська клітка» допоможе створити святковий настрій та акуратно упакувати подарунки. Папір прикрашений тематичними малюнками: сніжинками та оленями у святкових шарфах, що додає упаковці чарівності та атмосферності. Рулон має ширину 70 см та довжину 10 метрів, що дозволяє ефективно використовувати папір для пакування подарунків різного розміру. Виготовлений із якісних матеріалів, папір міцний і легко піддається оформленню.</p><h4>Характеристики</h4><ul><li><b>Длина:</b> 10 м</li><li><b>Назначение:</b> Універсальні</li><li><b>Тип:</b> Крафт папір</li><li><b>Цвет:</b> Бежевый</li></ul><p>Гарантия 14 дней. Отправляем Новой почтой и Укрпочтой.</p>]]></description>
 <description_ua><![CDATA[<h3>Папір новорічний &quot;шотландська клітинка&quot; 10м 1468-271</h3><h4>Переваги</h4><ul><li>Колір: Бежевий</li><li>Швидка доставка по Україні</li><li>Гарантія 14 днів</li></ul><h4>Опис</h4><p>Новорічний пакувальний папір «Шотландська клітка» допоможе створити святковий настрій та акуратно упакувати подарунки. Папір прикрашений тематичними малюнками: сніжинками та оленями у святкових шарфах, що додає упаковці чарівності та атмосферності. Рулон має ширину 70 см та довжину 10 метрів, що дозволяє ефективно використовувати папір для пакування подарунків різного розміру. Виготовлений із якісних матеріалів, папір міцний і легко піддається оформленню.</p><h4>Характеристики</h4><ul><li><b>Довжина:</b> 10 м</li><li><b>Призначення:</b> Універсальні</li><li><b>Тип:</b> Крафт папір</li><li><b>Колір:</b> Бежевий</li></ul><p>Гарантія 14 днів. Відправляємо Новою поштою та Укрпоштою.</p>]]></description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -110027,7 +110027,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">20</param>
 <keywords>святкові декорації, буси пластикові колір, купити святкові декорації, святкові декорації недорого, святкові декорації Україна, святкові декорації золотистий</keywords>
 </offer>
-<offer id="147-778redgold" available="true" in_stock="true">
+<offer id="147-778redgold" available="false" in_stock="true">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1358</categoryId>
@@ -110039,7 +110039,7 @@ USB Type-C
 <name_ru>Бусы пластиковые 2.7 м (147-778) Красно-золотой</name_ru>
 <description><![CDATA[<h3>Бусы пластиковые 2.7 м (147-778) Красно-золотой</h3><h4>Преимущества</h4><ul><li>Колір: Красно-золотой</li><li>Швидка доставка по Україні</li><li>Гарантія 14 днів</li></ul><h4>Описание</h4><p>Намиста пластикові 2,7 м (147-778) червоно-золоті — яскрава новорічна гірлянда для декорування ялинки та святкового інтер’єру. Поєднання червоного та золотого кольорів створює класичний різдвяний вигляд і додає оформленню тепла та урочистості. Пластикові намистини легкі та зручні у використанні, добре тримають форму та рівномірно розміщуються на гілках. Довжина 2,7 м дозволяє прикрасити як невеликі, так і середні ялинки або використовувати елемент у святкових композиціях, гірляндах і декорі приміщення. Ідеальний вибір для створення традиційної новорічної атмосфери вдома або в офісі.</p><h4>Характеристики</h4><ul><li><b>Длина гірлянди:</b> 270</li><li><b>Размеры (Шхв):</b> Длина 2.7 см</li><li><b>Країна-виробник товару:</b> Китай</li><li><b>Цвет:</b> Красно-золотой</li></ul><p>Гарантия 14 дней. Отправляем Новой почтой и Укрпочтой.</p>]]></description>
 <description_ua><![CDATA[<h3>Намиста пластикові 2.7 м (147-778) Червоно-золотий</h3><h4>Переваги</h4><ul><li>Колір: Красно-золотой</li><li>Швидка доставка по Україні</li><li>Гарантія 14 днів</li></ul><h4>Опис</h4><p>Намиста пластикові 2,7 м (147-778) червоно-золоті — яскрава новорічна гірлянда для декорування ялинки та святкового інтер’єру. Поєднання червоного та золотого кольорів створює класичний різдвяний вигляд і додає оформленню тепла та урочистості. Пластикові намистини легкі та зручні у використанні, добре тримають форму та рівномірно розміщуються на гілках. Довжина 2,7 м дозволяє прикрасити як невеликі, так і середні ялинки або використовувати елемент у святкових композиціях, гірляндах і декорі приміщення. Ідеальний вибір для створення традиційної новорічної атмосфери вдома або в офісі.</p><h4>Характеристики</h4><ul><li><b>Довжина гірлянди:</b> 270</li><li><b>Розміри (ШхВ):</b> Длина 2.7 см</li><li><b>Країна-виробник товару:</b> Китай</li><li><b>Колір:</b> Красно-золотой</li></ul><p>Гарантія 14 днів. Відправляємо Новою поштою та Укрпоштою.</p>]]></description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -135656,7 +135656,7 @@ USB Type-C
 <param name="Ширина в упаковці (см)">20</param>
 <keywords>черевики, черевики зимові, черевики чорні, черевики без бренду, купити черевики, черевики недорого, черевики Україна</keywords>
 </offer>
-<offer id="AE000388" available="true" in_stock="true">
+<offer id="AE000388" available="false" in_stock="true">
 <price>1497</price>
 <currencyId>UAH</currencyId>
 <categoryId>1273</categoryId>
@@ -135672,7 +135672,7 @@ USB Type-C
 <name_ru>Ботинки подростковые зимние B1705-1 Размер 38 Черные</name_ru>
 <description><![CDATA[<h3>Ботинки подростковые зимние B1705-1 Размер 38 Черные</h3><h4>Преимущества</h4><ul><li>Теплі</li><li>Сезон: Зимовий</li><li>Колір: Чёрный</li></ul><h4>Описание</h4><p>Теплі зимові підліткові черевики виконані з якісного еконубука, стійкого до вологи і морозу. Всередині – м&#x27;який і густої екохутро, забезпечує комфорт і тепло в холодне час роки. Зручна шнурівка і бічна блискавка гарантують надійну фіксацію і легке надягання. Протекторна гумова підошва з глибоким рельєфом запобігає ковзанню і ідеально підходить для зимових умов. Універсальний дизайн і міцні матеріали роблять цю модель ідеальним вибором для активних підлітків.</p><h4>Характеристики</h4><ul><li><b>Высота виробу:</b> Середні</li><li><b>Застёжка:</b> Шнурівка</li><li><b>Материал верха:</b> Еконубук</li><li><b>Матеріал підкладки:</b> Екохутро</li></ul><p>Гарантия 14 дней. Отправляем Новой почтой и Укрпочтой.</p>]]></description>
 <description_ua><![CDATA[<h3>Черевики підліткові зимові B1705-1 Розмір 38 Чорні</h3><h4>Переваги</h4><ul><li>Теплі</li><li>Сезон: Зимовий</li><li>Колір: Чорний</li></ul><h4>Опис</h4><p>Теплі зимові підліткові черевики виконані з якісного еконубука, стійкого до вологи і морозу. Всередині – м&#x27;який і густої екохутро, забезпечує комфорт і тепло в холодне час роки. Зручна шнурівка і бічна блискавка гарантують надійну фіксацію і легке надягання. Протекторна гумова підошва з глибоким рельєфом запобігає ковзанню і ідеально підходить для зимових умов. Універсальний дизайн і міцні матеріали роблять цю модель ідеальним вибором для активних підлітків.</p><h4>Характеристики</h4><ul><li><b>Висота виробу:</b> Середні</li><li><b>Застібка:</b> Шнурівка</li><li><b>Матеріал верху:</b> Еконубук</li><li><b>Матеріал підкладки:</b> Екохутро</li></ul><p>Гарантія 14 днів. Відправляємо Новою поштою та Укрпоштою.</p>]]></description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -179264,7 +179264,6 @@ USB-кабель.</param>
         <price>42610</price>
         <currencyId>UAH</currencyId>
         <categoryId>2075179</categoryId>
-        <oldprice>27517.56</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000156627.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/156627-1.jpg|https://igrushki7.ua/images/promadd/156627-2.jpg|https://igrushki7.ua/images/promadd/156627-3.jpg</picture>
         <vendor>Intex</vendor>
@@ -181254,15 +181253,6 @@ USB-кабель.</param>
         <categoryId>2001959</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000153404.jpg</picture>
         <barcode>6900048240274</barcode>
-      </offer>
-<offer id="163338" available="true">
-        <name>Бізіборд YL 514 (16) звуки, репліки англ. мовою, підсвічування, рухливі елементи, тріскачка, застібки, замки, в коробці</name>
-        <name_ua>Бізіборд YL 514 (16) звуки, репліки англ. мовою, підсвічування, рухливі елементи, тріскачка, застібки, замки, в коробці</name_ua>
-        <price>1346</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2001924</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000163338.jpg</picture>
-        <barcode>6985306240272</barcode>
       </offer>
 <offer id="202115" available="true">
         <name>Бізіборд YL 625 (24) “Автобус”, мелодії, підсвічування, кумедні звуки, телефончик, звук тостера, шнурки, автобус розкладається, годинник, в коробці</name>
@@ -205230,24 +205220,6 @@ USB-кабель.</param>
         <picture>https://igrushki7.ua/images/prom/00000166428.jpg</picture>
         <barcode>6980629401324</barcode>
       </offer>
-<offer id="150940" available="true">
-        <name>Магазин MW 5582 (16) касовий апарат, звук, репліки англ. мовою, підсвічування, стелаж, муляжі, прикраси, наліпки, гребінець, окуляри, в коробці</name>
-        <name_ua>Магазин MW 5582 (16) касовий апарат, звук, репліки англ. мовою, підсвічування, стелаж, муляжі, прикраси, наліпки, гребінець, окуляри, в коробці</name_ua>
-        <price>934</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2009787</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000150940.jpg</picture>
-        <barcode>6980383400199</barcode>
-      </offer>
-<offer id="150941" available="true">
-        <name>Магазин MW 5583 (16) касовий апарат, звук, репліки англ. мовою, підсвічування, стелаж, муляжі, прикраси, наліпки, 4 улюбленці, в коробці</name>
-        <name_ua>Магазин MW 5583 (16) касовий апарат, звук, репліки англ. мовою, підсвічування, стелаж, муляжі, прикраси, наліпки, 4 улюбленці, в коробці</name_ua>
-        <price>934</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2009787</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000150941.jpg</picture>
-        <barcode>6980383400205</barcode>
-      </offer>
 <offer id="160398" available="true">
         <name>Магнітна мозаїка CH 1151 (24) 2 варіанти гри, лабіринт, двостороння ігрова панель, магнітний стилус, двосторонні картки із завданнями, в коробці</name>
         <name_ua>Магнітна мозаїка CH 1151 (24) 2 варіанти гри, лабіринт, двостороння ігрова панель, магнітний стилус, двосторонні картки із завданнями, в коробці</name_ua>
@@ -213249,24 +213221,6 @@ USB-кабель.</param>
         <picture>https://igrushki7.ua/images/prom/00000192740.jpg</picture>
         <barcode>6968154081983</barcode>
       </offer>
-<offer id="192742" available="true">
-        <name>Пес на радіокеруванні QF 660-2 M (16) акумулятор 3.7 V, пульт 2.4 GHz, озвучені репліки англ. мовою, підсвічування, в коробці</name>
-        <name_ua>Робопес на радіокеруванні QF 660-2 M (16) акумулятор 3.7 V, пульт 2.4 GHz, озвучені репліки англ. мовою, підсвічування, режим програмування, пісні, стріляє орбізами, в коробці</name_ua>
-        <price>2328</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2001955</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000192742.jpg</picture>
-        <barcode>6968154082003</barcode>
-      </offer>
-<offer id="192743" available="true">
-        <name>Пес на радіокеруванні QF 660-5 (16) 2 кольори, акумулятор 3.7 V, пульт 2.4 GHz, озвучені репліки англ. мовою, підсвічування, в коробці</name>
-        <name_ua>Робопес на радіокеруванні QF 660-5 (16) 2 кольори, акумулятор 3.7 V, пульт 2.4 GHz, озвучені репліки англ. мовою, підсвічування, режим програмування, пісні, в коробці</name_ua>
-        <price>2182</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2001955</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000192743.jpg</picture>
-        <barcode>6968154082027</barcode>
-      </offer>
 <offer id="180825" available="true">
         <name>Песик на р/к CV-D 902 (24) 3 кольори, світло, оберти на 360°, сенсор, вітається, танцює, озвуч. англ. мовою, казки, пісні, ак. 3.7 V, в коробці, МІКС</name>
         <name_ua>Песик на радіокеруванні CV-D 902 (24) 3 кольори, підсвічування, обертається на 360°, сенсорна ділянка, вітається, танцює, озвучення англійською мовою, розказує казки, співає пісеньки, підіймає колеса, режим програмування, пульт керування, акумулятор 3.7 V</name_ua>
@@ -215645,15 +215599,6 @@ USB-кабель.</param>
         <picture>https://igrushki7.ua/images/prom/00000194066.jpg</picture>
         <barcode>6966051080030,6946617777796</barcode>
       </offer>
-<offer id="194067" available="true">
-        <name>Робот на радіокеруванні A 102 (16) вбуд. акум. 3.7V, пульт 2.4Ghz, звуки, мелодії, репліки англ. мовою, підсвічування, сенсорна зона, в коробц</name>
-        <name_ua>Робот на радіокеруванні A 102 (16) вбудований акумулятор 3.7V, пульт 2.4Ghz, звуки, мелодії, озвучені репліки англ. мовою, підсвічування, сенсорна зона, в коробці</name_ua>
-        <price>1102</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2001955</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000194067.jpg</picture>
-        <barcode>6966051080047</barcode>
-      </offer>
 <offer id="194068" available="true">
         <name>Робот на радіокеруванні A 103 (8) озвуч. англ. мовою, історії, мелодії, танці, сенсор, світло, повторює/змінює голос, стріляє патронами, в коробці</name>
         <name_ua>Робот на радіокеруванні A 103 (8) озвучування англійською мовою, історії, мелодії, танці, сенсорна ділянка, підсвічування, повторює та змінює голос, режим програмування, стріляє патронами з присосками, в коробці</name_ua>
@@ -216672,7 +216617,6 @@ USB-кабель.</param>
         <price>3046</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2189.81</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000100060.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/100060-1.jpg|https://igrushki7.ua/images/promadd/100060-2.jpg|https://igrushki7.ua/images/promadd/100060-3.jpg|https://igrushki7.ua/images/promadd/100060-4.jpg|https://igrushki7.ua/images/promadd/100060-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -216981,7 +216925,6 @@ USB-кабель.</param>
         <price>1691</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1540.37</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113671.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113671-1.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217026,7 +216969,6 @@ USB-кабель.</param>
         <price>1691</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1540.37</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000084216.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/84216-1.jpg|https://igrushki7.ua/images/promadd/84216-2.jpg|https://igrushki7.ua/images/promadd/84216-3.jpg|https://igrushki7.ua/images/promadd/84216-4.jpg|https://igrushki7.ua/images/promadd/84216-5.jpg|https://igrushki7.ua/images/promadd/84216-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217071,7 +217013,6 @@ USB-кабель.</param>
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086792.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86792-1.jpg|https://igrushki7.ua/images/promadd/86792-2.jpg|https://igrushki7.ua/images/promadd/86792-3.jpg|https://igrushki7.ua/images/promadd/86792-4.jpg|https://igrushki7.ua/images/promadd/86792-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -217083,7 +217024,6 @@ USB-кабель.</param>
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086791.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86791-1.jpg|https://igrushki7.ua/images/promadd/86791-2.jpg|https://igrushki7.ua/images/promadd/86791-3.jpg|https://igrushki7.ua/images/promadd/86791-4.jpg|https://igrushki7.ua/images/promadd/86791-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -217095,7 +217035,6 @@ USB-кабель.</param>
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086797.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86797-1.jpg|https://igrushki7.ua/images/promadd/86797-2.jpg|https://igrushki7.ua/images/promadd/86797-3.jpg|https://igrushki7.ua/images/promadd/86797-4.jpg|https://igrushki7.ua/images/promadd/86797-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -217119,7 +217058,6 @@ USB-кабель.</param>
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086793.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86793-1.jpg|https://igrushki7.ua/images/promadd/86793-2.jpg|https://igrushki7.ua/images/promadd/86793-3.jpg|https://igrushki7.ua/images/promadd/86793-4.jpg|https://igrushki7.ua/images/promadd/86793-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -217131,7 +217069,6 @@ USB-кабель.</param>
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086799.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86799-1.jpg|https://igrushki7.ua/images/promadd/86799-2.jpg|https://igrushki7.ua/images/promadd/86799-3.jpg|https://igrushki7.ua/images/promadd/86799-4.jpg|https://igrushki7.ua/images/promadd/86799-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -217143,7 +217080,6 @@ USB-кабель.</param>
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086798.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86798-1.jpg|https://igrushki7.ua/images/promadd/86798-2.jpg|https://igrushki7.ua/images/promadd/86798-3.jpg|https://igrushki7.ua/images/promadd/86798-4.jpg|https://igrushki7.ua/images/promadd/86798-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -217222,7 +217158,6 @@ USB-кабель.</param>
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113219.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113219-2.jpg|https://igrushki7.ua/images/promadd/113219-3.jpg|https://igrushki7.ua/images/promadd/113219-4.jpg|https://igrushki7.ua/images/promadd/113219-5.jpg|https://igrushki7.ua/images/promadd/113219-6.jpg|https://igrushki7.ua/images/promadd/113219-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217234,7 +217169,6 @@ USB-кабель.</param>
         <price>4375</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3653.1</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105585.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105585-1.jpg|https://igrushki7.ua/images/promadd/105585-2.jpg|https://igrushki7.ua/images/promadd/105585-3.jpg|https://igrushki7.ua/images/promadd/105585-4.jpg|https://igrushki7.ua/images/promadd/105585-5.jpg|https://igrushki7.ua/images/promadd/105585-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217246,7 +217180,6 @@ USB-кабель.</param>
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113217.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113217-2.jpg|https://igrushki7.ua/images/promadd/113217-3.jpg|https://igrushki7.ua/images/promadd/113217-4.jpg|https://igrushki7.ua/images/promadd/113217-5.jpg|https://igrushki7.ua/images/promadd/113217-6.jpg|https://igrushki7.ua/images/promadd/113217-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217258,7 +217191,6 @@ USB-кабель.</param>
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113198.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113198-1.jpg|https://igrushki7.ua/images/promadd/113198-2.jpg|https://igrushki7.ua/images/promadd/113198-3.jpg|https://igrushki7.ua/images/promadd/113198-4.jpg|https://igrushki7.ua/images/promadd/113198-5.jpg|https://igrushki7.ua/images/promadd/113198-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217270,7 +217202,6 @@ USB-кабель.</param>
         <price>4375</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3653.1</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105586.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105586-1.jpg|https://igrushki7.ua/images/promadd/105586-2.jpg|https://igrushki7.ua/images/promadd/105586-3.jpg|https://igrushki7.ua/images/promadd/105586-4.jpg|https://igrushki7.ua/images/promadd/105586-5.jpg|https://igrushki7.ua/images/promadd/105586-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217282,7 +217213,6 @@ USB-кабель.</param>
         <price>4375</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3653.1</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105587.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105587-1.jpg|https://igrushki7.ua/images/promadd/105587-2.jpg|https://igrushki7.ua/images/promadd/105587-3.jpg|https://igrushki7.ua/images/promadd/105587-4.jpg|https://igrushki7.ua/images/promadd/105587-5.jpg|https://igrushki7.ua/images/promadd/105587-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217294,7 +217224,6 @@ USB-кабель.</param>
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113199.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113199-2.jpg|https://igrushki7.ua/images/promadd/113199-3.jpg|https://igrushki7.ua/images/promadd/113199-4.jpg|https://igrushki7.ua/images/promadd/113199-5.jpg|https://igrushki7.ua/images/promadd/113199-6.jpg|https://igrushki7.ua/images/promadd/113199-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217306,7 +217235,6 @@ USB-кабель.</param>
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113218.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113218-2.jpg|https://igrushki7.ua/images/promadd/113218-3.jpg|https://igrushki7.ua/images/promadd/113218-4.jpg|https://igrushki7.ua/images/promadd/113218-5.jpg|https://igrushki7.ua/images/promadd/113218-6.jpg|https://igrushki7.ua/images/promadd/113218-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217329,7 +217257,6 @@ USB-кабель.</param>
         <price>4375</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3653.1</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105427.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105427-1.jpg|https://igrushki7.ua/images/promadd/105427-2.jpg|https://igrushki7.ua/images/promadd/105427-3.jpg|https://igrushki7.ua/images/promadd/105427-4.jpg|https://igrushki7.ua/images/promadd/105427-5.jpg|https://igrushki7.ua/images/promadd/105427-6.jpg|https://igrushki7.ua/images/promadd/105427-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217515,7 +217442,6 @@ USB-кабель.</param>
         <price>3669</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3377.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000099664.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/99664-1.jpg|https://igrushki7.ua/images/promadd/99664-2.jpg|https://igrushki7.ua/images/promadd/99664-3.jpg|https://igrushki7.ua/images/promadd/99664-4.jpg|https://igrushki7.ua/images/promadd/99664-5.jpg|https://igrushki7.ua/images/promadd/99664-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217549,7 +217475,6 @@ USB-кабель.</param>
         <price>3669</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3377.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000100076.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/100076-1.jpg|https://igrushki7.ua/images/promadd/100076-2.jpg|https://igrushki7.ua/images/promadd/100076-3.jpg|https://igrushki7.ua/images/promadd/100076-4.jpg|https://igrushki7.ua/images/promadd/100076-5.jpg|https://igrushki7.ua/images/promadd/100076-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217561,7 +217486,6 @@ USB-кабель.</param>
         <price>3669</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3377.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000103455.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/103455-1.jpg|https://igrushki7.ua/images/promadd/103455-2.jpg|https://igrushki7.ua/images/promadd/103455-3.jpg|https://igrushki7.ua/images/promadd/103455-4.jpg|https://igrushki7.ua/images/promadd/103455-5.jpg|https://igrushki7.ua/images/promadd/103455-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217573,7 +217497,6 @@ USB-кабель.</param>
         <price>3669</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3377.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000099666.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/99666-1.jpg|https://igrushki7.ua/images/promadd/99666-2.jpg|https://igrushki7.ua/images/promadd/99666-3.jpg|https://igrushki7.ua/images/promadd/99666-4.jpg|https://igrushki7.ua/images/promadd/99666-5.jpg|https://igrushki7.ua/images/promadd/99666-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217596,7 +217519,6 @@ USB-кабель.</param>
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>4159.45</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114435.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114435-1.jpg|https://igrushki7.ua/images/promadd/114435-2.jpg|https://igrushki7.ua/images/promadd/114435-3.jpg|https://igrushki7.ua/images/promadd/114435-4.jpg|https://igrushki7.ua/images/promadd/114435-5.jpg|https://igrushki7.ua/images/promadd/114435-6.jpg|https://igrushki7.ua/images/promadd/114435-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217608,7 +217530,6 @@ USB-кабель.</param>
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>4159.45</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114437.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114437-1.jpg|https://igrushki7.ua/images/promadd/114437-2.jpg|https://igrushki7.ua/images/promadd/114437-3.jpg|https://igrushki7.ua/images/promadd/114437-4.jpg|https://igrushki7.ua/images/promadd/114437-5.jpg|https://igrushki7.ua/images/promadd/114437-6.jpg|https://igrushki7.ua/images/promadd/114437-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217620,7 +217541,6 @@ USB-кабель.</param>
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>4159.45</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114436.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114436-1.jpg|https://igrushki7.ua/images/promadd/114436-2.jpg|https://igrushki7.ua/images/promadd/114436-3.jpg|https://igrushki7.ua/images/promadd/114436-4.jpg|https://igrushki7.ua/images/promadd/114436-5.jpg|https://igrushki7.ua/images/promadd/114436-6.jpg|https://igrushki7.ua/images/promadd/114436-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217665,7 +217585,6 @@ USB-кабель.</param>
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000098442.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/98442-1.jpg|https://igrushki7.ua/images/promadd/98442-2.jpg|https://igrushki7.ua/images/promadd/98442-3.jpg|https://igrushki7.ua/images/promadd/98442-4.jpg|https://igrushki7.ua/images/promadd/98442-5.jpg|https://igrushki7.ua/images/promadd/98442-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217677,7 +217596,6 @@ USB-кабель.</param>
         <price>2890</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2615.8</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000103467.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/103467-1.jpg|https://igrushki7.ua/images/promadd/103467-2.jpg|https://igrushki7.ua/images/promadd/103467-3.jpg|https://igrushki7.ua/images/promadd/103467-4.jpg|https://igrushki7.ua/images/promadd/103467-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217689,7 +217607,6 @@ USB-кабель.</param>
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105380.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105380-1.jpg|https://igrushki7.ua/images/promadd/105380-2.jpg|https://igrushki7.ua/images/promadd/105380-3.jpg|https://igrushki7.ua/images/promadd/105380-4.jpg|https://igrushki7.ua/images/promadd/105380-5.jpg|https://igrushki7.ua/images/promadd/105380-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217701,7 +217618,6 @@ USB-кабель.</param>
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000098440.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/98440-1.jpg|https://igrushki7.ua/images/promadd/98440-2.jpg|https://igrushki7.ua/images/promadd/98440-3.jpg|https://igrushki7.ua/images/promadd/98440-4.jpg|https://igrushki7.ua/images/promadd/98440-5.jpg|https://igrushki7.ua/images/promadd/98440-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217713,7 +217629,6 @@ USB-кабель.</param>
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105379.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105379-1.jpg|https://igrushki7.ua/images/promadd/105379-2.jpg|https://igrushki7.ua/images/promadd/105379-3.jpg|https://igrushki7.ua/images/promadd/105379-4.jpg|https://igrushki7.ua/images/promadd/105379-5.jpg|https://igrushki7.ua/images/promadd/105379-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217725,7 +217640,6 @@ USB-кабель.</param>
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105382.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105382-1.jpg|https://igrushki7.ua/images/promadd/105382-2.jpg|https://igrushki7.ua/images/promadd/105382-3.jpg|https://igrushki7.ua/images/promadd/105382-4.jpg|https://igrushki7.ua/images/promadd/105382-5.jpg|https://igrushki7.ua/images/promadd/105382-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217737,7 +217651,6 @@ USB-кабель.</param>
         <price>3027</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2906.9</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000094767.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/94767-1.jpg|https://igrushki7.ua/images/promadd/94767-2.jpg|https://igrushki7.ua/images/promadd/94767-3.jpg|https://igrushki7.ua/images/promadd/94767-4.jpg|https://igrushki7.ua/images/promadd/94767-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217749,7 +217662,6 @@ USB-кабель.</param>
         <price>3027</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076479</categoryId>
-        <oldprice>2906.9</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000074314.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/74314-1.jpg|https://igrushki7.ua/images/promadd/74314-2.jpg|https://igrushki7.ua/images/promadd/74314-3.jpg|https://igrushki7.ua/images/promadd/74314-4.jpg|https://igrushki7.ua/images/promadd/74314-5.jpg|https://igrushki7.ua/images/promadd/74314-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217772,7 +217684,6 @@ USB-кабель.</param>
         <price>2190</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1573.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000089687.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/89687-1.jpg|https://igrushki7.ua/images/promadd/89687-2.jpg|https://igrushki7.ua/images/promadd/89687-3.jpg|https://igrushki7.ua/images/promadd/89687-4.jpg|https://igrushki7.ua/images/promadd/89687-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217784,7 +217695,6 @@ USB-кабель.</param>
         <price>2190</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1573.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000089684.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/89684-1.jpg|https://igrushki7.ua/images/promadd/89684-2.jpg|https://igrushki7.ua/images/promadd/89684-3.jpg|https://igrushki7.ua/images/promadd/89684-4.jpg|https://igrushki7.ua/images/promadd/89684-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217807,7 +217717,6 @@ USB-кабель.</param>
         <price>1857</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1364.89</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105402.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105402-1.jpg|https://igrushki7.ua/images/promadd/105402-2.jpg|https://igrushki7.ua/images/promadd/105402-3.jpg|https://igrushki7.ua/images/promadd/105402-4.jpg|https://igrushki7.ua/images/promadd/105402-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217830,7 +217739,6 @@ USB-кабель.</param>
         <price>3143</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2259.51</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000106696.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/106696-1.jpg|https://igrushki7.ua/images/promadd/106696-2.jpg|https://igrushki7.ua/images/promadd/106696-3.jpg|https://igrushki7.ua/images/promadd/106696-4.jpg|https://igrushki7.ua/images/promadd/106696-5.jpg|https://igrushki7.ua/images/promadd/106696-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217842,7 +217750,6 @@ USB-кабель.</param>
         <price>3143</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2259.51</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000106697.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/106697-1.jpg|https://igrushki7.ua/images/promadd/106697-2.jpg|https://igrushki7.ua/images/promadd/106697-3.jpg|https://igrushki7.ua/images/promadd/106697-4.jpg|https://igrushki7.ua/images/promadd/106697-5.jpg|https://igrushki7.ua/images/promadd/106697-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217854,7 +217761,6 @@ USB-кабель.</param>
         <price>2174</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1564.15</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102031.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102031-1.jpg|https://igrushki7.ua/images/promadd/102031-2.jpg|https://igrushki7.ua/images/promadd/102031-3.jpg|https://igrushki7.ua/images/promadd/102031-4.jpg|https://igrushki7.ua/images/promadd/102031-4.jpg|https://igrushki7.ua/images/promadd/102031-5.jpg|https://igrushki7.ua/images/promadd/102031-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217866,7 +217772,6 @@ USB-кабель.</param>
         <price>2402</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1726.51</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114443.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114443-1.jpg|https://igrushki7.ua/images/promadd/114443-2.jpg|https://igrushki7.ua/images/promadd/114443-3.jpg|https://igrushki7.ua/images/promadd/114443-4.jpg|https://igrushki7.ua/images/promadd/114443-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217878,7 +217783,6 @@ USB-кабель.</param>
         <price>2402</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1726.51</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114441.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114441-1.jpg|https://igrushki7.ua/images/promadd/114441-2.jpg|https://igrushki7.ua/images/promadd/114441-3.jpg|https://igrushki7.ua/images/promadd/114441-4.jpg|https://igrushki7.ua/images/promadd/114441-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217890,7 +217794,6 @@ USB-кабель.</param>
         <price>3161</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2272.22</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000111438.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/111438-1.jpg|https://igrushki7.ua/images/promadd/111438-2.jpg|https://igrushki7.ua/images/promadd/111438-3.jpg|https://igrushki7.ua/images/promadd/111438-4.jpg|https://igrushki7.ua/images/promadd/111438-5.jpg|https://igrushki7.ua/images/promadd/111438-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217902,7 +217805,6 @@ USB-кабель.</param>
         <price>3161</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2272.22</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000111439.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/111439-1.jpg|https://igrushki7.ua/images/promadd/111439-2.jpg|https://igrushki7.ua/images/promadd/111439-3.jpg|https://igrushki7.ua/images/promadd/111439-4.jpg|https://igrushki7.ua/images/promadd/111439-5.jpg|https://igrushki7.ua/images/promadd/111439-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217914,7 +217816,6 @@ USB-кабель.</param>
         <price>2142</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1539.96</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102024.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102024-1.jpg|https://igrushki7.ua/images/promadd/102024-2.jpg|https://igrushki7.ua/images/promadd/102024-3.jpg|https://igrushki7.ua/images/promadd/102024-4.jpg|https://igrushki7.ua/images/promadd/102024-5.jpg|https://igrushki7.ua/images/promadd/102024-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217926,7 +217827,6 @@ USB-кабель.</param>
         <price>2142</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1539.96</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102026.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102026-1.jpg|https://igrushki7.ua/images/promadd/102026-2.jpg|https://igrushki7.ua/images/promadd/102026-3.jpg|https://igrushki7.ua/images/promadd/102026-4.jpg|https://igrushki7.ua/images/promadd/102026-5.jpg|https://igrushki7.ua/images/promadd/102026-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217938,7 +217838,6 @@ USB-кабель.</param>
         <price>2126</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1530.12</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102319.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102319-1.jpg|https://igrushki7.ua/images/promadd/102319-2.jpg|https://igrushki7.ua/images/promadd/102319-3.jpg|https://igrushki7.ua/images/promadd/102319-4.jpg|https://igrushki7.ua/images/promadd/102319-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -217961,7 +217860,6 @@ USB-кабель.</param>
         <price>2126</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>1530.12</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102320.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102320-1.jpg|https://igrushki7.ua/images/promadd/102320-2.jpg|https://igrushki7.ua/images/promadd/102320-3.jpg|https://igrushki7.ua/images/promadd/102320-4.jpg|https://igrushki7.ua/images/promadd/102320-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -218929,7 +218827,6 @@ USB-кабель.</param>
         <price>6970</price>
         <currencyId>UAH</currencyId>
         <categoryId>2109351</categoryId>
-        <oldprice>4753.54</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102310.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102310-1.jpg|https://igrushki7.ua/images/promadd/102310-2.jpg|https://igrushki7.ua/images/promadd/102310-3.jpg|https://igrushki7.ua/images/promadd/102310-4.jpg|https://igrushki7.ua/images/promadd/102310-5.jpg|https://igrushki7.ua/images/promadd/102310-6.jpg|https://igrushki7.ua/images/promadd/102310-7.jpg|https://igrushki7.ua/images/promadd/102310-8.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -218941,7 +218838,6 @@ USB-кабель.</param>
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>2109351</categoryId>
-        <oldprice>5698.59</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112899.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112899-1.jpg|https://igrushki7.ua/images/promadd/112899-2.jpg|https://igrushki7.ua/images/promadd/112899-2.jpg|https://igrushki7.ua/images/promadd/112899-3.jpg|https://igrushki7.ua/images/promadd/112899-3.jpg|https://igrushki7.ua/images/promadd/112899-4.jpg|https://igrushki7.ua/images/promadd/112899-4.jpg|https://igrushki7.ua/images/promadd/112899-5.jpg|https://igrushki7.ua/images/promadd/112899-5.jpg|https://igrushki7.ua/images/promadd/112899-6.jpg|https://igrushki7.ua/images/promadd/112899-6.jpg|https://igrushki7.ua/images/promadd/112899-7.jpg|https://igrushki7.ua/images/promadd/112899-7.jpg|https://igrushki7.ua/images/promadd/112899-8.jpg|https://igrushki7.ua/images/promadd/112899-8.jpg|https://igrushki7.ua/images/promadd/112899-9.jpg|https://igrushki7.ua/images/promadd/112899-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -218953,7 +218849,6 @@ USB-кабель.</param>
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>2109351</categoryId>
-        <oldprice>5698.59</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112900.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112900-1.jpg|https://igrushki7.ua/images/promadd/112900-2.jpg|https://igrushki7.ua/images/promadd/112900-2.jpg|https://igrushki7.ua/images/promadd/112900-3.jpg|https://igrushki7.ua/images/promadd/112900-3.jpg|https://igrushki7.ua/images/promadd/112900-4.jpg|https://igrushki7.ua/images/promadd/112900-4.jpg|https://igrushki7.ua/images/promadd/112900-5.jpg|https://igrushki7.ua/images/promadd/112900-5.jpg|https://igrushki7.ua/images/promadd/112900-6.jpg|https://igrushki7.ua/images/promadd/112900-6.jpg|https://igrushki7.ua/images/promadd/112900-7.jpg|https://igrushki7.ua/images/promadd/112900-7.jpg|https://igrushki7.ua/images/promadd/112900-8.jpg|https://igrushki7.ua/images/promadd/112900-8.jpg|https://igrushki7.ua/images/promadd/112900-9.jpg|https://igrushki7.ua/images/promadd/112900-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -218965,7 +218860,6 @@ USB-кабель.</param>
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>2109351</categoryId>
-        <oldprice>5698.59</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112901.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112901-1.jpg|https://igrushki7.ua/images/promadd/112901-2.jpg|https://igrushki7.ua/images/promadd/112901-2.jpg|https://igrushki7.ua/images/promadd/112901-3.jpg|https://igrushki7.ua/images/promadd/112901-3.jpg|https://igrushki7.ua/images/promadd/112901-4.jpg|https://igrushki7.ua/images/promadd/112901-4.jpg|https://igrushki7.ua/images/promadd/112901-5.jpg|https://igrushki7.ua/images/promadd/112901-5.jpg|https://igrushki7.ua/images/promadd/112901-6.jpg|https://igrushki7.ua/images/promadd/112901-6.jpg|https://igrushki7.ua/images/promadd/112901-7.jpg|https://igrushki7.ua/images/promadd/112901-7.jpg|https://igrushki7.ua/images/promadd/112901-8.jpg|https://igrushki7.ua/images/promadd/112901-8.jpg|https://igrushki7.ua/images/promadd/112901-9.jpg|https://igrushki7.ua/images/promadd/112901-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -218977,7 +218871,6 @@ USB-кабель.</param>
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>2109351</categoryId>
-        <oldprice>5698.59</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112902.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112902-1.jpg|https://igrushki7.ua/images/promadd/112902-2.jpg|https://igrushki7.ua/images/promadd/112902-2.jpg|https://igrushki7.ua/images/promadd/112902-3.jpg|https://igrushki7.ua/images/promadd/112902-3.jpg|https://igrushki7.ua/images/promadd/112902-4.jpg|https://igrushki7.ua/images/promadd/112902-4.jpg|https://igrushki7.ua/images/promadd/112902-5.jpg|https://igrushki7.ua/images/promadd/112902-5.jpg|https://igrushki7.ua/images/promadd/112902-6.jpg|https://igrushki7.ua/images/promadd/112902-6.jpg|https://igrushki7.ua/images/promadd/112902-7.jpg|https://igrushki7.ua/images/promadd/112902-7.jpg|https://igrushki7.ua/images/promadd/112902-8.jpg|https://igrushki7.ua/images/promadd/112902-8.jpg|https://igrushki7.ua/images/promadd/112902-9.jpg|https://igrushki7.ua/images/promadd/112902-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -218989,7 +218882,6 @@ USB-кабель.</param>
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>2109351</categoryId>
-        <oldprice>5771.57</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112766.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112766-1.jpg|https://igrushki7.ua/images/promadd/112766-10.jpg|https://igrushki7.ua/images/promadd/112766-10.jpg|https://igrushki7.ua/images/promadd/112766-11.jpg|https://igrushki7.ua/images/promadd/112766-11.jpg|https://igrushki7.ua/images/promadd/112766-2.jpg|https://igrushki7.ua/images/promadd/112766-2.jpg|https://igrushki7.ua/images/promadd/112766-3.jpg|https://igrushki7.ua/images/promadd/112766-3.jpg|https://igrushki7.ua/images/promadd/112766-4.jpg|https://igrushki7.ua/images/promadd/112766-4.jpg|https://igrushki7.ua/images/promadd/112766-5.jpg|https://igrushki7.ua/images/promadd/112766-5.jpg|https://igrushki7.ua/images/promadd/112766-6.jpg|https://igrushki7.ua/images/promadd/112766-6.jpg|https://igrushki7.ua/images/promadd/112766-7.jpg|https://igrushki7.ua/images/promadd/112766-7.jpg|https://igrushki7.ua/images/promadd/112766-8.jpg|https://igrushki7.ua/images/promadd/112766-8.jpg|https://igrushki7.ua/images/promadd/112766-9.jpg|https://igrushki7.ua/images/promadd/112766-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -219001,7 +218893,6 @@ USB-кабель.</param>
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000104497.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/104497-1.jpg|https://igrushki7.ua/images/promadd/104497-2.jpg|https://igrushki7.ua/images/promadd/104497-3.jpg|https://igrushki7.ua/images/promadd/104497-4.jpg|https://igrushki7.ua/images/promadd/104497-5.jpg|https://igrushki7.ua/images/promadd/104497-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -219013,7 +218904,6 @@ USB-кабель.</param>
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105656.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105656-1.jpg|https://igrushki7.ua/images/promadd/105656-2.jpg|https://igrushki7.ua/images/promadd/105656-3.jpg|https://igrushki7.ua/images/promadd/105656-4.jpg|https://igrushki7.ua/images/promadd/105656-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -219025,7 +218915,6 @@ USB-кабель.</param>
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105408.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105408-1.jpg|https://igrushki7.ua/images/promadd/105408-2.jpg|https://igrushki7.ua/images/promadd/105408-3.jpg|https://igrushki7.ua/images/promadd/105408-4.jpg|https://igrushki7.ua/images/promadd/105408-5.jpg|https://igrushki7.ua/images/promadd/105408-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -219037,7 +218926,6 @@ USB-кабель.</param>
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105635.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105635-1.jpg|https://igrushki7.ua/images/promadd/105635-2.jpg|https://igrushki7.ua/images/promadd/105635-3.jpg|https://igrushki7.ua/images/promadd/105635-4.jpg|https://igrushki7.ua/images/promadd/105635-5.jpg|https://igrushki7.ua/images/promadd/105635-6.jpg|https://igrushki7.ua/images/promadd/105635-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -219049,7 +218937,6 @@ USB-кабель.</param>
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105657.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105657-1.jpg|https://igrushki7.ua/images/promadd/105657-2.jpg|https://igrushki7.ua/images/promadd/105657-3.jpg|https://igrushki7.ua/images/promadd/105657-4.jpg|https://igrushki7.ua/images/promadd/105657-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -219061,7 +218948,6 @@ USB-кабель.</param>
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>2076480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000104499.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/104499-1.jpg|https://igrushki7.ua/images/promadd/104499-2.jpg|https://igrushki7.ua/images/promadd/104499-3.jpg|https://igrushki7.ua/images/promadd/104499-4.jpg|https://igrushki7.ua/images/promadd/104499-5.jpg|https://igrushki7.ua/images/promadd/104499-6.jpg</picture>
         <vendor>Best Scooter</vendor>
