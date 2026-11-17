@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16 07:00">
+<yml_catalog date="2026-11-17 07:00">
   <shop>
     <name>igrushki7</name>
     <currencies>
@@ -22,7 +22,7 @@
       <category id="22" parentId="26">Набори косметики та аксесуари</category>
       <category id="23" parentId="26">Набори лікаря</category>
       <category id="27" parentId="25">Трансформери та роботи</category>
-      <category id="919" parentId="13456"></category>
+      <category id="919" parentId="13456">Дитячі Електромобілі</category>
       <category id="1902" parentId="9790">Парти та стільчики</category>
       <category id="1904" parentId="1908">Брязкальця та прорізувачі</category>
       <category id="1906" parentId="1908">Каталки</category>
@@ -52,7 +52,7 @@
       <category id="3117">Парасольки</category>
       <category id="3425" parentId="18">Батути</category>
       <category id="4962" parentId="14">Навчальні плакати, телефони та інтерактивні іграшки</category>
-      <category id="5032" parentId="1901">Розважальні </category>
+      <category id="5032" parentId="1901">Розважальні</category>
       <category id="5121" parentId="13456">Санки та зимові товари</category>
       <category id="6006" parentId="9790">Ліжечка для дітей</category>
       <category id="6007" parentId="9790">Стільчики для годування</category>
@@ -74,7 +74,7 @@
       <category id="10224" parentId="13456">Каталки-толокари</category>
       <category id="10227" parentId="1908">Пірамідки</category>
       <category id="10235" parentId="9792">Наукові досліди</category>
-      <category id="10239" parentId="58027"></category>
+      <category id="10239" parentId="58027">Orion</category>
       <category id="10241" parentId="1908">Ходунки</category>
       <category id="10245" parentId="11">Українського виробництва</category>
       <category id="10246" parentId="13456">Скейти</category>
@@ -84,7 +84,7 @@
       <category id="10468" parentId="1908">Кубики</category>
       <category id="10598" parentId="26">Ляльки в коробці</category>
       <category id="11472">Новий рік</category>
-      <category id="11502" parentId="188713">Візочки </category>
+      <category id="11502" parentId="188713">Візочки</category>
       <category id="12391" parentId="9790">Горщики та ванночки</category>
       <category id="13751" parentId="9792">Картини за номерами</category>
       <category id="13753" parentId="26861">Пісочні набори</category>
@@ -92,7 +92,7 @@
       <category id="15070">Дерев'яні іграшки</category>
       <category id="15634" parentId="9790">Домашній текстиль</category>
       <category id="15642" parentId="25">Інструменти</category>
-      <category id="20881"></category>
+      <category id="20881">Батарейки. Скотч. Ліхтарі світлодіодні</category>
       <category id="29537" parentId="29535">Від 2-років</category>
       <category id="42347" parentId="12">Машинки інерція в коробці та слюді</category>
       <category id="49777" parentId="9792">Пластилін. Маса для ліплення. Кінетичний пісок</category>
@@ -130,60 +130,60 @@
       <category id="103807" parentId="11">З великими деталями</category>
       <category id="105783" parentId="25">Зброя на батарейках</category>
       <category id="109351" parentId="1915">Самокати трюкові</category>
-      <category id="122148" parentId="1939"></category>
-      <category id="122149" parentId="1939"></category>
-      <category id="122150" parentId="1939"></category>
-      <category id="122151" parentId="1939"></category>
-      <category id="122152" parentId="1939"></category>
-      <category id="123166" parentId="90031"></category>
-      <category id="123167" parentId="90031"></category>
-      <category id="123168" parentId="90031"></category>
-      <category id="123177" parentId="1939"></category>
+      <category id="122148" parentId="1939">Ігри та творчість (аплікації, книги-ігри, наліпки)</category>
+      <category id="122149" parentId="1939">Книжки для найменших (м’які, панорамки, пазли)</category>
+      <category id="122150" parentId="1939">Художня література (казки, оповідання, вірші)</category>
+      <category id="122151" parentId="1939">Ранній розвиток, підготовка до школи</category>
+      <category id="122152" parentId="1939">Енциклопедії</category>
+      <category id="123166" parentId="90031">Тварини</category>
+      <category id="123167" parentId="90031">Динозаври</category>
+      <category id="123168" parentId="90031">Блочні набори</category>
+      <category id="123177" parentId="1939">Щоденники/Анкети</category>
       <category id="125271">Тепловентилятори. Електрообігрівачі.</category>
-      <category id="127547" parentId="188655"></category>
-      <category id="127668" parentId="1908"></category>
-      <category id="127890" parentId="1908"></category>
-      <category id="127923" parentId="50809"></category>
-      <category id="127934" parentId="14"></category>
-      <category id="127935" parentId="11"></category>
-      <category id="127936" parentId="11"></category>
-      <category id="127958" parentId="6005"></category>
-      <category id="127959" parentId="6005"></category>
-      <category id="127960" parentId="6005"></category>
-      <category id="127961" parentId="1551"></category>
-      <category id="127962" parentId="1551"></category>
-      <category id="127963" parentId="12"></category>
-      <category id="130514" parentId="12"></category>
-      <category id="130515" parentId="6"></category>
-      <category id="130896" parentId="25"></category>
-      <category id="131744" parentId="26"></category>
-      <category id="132106" parentId="60401"></category>
-      <category id="138563" parentId="188655"></category>
-      <category id="138613" parentId="138612"></category>
-      <category id="138614" parentId="138612"></category>
-      <category id="138615" parentId="138612"></category>
-      <category id="138617" parentId="138616"></category>
-      <category id="138618" parentId="138616"></category>
-      <category id="138620" parentId="138616"></category>
-      <category id="138622" parentId="138616"></category>
-      <category id="138677" parentId="138616"></category>
-      <category id="148315" parentId="1939"></category>
-      <category id="149620" parentId="9792"></category>
-      <category id="155651" parentId="138612"></category>
-      <category id="156440" parentId="18"></category>
-      <category id="156441" parentId="18"></category>
-      <category id="162265" parentId="11472"></category>
-      <category id="162322" parentId="11472"></category>
-      <category id="168853" parentId="168852"></category>
-      <category id="179250" parentId="92623"></category>
-      <category id="179251" parentId="92623"></category>
-      <category id="182781" parentId="41564"></category>
-      <category id="182782" parentId="41564"></category>
-      <category id="182874" parentId="11472"></category>
-      <category id="183263" parentId="1551"></category>
-      <category id="184497" parentId="1901"></category>
-      <category id="188654" parentId="1915"></category>
-      <category id="188712" parentId="168852"></category>
+      <category id="127547" parentId="188655">Запчастини для велосипедів</category>
+      <category id="127668" parentId="1908">Ігри для ванної, пискавки та заводні іграшки</category>
+      <category id="127890" parentId="1908">Магнітні ігри</category>
+      <category id="127923" parentId="50809">Альбоми, блокноти, зошити</category>
+      <category id="127934" parentId="14">Ґаджети, проєктори та нічники</category>
+      <category id="127935" parentId="11">З металевими деталями</category>
+      <category id="127936" parentId="11">Ігрові набори з конструктором</category>
+      <category id="127958" parentId="6005">Лизуни</category>
+      <category id="127959" parentId="6005">Антистреси</category>
+      <category id="127960" parentId="6005">Логічні та розважальні іграшки</category>
+      <category id="127961" parentId="1551">М`які іграшки</category>
+      <category id="127962" parentId="1551">Рюкзаки та сумки</category>
+      <category id="127963" parentId="12">Повітряний транспорт та космічні набори</category>
+      <category id="130514" parentId="12">Водний транспорт</category>
+      <category id="130515" parentId="6">Водний транспорт</category>
+      <category id="130896" parentId="25">Мечі, арбалети, стрілецька зброя</category>
+      <category id="131744" parentId="26">Візочки для ляльок</category>
+      <category id="132106" parentId="60401">Фольговані кульки. Листівки</category>
+      <category id="138563" parentId="188655">Міські велосипеди</category>
+      <category id="138613" parentId="138612">4FUN Game Club</category>
+      <category id="138614" parentId="138612">4FUN Game wood</category>
+      <category id="138615" parentId="138612">WToys</category>
+      <category id="138617" parentId="138616">Поліцейські набори та комбати</category>
+      <category id="138618" parentId="138616">Радіокеровані іграшки та транспорт на батарейках</category>
+      <category id="138620" parentId="138616">Візочки, ляльки, кухні, аксесуари для дівчаток</category>
+      <category id="138622" parentId="138616">Сезонні та розважальні іграшки</category>
+      <category id="138677" parentId="138616">Роботи та інтерактивні іграшки</category>
+      <category id="148315" parentId="1939">Розмальовки</category>
+      <category id="149620" parentId="9792">Алмазна мозаїка</category>
+      <category id="155651" parentId="138612">Пані Булька</category>
+      <category id="156440" parentId="18">М`ячі волейбольні</category>
+      <category id="156441" parentId="18">М`ячі баскетбольні</category>
+      <category id="162265" parentId="11472">Новорічні видання</category>
+      <category id="162322" parentId="11472">Адвенти</category>
+      <category id="168853" parentId="168852">Електромопеди</category>
+      <category id="179250" parentId="92623">Машинки</category>
+      <category id="179251" parentId="92623">Спецтехніка</category>
+      <category id="182781" parentId="41564">Герої Labubu</category>
+      <category id="182782" parentId="41564">Мультгерої</category>
+      <category id="182874" parentId="11472">Новорічні іграшки</category>
+      <category id="183263" parentId="1551">М`які інтерактивні іграшки</category>
+      <category id="184497" parentId="1901">Магнітні пазли</category>
+      <category id="188654" parentId="1915">Запчастини для самокатів</category>
+      <category id="188712" parentId="168852">Запчастини для електротранспорту</category>
     </categories>
     <offers>
       <offer id="42518" available="true">
@@ -535,7 +535,6 @@
         <price>42610</price>
         <currencyId>UAH</currencyId>
         <categoryId>75179</categoryId>
-        <oldprice>27517.56</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000156627.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/156627-1.jpg|https://igrushki7.ua/images/promadd/156627-2.jpg|https://igrushki7.ua/images/promadd/156627-3.jpg</picture>
         <vendor>Intex</vendor>
@@ -2525,15 +2524,6 @@
         <categoryId>1959</categoryId>
         <picture>https://igrushki7.ua/images/prom/00000153404.jpg</picture>
         <barcode>6900048240274</barcode>
-      </offer>
-      <offer id="163338" available="true">
-        <name>Бізіборд YL 514 (16) звуки, репліки англ. мовою, підсвічування, рухливі елементи, тріскачка, застібки, замки, в коробці</name>
-        <name_ua>Бізіборд YL 514 (16) звуки, репліки англ. мовою, підсвічування, рухливі елементи, тріскачка, застібки, замки, в коробці</name_ua>
-        <price>1346</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1924</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000163338.jpg</picture>
-        <barcode>6985306240272</barcode>
       </offer>
       <offer id="202115" available="true">
         <name>Бізіборд YL 625 (24) “Автобус”, мелодії, підсвічування, кумедні звуки, телефончик, звук тостера, шнурки, автобус розкладається, годинник, в коробці</name>
@@ -26501,24 +26491,6 @@
         <picture>https://igrushki7.ua/images/prom/00000166428.jpg</picture>
         <barcode>6980629401324</barcode>
       </offer>
-      <offer id="150940" available="true">
-        <name>Магазин MW 5582 (16) касовий апарат, звук, репліки англ. мовою, підсвічування, стелаж, муляжі, прикраси, наліпки, гребінець, окуляри, в коробці</name>
-        <name_ua>Магазин MW 5582 (16) касовий апарат, звук, репліки англ. мовою, підсвічування, стелаж, муляжі, прикраси, наліпки, гребінець, окуляри, в коробці</name_ua>
-        <price>934</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>9787</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000150940.jpg</picture>
-        <barcode>6980383400199</barcode>
-      </offer>
-      <offer id="150941" available="true">
-        <name>Магазин MW 5583 (16) касовий апарат, звук, репліки англ. мовою, підсвічування, стелаж, муляжі, прикраси, наліпки, 4 улюбленці, в коробці</name>
-        <name_ua>Магазин MW 5583 (16) касовий апарат, звук, репліки англ. мовою, підсвічування, стелаж, муляжі, прикраси, наліпки, 4 улюбленці, в коробці</name_ua>
-        <price>934</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>9787</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000150941.jpg</picture>
-        <barcode>6980383400205</barcode>
-      </offer>
       <offer id="160398" available="true">
         <name>Магнітна мозаїка CH 1151 (24) 2 варіанти гри, лабіринт, двостороння ігрова панель, магнітний стилус, двосторонні картки із завданнями, в коробці</name>
         <name_ua>Магнітна мозаїка CH 1151 (24) 2 варіанти гри, лабіринт, двостороння ігрова панель, магнітний стилус, двосторонні картки із завданнями, в коробці</name_ua>
@@ -34520,24 +34492,6 @@
         <picture>https://igrushki7.ua/images/prom/00000192740.jpg</picture>
         <barcode>6968154081983</barcode>
       </offer>
-      <offer id="192742" available="true">
-        <name>Пес на радіокеруванні QF 660-2 M (16) акумулятор 3.7 V, пульт 2.4 GHz, озвучені репліки англ. мовою, підсвічування, в коробці</name>
-        <name_ua>Робопес на радіокеруванні QF 660-2 M (16) акумулятор 3.7 V, пульт 2.4 GHz, озвучені репліки англ. мовою, підсвічування, режим програмування, пісні, стріляє орбізами, в коробці</name_ua>
-        <price>2328</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1955</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000192742.jpg</picture>
-        <barcode>6968154082003</barcode>
-      </offer>
-      <offer id="192743" available="true">
-        <name>Пес на радіокеруванні QF 660-5 (16) 2 кольори, акумулятор 3.7 V, пульт 2.4 GHz, озвучені репліки англ. мовою, підсвічування, в коробці</name>
-        <name_ua>Робопес на радіокеруванні QF 660-5 (16) 2 кольори, акумулятор 3.7 V, пульт 2.4 GHz, озвучені репліки англ. мовою, підсвічування, режим програмування, пісні, в коробці</name_ua>
-        <price>2182</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1955</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000192743.jpg</picture>
-        <barcode>6968154082027</barcode>
-      </offer>
       <offer id="180825" available="true">
         <name>Песик на р/к CV-D 902 (24) 3 кольори, світло, оберти на 360°, сенсор, вітається, танцює, озвуч. англ. мовою, казки, пісні, ак. 3.7 V, в коробці, МІКС</name>
         <name_ua>Песик на радіокеруванні CV-D 902 (24) 3 кольори, підсвічування, обертається на 360°, сенсорна ділянка, вітається, танцює, озвучення англійською мовою, розказує казки, співає пісеньки, підіймає колеса, режим програмування, пульт керування, акумулятор 3.7 V</name_ua>
@@ -36916,15 +36870,6 @@
         <picture>https://igrushki7.ua/images/prom/00000194066.jpg</picture>
         <barcode>6966051080030,6946617777796</barcode>
       </offer>
-      <offer id="194067" available="true">
-        <name>Робот на радіокеруванні A 102 (16) вбуд. акум. 3.7V, пульт 2.4Ghz, звуки, мелодії, репліки англ. мовою, підсвічування, сенсорна зона, в коробц</name>
-        <name_ua>Робот на радіокеруванні A 102 (16) вбудований акумулятор 3.7V, пульт 2.4Ghz, звуки, мелодії, озвучені репліки англ. мовою, підсвічування, сенсорна зона, в коробці</name_ua>
-        <price>1102</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1955</categoryId>
-        <picture>https://igrushki7.ua/images/prom/00000194067.jpg</picture>
-        <barcode>6966051080047</barcode>
-      </offer>
       <offer id="194068" available="true">
         <name>Робот на радіокеруванні A 103 (8) озвуч. англ. мовою, історії, мелодії, танці, сенсор, світло, повторює/змінює голос, стріляє патронами, в коробці</name>
         <name_ua>Робот на радіокеруванні A 103 (8) озвучування англійською мовою, історії, мелодії, танці, сенсорна ділянка, підсвічування, повторює та змінює голос, режим програмування, стріляє патронами з присосками, в коробці</name_ua>
@@ -37943,7 +37888,6 @@
         <price>3046</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2189.81</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000100060.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/100060-1.jpg|https://igrushki7.ua/images/promadd/100060-2.jpg|https://igrushki7.ua/images/promadd/100060-3.jpg|https://igrushki7.ua/images/promadd/100060-4.jpg|https://igrushki7.ua/images/promadd/100060-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38252,7 +38196,6 @@
         <price>1691</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1540.37</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113671.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113671-1.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38297,7 +38240,6 @@
         <price>1691</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1540.37</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000084216.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/84216-1.jpg|https://igrushki7.ua/images/promadd/84216-2.jpg|https://igrushki7.ua/images/promadd/84216-3.jpg|https://igrushki7.ua/images/promadd/84216-4.jpg|https://igrushki7.ua/images/promadd/84216-5.jpg|https://igrushki7.ua/images/promadd/84216-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38342,7 +38284,6 @@
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086792.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86792-1.jpg|https://igrushki7.ua/images/promadd/86792-2.jpg|https://igrushki7.ua/images/promadd/86792-3.jpg|https://igrushki7.ua/images/promadd/86792-4.jpg|https://igrushki7.ua/images/promadd/86792-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -38354,7 +38295,6 @@
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086791.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86791-1.jpg|https://igrushki7.ua/images/promadd/86791-2.jpg|https://igrushki7.ua/images/promadd/86791-3.jpg|https://igrushki7.ua/images/promadd/86791-4.jpg|https://igrushki7.ua/images/promadd/86791-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -38366,7 +38306,6 @@
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086797.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86797-1.jpg|https://igrushki7.ua/images/promadd/86797-2.jpg|https://igrushki7.ua/images/promadd/86797-3.jpg|https://igrushki7.ua/images/promadd/86797-4.jpg|https://igrushki7.ua/images/promadd/86797-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -38390,7 +38329,6 @@
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086793.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86793-1.jpg|https://igrushki7.ua/images/promadd/86793-2.jpg|https://igrushki7.ua/images/promadd/86793-3.jpg|https://igrushki7.ua/images/promadd/86793-4.jpg|https://igrushki7.ua/images/promadd/86793-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -38402,7 +38340,6 @@
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086799.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86799-1.jpg|https://igrushki7.ua/images/promadd/86799-2.jpg|https://igrushki7.ua/images/promadd/86799-3.jpg|https://igrushki7.ua/images/promadd/86799-4.jpg|https://igrushki7.ua/images/promadd/86799-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -38414,7 +38351,6 @@
         <price>4622</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2990.13</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000086798.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/86798-1.jpg|https://igrushki7.ua/images/promadd/86798-2.jpg|https://igrushki7.ua/images/promadd/86798-3.jpg|https://igrushki7.ua/images/promadd/86798-4.jpg|https://igrushki7.ua/images/promadd/86798-5.jpg</picture>
         <vendor>Corso</vendor>
@@ -38493,7 +38429,6 @@
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113219.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113219-2.jpg|https://igrushki7.ua/images/promadd/113219-3.jpg|https://igrushki7.ua/images/promadd/113219-4.jpg|https://igrushki7.ua/images/promadd/113219-5.jpg|https://igrushki7.ua/images/promadd/113219-6.jpg|https://igrushki7.ua/images/promadd/113219-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38505,7 +38440,6 @@
         <price>4375</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3653.1</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105585.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105585-1.jpg|https://igrushki7.ua/images/promadd/105585-2.jpg|https://igrushki7.ua/images/promadd/105585-3.jpg|https://igrushki7.ua/images/promadd/105585-4.jpg|https://igrushki7.ua/images/promadd/105585-5.jpg|https://igrushki7.ua/images/promadd/105585-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38517,7 +38451,6 @@
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113217.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113217-2.jpg|https://igrushki7.ua/images/promadd/113217-3.jpg|https://igrushki7.ua/images/promadd/113217-4.jpg|https://igrushki7.ua/images/promadd/113217-5.jpg|https://igrushki7.ua/images/promadd/113217-6.jpg|https://igrushki7.ua/images/promadd/113217-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38529,7 +38462,6 @@
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113198.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113198-1.jpg|https://igrushki7.ua/images/promadd/113198-2.jpg|https://igrushki7.ua/images/promadd/113198-3.jpg|https://igrushki7.ua/images/promadd/113198-4.jpg|https://igrushki7.ua/images/promadd/113198-5.jpg|https://igrushki7.ua/images/promadd/113198-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38541,7 +38473,6 @@
         <price>4375</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3653.1</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105586.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105586-1.jpg|https://igrushki7.ua/images/promadd/105586-2.jpg|https://igrushki7.ua/images/promadd/105586-3.jpg|https://igrushki7.ua/images/promadd/105586-4.jpg|https://igrushki7.ua/images/promadd/105586-5.jpg|https://igrushki7.ua/images/promadd/105586-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38553,7 +38484,6 @@
         <price>4375</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3653.1</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105587.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105587-1.jpg|https://igrushki7.ua/images/promadd/105587-2.jpg|https://igrushki7.ua/images/promadd/105587-3.jpg|https://igrushki7.ua/images/promadd/105587-4.jpg|https://igrushki7.ua/images/promadd/105587-5.jpg|https://igrushki7.ua/images/promadd/105587-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38565,7 +38495,6 @@
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113199.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113199-2.jpg|https://igrushki7.ua/images/promadd/113199-3.jpg|https://igrushki7.ua/images/promadd/113199-4.jpg|https://igrushki7.ua/images/promadd/113199-5.jpg|https://igrushki7.ua/images/promadd/113199-6.jpg|https://igrushki7.ua/images/promadd/113199-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38577,7 +38506,6 @@
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>4266.46</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000113218.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/113218-2.jpg|https://igrushki7.ua/images/promadd/113218-3.jpg|https://igrushki7.ua/images/promadd/113218-4.jpg|https://igrushki7.ua/images/promadd/113218-5.jpg|https://igrushki7.ua/images/promadd/113218-6.jpg|https://igrushki7.ua/images/promadd/113218-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38600,7 +38528,6 @@
         <price>4375</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3653.1</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105427.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105427-1.jpg|https://igrushki7.ua/images/promadd/105427-2.jpg|https://igrushki7.ua/images/promadd/105427-3.jpg|https://igrushki7.ua/images/promadd/105427-4.jpg|https://igrushki7.ua/images/promadd/105427-5.jpg|https://igrushki7.ua/images/promadd/105427-6.jpg|https://igrushki7.ua/images/promadd/105427-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38786,7 +38713,6 @@
         <price>3669</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3377.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000099664.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/99664-1.jpg|https://igrushki7.ua/images/promadd/99664-2.jpg|https://igrushki7.ua/images/promadd/99664-3.jpg|https://igrushki7.ua/images/promadd/99664-4.jpg|https://igrushki7.ua/images/promadd/99664-5.jpg|https://igrushki7.ua/images/promadd/99664-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38820,7 +38746,6 @@
         <price>3669</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3377.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000100076.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/100076-1.jpg|https://igrushki7.ua/images/promadd/100076-2.jpg|https://igrushki7.ua/images/promadd/100076-3.jpg|https://igrushki7.ua/images/promadd/100076-4.jpg|https://igrushki7.ua/images/promadd/100076-5.jpg|https://igrushki7.ua/images/promadd/100076-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38832,7 +38757,6 @@
         <price>3669</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3377.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000103455.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/103455-1.jpg|https://igrushki7.ua/images/promadd/103455-2.jpg|https://igrushki7.ua/images/promadd/103455-3.jpg|https://igrushki7.ua/images/promadd/103455-4.jpg|https://igrushki7.ua/images/promadd/103455-5.jpg|https://igrushki7.ua/images/promadd/103455-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38844,7 +38768,6 @@
         <price>3669</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3377.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000099666.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/99666-1.jpg|https://igrushki7.ua/images/promadd/99666-2.jpg|https://igrushki7.ua/images/promadd/99666-3.jpg|https://igrushki7.ua/images/promadd/99666-4.jpg|https://igrushki7.ua/images/promadd/99666-5.jpg|https://igrushki7.ua/images/promadd/99666-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38867,7 +38790,6 @@
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>4159.45</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114435.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114435-1.jpg|https://igrushki7.ua/images/promadd/114435-2.jpg|https://igrushki7.ua/images/promadd/114435-3.jpg|https://igrushki7.ua/images/promadd/114435-4.jpg|https://igrushki7.ua/images/promadd/114435-5.jpg|https://igrushki7.ua/images/promadd/114435-6.jpg|https://igrushki7.ua/images/promadd/114435-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38879,7 +38801,6 @@
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>4159.45</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114437.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114437-1.jpg|https://igrushki7.ua/images/promadd/114437-2.jpg|https://igrushki7.ua/images/promadd/114437-3.jpg|https://igrushki7.ua/images/promadd/114437-4.jpg|https://igrushki7.ua/images/promadd/114437-5.jpg|https://igrushki7.ua/images/promadd/114437-6.jpg|https://igrushki7.ua/images/promadd/114437-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38891,7 +38812,6 @@
         <price>4586</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>4159.45</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114436.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114436-1.jpg|https://igrushki7.ua/images/promadd/114436-2.jpg|https://igrushki7.ua/images/promadd/114436-3.jpg|https://igrushki7.ua/images/promadd/114436-4.jpg|https://igrushki7.ua/images/promadd/114436-5.jpg|https://igrushki7.ua/images/promadd/114436-6.jpg|https://igrushki7.ua/images/promadd/114436-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38936,7 +38856,6 @@
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000098442.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/98442-1.jpg|https://igrushki7.ua/images/promadd/98442-2.jpg|https://igrushki7.ua/images/promadd/98442-3.jpg|https://igrushki7.ua/images/promadd/98442-4.jpg|https://igrushki7.ua/images/promadd/98442-5.jpg|https://igrushki7.ua/images/promadd/98442-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38948,7 +38867,6 @@
         <price>2890</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2615.8</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000103467.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/103467-1.jpg|https://igrushki7.ua/images/promadd/103467-2.jpg|https://igrushki7.ua/images/promadd/103467-3.jpg|https://igrushki7.ua/images/promadd/103467-4.jpg|https://igrushki7.ua/images/promadd/103467-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38960,7 +38878,6 @@
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105380.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105380-1.jpg|https://igrushki7.ua/images/promadd/105380-2.jpg|https://igrushki7.ua/images/promadd/105380-3.jpg|https://igrushki7.ua/images/promadd/105380-4.jpg|https://igrushki7.ua/images/promadd/105380-5.jpg|https://igrushki7.ua/images/promadd/105380-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38972,7 +38889,6 @@
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000098440.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/98440-1.jpg|https://igrushki7.ua/images/promadd/98440-2.jpg|https://igrushki7.ua/images/promadd/98440-3.jpg|https://igrushki7.ua/images/promadd/98440-4.jpg|https://igrushki7.ua/images/promadd/98440-5.jpg|https://igrushki7.ua/images/promadd/98440-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38984,7 +38900,6 @@
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105379.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105379-1.jpg|https://igrushki7.ua/images/promadd/105379-2.jpg|https://igrushki7.ua/images/promadd/105379-3.jpg|https://igrushki7.ua/images/promadd/105379-4.jpg|https://igrushki7.ua/images/promadd/105379-5.jpg|https://igrushki7.ua/images/promadd/105379-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -38996,7 +38911,6 @@
         <price>3210</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>3157</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105382.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105382-1.jpg|https://igrushki7.ua/images/promadd/105382-2.jpg|https://igrushki7.ua/images/promadd/105382-3.jpg|https://igrushki7.ua/images/promadd/105382-4.jpg|https://igrushki7.ua/images/promadd/105382-5.jpg|https://igrushki7.ua/images/promadd/105382-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39008,7 +38922,6 @@
         <price>3027</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2906.9</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000094767.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/94767-1.jpg|https://igrushki7.ua/images/promadd/94767-2.jpg|https://igrushki7.ua/images/promadd/94767-3.jpg|https://igrushki7.ua/images/promadd/94767-4.jpg|https://igrushki7.ua/images/promadd/94767-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39020,7 +38933,6 @@
         <price>3027</price>
         <currencyId>UAH</currencyId>
         <categoryId>76479</categoryId>
-        <oldprice>2906.9</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000074314.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/74314-1.jpg|https://igrushki7.ua/images/promadd/74314-2.jpg|https://igrushki7.ua/images/promadd/74314-3.jpg|https://igrushki7.ua/images/promadd/74314-4.jpg|https://igrushki7.ua/images/promadd/74314-5.jpg|https://igrushki7.ua/images/promadd/74314-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39043,7 +38955,6 @@
         <price>2190</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1573.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000089687.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/89687-1.jpg|https://igrushki7.ua/images/promadd/89687-2.jpg|https://igrushki7.ua/images/promadd/89687-3.jpg|https://igrushki7.ua/images/promadd/89687-4.jpg|https://igrushki7.ua/images/promadd/89687-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39055,7 +38966,6 @@
         <price>2190</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1573.99</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000089684.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/89684-1.jpg|https://igrushki7.ua/images/promadd/89684-2.jpg|https://igrushki7.ua/images/promadd/89684-3.jpg|https://igrushki7.ua/images/promadd/89684-4.jpg|https://igrushki7.ua/images/promadd/89684-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39078,7 +38988,6 @@
         <price>1857</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1364.89</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105402.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105402-1.jpg|https://igrushki7.ua/images/promadd/105402-2.jpg|https://igrushki7.ua/images/promadd/105402-3.jpg|https://igrushki7.ua/images/promadd/105402-4.jpg|https://igrushki7.ua/images/promadd/105402-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39101,7 +39010,6 @@
         <price>3143</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2259.51</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000106696.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/106696-1.jpg|https://igrushki7.ua/images/promadd/106696-2.jpg|https://igrushki7.ua/images/promadd/106696-3.jpg|https://igrushki7.ua/images/promadd/106696-4.jpg|https://igrushki7.ua/images/promadd/106696-5.jpg|https://igrushki7.ua/images/promadd/106696-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39113,7 +39021,6 @@
         <price>3143</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2259.51</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000106697.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/106697-1.jpg|https://igrushki7.ua/images/promadd/106697-2.jpg|https://igrushki7.ua/images/promadd/106697-3.jpg|https://igrushki7.ua/images/promadd/106697-4.jpg|https://igrushki7.ua/images/promadd/106697-5.jpg|https://igrushki7.ua/images/promadd/106697-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39125,7 +39032,6 @@
         <price>2174</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1564.15</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102031.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102031-1.jpg|https://igrushki7.ua/images/promadd/102031-2.jpg|https://igrushki7.ua/images/promadd/102031-3.jpg|https://igrushki7.ua/images/promadd/102031-4.jpg|https://igrushki7.ua/images/promadd/102031-4.jpg|https://igrushki7.ua/images/promadd/102031-5.jpg|https://igrushki7.ua/images/promadd/102031-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39137,7 +39043,6 @@
         <price>2402</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1726.51</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114443.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114443-1.jpg|https://igrushki7.ua/images/promadd/114443-2.jpg|https://igrushki7.ua/images/promadd/114443-3.jpg|https://igrushki7.ua/images/promadd/114443-4.jpg|https://igrushki7.ua/images/promadd/114443-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39149,7 +39054,6 @@
         <price>2402</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1726.51</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000114441.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/114441-1.jpg|https://igrushki7.ua/images/promadd/114441-2.jpg|https://igrushki7.ua/images/promadd/114441-3.jpg|https://igrushki7.ua/images/promadd/114441-4.jpg|https://igrushki7.ua/images/promadd/114441-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39161,7 +39065,6 @@
         <price>3161</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2272.22</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000111438.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/111438-1.jpg|https://igrushki7.ua/images/promadd/111438-2.jpg|https://igrushki7.ua/images/promadd/111438-3.jpg|https://igrushki7.ua/images/promadd/111438-4.jpg|https://igrushki7.ua/images/promadd/111438-5.jpg|https://igrushki7.ua/images/promadd/111438-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39173,7 +39076,6 @@
         <price>3161</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2272.22</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000111439.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/111439-1.jpg|https://igrushki7.ua/images/promadd/111439-2.jpg|https://igrushki7.ua/images/promadd/111439-3.jpg|https://igrushki7.ua/images/promadd/111439-4.jpg|https://igrushki7.ua/images/promadd/111439-5.jpg|https://igrushki7.ua/images/promadd/111439-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39185,7 +39087,6 @@
         <price>2142</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1539.96</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102024.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102024-1.jpg|https://igrushki7.ua/images/promadd/102024-2.jpg|https://igrushki7.ua/images/promadd/102024-3.jpg|https://igrushki7.ua/images/promadd/102024-4.jpg|https://igrushki7.ua/images/promadd/102024-5.jpg|https://igrushki7.ua/images/promadd/102024-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39197,7 +39098,6 @@
         <price>2142</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1539.96</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102026.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102026-1.jpg|https://igrushki7.ua/images/promadd/102026-2.jpg|https://igrushki7.ua/images/promadd/102026-3.jpg|https://igrushki7.ua/images/promadd/102026-4.jpg|https://igrushki7.ua/images/promadd/102026-5.jpg|https://igrushki7.ua/images/promadd/102026-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39209,7 +39109,6 @@
         <price>2126</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1530.12</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102319.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102319-1.jpg|https://igrushki7.ua/images/promadd/102319-2.jpg|https://igrushki7.ua/images/promadd/102319-3.jpg|https://igrushki7.ua/images/promadd/102319-4.jpg|https://igrushki7.ua/images/promadd/102319-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -39232,7 +39131,6 @@
         <price>2126</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>1530.12</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102320.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102320-1.jpg|https://igrushki7.ua/images/promadd/102320-2.jpg|https://igrushki7.ua/images/promadd/102320-3.jpg|https://igrushki7.ua/images/promadd/102320-4.jpg|https://igrushki7.ua/images/promadd/102320-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40200,7 +40098,6 @@
         <price>6970</price>
         <currencyId>UAH</currencyId>
         <categoryId>109351</categoryId>
-        <oldprice>4753.54</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000102310.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/102310-1.jpg|https://igrushki7.ua/images/promadd/102310-2.jpg|https://igrushki7.ua/images/promadd/102310-3.jpg|https://igrushki7.ua/images/promadd/102310-4.jpg|https://igrushki7.ua/images/promadd/102310-5.jpg|https://igrushki7.ua/images/promadd/102310-6.jpg|https://igrushki7.ua/images/promadd/102310-7.jpg|https://igrushki7.ua/images/promadd/102310-8.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40212,7 +40109,6 @@
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>109351</categoryId>
-        <oldprice>5698.59</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112899.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112899-1.jpg|https://igrushki7.ua/images/promadd/112899-2.jpg|https://igrushki7.ua/images/promadd/112899-2.jpg|https://igrushki7.ua/images/promadd/112899-3.jpg|https://igrushki7.ua/images/promadd/112899-3.jpg|https://igrushki7.ua/images/promadd/112899-4.jpg|https://igrushki7.ua/images/promadd/112899-4.jpg|https://igrushki7.ua/images/promadd/112899-5.jpg|https://igrushki7.ua/images/promadd/112899-5.jpg|https://igrushki7.ua/images/promadd/112899-6.jpg|https://igrushki7.ua/images/promadd/112899-6.jpg|https://igrushki7.ua/images/promadd/112899-7.jpg|https://igrushki7.ua/images/promadd/112899-7.jpg|https://igrushki7.ua/images/promadd/112899-8.jpg|https://igrushki7.ua/images/promadd/112899-8.jpg|https://igrushki7.ua/images/promadd/112899-9.jpg|https://igrushki7.ua/images/promadd/112899-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40224,7 +40120,6 @@
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>109351</categoryId>
-        <oldprice>5698.59</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112900.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112900-1.jpg|https://igrushki7.ua/images/promadd/112900-2.jpg|https://igrushki7.ua/images/promadd/112900-2.jpg|https://igrushki7.ua/images/promadd/112900-3.jpg|https://igrushki7.ua/images/promadd/112900-3.jpg|https://igrushki7.ua/images/promadd/112900-4.jpg|https://igrushki7.ua/images/promadd/112900-4.jpg|https://igrushki7.ua/images/promadd/112900-5.jpg|https://igrushki7.ua/images/promadd/112900-5.jpg|https://igrushki7.ua/images/promadd/112900-6.jpg|https://igrushki7.ua/images/promadd/112900-6.jpg|https://igrushki7.ua/images/promadd/112900-7.jpg|https://igrushki7.ua/images/promadd/112900-7.jpg|https://igrushki7.ua/images/promadd/112900-8.jpg|https://igrushki7.ua/images/promadd/112900-8.jpg|https://igrushki7.ua/images/promadd/112900-9.jpg|https://igrushki7.ua/images/promadd/112900-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40236,7 +40131,6 @@
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>109351</categoryId>
-        <oldprice>5698.59</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112901.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112901-1.jpg|https://igrushki7.ua/images/promadd/112901-2.jpg|https://igrushki7.ua/images/promadd/112901-2.jpg|https://igrushki7.ua/images/promadd/112901-3.jpg|https://igrushki7.ua/images/promadd/112901-3.jpg|https://igrushki7.ua/images/promadd/112901-4.jpg|https://igrushki7.ua/images/promadd/112901-4.jpg|https://igrushki7.ua/images/promadd/112901-5.jpg|https://igrushki7.ua/images/promadd/112901-5.jpg|https://igrushki7.ua/images/promadd/112901-6.jpg|https://igrushki7.ua/images/promadd/112901-6.jpg|https://igrushki7.ua/images/promadd/112901-7.jpg|https://igrushki7.ua/images/promadd/112901-7.jpg|https://igrushki7.ua/images/promadd/112901-8.jpg|https://igrushki7.ua/images/promadd/112901-8.jpg|https://igrushki7.ua/images/promadd/112901-9.jpg|https://igrushki7.ua/images/promadd/112901-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40248,7 +40142,6 @@
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>109351</categoryId>
-        <oldprice>5698.59</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112902.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112902-1.jpg|https://igrushki7.ua/images/promadd/112902-2.jpg|https://igrushki7.ua/images/promadd/112902-2.jpg|https://igrushki7.ua/images/promadd/112902-3.jpg|https://igrushki7.ua/images/promadd/112902-3.jpg|https://igrushki7.ua/images/promadd/112902-4.jpg|https://igrushki7.ua/images/promadd/112902-4.jpg|https://igrushki7.ua/images/promadd/112902-5.jpg|https://igrushki7.ua/images/promadd/112902-5.jpg|https://igrushki7.ua/images/promadd/112902-6.jpg|https://igrushki7.ua/images/promadd/112902-6.jpg|https://igrushki7.ua/images/promadd/112902-7.jpg|https://igrushki7.ua/images/promadd/112902-7.jpg|https://igrushki7.ua/images/promadd/112902-8.jpg|https://igrushki7.ua/images/promadd/112902-8.jpg|https://igrushki7.ua/images/promadd/112902-9.jpg|https://igrushki7.ua/images/promadd/112902-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40260,7 +40153,6 @@
         <price>8254</price>
         <currencyId>UAH</currencyId>
         <categoryId>109351</categoryId>
-        <oldprice>5771.57</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000112766.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/112766-1.jpg|https://igrushki7.ua/images/promadd/112766-10.jpg|https://igrushki7.ua/images/promadd/112766-10.jpg|https://igrushki7.ua/images/promadd/112766-11.jpg|https://igrushki7.ua/images/promadd/112766-11.jpg|https://igrushki7.ua/images/promadd/112766-2.jpg|https://igrushki7.ua/images/promadd/112766-2.jpg|https://igrushki7.ua/images/promadd/112766-3.jpg|https://igrushki7.ua/images/promadd/112766-3.jpg|https://igrushki7.ua/images/promadd/112766-4.jpg|https://igrushki7.ua/images/promadd/112766-4.jpg|https://igrushki7.ua/images/promadd/112766-5.jpg|https://igrushki7.ua/images/promadd/112766-5.jpg|https://igrushki7.ua/images/promadd/112766-6.jpg|https://igrushki7.ua/images/promadd/112766-6.jpg|https://igrushki7.ua/images/promadd/112766-7.jpg|https://igrushki7.ua/images/promadd/112766-7.jpg|https://igrushki7.ua/images/promadd/112766-8.jpg|https://igrushki7.ua/images/promadd/112766-8.jpg|https://igrushki7.ua/images/promadd/112766-9.jpg|https://igrushki7.ua/images/promadd/112766-9.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40272,7 +40164,6 @@
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000104497.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/104497-1.jpg|https://igrushki7.ua/images/promadd/104497-2.jpg|https://igrushki7.ua/images/promadd/104497-3.jpg|https://igrushki7.ua/images/promadd/104497-4.jpg|https://igrushki7.ua/images/promadd/104497-5.jpg|https://igrushki7.ua/images/promadd/104497-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40284,7 +40175,6 @@
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105656.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105656-1.jpg|https://igrushki7.ua/images/promadd/105656-2.jpg|https://igrushki7.ua/images/promadd/105656-3.jpg|https://igrushki7.ua/images/promadd/105656-4.jpg|https://igrushki7.ua/images/promadd/105656-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40296,7 +40186,6 @@
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105408.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105408-1.jpg|https://igrushki7.ua/images/promadd/105408-2.jpg|https://igrushki7.ua/images/promadd/105408-3.jpg|https://igrushki7.ua/images/promadd/105408-4.jpg|https://igrushki7.ua/images/promadd/105408-5.jpg|https://igrushki7.ua/images/promadd/105408-6.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40308,7 +40197,6 @@
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105635.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105635-1.jpg|https://igrushki7.ua/images/promadd/105635-2.jpg|https://igrushki7.ua/images/promadd/105635-3.jpg|https://igrushki7.ua/images/promadd/105635-4.jpg|https://igrushki7.ua/images/promadd/105635-5.jpg|https://igrushki7.ua/images/promadd/105635-6.jpg|https://igrushki7.ua/images/promadd/105635-7.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40320,7 +40208,6 @@
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000105657.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/105657-1.jpg|https://igrushki7.ua/images/promadd/105657-2.jpg|https://igrushki7.ua/images/promadd/105657-3.jpg|https://igrushki7.ua/images/promadd/105657-4.jpg|https://igrushki7.ua/images/promadd/105657-5.jpg</picture>
         <vendor>Best Scooter</vendor>
@@ -40332,7 +40219,6 @@
         <price>2477</price>
         <currencyId>UAH</currencyId>
         <categoryId>76480</categoryId>
-        <oldprice>2146.35</oldprice>
         <picture>https://igrushki7.ua/images/prom/00000104499.jpg</picture>
         <picture>https://igrushki7.ua/images/promadd/104499-1.jpg|https://igrushki7.ua/images/promadd/104499-2.jpg|https://igrushki7.ua/images/promadd/104499-3.jpg|https://igrushki7.ua/images/promadd/104499-4.jpg|https://igrushki7.ua/images/promadd/104499-5.jpg|https://igrushki7.ua/images/promadd/104499-6.jpg</picture>
         <vendor>Best Scooter</vendor>
