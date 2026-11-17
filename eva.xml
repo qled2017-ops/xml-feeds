@@ -204162,7 +204162,7 @@ _x000D_
 <description_ua>Плетений кошик чудовий і незамінний помічник в будинку для зберігання всіляких корисних речей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="EE00341" available="false">
+<offer id="EE00341" available="true">
 <price>489</price>
 <currencyId>UAH</currencyId>
 <categoryId>1087</categoryId>
