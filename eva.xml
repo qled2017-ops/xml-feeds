@@ -205935,7 +205935,7 @@ _x000D_
 <description_ua>Набір кухлів порцелянових Pets Песик 1 450 мл 4 шт. білий</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE14679" available="true">
+<offer id="RE14679" available="false">
 <price>462</price>
 <currencyId>UAH</currencyId>
 <categoryId>1066</categoryId>
@@ -205945,7 +205945,7 @@ _x000D_
 <name_ua>Чашка фарфорова Flora Marble Face 510 мл. 33320</name_ua>
 <name_ru>Чашка фарфоровая Flora Marble Face 510 мл. 33320</name_ru>
 <description_ua>Чашка фарфорова Marble Face відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих Вам людей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE14683" available="true">
 <price>246</price>
