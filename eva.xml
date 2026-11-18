@@ -5520,7 +5520,7 @@
 <param name="Колір">Білий</param>
 <param name="Ширина в упаковці (см)">20</param>
 </offer>
-<offer id="29524) 21974" available="true">
+<offer id="29524) 21974" available="false">
 <price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>113808.0</categoryId>
@@ -159622,7 +159622,7 @@ _x000D_
 <description_ua>Горщик Ага кольору фуксія має класичну форму та ідеально підійде для декорування приміщень. Горщик доступний у різних розмірах та укомплектований підставкою.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11116" available="true">
+<offer id="RE11116" available="false">
 <price>107</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -159632,7 +159632,7 @@ _x000D_
 <name_ua>Підставка балконна Flora Агро Біла 60см</name_ua>
 <name_ru>Подставка балконная Flora Агро Белая 60см</name_ru>
 <description_ua>Підставка під балконну скриньку АГРО теракотового кольору прикрасить та доповнить ваш балкон, сад чи терасу. Має поверхню, стійку до природних впливів, що не тьмяніє на сонці, підходить для будинку та вулиці.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE11112" available="true">
 <price>156</price>
@@ -159670,7 +159670,7 @@ _x000D_
 <description_ua>Горщик Ага кольору фуксія має класичну форму та ідеально підійде для декорування приміщень. Горщик доступний у різних розмірах та укомплектований підставкою.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11119" available="true">
+<offer id="RE11119" available="false">
 <price>204</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -171624,7 +171624,7 @@ _x000D_
 <description_ua>Новорічний декор є невід'ємним атрибутом зимових свят. Елегантний та естетичний декор додасть елегантності та вишуканості інтер'єру, а також подарує святковий настрій.&amp;nbsp;</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02424" available="true">
+<offer id="RE02424" available="false">
 <price>154</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -171634,7 +171634,7 @@ _x000D_
 <name_ua>Набір пластикових новорічних прикрас Серце 6 шт. D-6 см. 13047</name_ua>
 <name_ru>Набор пластиковых новогодних украшений Сердце 6 шт. D-6 см. 13047</name_ru>
 <description_ua>Набір ялинкових прикрас Серце 6 см, колір – золото, 6 шт.: перламутр, матовий, гліттер – по 2 шт. Новорічні прикраси начебто створені для того, щоб новорічний настрій оселився у вашому будинку. Вони будуть класичним рішенням у святковому декорі – вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна прикрашати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02395" available="true">
 <price>267</price>
