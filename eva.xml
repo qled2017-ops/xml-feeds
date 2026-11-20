@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-20 08:23">
+<yml_catalog date="2026-11-20 18:20">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -100943,7 +100943,7 @@ _x000D_
 <description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо будинок, маленькі статуетки – це непомітні деталі, які однозначно надають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02694" available="true">
+<offer id="RE02694" available="false">
 <price>1563</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -100953,7 +100953,7 @@ _x000D_
 <name_ua>Фігурка новорічна Flora Сова 24 см Білий (11376)</name_ua>
 <name_ru>Фигурка новогодняя Flora Сова 24 см Белый (11376)</name_ru>
 <description_ua>Кожній полиці своя фігурка. У новорічні свята, коли ми декоруємо дім, маленькі статуетки – це непомітні деталі, що однозначно додають гарного настрою. Таку фігурку можна поставити на робочий або обідній стіл, книжкову полицю та підвіконня.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02732" available="true">
 <price>909</price>
@@ -156543,7 +156543,7 @@ _x000D_
 <description_ua>Кашпо із цементу є оригінальним виробом, його можна використовувати для садових рослин. Такий вазон прикрасить будь-який ландшафтний дизайн, виробами прикрашають входи на ділянку чи житло, місця відпочинку та сади.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KU00069" available="true">
+<offer id="KU00069" available="false">
 <price>614</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -156554,7 +156554,7 @@ _x000D_
 <name_ua>Кашпо із цементу H-14.5 см 36591</name_ua>
 <name_ru>Кашпо из цемента H-14.5 см 36591</name_ru>
 <description_ua>Кашпо із цементу є оригінальним виробом, його можна використовувати для садових рослин. Такий вазон прикрасить будь-який ландшафтний дизайн, виробами прикрашають входи на ділянку чи житло, місця відпочинку та сади.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KU00075" available="true">
 <price>1696</price>
@@ -156900,7 +156900,7 @@ _x000D_
 <description_ua>Ніжне декоративне кашпо у формі дівчинки стане чарівним акцентом у будь-якому інтер'єрі. Виготовлене з якісної кераміки, з глянсовим оздобленням, воно чудово підійде для невеликих кольорів, сукулентів або просто як оригінальна прикраса.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KU00120" available="true">
+<offer id="KU00120" available="false">
 <price>855</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -156911,7 +156911,7 @@ _x000D_
 <name_ua>Кашпо керамічне срібне H-14.5 см 36760</name_ua>
 <name_ru>Кашпо керамическое серебряное H-14.5 см 36760</name_ru>
 <description_ua>Стильне кашпо виконане з глазурованої кераміки. Завдяки дизайну та кольоровій гамі – кашпо стане цікавим акцентом в інтер'єрі заміського будинку чи квартири. Влітку квітами в кашпо можна прикрасити терасу, альтанку</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KU00123" available="true">
 <price>1286</price>
@@ -160396,7 +160396,7 @@ _x000D_
 <description_ua>Кашпо з цементу є оригінальним виробом, його можна використовувати для садових рослин. Такий вазон прикрасить будь-який ландшафтний дизайн, виробами прикрашають входи на ділянку або житло, місця відпочинку, і сади.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE13068" available="true">
+<offer id="RE13068" available="false">
 <price>636</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -160408,7 +160408,7 @@ _x000D_
 <name_ua>Кашпо з цементу новорічне Flora м'ятне D-20 см. 39460</name_ua>
 <name_ru>Кашпо из цемента новогоднее Flora мятное D-20 см. 39460</name_ru>
 <description_ua>Кашпо з цементу є оригінальним виробом, його можна використовувати для садових рослин. Такий вазон прикрасить будь-який ландшафтний дизайн, виробами прикрашають входи на ділянку або житло, місця відпочинку, і сади.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE13077" available="true">
 <price>878</price>
@@ -160641,7 +160641,7 @@ _x000D_
 <description_ua>Кашпо з золотою полосою на підставці золотого кольору стане ідеальною прикрасою інтер'єру в стилі лофт. Також кашпо підходить для зовнішнього використання в саду або на терасі. Розмір кашпо&amp;nbsp;D-13 см. H-10.5 см.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE14890" available="true">
+<offer id="RE14890" available="false">
 <price>767</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -160652,7 +160652,7 @@ _x000D_
 <name_ua>Кашпо металеве Flora Чайник м'ятне 39708</name_ua>
 <name_ru>Кашпо металлическое Flora Чайник мятное 39708</name_ru>
 <description_ua>Кашпо металеве в вигляді чайника&amp;nbsp; з ручкою для створення композицій.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE14899" available="true">
 <price>240</price>
@@ -169872,7 +169872,7 @@ _x000D_
 <description_ua>Новорічна красуня висотою&amp;nbsp;230&amp;nbsp;см прикрасить будь-яке приміщення, і стане для Вас найкращим атрибутом зимових свят.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12449" available="true">
+<offer id="RE12449" available="false">
 <price>9543</price>
 <currencyId>UAH</currencyId>
 <categoryId>1074</categoryId>
@@ -178480,7 +178480,7 @@ _x000D_
 <description_ua>Верхівка пластикова на ялинку 33 см, колір - синій матовий з декором. Верхівка на ялинку - це справжнє втілення новорічного декору. Ви можете бути впевнені, що ці іграшка прослужить Вам довгі роки, радуючи око кожного разу, коли ви прикрасите ними свою ялинку. Новорічні верхівки на ялинку також є прекрасним подарунком для колег або друзів. Вони можуть стати чудовим і оригінальним сюрпризом для святкового обміну подарунками. Крім того, вони відмінно впишуться в будь-який інтер'єр і стануть справжньою окрасою вашого будинку.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12481" available="true">
+<offer id="RE12481" available="false">
 <price>1037</price>
 <currencyId>UAH</currencyId>
 <categoryId>1076</categoryId>
@@ -178490,7 +178490,7 @@ _x000D_
 <name_ua>Верхівка металева на ялинку Зірка з підсвіткою Flora біла H-40 см. 13128</name_ua>
 <name_ru>Верхушка металлическая на елку Звезда с подсветкой Flora белая H-40 см. 13128</name_ru>
 <description_ua>Верхівка на ялинку металева з підсвіткою Зірка 40 см. (10 LED лампочок які працюють від батарейок 2 AA - батарейки не входять до комлекту), колір - білий. Верхівка на ялинку - це справжнє втілення новорічного декору. Ви можете бути впевнені, що ці іграшка прослужить Вам довгі роки, радуючи око кожного разу, коли ви прикрасите ними свою ялинку. Новорічні верхівки на ялинку також є прекрасним подарунком для колег або друзів. Вони можуть стати чудовим і оригінальним сюрпризом для святкового обміну подарунками. Крім того, вони відмінно впишуться в будь-який інтер'єр і стануть справжньою окрасою вашого будинку.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE12478" available="true">
 <price>313</price>
@@ -180358,7 +180358,7 @@ _x000D_
 <description_ua>У передчутті різдвяних свят усі готуються до особливого святкування новорічного дива, насамперед це приготування стосується декоративного оформлення інтер'єру дому та робочого місця. Декоративні ялинкові прикраси допоможуть наповнити ваш дім відчуттям затишку та створити святковий новорічний настрій Вам та Вашим близьким.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE13535" available="true">
+<offer id="RE13535" available="false">
 <price>1262</price>
 <currencyId>UAH</currencyId>
 <categoryId>1106</categoryId>
@@ -180466,7 +180466,7 @@ _x000D_
 <description_ua>Новорічні декоративні гілочки - це стильна і яскрава прикраса для вашого будинку в зимовий період. Гілочки виконані зі штучних матеріалів, що ретельно імітують природні елементи. Вони чудово підходять для прикрашання різдвяних вінків, гірлянд, столів, а також можуть використовуватися для створення святкових композицій в інтер'єрі. Ці гілочки додадуть яскраві акценти у ваш новорічний декор, привносячи атмосферу зимової казки та затишку.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE13580" available="true">
+<offer id="RE13580" available="false">
 <price>677</price>
 <currencyId>UAH</currencyId>
 <categoryId>1106</categoryId>
@@ -183719,7 +183719,7 @@ _x000D_
 <description_ua>Цей різдвяний вертеп є символом народження Ісуса Христа і створює атмосферу затишку та благодаті у вашому домі. Виготовлений із якісного полістоуну, він точно передає кожну деталь, роблячи композицію реалістичною та вражаючою. Завдяки своїм компактним розмірам цей вертеп легко розміститься у будь-якому куточку вашого будинку чи офісу. Ідеальний подарунок для Різдва для близьких або друзів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12346" available="true">
+<offer id="RE12346" available="false">
 <price>1424</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -183729,7 +183729,7 @@ _x000D_
 <name_ua>Новорічна декорація Flora Санта Н-30 см. 13271</name_ua>
 <name_ru>Новогодняя декорация Flora Санта Н-30 см. 13271</name_ru>
 <description_ua>Новорічна декорація Санта з подарунками та ялинкою, 30 см. колір – сріблястий з паєтками. Матеріал: тканина, пластик. Тематична фігурка Санти використовується для декору і створення відповідного настрою. Різдво і Новий рік асоціюється з теплою домашньою атмосферою, запашними гілками хвої, соковитими мандаринами, приглушеним світлом і Сантою. Створити атмосферу цього доброго свята досить легко, підібравши оригінальні фігури. Фігура статична і красива, підійде як для декору будинку, магазину, офісу, фотозони, так і для подарунка колегам, рідним.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE12358" available="true">
 <price>1639</price>
@@ -183803,7 +183803,7 @@ _x000D_
 <description_ua>Новорічна декорація Санта червоного кольору висотою 41 см. Матеріал: пластик, тканина. Тематична фігурка Санти використовується для декору і створення відповідного настрою. Різдво і Новий рік асоціюється з теплою домашньою атмосферою, запашними гілками хвої, соковитими мандаринами, приглушеним світлом і Сантою. Створити атмосферу цього доброго свята досить легко, підібравши оригінальні фігури. Фігура статична і красива, підійде як для декору будинку, магазину, офісу, фотозони, так і для подарунка колегам, рідним.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12341" available="true">
+<offer id="RE12341" available="false">
 <price>1455</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -183813,7 +183813,7 @@ _x000D_
 <name_ua>Новорічна декорація Flora Санта Н-30 см. 13278</name_ua>
 <name_ru>Новогодняя декорация Flora Санта Н-30 см. 13278</name_ru>
 <description_ua>Новорічна декорація Санта з подарунками та лижами, 30 см. колір - сірий. Матеріал: пластик, тканина. Тематична фігурка Санти використовується для декору і створення відповідного настрою. Різдво і Новий рік асоціюється з теплою домашньою атмосферою, запашними гілками хвої, соковитими мандаринами, приглушеним світлом і Сантою. Створити атмосферу цього доброго свята досить легко, підібравши оригінальні фігури. Фігура статична і красива, підійде як для декору будинку, магазину, офісу, фотозони, так і для подарунка колегам, рідним.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE12338" available="true">
 <price>1424</price>
@@ -184079,7 +184079,7 @@ _x000D_
 <description_ua>Метелик на прищепці пластиковий кольору шампань.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12707" available="true">
+<offer id="RE12707" available="false">
 <price>950</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -184089,7 +184089,7 @@ _x000D_
 <name_ua>Новорічна дерев'яна декорація Ялинка коричнева Flora H-51 см. 16509</name_ua>
 <name_ru>Новогодняя деревянная декорация Елка коричневая Flora H-51 см. 16509</name_ru>
 <description_ua>Дерев'яна новорічна декорація, яка може прикрасити стіл чи підвіконня. Додає море затишку, тепла та новорічний настрій.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE12706" available="true">
 <price>745</price>
@@ -184775,7 +184775,7 @@ _x000D_
 <description_ua>Декорація дерев'яна Табличка з Санта Клаусом на прищепці.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12853" available="true">
+<offer id="RE12853" available="false">
 <price>317</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -185880,7 +185880,7 @@ _x000D_
 <description_ua>Новорічні фігурки - невід'ємна частина зимових свят. Вони супроводжують всю низку новорічних та різдвяних святкувань, роблять будь-який інтер'єр більш затишним, а відчуття свята - повнішим.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE14099" available="true">
+<offer id="RE14099" available="false">
 <price>710</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -185890,7 +185890,7 @@ _x000D_
 <name_ua>Водяна куля Flora Санта з собакою 8.8 см. 13934</name_ua>
 <name_ru>Водяной шар Flora Санта с собакой 8.8 см. 13934</name_ru>
 <description_ua>Новорічні фігурки - невід'ємна частина зимових свят. Вони супроводжують всю низку новорічних та різдвяних святкувань, роблять будь-який інтер'єр більш затишним, а відчуття свята - повнішим.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE14101" available="true">
 <price>4027</price>
@@ -188843,7 +188843,7 @@ _x000D_
 <description_ua>Набір декоративних подарунків (3 шт.) з підсвіткою (2 режими - з функцією миготіння і без), 15 см, 20 см, 25 см, колір - шампань з золотом.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12946" available="true">
+<offer id="RE12946" available="false">
 <price>2812</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -188853,7 +188853,7 @@ _x000D_
 <name_ua>Новорічна декорація Flora Подарунки (3 шт.) з LED-освітленням 12155</name_ua>
 <name_ru>Новогодняя декорация Flora Подарки (3 шт.) с LED-подсветкой 12155</name_ru>
 <description_ua>Новорічна декорація Подарунки (3 шт.) З LED-підсвіткою.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE12932" available="true">
 <price>1046</price>
@@ -208260,7 +208260,7 @@ _x000D_
 <description_ua>Гірлянда 100 міні-LED: 1 лінія 10 метрів, 100 діодів/нитка, колір - холодний, постійне свічення, адаптер на 3AA батареї.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE14167" available="true">
+<offer id="RE14167" available="false">
 <price>268</price>
 <currencyId>UAH</currencyId>
 <categoryId>1095</categoryId>
@@ -208271,7 +208271,7 @@ _x000D_
 <name_ua>Гірлянда LED Flora тепле світло 100 світлодіодів 10 м. 42250</name_ua>
 <name_ru>Гирлянда LED Flora теплый свет 100 светодиодов 10 м. 42250</name_ru>
 <description_ua>Гірлянда 100 міні-LED: 1 лінія 10 метрів, 100 діодів/нитка, колір - теплий, постійне свічення, адаптер на 3AA батареї.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE11753" available="true">
 <price>298</price>
@@ -212495,7 +212495,7 @@ _x000D_
 <description_ua>Керамічна чашка з об'ємним малюнком Зефірний будиночок відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих Вам людей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11344" available="true">
+<offer id="RE11344" available="false">
 <price>681</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -212505,7 +212505,7 @@ _x000D_
 <name_ua>Кубок керамічний червоний Flora Закохані олені 450 мл. 33609</name_ua>
 <name_ru>Чашка керамическая красная Flora Влюбленные олени 450 мл. 33609</name_ru>
 <description_ua>Керамічна чашка Закохані олені відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих Вам людей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE11345" available="true">
 <price>681</price>
@@ -212519,7 +212519,7 @@ _x000D_
 <description_ua>Керамічна чашка Закохані олені відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих Вам людей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11348" available="true">
+<offer id="RE11348" available="false">
 <price>673</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -212529,7 +212529,7 @@ _x000D_
 <name_ua>Кубок керамічний червоний Flora Веселий олень 350 мл. 33605</name_ua>
 <name_ru>Чашка керамическая красная Flora Веселый олень 350 мл. 33605</name_ru>
 <description_ua>Керамічна чашка Веселий олень відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих Вам людей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE11349" available="true">
 <price>673</price>
@@ -212567,7 +212567,7 @@ _x000D_
 <description_ua>Керамічна чашка Веселі пряники відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих Вам людей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11363" available="true">
+<offer id="RE11363" available="false">
 <price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -212577,7 +212577,7 @@ _x000D_
 <name_ua>Чашка порцелянова Flora Веселий гномик 360 мл. 33585</name_ua>
 <name_ru>Чашка фарфоровая Flora Веселый гномик 360 мл. 33585</name_ru>
 <description_ua>Порцелянова чашка Веселий гномик чудово підійде для вашої кухні, а також стане невеликим подарунком для дорогих людей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE11364" available="true">
 <price>400</price>
@@ -212603,7 +212603,7 @@ _x000D_
 <description_ua>Порцелянова чашка Веселий гномик чудово підійде для вашої кухні, а також стане невеликим подарунком для дорогих людей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11387" available="true">
+<offer id="RE11387" available="false">
 <price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -212613,7 +212613,7 @@ _x000D_
 <name_ua>Чашка порцелянова Flora Happy Holidays 360 мл. 33560</name_ua>
 <name_ru>Чашка фарфоровая Flora Happy Holidays 360 мл. 33560</name_ru>
 <description_ua>Порцелянова чашка Happy Holidays відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих людей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE11382" available="true">
 <price>400</price>
@@ -212627,7 +212627,7 @@ _x000D_
 <description_ua>Порцелянова чашка Happy Holidays відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих людей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11388" available="true">
+<offer id="RE11388" available="false">
 <price>400</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -212637,7 +212637,7 @@ _x000D_
 <name_ua>Чашка порцелянова Flora Happy Holidays 360 мл. 33558</name_ua>
 <name_ru>Чашка фарфоровая Flora Happy Holidays 360 мл. 33558</name_ru>
 <description_ua>Порцелянова чашка Happy Holidays відмінно підійде для вашої кухні, а також стане невеликим подарунком для дорогих людей.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE11390" available="false">
 <price>372</price>
@@ -212725,7 +212725,7 @@ _x000D_
 <description_ua>Стильний, красивий кухоль у стилі нового року. Ідеальний подарунок на Новий рік під ялинку та Різдвяні свята для друзів та близьких.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11647" available="true">
+<offer id="RE11647" available="false">
 <price>582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -212735,7 +212735,7 @@ _x000D_
 <name_ua>Чашка керамічна Олені Flora 325 мл 32375 Червоний</name_ua>
 <name_ru>Чашка керамическая Олени Flora 325 мл 32374 Красный</name_ru>
 <description_ua>Стильний, красивий кухоль у стилі нового року. Ідеальний подарунок на Новий рік під ялинку та Різдвяні свята для друзів та близьких.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE13060" available="true">
 <price>1509</price>
@@ -212773,7 +212773,7 @@ _x000D_
 <description_ua>Блюдо фарфорове у формі зірки "Святковий флер" 17.5 см.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RE13098" available="true">
+<offer id="RE13098" available="false">
 <price>746</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -212783,7 +212783,7 @@ _x000D_
 <name_ua>Піала керамічна біла Flora Олені 350 мл. 32796</name_ua>
 <name_ru>Пиала керамическая белая Flora Олени 350 мл. 32796</name_ru>
 <description_ua>Нехай ваше святкове частування стане ще яскравішим із цією чудовою новорічною тарілкою. Блюдо прикрашене зображенням новорічних оленів, які надають затишку і тепла вашому столу.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE13099" available="true">
 <price>801</price>
@@ -212905,7 +212905,7 @@ _x000D_
 <description_ua>Зустрічайте свята стильно з керамічною менажницею "Санта"! Ця елегантна та функціональна менажниця стане ідеальним рішенням для сервірування новорічного столу. Вона створена для подачі різних закусок, фруктів або солодощів, розділених на окремі секції, що дозволяє красиво оформити страви і зручно їх подавати.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE14136" available="true">
+<offer id="RE14136" available="false">
 <price>1300</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -212915,7 +212915,7 @@ _x000D_
 <name_ua>Банка керамічна для печива Flora Пряниковий будиночок 850 мл. 33684</name_ua>
 <name_ru>Банка керамическая для печенья Flora Пряничный домик 850мл. 33684</name_ru>
 <description_ua>Зустрічайте свята стильно з керамічною менажницею "Санта"! Ця елегантна та функціональна менажниця стане ідеальним рішенням для сервірування новорічного столу. Вона створена для подачі різних закусок, фруктів або солодощів, розділених на окремі секції, що дозволяє красиво оформити страви і зручно їх подавати.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE14137" available="true">
 <price>1300</price>
@@ -224955,7 +224955,7 @@ _x000D_
 <description_ua>Керамічна статуетка-кашпо у вигляді зайчика з кошиком — оригінальний елемент декору, який поєднує естетику та функціональність. Зайчик із акуратно виконаними деталями створює затишну, святкову атмосферу та стане яскравим акцентом в інтер’єрі.&amp;nbsp;Кошик можна використовувати як кашпо для невеликих рослин або як декоративну ємність для квіткових композицій, великодніх прикрас, цукерок чи дрібного декору.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="6986-1" available="false">
+<offer id="6986-1" available="true">
 <price>299</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -332524,7 +332524,7 @@ _x000D_
 <description_ua>Новорічний декор є невід'ємним атрибутом зимових свят. Елегантний та естетичний декор додасть елегантності та вишуканості інтер'єру, а також подарує святковий настрій.&amp;nbsp;</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="MN000001213" available="true">
+<offer id="MN000001213" available="false">
 <price>2915</price>
 <currencyId>UAH</currencyId>
 <categoryId>1073</categoryId>
@@ -387479,7 +387479,7 @@ _x000D_
 <description_ua>Ялинкові кулі немов створені для того, щоб новорічний настрій оселився у вашому будинку. Кульки на ялинку зі скла завжди будуть класичним рішенням у святковому декорі – вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна прикрашати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч. Набір з 3 яскравих новорічних іграшок для прикраси ялинки або декорування інтер'єру допоможе швидко, просто і зі смаком одягнути Вашу ялинку, а також послужить чудовим новорічним подарунком родичам, друзям, колегам. Ялинкові прикраси виконані в одній кольоровій гамі та текстурі, завдяки чому кулі будуть чудово виглядати на Вашій лісовій красуні, поблискуючи у світлі новорічної гірлянди. Іграшки на ялинку чудово поєднуються з будь-якими ялинковими прикрасами та допомагають наповнити будинок атмосферою затишку та свята. Кулі для ялинки підходять для новорічної ялинки; інтер'єру; хвойних композицій; вінків і просто як шикарний подарунок. Бажаємо щасливого Нового року та Різдва.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="SA000221" available="false">
+<offer id="SA000221" available="true">
 <price>809</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -412361,7 +412361,7 @@ _x000D_
 <description_ua>Гірлянда з бусинами 150 см, для новорічного декору, колір - білий перламутр з кремовим.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI0033683" available="true">
+<offer id="RI0033683" available="false">
 <price>1316</price>
 <currencyId>UAH</currencyId>
 <categoryId>1153</categoryId>
@@ -412371,7 +412371,7 @@ _x000D_
 <name_ua>Гірлянда металева з кристалами червона 133 см. 11057</name_ua>
 <name_ru>Гирлянда металлическая с кристаллами красная 133 см. 11057</name_ru>
 <description_ua>Декоративна металева гірлянда з кристалами 133 см, колір: червоний, для новорічного декору. Матеріал - акрил, дріт.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0033684" available="true">
 <price>1316</price>
@@ -414879,7 +414879,7 @@ _x000D_
 <description_ua>Новорічна декоративна фігура Олень 30 см. з велюровим покриттям та матовими рогами, колір - бордо із золотом.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI0033864" available="true">
+<offer id="RI0033864" available="false">
 <price>1052</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -414889,7 +414889,7 @@ _x000D_
 <name_ua>Фігурка новорічна Олень бордовий з велюровим покриттям 40 см. 12914</name_ua>
 <name_ru>Фигурка новогодняя Олень бордовый с велюровым покрытием 40 см. 12914</name_ru>
 <description_ua>Новорічна декоративна фігура Олень 40 см. з велюровим покриттям та матовими рогами, колір - бордо із золотом.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0033865" available="true">
 <price>364</price>
@@ -414955,7 +414955,7 @@ _x000D_
 <description_ua>Створіть особливу святкову атмосферу за допомогою декоративної новорічної кульки, яка поєднує ефектний дизайн та тепле підсвічування. У середині розташоване підсвічування, яке створює тепле золотисте сяйво та ефект мерехтливих вогників. У вимкненому стані кулька має насичений декоративний вигляд, а при ввімкненні перетворюється на оригінальний святковий світильник. Характеристики: працює від батарей типу ААА-3 шт. (не входять в комплект) ефектне внутрішнє підсвічування; красивий візерунок з зірочками; створює тепле та затишне святкове освітлення; оригінальна прикраса для дому, вітрини, магазину чи святкової композиції; може використовуватися як самостійний декоративний елемент. Декоративна новорічна кулька з підсвічуванням стане яскравим акцентом святкового інтер'єру та подарує атмосферу зимової казки.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI0033872" available="true">
+<offer id="RI0033872" available="false">
 <price>1108</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -414966,7 +414966,7 @@ _x000D_
 <name_ua>Декорація скляна з LED-підсвіткою та обертанням золота 20.5 см. 34680</name_ua>
 <name_ru>Декорация стеклянная с LED-подсветкой и вращением золотая 20.5 см. 34680</name_ru>
 <description_ua>Створіть особливу святкову атмосферу за допомогою декорації, яка поєднує ефектний дизайн, тепле підсвічування та обертання. Декорація повільно крутиться навколо своєї осі, завдяки чому золотистий візерунок з оленями та деревами красиво переливається у світлі. У середині розташоване підсвічування, яке створює тепле золотисте сяйво та ефект мерехтливих вогників. У вимкненому стані декорація має насичений декоративний вигляд, а при ввімкненні перетворюється на оригінальний святковий світильник. Характеристики: працює від батарей типу АА-3 шт. (не входять в комплект) ефектне внутрішнє підсвічування; декорація постійно обертається під час роботи; красивий візерунок з оленями та деревами; створює тепле та затишне святкове освітлення; оригінальна прикраса для дому, вітрини, магазину чи святкової композиції; може використовуватися як самостійний декоративний елемент. Декорація новорічна з обертанням та підсвічуванням стане яскравим акцентом святкового інтер'єру та подарує атмосферу зимової казки.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0033873" available="true">
 <price>1108</price>
@@ -415470,7 +415470,7 @@ _x000D_
 <description_ua>Декоративна фігура з LED підсвічуванням Гном з подарунками в глітері 23.5 см, колір - червоний. Матеріал - кераміка.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI0034306" available="true">
+<offer id="RI0034306" available="false">
 <price>1139</price>
 <currencyId>UAH</currencyId>
 <categoryId>1078</categoryId>
@@ -415480,7 +415480,7 @@ _x000D_
 <name_ua>Декоративна статуетка Янгол 20 см. 55198</name_ua>
 <name_ru>Декоративная статуэтка Ангел 20 см. 55198</name_ru>
 <description_ua>Статуетка янголятко, може послужити прикрасою не тільки Вашого інтер'єру, а також додати вишуканості при оформленні весільної, новорічної, різдвяної, великодньої композиції.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0034327" available="true">
 <price>455</price>
