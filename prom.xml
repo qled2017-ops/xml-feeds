@@ -5533,7 +5533,7 @@ LED-підсвічування</param>
 <param name="Функція">Фіксувальні</param>
 <param name="Колір">Красный</param>
 </offer>
-<offer id="EA03831" available="true" in_stock="true">
+<offer id="EA03831" available="false" in_stock="true">
 <price>179</price>
 <currencyId>UAH</currencyId>
 <categoryId>1016</categoryId>
@@ -5548,7 +5548,7 @@ LED-підсвічування</param>
 <name_ru>Кинезио тейп для тейпирования груди Kinesio tape BOOB SP-Sport BC-1093-5 бежевый</name_ru>
 <description>Кінезіо тейп BOOB SP-Sport BC-1093-5 призначений для підтримки грудей, моделювання форми та фіксації м'яких тканин. Підходить для використання під час тренувань, фотосесій та інших заходів. Тейп виготовлений зі 100% бавовни. Матеріал м'який, еластичний і гіпоалергенний, комфортно прилягає до шкіри та не обмежує свободу рухів. Ширина 5 см підходить для фіксації на різних ділянках тіла. Довжина 5 м забезпечує тривале використання тейпу. Бежевий колір робить його менш помітним під одягом.</description>
 <description_ua>Кінезіо тейп BOOB SP-Sport BC-1093-5 призначений для підтримки грудей, моделювання форми та фіксації м'яких тканин. Підходить для використання під час тренувань, фотосесій та інших заходів. Тейп виготовлений зі 100% бавовни. Матеріал м'який, еластичний і гіпоалергенний, комфортно прилягає до шкіри та не обмежує свободу рухів. Ширина 5 см підходить для фіксації на різних ділянках тіла. Довжина 5 м забезпечує тривале використання тейпу. Бежевий колір робить його менш помітним під одягом.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -135684,7 +135684,7 @@ USB-кабель.</param>
 <param name="Колір">Блакитний</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="1106-BRD" available="true" in_stock="true">
+<offer id="1106-BRD" available="false" in_stock="true">
 <price>378</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
@@ -135696,7 +135696,7 @@ USB-кабель.</param>
 <name_ru>Женские шерстяные перчатки 1106, бордовые, One Size</name_ru>
 <description>Жіночі вовняні рукавички 1106, Бордовий, One Size. М'які в'язані рукавички із сенсорними пальцями для щоденного використання в прохолодну погоду. Подовжена манжета та рельєфний візерунок створюють охайний зимовий образ. Матеріал заявлено постачальником як вовняний.</description>
 <description_ua>Жіночі вовняні рукавички 1106, Бордовий, One Size. М'які в'язані рукавички із сенсорними пальцями для щоденного використання в прохолодну погоду. Подовжена манжета та рельєфний візерунок створюють охайний зимовий образ. Матеріал заявлено постачальником як вовняний.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">30.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
@@ -140677,7 +140677,7 @@ USB-кабель.</param>
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
-<offer id="OK04154" available="true" in_stock="true">
+<offer id="OK04154" available="false" in_stock="true">
 <price>636</price>
 <currencyId>UAH</currencyId>
 <categoryId>1184</categoryId>
@@ -140692,7 +140692,7 @@ USB-кабель.</param>
 <name_ru>Женская сумка через плечо черный 9627-1</name_ru>
 <description>Матеріал: Екошкіра PU Виробник: Китай Розміри висота 13 см, ширина 12,5 см.Ширина бічний 6,5 cм&amp;nbsp;</description>
 <description_ua>Матеріал: Екошкіра PU Виробник: Китай Розміри висота 13 см, ширина 12,5 см.Ширина бічний 6,5 cм&amp;nbsp;</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
