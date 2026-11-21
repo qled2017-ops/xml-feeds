@@ -55666,7 +55666,7 @@ SL1.5 / SL2.0 / SL2.5 / SL3.0 / H1.5 / H2.0
 <param name="Ширина в упаковці (см)">15</param>
 <keywords>рукавички, рукавички чоловічі, рукавички зимові, рукавички фліс, чоловічі рукавички, купити рукавички, рукавички недорого, рукавички Україна, рукавички флісов, рукавички сенсорн, рукавички водонепроникн</keywords>
 </offer>
-<offer id="YD124-L" available="false" in_stock="true">
+<offer id="YD124-L" available="true" in_stock="true">
 <price>479</price>
 <currencyId>UAH</currencyId>
 <categoryId>1015</categoryId>
