@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-21 09:20">
+<yml_catalog date="2026-11-21 18:21">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -135793,7 +135793,7 @@ _x000D_
 <description_ua>Костюм людина - павук Повернення Додому Класичний Костюм людина павук класичний червоно-синій зразок і герба. "Людина павук: Повернення додому". Матеріал з додаванням спандекс робить костюм дуже еластичним. Маска балаклава. Відмінна якість. На спині застібка блискавка.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KA001733" available="true">
+<offer id="KA001733" available="false">
 <price>506</price>
 <currencyId>UAH</currencyId>
 <categoryId>1060</categoryId>
@@ -135806,7 +135806,7 @@ _x000D_
 <name_ua>Костюм людина - павук Повернення Додому Класичний ABC спандекс M (110-120 см) sp1/1</name_ua>
 <name_ru>Костюм человек - паук Возврат Домой Классический ABC спандекс M (110-120 см) sp1/1</name_ru>
 <description_ua>Костюм людина - павук Повернення Додому Класичний Костюм людина павук класичний червоно-синій зразок і герба. "Людина павук: Повернення додому". Матеріал з додаванням спандекс робить костюм дуже еластичним. Маска балаклава. Відмінна якість. На спині застібка блискавка.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EE00600" available="true">
 <price>429</price>
@@ -222892,7 +222892,7 @@ _x000D_
 <description_ua>Країна імпорту: Польща. Висота: 13 см Довжина: 7 см Ширина: 7 см Матеріал: кераміка</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="UU0000389" available="true">
+<offer id="UU0000389" available="false">
 <price>418</price>
 <currencyId>UAH</currencyId>
 <categoryId>1026</categoryId>
@@ -222903,7 +222903,7 @@ _x000D_
 <name_ua>Статуетка керамічна пташка жовта 4969-1</name_ua>
 <name_ru>Статуэтка керамическая птичка желтая 4969-1</name_ru>
 <description_ua>Країна імпорту Польща Ціна вказана за 1шт Висота 6 см, довжина 8 см, ширина 5 см Матеріал кераміка</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="UU0000402" available="true">
 <price>203</price>
