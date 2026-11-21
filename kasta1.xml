@@ -83778,7 +83778,7 @@ _x000D_
 <param name="Ширина в упаковці (см)">15</param>
 </offer>
 <offer id="MtacMk2WRGen2Coyote45" available="true">
-<price>5499</price>
+<price>4999</price>
 <currencyId>UAH</currencyId>
 <categoryId>1153</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68597493-9ae7cddfe17a444bb0748d4d05d5e2c9.jpg</picture>
@@ -83902,7 +83902,7 @@ _x000D_
 <param name="Ширина в упаковці (см)">40</param>
 <param name="Вид">черевики</param></offer>
 <offer id="MtacMk2WRGen2Coyote44" available="true">
-<price>5499</price>
+<price>4999</price>
 <currencyId>UAH</currencyId>
 <categoryId>1153</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i68597493-9ae7cddfe17a444bb0748d4d05d5e2c9.jpg</picture>
@@ -83943,7 +83943,7 @@ _x000D_
 <param name="Колір">Койот</param>
 <param name="Ширина в упаковці (см)">40</param>
 </offer>
-<offer id="MtacMk2WRGen2Coyote46" available="true">
+<offer id="MtacMk2WRGen2Coyote46" available="false">
 <price>5499</price>
 <currencyId>UAH</currencyId>
 <categoryId>1153</categoryId>
