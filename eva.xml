@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-22 09:06">
+<yml_catalog date="2026-11-22 19:02">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -212725,7 +212725,7 @@ _x000D_
 <description_ua>Стильний, красивий кухоль у стилі нового року. Ідеальний подарунок на Новий рік під ялинку та Різдвяні свята для друзів та близьких.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11647" available="true">
+<offer id="RE11647" available="false">
 <price>448</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
