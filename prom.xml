@@ -106759,7 +106759,7 @@ USB Type-C
 <param name="Гарантія">14 днів</param>
 <param name="Колір">Графіт</param>
 </offer>
-<offer id="EA02073" available="true" in_stock="true">
+<offer id="EA02073" available="false" in_stock="true">
 <price>275</price>
 <currencyId>UAH</currencyId>
 <categoryId>1033</categoryId>
@@ -106771,7 +106771,7 @@ USB Type-C
 <name_ru>Чашка 360мл Симпатия 2 Совы 2183-5</name_ru>
 <description>Яскрава фарфорова чашка з милим дизайном у вигляді двох закоханих сов стане чудовим подарунком для близької людини або улюбленою чашкою для щоденного чаювання. Зображення нанесене якісною фарбою, не змивається при митті.</description>
 <description_ua>Яскрава фарфорова чашка з милим дизайном у вигляді двох закоханих сов стане чудовим подарунком для близької людини або улюбленою чашкою для щоденного чаювання. Зображення нанесене якісною фарбою, не змивається при митті.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Залишки">100.0</param>
 <param name="Мінімальна кількість при замовленні">1.0</param>
 <param name="Максимальна кількість при замовленні">0.0</param>
