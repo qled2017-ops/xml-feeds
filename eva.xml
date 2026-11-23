@@ -241939,7 +241939,7 @@ _x000D_
 <description_ua>Дошка прасувальна (основа металева сітка) 122*38см</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="R84949" available="true">
+<offer id="R84949" available="false">
 <price>389</price>
 <currencyId>UAH</currencyId>
 <categoryId>1058</categoryId>
@@ -241949,7 +241949,7 @@ _x000D_
 <name_ua>Чохол для дошки для прасування 140*50см R84949</name_ua>
 <name_ru>Чехол для гладильной доски 140*50см R84949</name_ru>
 <description_ua>Розмір тканини: 140х50см+-2см, товщина 0,2см. Розмір на етикетці: 140х50см. Завдяки м'якому поролону з вивороту, пара рівномірно розподіляється, а виріб ретельно прогладжується. Краї чохла обшиті нетканим матеріалом, по всій довжині якого протягнутий шнур, за допомогою нього тканина стягується по краю і проводиться посадка на дошку для прасування. Упаковка 22х56х2см: пакет із пластиковим гачком, картонна етикетка.</description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RS07043" available="true">
 <price>7095</price>
