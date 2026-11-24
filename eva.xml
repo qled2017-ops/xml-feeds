@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 09:26">
+<yml_catalog date="2026-11-24 18:21">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -188057,7 +188057,7 @@ _x000D_
 <description_ua>Аромадифузор "Тереса" Англійська груша та фрезія, 100 мл</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="KD01791" available="true">
+<offer id="KD01791" available="false">
 <price>1034</price>
 <currencyId>UAH</currencyId>
 <categoryId>1080</categoryId>
@@ -188069,7 +188069,7 @@ _x000D_
 <name_ua>Аромадифузор "Тереса" Чорний гранат, 100 мл FR-07 COLOR</name_ua>
 <name_ru>Аромадиффузор "Тереса" Черный гранат, 100 мл FR-07 COLOR</name_ru>
 <description_ua>Аромадифузор у стильному скляному флаконі – це гарний та практичний аксесуар, який наповнить Ваш будинок естетикою, створить атмосферу затишку та комфорту. Приємний фруктово-квітковий аромат ненав'язливо літатиме в повітрі і нагадає про сонячні літні дні у будь-яку пору року. Яскрава композиція із фруктів, гранату, квітів, цикламена, жасмину, фіалки та гвоздики заполонить кімнату. А розкриє букет сміливий запах у поєднанні дерева, кедра, мускусу та амбри. Ідеальний вибір для дому, салон краси, студії та ін.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="KD01792" available="false">
 <price>1034</price>
@@ -275508,7 +275508,7 @@ _x000D_
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
 <offer id="DE05398" available="false">
-<price>311</price>
+<price>320</price>
 <currencyId>UAH</currencyId>
 <categoryId>1190</categoryId>
 <picture>https://pricecreator.rozetka.com.ua/uploads/26682/item/original/i87019424-ad5ec13cf46ceaa517c88bb67e60e9a7-1720533843535.jpg</picture>
