@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-23 19:10">
+<yml_catalog date="2026-11-24 09:26">
 <shop>
 <name>Kasta feed</name>
 <company>Kasta feed</company>
@@ -125828,7 +125828,7 @@ _x000D_
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">22</param>
 </offer>
-<offer id="MTC-DG15187-45" available="true">
+<offer id="MTC-DG15187-45" available="false">
 <price>4660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1205</categoryId>
@@ -125838,7 +125838,7 @@ _x000D_
 <name_ua>Черевики M-Tac Thinsulate Ultra розмір 45 (Чорний) (MTC-DG15187)</name_ua>
 <name_ru>Ботинки M-Tac Thinsulate Ultra размер 45 (Чорний) (MTC-DG15187)</name_ru>
 <description_ua>Зимові черевики Thinsulate Ultra від M-Tac призначені для екстремально холодних умов. Модель має систему швидкісної шнурівки. Повністю гумовий низ захистить від дощу, снігу та сльоти. Протектор підошви добре поводиться на снігу та бруді. Верхня частина виготовлена з поліестеру.  Thinsulate — унікальний утеплювач з мікроскопічних волокон у сотні разів тонших за людську волосину. Завдяки своїй текстурі він надійно зберігає тепло, невідчутний за вагою та стійкий до стискання. Одяг і взуття з використанням Thinsulate дуже легкі і теплі, матеріал забезпечує вентиляцію, легкий у догляді, зносостійкий, не створює зайвого обсягу.</description_ua>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вага в упаковці, кг">1.1</param>
 <param name="Висота в упаковці (см)">22</param>
 <param name="Висота виробу">Середні</param>
@@ -125858,7 +125858,7 @@ _x000D_
 <param name="Колір">Чорний</param>
 <param name="Ширина в упаковці (см)">22</param>
 </offer>
-<offer id="MTC-DG15187-46" available="true">
+<offer id="MTC-DG15187-46" available="false">
 <price>4660</price>
 <currencyId>UAH</currencyId>
 <categoryId>1205</categoryId>
@@ -125868,7 +125868,7 @@ _x000D_
 <name_ua>Черевики M-Tac Thinsulate Ultra розмір 46 (Чорний) (MTC-DG15187)</name_ua>
 <name_ru>Ботинки M-Tac Thinsulate Ultra размер 46 (Чорний) (MTC-DG15187)</name_ru>
 <description_ua>Зимові черевики Thinsulate Ultra від M-Tac призначені для екстремально холодних умов. Модель має систему швидкісної шнурівки. Повністю гумовий низ захистить від дощу, снігу та сльоти. Протектор підошви добре поводиться на снігу та бруді. Верхня частина виготовлена з поліестеру.  Thinsulate — унікальний утеплювач з мікроскопічних волокон у сотні разів тонших за людську волосину. Завдяки своїй текстурі він надійно зберігає тепло, невідчутний за вагою та стійкий до стискання. Одяг і взуття з використанням Thinsulate дуже легкі і теплі, матеріал забезпечує вентиляцію, легкий у догляді, зносостійкий, не створює зайвого обсягу.</description_ua>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Вага в упаковці, кг">1.1</param>
 <param name="Висота в упаковці (см)">22</param>
 <param name="Висота виробу">Середні</param>
@@ -218177,7 +218177,7 @@ _x000D_
 <description_ua>Шапка чоловіча M-Tac Watch Cap Premium фліс (250г/м2) Black — практична чоловіча шапка на кожен день, для прогулянок, походів та активного відпочинку. Розмір: S. Матеріал: поліестер.</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="40023002-M" available="true">
+<offer id="40023002-M" available="false">
 <price>494</price>
 <currencyId>UAH</currencyId>
 <categoryId>1418</categoryId>
@@ -218187,7 +218187,7 @@ _x000D_
 <name_ua>Шапка чоловіча M-Tac Watch Cap Premium фліс (250г/м2) Black (40023002-M) розмір M</name_ua>
 <name_ru>Шапка мужская M-Tac Watch Cap Premium флис (250г/м2) Black (40023002-M) размер M</name_ru>
 <description_ua>Шапка чоловіча M-Tac Watch Cap Premium фліс (250г/м2) Black — практична чоловіча шапка на кожен день, для прогулянок, походів та активного відпочинку. Розмір: M. Матеріал: поліестер.</description_ua>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="40023002-L" available="true">
 <price>494</price>
