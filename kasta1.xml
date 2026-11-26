@@ -206643,7 +206643,7 @@ _x000D_
 <description_ua>Матеріал: 100% поліестер алюмінієва пряжка Ширина: 4,3 см Особливості: Індивідуальне регулювання</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="OK00859" available="false">
+<offer id="OK00859" available="true">
 <price>204</price>
 <currencyId>UAH</currencyId>
 <categoryId>1120</categoryId>
