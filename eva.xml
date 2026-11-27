@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-27 08:31">
+<yml_catalog date="2026-11-27 18:59">
 <shop>
 <name>EVA feed</name>
 <company>EVA feed</company>
@@ -2325,7 +2325,7 @@
 <param name="Форма">Квадратні</param>
 <param name="Ширина в упаковці (см)">10</param>
 </offer>
-<offer id="RZ01471" available="false">
+<offer id="RZ01471" available="true">
 <price>454</price>
 <currencyId>UAH</currencyId>
 <categoryId>117861.0</categoryId>
@@ -163135,7 +163135,7 @@ _x000D_
 <description_ua>Скляні горщики добре підходять для пересадки орхідей. Вони мають привабливу форму, бувають не лише прозорими, а також різних кольорів.</description_ua>
 <quantity_in_stock>1</quantity_in_stock>
 </offer>
-<offer id="Flora (7254v" available="false">
+<offer id="Flora (7254v" available="true">
 <price>298</price>
 <currencyId>UAH</currencyId>
 <categoryId>1061</categoryId>
@@ -170376,7 +170376,7 @@ _x000D_
 <description_ua>Ялинкові кулі немов створені для того, щоб новорічний настрій оселився у вашому будинку. Кульки на ялинку зі скла завжди будуть класичним рішенням у святковому декорі – вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна прикрашати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч. Набір з 12 яскравих новорічних кульок для прикраси ялинки або декорування інтер'єру допоможе швидко, просто і зі смаком нарядити Вашу ялинку, а також послужить чудовим новорічним подарунком родичам, друзям, колегам. Ялинкові прикраси виконані в одній кольоровій гамі та текстурі, завдяки чому кулі будуть чудово виглядати на Вашій лісовій красуні, поблискуючи у світлі новорічної гірлянди. Іграшки на ялинку чудово поєднуються з будь-якими ялинковими прикрасами та допомагають наповнити будинок атмосферою затишку та свята. Кулі для ялинки підходять для новорічної ялинки; інтер'єру; хвойних композицій; вінків і просто як шикарний подарунок. Бажаємо щасливого Нового року та Різдва.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02035" available="true">
+<offer id="RE02035" available="false">
 <price>840</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -170386,9 +170386,9 @@ _x000D_
 <name_ua>Кульки скляні Flora D 2,5 см 48 шт. (44530)</name_ua>
 <name_ru>Шарики стеклянные Flora D 2,5 см 48 шт. (44530)</name_ru>
 <description_ua>Ялинкові кулі немов створені для того, щоб новорічний настрій оселився у вашому домі. Кульки на ялинку зі скла завжди будуть класичним рішенням у святковому декорі - вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна декорувати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RE02069" available="true">
+<offer id="RE02069" available="false">
 <price>1461</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -170398,7 +170398,7 @@ _x000D_
 <name_ua>Кульки скляні Flora D 5,7 см 30 шт. (44352)</name_ua>
 <name_ru>Шарики стеклянные Flora D 5,7 см 30 шт. (44352)</name_ru>
 <description_ua>Ялинкові кулі немов створені для того, щоб новорічний настрій оселився у вашому домі. Кульки на ялинку зі скла завжди будуть класичним рішенням у святковому декорі - вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна декорувати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="B25-48 GOLD" available="true">
 <price>840</price>
@@ -171003,7 +171003,7 @@ _x000D_
 <description_ua>Новий рік — довгоочікуване зимове свято, оточене приємними клопотами та відчуттям казки. Кожна, навіть найнезначніша деталь є невід'ємною частиною майбутнього торжества. Порадуйте друзів, колег, рідних та близьких, подарувавши їм шматочок зимового чарівництва. Наповніть новорічний інтер'єр легкістю та чарівництвом! Новорічні кулі створять святковий настрій. Вони перетворять ялинку або стануть чудовим окремим декором.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE02179" available="true">
+<offer id="RE02179" available="false">
 <price>255</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -171013,7 +171013,7 @@ _x000D_
 <name_ua>Набір пластикових новорічних кульок Flora 20 шт. D-3 см. 12028</name_ua>
 <name_ru>Набор пластиковых новогодних шаров Flora 20 шт. D-3 см. 12028</name_ru>
 <description_ua>Ялинкові кулі немов створені для того, щоб новорічний настрій оселився у вашому будинку. Кульки на ялинку зі скла завжди будуть класичним рішенням у святковому декорі – вони гарні не лише для ялинки, а й у складі оригінальних зимових букетів та дизайнерських композицій. Ще ними можна прикрашати хвойну гірлянду або різдвяний вінок - варіантів застосування існує безліч.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE02159" available="false">
 <price>324</price>
@@ -174673,7 +174673,7 @@ _x000D_
 <description_ua>Підвісні ялинкові іграшки - це унікальний декор для незабутніх зимових свят. Виберіть те, що вам більше до смаку, поновіть свою власну колекцію прикрас для ялинки, додайте трендові новинки та прикрасьте ялинку так, як вам підказує ваш внутрішній дизайнер, створіть свій власний новорічний настрій.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE13227" available="true">
+<offer id="RE13227" available="false">
 <price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -174683,7 +174683,7 @@ _x000D_
 <name_ua>Новорічна підвіска Flora Ковзан срібна 7.5 см. 13024</name_ua>
 <name_ru>Новогодняя подвеска Flora Конек серебряная 7.5 см. 13024</name_ru>
 <description_ua>Підвісні ялинкові іграшки - це унікальний декор для незабутніх зимових свят. Виберіть те, що вам більше до смаку, поновіть свою власну колекцію прикрас для ялинки, додайте трендові новинки та прикрасьте ялинку так, як вам підказує ваш внутрішній дизайнер, створіть свій власний новорічний настрій.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE13223" available="true">
 <price>104</price>
@@ -174829,7 +174829,7 @@ _x000D_
 <description_ua>Підвісні ялинкові іграшки - це унікальний декор для незабутніх зимових свят. Виберіть те, що вам більше до смаку, поновіть свою власну колекцію прикрас для ялинки, додайте трендові новинки та прикрасьте ялинку так, як вам підказує ваш внутрішній дизайнер, створіть свій власний новорічний настрій.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE13230" available="true">
+<offer id="RE13230" available="false">
 <price>91</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -174839,7 +174839,7 @@ _x000D_
 <name_ua>Новорічна підвіска Flora Сніжинка срібна 12 см. 13022</name_ua>
 <name_ru>Новогодняя подвеска Flora Снежинка серебряная 12 см. 13022</name_ru>
 <description_ua>Підвісні ялинкові іграшки - це унікальний декор для незабутніх зимових свят. Виберіть те, що вам більше до смаку, поновіть свою власну колекцію прикрас для ялинки, додайте трендові новинки та прикрасьте ялинку так, як вам підказує ваш внутрішній дизайнер, створіть свій власний новорічний настрій.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE13186" available="true">
 <price>344</price>
@@ -175943,7 +175943,7 @@ _x000D_
 <description_ua>Підвісні ялинкові іграшки - це унікальний декор для незабутніх зимових свят. Виберіть те, що вам більше до смаку, поновіть свою власну колекцію прикрас для ялинки, додайте трендові новинки та прикрасьте ялинку так, як вам підказує ваш внутрішній дизайнер, створіть свій власний новорічний настрій.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE13387" available="true">
+<offer id="RE13387" available="false">
 <price>127</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -175953,7 +175953,7 @@ _x000D_
 <name_ua>Новорічна підвіска Flora Олень білий 11322</name_ua>
 <name_ru>Новогодняя подвеска Flora Олень белый 11322</name_ru>
 <description_ua>Підвісні ялинкові іграшки - це унікальний декор для незабутніх зимових свят. Виберіть те, що вам більше до смаку, поновіть свою власну колекцію прикрас для ялинки, додайте трендові новинки та прикрасьте ялинку так, як вам підказує ваш внутрішній дизайнер, створіть свій власний новорічний настрій.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE13349" available="true">
 <price>155</price>
@@ -177625,7 +177625,7 @@ _x000D_
 <description_ua>Підвісні ялинкові іграшки - це унікальний декор для незабутніх зимових свят. Виберіть те, що вам більше до смаку, поновіть свою власну колекцію прикрас для ялинки, додайте трендові новинки та прикрасьте ялинку так, як вам підказує ваш внутрішній дизайнер, створіть свій власний новорічний настрій.</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RE14163" available="false">
+<offer id="RE14163" available="true">
 <price>2948</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
@@ -188522,7 +188522,7 @@ _x000D_
 <description_ua>Декоративний пластиковий ліхтар чорного кольору 28.5 см. зі свічкою з LED підсвіткою (тепле світло) на батарейках (3хААА - не входять до комплекту).</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12893" available="true">
+<offer id="RE12893" available="false">
 <price>725</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -188533,7 +188533,7 @@ _x000D_
 <name_ua>Підсвічник-ліхтар Flora зі свічкою LED чорно-золотий 45471</name_ua>
 <name_ru>Подсвечник-фонарь Flora со свечой LED черно-золотой 45471</name_ru>
 <description_ua>Декоративний пластиковий ліхтар чорно-золотого кольору 31 см. зі свічкою з LED підсвіткою (тепле світло) на батарейках (3хААА - не входять до комплекту).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE12885" available="true">
 <price>436</price>
@@ -188562,7 +188562,7 @@ _x000D_
 <description_ua>Декоративний металевий підвісний ліхтарик чорно-золотого кольору з свічкою LED (тепле світло) на батарейці CR2032.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE12884" available="true">
+<offer id="RE12884" available="false">
 <price>434</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -188573,7 +188573,7 @@ _x000D_
 <name_ua>Підсвічник-ліхтар Flora зі свічкою LED чорно-золотий 45479</name_ua>
 <name_ru>Подсвечник-фонарь Flora со свечой LED черно-золотой 45479</name_ru>
 <description_ua>Декоративний пластиковий ліхтар чорно-золотого кольору 19 см. зі свічкою з LED підсвіткою (тепле світло) на батарейках (3хААА - не входять до комплекту).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE12895" available="true">
 <price>1032</price>
@@ -190388,7 +190388,7 @@ _x000D_
 <description_ua>Немає на 1 стороні 1 скла !&amp;nbsp; Ліхтар виготовлений з високоякісного металу та скла. Він створить затишну атмосферу та додасть кімнаті стиль та сучасність. Висота 31 см Ідеальний вибір для прикраси вашого будинку чи двору – інтер'єрний та вуличний свічник ліхтар. Зроблений з металевого матеріалу та прикрашений склом, цей свічник стане ідеальним акцентом у будь-якому інтер'єрі. Ви можете використовувати металевий свічник як вуличний світильник, щоб надати вашому двору затишок та тепло, або як інтер'єрний свічник, щоб створити романтичну та загадкову атмосферу у вашому будинку. Свічки, які можна помістити у ліхтар, створять яскраве та тепле світло на вечірках або це можуть бути просто романтичні вечори будинку. Насолоджуйтесь красою та затишком у вашому будинку з цим унікальним виробом. Ліхтар для свічки оснащений скляними дверцятами. Підійде для свічки з максимальною висотою 20 см та діаметром 6 см. Виготовлений зі сталі, дверцята виконані зі скла та металу. Висота ліхтарика 31 см.</description_ua>
 <quantity_in_stock>1</quantity_in_stock>
 </offer>
-<offer id="RE15318" available="true">
+<offer id="RE15318" available="false">
 <price>913</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -190399,7 +190399,7 @@ _x000D_
 <name_ua>Свічник-ліхтар металевий білий 45418</name_ua>
 <name_ru>Подсвечник-фонарь металлический белый 45418</name_ru>
 <description_ua>Декоративний свічник-ліхтар для свічок із металевим корпусом – незамінний декор до свята. Він створить вдома неймовірну атмосферу казки, наповнить приміщення м'яким світлом і тонким запахом гарячого воску.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="EA01349" available="true">
 <price>988</price>
@@ -190450,7 +190450,7 @@ _x000D_
 <description_ua>Декоративний підсвічник-ліхтар у яскравому червоному кольорі стане стильним елементом інтер’єру та допоможе створити затишну атмосферу в домі. Металевий корпус із декоративними вирізами у вигляді зірок і вікон створює красиві світлові відблиски під час горіння свічки. Підсвічник має форму невеликого ліхтаря зі скляними вставками та зручною дверцяткою для встановлення свічки. Такий аксесуар чудово підходить для святкового декору, романтичної атмосфери або прикрашання інтер’єру. Компактні розміри дозволяють розмістити ліхтар на столі, полиці або підвіконні. Він також стане гарним декоративним елементом для новорічного та святкового оформлення.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="EA02295" available="false">
+<offer id="EA02295" available="true">
 <price>723</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -197719,7 +197719,7 @@ _x000D_
 <description_ua>Опора-спіраль використовується для підтримки садових і кімнатних рослин. Завдяки своїй спіралеподібній формі опора забезпечує підтримку без підв'язування рослини.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE13949" available="true">
+<offer id="RE13949" available="false">
 <price>1409</price>
 <currencyId>UAH</currencyId>
 <categoryId>1165</categoryId>
@@ -197733,7 +197733,7 @@ _x000D_
 <name_ua>Набір пакетів подарункових мікс 30х12х41 (12 шт.) 33526</name_ua>
 <name_ru>Набор пакетов подарочных микс 30х12х41 (12 шт.) 33526</name_ru>
 <description_ua>Подарункові пакети з ручками радують своїм дизайном і тримають інтригу в момент вручення подарунка, а потім їх можна використовувати в повсякденному житті, скласти в них різні дрібнички. В упаковці 12 пакетів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE13950" available="true">
 <price>1113</price>
@@ -197895,7 +197895,7 @@ _x000D_
 <description_ua>Подарункові пакети з ручками радують своїм дизайном і тримають інтригу в момент вручення подарунка, а потім їх можна використовувати в повсякденному житті, скласти в них різні дрібнички. В упаковці 12 пакетів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE13964" available="true">
+<offer id="RE13964" available="false">
 <price>1860</price>
 <currencyId>UAH</currencyId>
 <categoryId>1165</categoryId>
@@ -197909,7 +197909,7 @@ _x000D_
 <name_ua>Набір пакетів подарункових крафт микс Flora 26х12х32 (12 шт.) 43259</name_ua>
 <name_ru>Набор пакетов подарочных крафт микс Flora 26х12х32 (12 шт.) 43259</name_ru>
 <description_ua>Подарункові пакети з ручками радують своїм дизайном і тримають інтригу в момент вручення подарунка, а потім їх можна використовувати в повсякденному житті, скласти в них різні дрібнички. В упаковці 12 пакетів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RE13965" available="true">
 <price>3151</price>
@@ -212725,7 +212725,7 @@ _x000D_
 <description_ua>Стильний, красивий кухоль у стилі нового року. Ідеальний подарунок на Новий рік під ялинку та Різдвяні свята для друзів та близьких.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RE11647" available="true">
+<offer id="RE11647" available="false">
 <price>582</price>
 <currencyId>UAH</currencyId>
 <categoryId>1071</categoryId>
@@ -242895,7 +242895,7 @@ _x000D_
 <description_ua>Редуктор газовий Özkan Sanayi регульований з циферблатом ( Оригінал Туреччина ) використовується для балонів різних габаритів. Він підходить як на туристичні кемпінгові балони Турист, Пікнік, InterTool, Кемпінг, Rudyy, а також побутових газових балонів 5, 12, 27 і 50 літрів для стабілізації і врегулювання робочого тиску. Вхідний тиск: 0,3-16 панів Вихідний тиск: 0-2 панів Продуктивність: 0-8 кг/ч Розмір вхідного з'єднання : Ш21, 8 x 1,814 л.с. Код CE 190102001 Розмір вихідного з'єднання : Ø 9 мм Виробник ― Туреччина</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RS06091" available="false">
+<offer id="RS06091" available="true">
 <price>127</price>
 <currencyId>UAH</currencyId>
 <categoryId>1117</categoryId>
@@ -304519,7 +304519,7 @@ _x000D_
 <description_ua>Сумка-слінг спортивна SKY-BOW 15200 об'ємом 5 л (чорна) — компактна сумка через плече для телефону, документів, гаманця, ключів і дрібниць на прогулянці, пробіжці, велопрогулянці або в поїздці. Міцний нейлон, основне відділення на блискавці та додаткова кишеня, регульований ремінь із застібкою. Розмір 20×8×30 см. Сумка носиться на грудях або на спині, щільно прилягає і не заважає рухам. Практичний чорний колір, охайний дизайн для міста та подорожей. Тип: Рюкзаки для міста Колір: Чорний Країна виробник: Китай Вид: Сумки-слінг Призначення: Подорожі, Прогулянки, Робота Розміри (ШхГхВ): 20x8x30см Матеріал: Нейлон Об'єм виробу: 5л Порт заряджання: Вбудований USB порт Кількість відділень: 3 відділення Зовнішні камани: Один кишеня на блискавці Внутрішні кишені: Кишеня на блискавці, Два кишені на резинці</description_ua>
 <quantity_in_stock>50</quantity_in_stock>
 </offer>
-<offer id="YB004" available="false">
+<offer id="YB004" available="true">
 <price>164</price>
 <currencyId>UAH</currencyId>
 <categoryId>1017</categoryId>
@@ -406421,7 +406421,7 @@ _x000D_
 <description_ua>Подарунковий паперовий пакет – це стильне та зручне рішення для оформлення подарунків. Міцний папір забезпечує надійність, а елегантний дизайн додає святковості будь-якому презенту. Ідеально підходить для різних подій – від дня народження до офіційних урочистостей.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI0034329" available="true">
+<offer id="RI0034329" available="false">
 <price>655</price>
 <currencyId>UAH</currencyId>
 <categoryId>1165</categoryId>
@@ -406435,7 +406435,7 @@ _x000D_
 <name_ua>Пакет подарунковий новорічний мікс 14х7х17 см. (12 шт.) 11031</name_ua>
 <name_ru>Пакет подарочный новогодний микс 14х7х17 см. (12 шт.) 11031</name_ru>
 <description_ua>Подарункові пакети з ручками радують своїм дизайном і тримають інтригу в момент вручення подарунка, а потім їх можна використовувати в повсякденному житті, скласти в них різні дрібнички. В упаковці 12 пакетів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0034330" available="true">
 <price>655</price>
@@ -406453,7 +406453,7 @@ _x000D_
 <description_ua>Подарункові пакети з ручками радують своїм дизайном і тримають інтригу в момент вручення подарунка, а потім їх можна використовувати в повсякденному житті, скласти в них різні дрібнички. В упаковці 12 пакетів.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI0034331" available="true">
+<offer id="RI0034331" available="false">
 <price>936</price>
 <currencyId>UAH</currencyId>
 <categoryId>1165</categoryId>
@@ -406467,7 +406467,7 @@ _x000D_
 <name_ua>Пакет подарунковий новорічний мікс 18х10х23 см. (12 шт.) 11029</name_ua>
 <name_ru>Пакет подарочный новогодний микс 18х10х23 см. (12 шт.) 11029</name_ru>
 <description_ua>Подарункові пакети з ручками радують своїм дизайном і тримають інтригу в момент вручення подарунка, а потім їх можна використовувати в повсякденному житті, скласти в них різні дрібнички. В упаковці 12 пакетів.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0034332" available="true">
 <price>936</price>
@@ -414283,7 +414283,7 @@ _x000D_
 <description_ua>Листя брокат новорічні для декору і флористики синього кольору.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI0033637" available="true">
+<offer id="RI0033637" available="false">
 <price>309</price>
 <currencyId>UAH</currencyId>
 <categoryId>1154</categoryId>
@@ -414293,7 +414293,7 @@ _x000D_
 <name_ua>Стрічка декоративна червона 6.3 см. х 2.7 м. 13956</name_ua>
 <name_ru>Лента декоративная красная 6.3 см. х 2.7 м. 13956</name_ru>
 <description_ua>Стрічка декоративна шириною 6.3 см. довжиною 270 см, колір - червоний глітер.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0033638" available="true">
 <price>309</price>
@@ -415679,7 +415679,7 @@ _x000D_
 <description_ua>Декоративний пластиковий ліхтар чорно-золотого кольору 31 см. зі свічкою з LED підсвіткою (тепле світло) на батарейках (3хААА - не входять до комплекту).</description_ua>
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
-<offer id="RI0033891" available="true">
+<offer id="RI0033891" available="false">
 <price>697</price>
 <currencyId>UAH</currencyId>
 <categoryId>1081</categoryId>
@@ -415691,7 +415691,7 @@ _x000D_
 <name_ua>Підсвічник-ліхтар зі свічкою LED і гірляндою біло-чорний 45970</name_ua>
 <name_ru>Подсвечник-фонарь со свечой LED и гирляндой бело-черный 45970</name_ru>
 <description_ua>Декоративний пластиковий ліхтар біло-чорного кольору 28 см. з свічкою LED і гірляндою (тепле світло) на батарейках (3хААА - не входять до комплекту).</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0033892" available="true">
 <price>723</price>
@@ -416333,7 +416333,7 @@ _x000D_
 <description_ua>Штучна новорічна квітка магнолія для декору і флористики пудрового кольору.</description_ua>
 <quantity_in_stock>100</quantity_in_stock>
 </offer>
-<offer id="RI0034290" available="true">
+<offer id="RI0034290" available="false">
 <price>169</price>
 <currencyId>UAH</currencyId>
 <categoryId>1082</categoryId>
@@ -416343,7 +416343,7 @@ _x000D_
 <name_ua>Квітка новорічна Магнолія червона 15 см. 11168</name_ua>
 <name_ru>Цветок новогодний Магнолия красный 15 см. 11168</name_ru>
 <description_ua>Штучна новорічна квітка магнолія для декору і флористики червоного кольору.</description_ua>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="RI0034291" available="false">
 <price>246</price>
@@ -424864,7 +424864,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DZ0000513" available="false">
-<price>149</price>
+<price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://decorize.com.ua/image/catalog/FABRYKA_DECORIZE/12.2025/4168_9.jpeg</picture>
@@ -440576,7 +440576,7 @@ _x000D_
 <quantity_in_stock>0</quantity_in_stock>
 </offer>
 <offer id="DZ0000515" available="false">
-<price>149</price>
+<price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>1075</categoryId>
 <picture>https://decorize.com.ua/image/catalog/FABRYKA_DECORIZE/12.2025/4168_8.jpeg</picture>
